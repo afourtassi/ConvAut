@@ -1,0 +1,70 @@
+---
+title: "Conversationla alignment in Autistic children"
+author: "authors"
+output: html_document
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(boot)
+library(purrr)
+library(ggplot2)
+library(ggthemes)
+library(feather)
+library(poweRlaw)
+library(wordbankr)
+#library(rwebppl)
+library(lme4)
+library(Hmisc)
+library(qdapRegex)
+library(HDInterval)
+
+```
+
+
+
+```{r}
+
+#Import ch_ad real
+data <- read.csv("turns_results_Nadig.csv") 
+
+```
+
+
+```{r echo = FALSE, message=FALSE, warning=FALSE}
+
+data_summary <- data %>%
+  rename(condition = autistic.) %>%
+  filter(condition ==  'ASD' | condition == 'TYP') %>% 
+  gather(measure, value, syntax_penn_tok1:cosine_semanticL) %>%
+  mutate(direction = if_else(str_detect(partner_direction, 'CHI:>'), 'child', 'adult')) %>%
+  group_by(condition, direction, measure) %>%
+  summarise(mean = mean(value, na.rm = T),
+                   sd = sd(value, na.rm = T),
+                   n = n()) %>%
+  mutate(se = sd / sqrt(n),
+         lower = mean - qt(1 - (0.05 / 2), n - 1) * se,
+         upper = mean + qt(1 - (0.05 / 2), n - 1) * se) %>%
+  select(-sd, -n, -se) 
+            
+
+ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
+  geom_bar(stat="identity", position=position_dodge())+
+  geom_linerange(aes(ymin = lower, ymax = upper), 
+                  position = position_dodge(width = .9), size = 0.6)+
+  theme_few() +
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=14, angle = 90),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=16))+
+  facet_wrap(~ measure)
+
+
+
+
+```
+
