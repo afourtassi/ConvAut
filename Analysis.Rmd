@@ -29,7 +29,7 @@ library(HDInterval)
 ```{r}
 
 #Import ch_ad real
-data <- read.csv("turns_results_Nadig.csv") 
+data <- read.csv("ALIGN_results/turns_results_Nadig.csv") 
 
 ```
 
@@ -49,6 +49,12 @@ data_summary <- data %>%
          lower = mean - qt(1 - (0.05 / 2), n - 1) * se,
          upper = mean + qt(1 - (0.05 / 2), n - 1) * se) %>%
   select(-sd, -n, -se) 
+
+data_summary_2 <- data_summary %>%
+  select(-lower, -upper) %>%
+  spread(direction, mean) %>%
+  mutate(child_adult = child - adult)
+  
             
 
 ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
@@ -64,7 +70,15 @@ ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
   facet_wrap(~ measure)
 
 
-
+ggplot(data_summary_2, aes(x = condition, y = child_adult)) +
+  geom_bar(stat="identity", position=position_dodge())+
+  theme_few() +
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=10, angle = 45),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=5),
+        axis.title=element_text(size=16))+
+  facet_wrap(~ measure)
 
 ```
 
