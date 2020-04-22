@@ -1,0 +1,617 @@
+participant	content
+MOT	breakfast 
+CHI	what do you want 
+MOT	roger 
+MOT	we're gonna do the dog 
+MOT	what's she doing 
+CHI	yeah put it in 
+MOT	who  who's that 
+MOT	they're just cars 
+MOT	put them all away 
+CHI	good boy 
+CHI	piece of a twinkie 
+MOT	alright put the orange circle in the box 
+MOT	oops  
+CHI	you make a triangle 
+MOT	open it 
+CHI	good boy 
+MOT	zip up 
+CHI	want a bite 
+CHI	red 
+CHI	it's a purple  
+MOT	blue  yeah 
+MOT	what's that roger 
+CHI	combing hair 
+MOT	blue pentagon alright 
+CHI	 
+CHI	want puzzle 
+MOT	take the shapes out 
+CHI	star 
+CHI	find cars 
+MOT	ah  
+MOT	good boy 
+MOT	the shapes 
+MOT	alright 
+CHI	on a hand 
+MOT	 
+CHI	want a twinkie 
+CHI	to work 
+MOT	what color is it 
+CHI	zipper up 
+CHI	it's  it's red 
+CHI	good boy 
+CHI	parallelogram 
+CHI	smell good 
+MOT	roger what color is the car 
+MOT	sit down 
+CHI	wanna bite 
+CHI	butterfly 
+CHI	it's a yellow car 
+MOT	yeah the man's lying down inside the police car 
+MOT	we're gonna play with Doctor_Essy_Bessy 
+MOT	it's a watering can 
+MOT	let's do Grover 
+CHI	door 
+MOT	yeah  it's a yellow car 
+MOT	thank you 
+CHI	six car 
+MOT	you're all done Kermit 
+CHI	blue 
+CHI	home see Maura 
+MOT	where's the police car 
+CHI	oop  it fell down 
+CHI	help game 
+MOT	what's that 
+CHI	want a bite 
+MOT	don't touch  
+MOT	what's that 
+MOT	turn it around 
+CHI	help game 
+MOT	okay 
+MOT	what's this 
+MOT	what's this 
+CHI	Ann's car 
+MOT	what's this 
+CHI	butterfly 
+MOT	okay 
+CHI	to work 
+CHI	zipper up 
+MOT	what's that 
+CHI	smells good 
+CHI	six car 
+MOT	turn it around 
+MOT	good boy  you get a piece 
+CHI	good boy 
+MOT	here  we'll just let you take a bite 
+MOT	alright 
+MOT	what do you need 
+CHI	give me the cups 
+CHI	police 
+MOT	you put in the boat 
+CHI	got the pentagon 
+MOT	put the blocks away 
+MOT	what color is the star 
+CHI	nice  nice dreaming 
+MOT	roger what do you need 
+MOT	show me Ann's car 
+CHI	give you a bite 
+MOT	roger  look 
+MOT	let's see 
+MOT	we'll give you a bite 
+MOT	don't spill it 
+MOT	is that an oval 
+CHI	take your blocks out 
+MOT	right 
+MOT	yeah 
+CHI	microphone 
+MOT	oh  pushing them all together 
+MOT	good boy 
+MOT	what color 
+MOT	good boy 
+MOT	which one is Ann's car 
+CHI	star 
+CHI	green 
+CHI	butterfly 
+CHI	put it in 
+CHI	put it in 
+MOT	put the pentagon in 
+MOT	who's this 
+MOT	put the purple triangle in the box 
+CHI	no more twinkies 
+MOT	take your blocks out 
+MOT	can you  can you open the lotion 
+CHI	here's orange 
+MOT	okay 
+CHI	want one 
+MOT	yeah 
+CHI	that's old  
+MOT	you have two police cars now 
+MOT	put all the blocks away 
+MOT	okay 
+CHI	it's  it's red 
+CHI	blue 
+CHI	where's she going 
+MOT	is that it 
+MOT	yeah what color is the police car 
+CHI	sit down 
+MOT	right 
+CHI	oval 
+MOT	maybe they gave us an extra set of wheels 
+MOT	put it in the box 
+CHI	train 
+MOT	roger  roger 
+MOT	okay  put the milk down 
+MOT	do you wanna 
+MOT	roger  what do you want 
+MOT	sit down 
+MOT	take the shapes out 
+CHI	need help 
+CHI	blue  blue pentagon 
+MOT	sit over there 
+MOT	what's this 
+MOT	okay 
+MOT	can I have the lotion 
+MOT	put that one here 
+MOT	build the tower again 
+MOT	yellow 
+MOT	roger  rub it on your face 
+MOT	it looks like a 
+MOT	it's an orange car 
+MOT	look at me 
+MOT	what's this roger 
+CHI	of a twinkie 
+CHI	put in star 
+MOT	hafta wait  to wait 
+MOT	what color's the circle 
+MOT	okay  put the green star in 
+CHI	we got parallelogram 
+CHI	it fell down 
+MOT	wipe your hand 
+MOT	daddy's wrong 
+MOT	roger  who's that 
+CHI	don't touch 
+CHI	no 
+MOT	wanna sing 
+CHI	put the star in 
+MOT	what's that 
+MOT	good job 
+MOT	to see Ann 
+MOT	put it in 
+MOT	it's red 
+CHI	put the blocks away 
+CHI	police man open the door 
+MOT	come here 
+MOT	roger  here 
+CHI	 
+MOT	put the police man in the car 
+CHI	triangle 
+MOT	well  you can put the white one in too 
+MOT	okay  wanna do another puzzle 
+MOT	roger 
+CHI	Fruit_Roll_Ups 
+MOT	what color is the car 
+CHI	open the door 
+MOT	Kermit's 
+CHI	green the frog 
+MOT	what's this 
+MOT	open the present 
+MOT	what color is this 
+CHI	blue   red star 
+CHI	police car 
+CHI	want a bite 
+CHI	yeah  it's 
+MOT	that's right 
+MOT	that's right 
+CHI	that's right 
+MOT	here 
+MOT	oh  
+MOT	roger  what's this 
+CHI	good job 
+CHI	present 
+CHI	police car 
+MOT	okay 
+MOT	what color is it 
+CHI	pentagon 
+CHI	star 
+MOT	yeah 
+MOT	yeah 
+MOT	okay 
+CHI	Maura's home 
+MOT	roger 
+CHI	zipper up 
+MOT	what's this 
+CHI	shapes 
+CHI	roger look at me 
+MOT	put the cars down 
+MOT	smells good 
+MOT	wanna play with blocks 
+CHI	oop  it fell down 
+MOT	parallelogram 
+CHI	it's a  
+MOT	make a police car 
+CHI	 
+CHI	good 
+MOT	you hafta wait 
+CHI	police cars 
+CHI	give it to mommy 
+CHI	 
+MOT	and get a drink of chocolate milk 
+CHI	police man 
+CHI	help game 
+MOT	okay count the cars 
+CHI	orange car 
+CHI	 
+CHI	find cars 
+MOT	hey   hands down 
+MOT	what color is this 
+CHI	take 
+MOT	you need help 
+MOT	you did a good job 
+MOT	roger  what's your name 
+CHI	what color 
+MOT	yeah we made a square out_of the cars 
+MOT	there's eight 
+MOT	I made a triangle with the cars 
+MOT	alright put the police man in the car 
+CHI	lay down 
+CHI	roger 
+CHI	zipper up 
+MOT	police man 
+CHI	blue 
+CHI	good boy 
+MOT	what's that 
+CHI	want milk 
+MOT	are you_all through 
+CHI	yellow 
+MOT	those are nice cars  huh  
+CHI	oh  
+CHI	one two three four five six seven eight  
+MOT	no 
+MOT	okay 
+CHI	good job 
+MOT	what's that 
+MOT	what's this here 
+CHI	good boy 
+MOT	no 
+CHI	you need  you need  
+MOT	let's count them again 
+MOT	roger 
+MOT	and this is a truck 
+CHI	 
+MOT	roger  no  you're working for the twinkie 
+MOT	what's your telephone number 
+MOT	no 
+CHI	it's a bite 
+MOT	put the purple diamond in 
+CHI	and Richie 
+MOT	have some chocolate milk 
+CHI	Roger_Davidson 
+MOT	what's this 
+CHI	it's blue 
+MOT	excuse me 
+MOT	yeah 
+MOT	look at me 
+MOT	where's Doctor_Essy_Bessy 
+CHI	yeah it's parallelogram 
+CHI	what color 
+CHI	need help 
+CHI	put it in 
+MOT	oh „ a Porsche 
+MOT	roger  what do you want 
+MOT	what are you doing roger 
+CHI	good job 
+CHI	no talking 
+MOT	what's she doing 
+CHI	put the 
+MOT	good boy 
+CHI	hand 
+MOT	use a napkin 
+CHI	purple 
+MOT	sit down 
+MOT	good boy 
+MOT	rub the lotion 
+CHI	yellow car 
+CHI	yeah it's the circle 
+CHI	talk to Grover 
+CHI	purple red 
+MOT	that's purple 
+CHI	their breakfast 
+MOT	let's find it 
+CHI	fell and down 
+CHI	don't spill it 
+MOT	what do you need 
+CHI	twinkie 
+CHI	in a minute 
+CHI	Grover 
+MOT	let's line up all the cars like this 
+CHI	do you need help 
+MOT	what's the matter roger 
+CHI	good boy 
+CHI	their breakfast 
+CHI	car 
+MOT	the police car tipped over 
+MOT	roger 
+CHI	don't wipe a shirt 
+MOT	good 
+CHI	get up 
+MOT	well  turn it this way 
+MOT	it's a butterfly  roger 
+MOT	line up all the cars 
+MOT	roger  look_it 
+MOT	okay 
+CHI	 
+MOT	what's that 
+MOT	that's a truck 
+CHI	twinkie and milk 
+CHI	help 
+CHI	need help 
+MOT	no I made a square 
+MOT	all done the dog 
+MOT	six cars 
+MOT	alright put the star in the box 
+MOT	nice cars 
+CHI	no talking 
+MOT	nice 
+MOT	yep  open it up 
+CHI	no  not go to museum 
+CHI	car 
+MOT	okay 
+CHI	twinkie 
+CHI	one bite 
+MOT	purple diamond 
+CHI	and hand 
+CHI	a square 
+MOT	that's mommy  yeah 
+CHI	put it in 
+MOT	it's a green car 
+CHI	want twinkie 
+MOT	can you do this 
+CHI	make a police car 
+CHI	toast 
+CHI	twinkle star 
+MOT	roger 
+MOT	that's an oval  yes 
+CHI	we got the pentagon 
+MOT	what's that 
+MOT	what color is the star 
+CHI	want a bite 
+MOT	what's that 
+CHI	hi roger 
+CHI	purple diamond 
+CHI	no 
+MOT	oops  
+CHI	oops  
+MOT	where do you want the lotion 
+MOT	alright 
+MOT	what's that 
+MOT	roger 
+CHI	need help 
+CHI	all_gone 
+MOT	put the circle in the box 
+MOT	let's play a little game 
+CHI	want a bite 
+CHI	row the boat 
+MOT	roger 
+CHI	one two three four five six  
+CHI	good boy 
+CHI	Ann's car 
+CHI	okay 
+MOT	okay  daddy will help you 
+CHI	orange 
+MOT	looks like one of them lost it's wheels 
+CHI	all done 
+CHI	roger 
+MOT	that's not a star 
+CHI	okay hand 
+MOT	play with all the cars 
+CHI	you made this 
+CHI	it's a  
+MOT	good boy 
+MOT	yeah 
+CHI	you make a  you make a triangle 
+CHI	star 
+MOT	which one is Ann's car 
+MOT	alright 
+MOT	you're gonna get a piece of the twinkie 
+MOT	here you go 
+CHI	put the star 
+CHI	we got 
+CHI	it's a butterfly 
+CHI	it's  it's a  it's a orange car 
+MOT	Maura's home 
+MOT	but you're close 
+MOT	what's that 
+MOT	this one looks like a Volkswagon  but I don't know 
+CHI	Lowell  Mass 
+MOT	wanna play with the blocks 
+MOT	and  they're having some 
+CHI	orange 
+MOT	purple car 
+CHI	beacon street 
+CHI	home see Maura 
+CHI	orange car 
+MOT	that's a door  yeah 
+CHI	need help 
+MOT	to the museum 
+CHI	want a bite 
+MOT	what's this roger 
+CHI	one two three four five six seven  
+CHI	twinkie 
+MOT	look at me 
+CHI	put the white in 
+CHI	want some help 
+CHI	you make a car 
+CHI	and hand 
+MOT	look at all the cars 
+MOT	hm  
+CHI	help game 
+MOT	read your book 
+CHI	yellow car 
+CHI	what city 
+MOT	put the blocks away 
+MOT	do you wanna 
+CHI	Fruit_Roll_Ups 
+MOT	a moon 
+MOT	you wanna open it up 
+CHI	Ann 
+MOT	come here  roger 
+MOT	it's a purple 
+CHI	roger  hands down 
+CHI	mommy 
+MOT	is that it 
+CHI	roger 
+MOT	roger 
+MOT	what's this 
+CHI	to museum 
+CHI	orange 
+MOT	okay 
+CHI	Kermit 
+CHI	get the raincoat 
+MOT	we'll find it roger 
+CHI	yellow 
+MOT	let's see 
+MOT	no 
+CHI	oop  it fell down 
+CHI	lotion 
+MOT	you want it on your hand 
+MOT	put the pentagon in the box 
+MOT	what color is it 
+CHI	need help 
+MOT	want some help 
+CHI	 
+CHI	help game 
+MOT	put the blocks out 
+CHI	smell good 
+MOT	wanna play with the puzzles 
+MOT	go like this 
+MOT	it's a truck 
+CHI	zipper up 
+CHI	purple 
+CHI	it's a purple 
+CHI	yeah 
+CHI	it's a  
+CHI	it's a busybite 
+MOT	alright 
+MOT	okay 
+CHI	help game 
+MOT	and what's this 
+CHI	what do you want 
+MOT	how about this one 
+MOT	what are they doing 
+CHI	 
+MOT	build the tower 
+MOT	do you 
+CHI	okay 
+CHI	purple 
+MOT	oh  you're lining up all the cars 
+MOT	water on the flowers 
+MOT	what is it 
+MOT	good boy 
+CHI	put it in 
+MOT	put the cups away 
+MOT	look 
+CHI	don't  
+MOT	gotta turn your hand like this 
+MOT	okay  what else do you wanna play with 
+MOT	put your blocks away 
+MOT	what's that 
+CHI	seven six  
+MOT	new cars 
+MOT	alright 
+MOT	in a minute 
+MOT	they're eating 
+MOT	what color is that  roger 
+MOT	yeah this is  this is almost the same color as Ann's car 
+MOT	does that go right there 
+MOT	count them 
+MOT	what do you need 
+CHI	what 
+CHI	it's a  
+MOT	can we make a triangle 
+CHI	want a bite 
+CHI	mommy 
+MOT	well  they're not all police cars 
+MOT	what color is the star 
+MOT	put the pentagon in 
+CHI	pentagon 
+MOT	which one's Ann's car 
+CHI	 
+MOT	zip it up 
+CHI	need help 
+CHI	okay oh  bite 
+CHI	we make a triangle 
+CHI	want a bite 
+MOT	what color is this one 
+MOT	Ann's car 
+CHI	take your blocks out 
+CHI	time to play your blocks 
+CHI	four million five hundred twenty three thousand twenty nine 
+MOT	take a bite 
+CHI	want bite 
+MOT	smells good 
+CHI	police man 
+MOT	hm 
+CHI	want a bite 
+CHI	want a bite 
+MOT	yeah  it fell down 
+MOT	one  
+MOT	what do you need roger 
+CHI	to museum 
+CHI	what do you want 
+CHI	it's a good job 
+MOT	all_gone roger 
+CHI	a moon 
+CHI	microphone 
+MOT	roger you're gonna work for twinkie and chocolate milk 
+CHI	good boy 
+CHI	okay 
+MOT	what do you need 
+MOT	give it to mommy 
+CHI	that's  it's a water 
+MOT	my actor 
+CHI	one bite 
+MOT	good 
+MOT	it's a police man 
+CHI	need help 
+MOT	sit down 
+MOT	roger why don't you put  put your blocks away 
+MOT	roger here 
+CHI	 
+CHI	star 
+CHI	help game 
+MOT	no 
+MOT	look at me 
+CHI	give me the cup 
+MOT	here  can we line them up 
+MOT	roger  wanna play Row_Row_Row_Your_Boat 
+CHI	twinkie 
+MOT	you have the duck 
+MOT	look roger 
+CHI	want some help 
+MOT	give me the cups 
+CHI	it's a purple triangle 
+MOT	yeah 
+MOT	no that's a microphone 
+CHI	it's a green car 
+CHI	twinkie 
+CHI	where you live 
+MOT	the green star 
+CHI	want  want bite 
+MOT	Porsche 
+CHI	star 
+MOT	put the star in the box 
+CHI	can I have the lotion 
+CHI	put it in 
+MOT	what's this roger 
+MOT	he opened the door 
+CHI	it's a orange oval 
+MOT	wipe your mouth 
+MOT	put the star in 
+MOT	where's Doctor_Essy_Bessy 
+CHI	in the water 
+CHI	play with blocks and Cabbage_Patch 
+MOT	oop  
+MOT	is that Grover's hand 
+MOT	what's that 
+CHI	roger 
+CHI	zipper up 

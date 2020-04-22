@@ -1,0 +1,395 @@
+participant	content
+INV	what is happening in the picture 
+CHI	an upstairs up steps a oh up the floor floor  up steps
+INV	up the steps 
+CHI	yes  
+INV	okay 
+INV	what else is happening in this picture 
+CHI	in a backpack  
+INV	a backpack 
+CHI	yeah  
+INV	a bag 
+CHI	yes  
+INV	what about a bag 
+INV	he has one 
+CHI	yes  
+INV	okay good job 
+INV	now I'm gonna start the start the story 
+INV	and you finish it 
+INV	the daddy is hiding a doll behind his back and then  
+CHI	she's back 
+INV	what 
+CHI	in the backpack  
+INV	in the backpack 
+CHI	yes  
+INV	and tell me one more thing about the story 
+CHI	 in the back there  
+INV	in the back there 
+CHI	yes  
+INV	okay good job 
+INV	what is happening in the picture 
+CHI	  he can't reach that 
+INV	he can't reach that 
+CHI	yes  
+INV	okay good 
+INV	what else is happening in this picture 
+CHI	she's walking 
+INV	she's walking good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy knocked the boxes off the shelf and then  
+CHI	he can't reach it  
+INV	he can't reach it good job 
+INV	and tell me one more thing about the story 
+CHI	 she's walking  
+INV	she's walking very good job 
+INV	what is happening in the picture 
+CHI	and the bubble  
+INV	what 
+CHI	bubbles  
+INV	bubbles okay good 
+INV	what else is happening in this picture 
+CHI	in the book  
+CHI	in the book  
+INV	in the book 
+CHI	no no no in the bucket  
+INV	in the bucket 
+INV	okay good job 
+CHI	thanks  
+INV	now I'll start the start the story 
+INV	and you finish it 
+CHI	okay  
+INV	oh_no the bubbles spilled and then  
+CHI	she's all clean 
+CHI	 
+CHI	stand up  
+INV	she  
+CHI	she stand up  
+INV	okay good 
+INV	good job 
+INV	what is happening in the picture 
+CHI	she's in the stories 
+INV	hm 
+CHI	stories  
+INV	stories 
+CHI	yes  
+INV	okay tell me something about the picture here 
+CHI	this one  
+INV	that one what 
+CHI	that mama  
+INV	okay good 
+INV	tell me something else about the picture 
+CHI	no I can't reach that 
+INV	you can't reach it 
+CHI	no in the sink  
+INV	what about the sink 
+CHI	 
+INV	what do you think 
+INV	let's look at the picture 
+CHI	I no see it  
+INV	okay now I'll start the start the story 
+INV	and you finish it 
+INV	the water is spilling all over the floor and then  
+CHI	she's all clean 
+INV	it's all clean 
+CHI	yes  
+INV	alright good job 
+CHI	thank you  
+INV	and tell me one more thing about the story 
+CHI	 she  
+INV	she spilled on the floor 
+CHI	okay  
+INV	good job 
+INV	what is happening in the picture 
+CHI	she's   she's in the car 
+INV	she's in the car [] 
+INV	very good job [] 
+CHI	and the donut  
+INV	and the donut alright good 
+CHI	good  
+INV	what else is happening in this picture 
+CHI	and the donut  
+INV	okay good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the children are taking the donuts from the bag and then  
+CHI	she's all clean  
+INV	what 
+CHI	she's all clean  
+INV	she's all clean 
+CHI	yes  
+INV	okay good 
+INV	and tell me one more thing about the story 
+CHI	mommy  
+INV	what about the mommy 
+CHI	right there  
+INV	mhm okay good 
+INV	good job 
+INV	what's happening in the picture 
+CHI	in a floor  
+INV	the floor okay good 
+INV	what else is happening in this picture 
+CHI	in a floor and the baby  
+INV	okay good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy is taking his grandma's scissors and then  
+CHI	she's all clean  
+CHI	her pocketbook  
+INV	what did you say 
+CHI	her pocketbook  
+INV	a pocketbook 
+CHI	yes  
+INV	where do you see a pocketbook 
+CHI	right there  
+INV	okay good 
+INV	and tell me one more thing about the story 
+CHI	and the dog  
+INV	there's a dog 
+INV	alright good job 
+INV	what's happening in the picture 
+CHI	right there  
+INV	just tell something about the picture [] 
+CHI	 [] 
+CHI	 
+INV	this is the last one 
+CHI	oh this one   
+INV	mhm [] 
+INV	can you look 
+INV	look look at what the boys are doing 
+CHI	 
+INV	okay 
+CHI	okay  
+INV	tell me something else about the picture 
+CHI	 this one  
+INV	look what are they doing 
+CHI	she's  in the window 
+INV	okay good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boys are throwing snowballs and then  
+CHI	she throw  
+INV	what about the snowman 
+CHI	right there  
+INV	they're making a snowman 
+CHI	yes  
+INV	okay 
+INV	and tell me one more thing about the story 
+CHI	 grandma  
+INV	grandma 
+CHI	yes  
+INV	okay good job 
+INV	what is happening in the picture 
+CHI	she's    
+CHI	the girl's fun in the shoes  
+INV	she what 
+CHI	girl and doggy  
+INV	yes there is a girl and a doggy 
+INV	okay good job and what else is happening in the picture 
+CHI	the girl  
+INV	what 
+CHI	the girl still went to shave 
+INV	they went to what 
+CHI	they went to  
+INV	alright good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the dog and the girl have daddy's shoes and then  
+CHI	right there  
+INV	okay good and tell me one more thing about the story 
+CHI	 the dog is putting daddy's shoes  
+INV	okay good job 
+INV	what is happening in the picture 
+CHI	she's still looking in the  
+INV	she's what in the tree 
+CHI	ducking  
+INV	okay good 
+INV	what else is happening in the picture 
+CHI	she's  
+INV	she can't 
+INV	she can't what 
+CHI	she's can't reach it  
+INV	they can't reach it okay good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the children see the cat 
+INV	the cat is stuck up in the tree and then  
+CHI	she's get  
+INV	she get down okay good job 
+INV	and tell me one more thing about the story 
+CHI	 the girls 
+INV	the girls see the cat 
+CHI	yes  
+INV	alright good 
+INV	what is happening in the picture 
+CHI	she's blowing out  
+CHI	but  
+INV	she's all what 
+CHI	she's all wet  
+INV	she's all wet 
+CHI	yes  
+INV	okay good 
+INV	what else is happening in the picture 
+CHI	she's opening the door 
+INV	okay good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	oh_no the doggy ate some of the cake and then  
+CHI	they are 
+INV	okay good job 
+INV	and tell me one more thing about the story 
+CHI	she's finish 
+INV	dog finished eating the cake 
+CHI	yeah  
+INV	alright good 
+INV	what is happening in the picture 
+CHI	she is fill  go
+INV	she what 
+CHI	she's filled the bucket go in the house  
+INV	the bucket goes in the house 
+CHI	no no the baby fill the  
+INV	okay alright and what else is happening in this picture 
+CHI	she's 
+CHI	 the little  finish 
+CHI	 she fell down 
+INV	the dog is finished 
+INV	and it fell down 
+CHI	yeah  
+INV	alright that's very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+CHI	okay  
+INV	the children are trying to wash the dog and then  
+CHI	she's all clean 
+INV	she's all what 
+CHI	she's all clean  get him a
+INV	she's [] 
+INV	alright good job 
+INV	and tell me one more thing about the story 
+CHI	 the girls are  
+INV	good job 
+INV	that was really good 
+INV	what is happening in the picture 
+CHI	she's run 
+INV	that's right good 
+INV	and what else is happening in this picture 
+CHI	she's take 
+INV	she what 
+CHI	she take a walk a doggy  
+INV	she what the doggy 
+CHI	take a   
+INV	take a walk 
+CHI	no take a walk a school bus  
+INV	take a walk for the school bus 
+CHI	yeah  
+INV	okay 
+INV	now I'll start the start the story 
+INV	and you finish it 
+CHI	okay  
+INV	the dog is in front of the bus and the bus can't move 
+INV	and then  
+CHI	she's back get  get it in the
+INV	go to the house and get in the cage 
+CHI	yes  
+INV	alright good 
+INV	and tell me one more thing about the story 
+CHI	the girls   
+INV	I can't hear you 
+CHI	the dog's moving into schoolbus  
+INV	the dog moving 
+CHI	yes  
+INV	okay good moving in the school bus 
+INV	good job 
+INV	we're all done with that 
+INV	what is happening in the picture 
+CHI	she fell there 
+CHI	and she's crying 
+CHI	she's  
+INV	I don't know what you said 
+CHI	 this one  
+INV	yeah this one is what crying 
+CHI	yeah  
+INV	okay 
+INV	what else is happening in the picture 
+CHI	mommy's to get in the house for in the cage to go  to get out 
+INV	okay 
+INV	now I'll start the start the story 
+INV	and you finish it 
+CHI	okay  
+INV	the boys are fighting 
+INV	and here comes the mommy and then  
+CHI	she's  the house and go night_night 
+INV	she goes in the house 
+CHI	yes  
+INV	and goes night_night 
+CHI	yes  
+INV	alright good 
+INV	tell me one more thing about the story 
+CHI	 the babies cry 
+CHI	here comes mommy 
+INV	the baby's crying 
+INV	and here comes mommy 
+INV	that's right 
+INV	what's happening in the picture 
+CHI	this one  
+INV	yeah what's happening in the picture 
+CHI	she's hop  
+INV	she jumped into a tree 
+CHI	a kid jumped into the  
+CHI	she  back in sky 
+INV	okay alright and what else is happening in this picture 
+CHI	she's trip  back in the tree
+CHI	she's yucky 
+INV	she's what 
+CHI	she's reap  
+INV	she's really yucky 
+CHI	yeah  
+INV	alright good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+CHI	okay  
+INV	they raked the leaves into a big pile and then  
+CHI	it  
+CHI	and the girl's felling 
+INV	the girl is what in the leaf 
+CHI	she's fell  
+INV	she fell in the leaf 
+CHI	yeah  
+INV	alright good and tell me one more thing about the story 
+CHI	okay  
+INV	tell me anything else about the picture 
+CHI	 this one happen  
+INV	this one what in the tree 
+CHI	yeah  
+INV	this one  
+CHI	this one tripped 
+CHI	and it   back in the tree 
+INV	hopped back in the tree 
+CHI	yeah  
+INV	okay good 
+INV	very good stories 
+INV	what is happening in this picture 
+CHI	they get bad 
+CHI	spilled  they spilled 
+CHI	and the mommy finished a  
+CHI	mommy's all_done 
+CHI	the  back home
+INV	okay what did the daddy do 
+INV	the daddy what 
+INV	spilled 
+CHI	yeah  
+INV	okay good job 
+INV	and what else is happening in this picture 
+CHI	right there  the bread
+INV	right  spilled in the bread 
+CHI	yeah  
+INV	good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the little girl is still in her pajamas and then  
+CHI	she's all clean  
+INV	she's all clean 
+CHI	yeah  
+INV	good okay and can you tell me one more thing about the story 
+CHI	 
+CHI	the baby  

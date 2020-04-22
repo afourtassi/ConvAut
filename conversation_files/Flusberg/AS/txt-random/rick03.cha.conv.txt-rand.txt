@@ -1,0 +1,581 @@
+participant	content
+MOT	who's this 
+CHI	pig 
+CHI	Gonzo 
+MOT	good boy 
+MOT	say ouch 
+MOT	Rick you did a nice job setting them all up 
+MOT	you counted three pegs 
+MOT	what are you doing 
+CHI	nay  
+MOT	that's nice 
+MOT	they're all thirsty Rick 
+MOT	drink some water 
+MOT	Rick look 
+MOT	yeah 
+MOT	whoops  
+MOT	Rick look at me 
+CHI	two 
+CHI	horse 
+MOT	you're making the man ride the horse 
+CHI	 
+MOT	and here's some 
+MOT	here's some more pegs 
+MOT	where honey 
+MOT	what do you wanna make 
+CHI	the farm 
+MOT	what do you wanna build 
+MOT	hm  
+MOT	Rick 
+MOT	what have you got  Rick 
+MOT	who is this Rick 
+MOT	what are you doing 
+MOT	he say nay  
+CHI	 
+CHI	pole 
+MOT	Rick  look at me 
+CHI	black 
+MOT	does the rooster go in the loft 
+MOT	are you giving him a kiss 
+CHI	face 
+MOT	good boy 
+MOT	yeah 
+CHI	Dan 
+MOT	Rick  what's this 
+MOT	where are you going to put them 
+CHI	horse 
+MOT	do you wanna play with the legos 
+MOT	Bert 
+CHI	 
+MOT	those are your cars 
+MOT	that's right 
+MOT	oops  
+CHI	go ride 
+MOT	who's that 
+CHI	green 
+CHI	bowow  
+MOT	that's nice 
+MOT	what are you doing 
+MOT	that looks nice 
+MOT	Rick what are you doing 
+MOT	where does the horse go 
+MOT	look 
+MOT	no 
+MOT	Rick  who are  you gonna put in the fence 
+CHI	green  green  green 
+MOT	what's this 
+MOT	Rick can you count the pegs 
+CHI	ouch 
+MOT	what are you doing 
+MOT	do you wanna build a farm with me 
+MOT	Rick  look 
+MOT	say yes 
+MOT	do the cars on the rug 
+MOT	Rick  what are you doing 
+MOT	good boy 
+MOT	you do the farm 
+MOT	Rick 
+MOT	okay 
+CHI	where door 
+MOT	Rick look 
+CHI	shovel 
+MOT	okay 
+MOT	Rick  where do all the horses go 
+MOT	you're putting away all the pegs 
+MOT	look 
+MOT	that's where the rooster goes 
+MOT	okay 
+MOT	that's a green tree 
+MOT	Rick look 
+MOT	Rick what color 
+MOT	Rick 
+CHI	Bert 
+MOT	Rick 
+MOT	that's nice 
+CHI	yes 
+CHI	 
+MOT	good boy  
+MOT	let's open the doors Rick 
+MOT	that's nice 
+MOT	Rick look 
+MOT	here 
+MOT	look 
+MOT	Rick look 
+CHI	shovel 
+MOT	you have all the horses set up 
+MOT	good boy 
+MOT	make the people ride the horses 
+CHI	make  
+MOT	that's your face  yeah 
+MOT	good boy 
+MOT	no 
+MOT	Rick  where are all the people 
+MOT	whoops  
+MOT	Rick 
+MOT	what does a sheep say Rick 
+MOT	here's some more fence 
+MOT	good boy 
+MOT	here 
+MOT	good boy 
+CHI	 
+MOT	good boy Rick 
+MOT	go get the box and we'll play 
+MOT	good boy Rick 
+MOT	you've got him in your hand 
+MOT	you pulled the button through Rick 
+MOT	we're putting it away Rick 
+CHI	shovel 
+CHI	 eye 
+CHI	no 
+MOT	Rick what's this 
+MOT	good boy Rick 
+CHI	 
+MOT	here's another piece 
+CHI	 
+MOT	what do you wanna make 
+MOT	Rick look 
+CHI	some corn 
+MOT	is this a tree 
+MOT	Rick 
+CHI	the fence 
+CHI	do that 
+MOT	good boy  Rick 
+MOT	that looks nice 
+MOT	help mommy 
+CHI	 
+MOT	oh  that's nice 
+MOT	what's this 
+MOT	look at mommy 
+MOT	Rick 
+MOT	the horse 
+MOT	where's the chicken 
+MOT	you gonna make him stamp on the pole 
+MOT	what does the sheep say 
+MOT	put the cow in 
+MOT	ouch 
+CHI	one 
+MOT	here's another one 
+MOT	Rick  what does the horse say 
+CHI	yes 
+CHI	fence 
+MOT	that looks like a 
+MOT	put those in 
+MOT	good boy 
+CHI	no 
+MOT	here 
+MOT	Rick  what are you doing 
+MOT	who's this 
+CHI	shovel 
+MOT	there's another 
+MOT	all_gone 
+MOT	what's this 
+MOT	Rick look  say Dan 
+MOT	good boy 
+MOT	he's whinnying 
+MOT	there goes the tractor 
+CHI	green 
+MOT	Rick  look what I have 
+CHI	 
+CHI	tractor 
+MOT	good boy Rick 
+MOT	a brown fence  I think 
+MOT	where the 
+MOT	Rick look 
+MOT	good boy 
+MOT	good boy 
+MOT	what does the chicken say 
+MOT	we'll put the legos in here 
+MOT	good boy 
+MOT	oh  good gracious 
+CHI	shovel 
+CHI	 
+CHI	nay 
+MOT	what color 
+MOT	what color 
+MOT	good boy 
+MOT	oh  there's the little shovel  yeah 
+CHI	green 
+CHI	yellow 
+MOT	there's the cow Rick 
+CHI	the horse 
+CHI	 
+MOT	what is it 
+MOT	good boy 
+MOT	good boy Rick 
+MOT	Rick  is this a horse 
+MOT	that looks nice 
+MOT	let the horses drink 
+MOT	Rick  no 
+CHI	car 
+CHI	blue 
+MOT	what are you doing 
+MOT	 
+CHI	put 
+CHI	put 
+CHI	mouth 
+MOT	good boy 
+MOT	good boy  what color 
+MOT	look 
+MOT	good boy Rick 
+MOT	Rick look 
+CHI	oink oink 
+MOT	no 
+CHI	ah  
+MOT	Rick no touch 
+MOT	good boy Rick 
+MOT	there's the chicken 
+MOT	Rick  is that the corn up here 
+MOT	you need help 
+MOT	here they are 
+CHI	mom 
+CHI	the horse 
+MOT	Rick  look 
+MOT	Rick  what color is Gonzo 
+MOT	say Danny 
+CHI	ouch 
+CHI	 chairs 
+MOT	Rick  say “go ride” 
+CHI	a corn 
+MOT	there that's nice Rick 
+MOT	good boy 
+MOT	what's this Rick 
+CHI	mom 
+MOT	where does he go 
+MOT	roof  roof  roof  
+MOT	look at mom 
+MOT	Rick 
+MOT	riding the horse 
+MOT	no 
+CHI	sheep 
+MOT	don't touch 
+MOT	Rick 
+MOT	what does the pig say 
+MOT	count the pegs Rick 
+MOT	good boy 
+MOT	Rick what's that 
+MOT	put them in the board 
+MOT	riding the horse 
+MOT	good boy 
+CHI	ride a horse 
+CHI	don't you do that 
+MOT	that's silly Rick 
+MOT	good boy 
+MOT	don't run those on your face 
+MOT	button Danny's pants 
+MOT	oh  good boy 
+CHI	yes 
+MOT	oh  stay here 
+CHI	brown 
+CHI	shovel 
+MOT	good boy 
+MOT	they can ride them 
+MOT	Rick  look 
+CHI	shovel 
+CHI	 
+CHI	 
+CHI	a farm 
+MOT	look 
+CHI	blue 
+MOT	what is this 
+CHI	dog 
+CHI	 
+MOT	Rick what color are his eyes 
+MOT	let's do the farm 
+CHI	shovel 
+MOT	Rick  what are you doing 
+MOT	you put the pegs in Rick 
+CHI	a corn 
+MOT	the farm 
+MOT	they're going to have water 
+MOT	good boy 
+MOT	what a nice job you're doing 
+MOT	oh  there he is 
+MOT	pick up all the pegs Rick 
+MOT	what are you doing 
+CHI	 
+CHI	horse 
+MOT	what's the dog say 
+MOT	we'll put him there 
+MOT	there's the box 
+MOT	what color 
+MOT	chicken 
+MOT	they're going for a ride in a tractor 
+MOT	the dog 
+MOT	yes 
+MOT	Rick look 
+MOT	Rick  look 
+MOT	pull through 
+MOT	look at that 
+MOT	no touch Rick 
+MOT	sit up honey 
+CHI	 
+CHI	blue 
+MOT	okay 
+MOT	put the pegs in the board 
+MOT	Rick  what are you doing 
+MOT	he says hi Rick 
+MOT	what happened Rick 
+MOT	one 
+MOT	put them in the can 
+CHI	water 
+MOT	good boy Rick 
+MOT	what color are his eyes 
+MOT	Rick look at me 
+MOT	yellow 
+MOT	Rick  what have you got here 
+MOT	there's the fence  Rick 
+MOT	ow  
+MOT	Rick look at me 
+MOT	okay 
+MOT	that looks good 
+MOT	say “pegs in can” 
+MOT	where does the pig go 
+MOT	Rick  what's he doing 
+MOT	what else  Rick 
+MOT	Rick what does the horse say 
+MOT	here 
+CHI	cow 
+CHI	eyes 
+MOT	here 
+MOT	you making them drink 
+MOT	that's nice Rick 
+CHI	shovel 
+MOT	riding the horse 
+MOT	I think the doors are gone Rick 
+MOT	taking people for a ride 
+MOT	let's put all the pegs in the can 
+CHI	 
+CHI	gray 
+MOT	a big pole 
+MOT	help me pick them up 
+MOT	Rick  put the pegs in 
+CHI	horse 
+CHI	blue 
+MOT	oink  oink  
+MOT	Rick what are you doing 
+MOT	Rick  what's this 
+CHI	 
+MOT	do them on the rug 
+MOT	you're putting the pegs in Rick 
+MOT	you're gonna make what 
+CHI	 
+MOT	here's more 
+CHI	horse 
+CHI	 
+CHI	 
+CHI	ouch 
+CHI	the fence 
+MOT	here you go 
+MOT	sheep 
+MOT	what else Rick 
+MOT	good boy 
+MOT	what does he say 
+MOT	don't do that 
+MOT	Rick  what is this 
+MOT	they're broken 
+MOT	hi Rick 
+CHI	 
+MOT	you're fixing the fence 
+MOT	a man 
+CHI	cow 
+MOT	brown 
+MOT	blue  yeah 
+MOT	up here 
+MOT	what's this 
+MOT	Rick  look 
+CHI	and what color 
+CHI	the horse 
+MOT	where's the corn 
+MOT	what's in your hand 
+MOT	you wanna give them a drink 
+CHI	three 
+MOT	look 
+CHI	put away 
+CHI	pig 
+MOT	a pole 
+CHI	my shovel 
+MOT	watch mama 
+MOT	there's corn 
+MOT	what is  that 
+MOT	Rick look 
+MOT	what are you making 
+MOT	good boy  Rick 
+MOT	good boy 
+CHI	baa 
+MOT	count 
+MOT	alright 
+MOT	Rick  what does he say 
+MOT	that's good 
+MOT	that's nice Rick 
+MOT	what  Rick  what's this 
+MOT	his mouth 
+MOT	baa   right 
+MOT	don't touch 
+CHI	tree 
+MOT	put the pegs in 
+CHI	what it 
+MOT	look 
+CHI	 
+MOT	Rick  where are the horses going 
+MOT	here's another one 
+MOT	they're gone 
+MOT	yeah 
+MOT	oh  you got Gonzo  good boy 
+MOT	what Rick 
+CHI	 
+MOT	good boy 
+CHI	horse 
+MOT	good boy 
+CHI	cluck  cluck  
+MOT	he's driving the tractor 
+CHI	people 
+MOT	what else 
+CHI	 
+MOT	no 
+CHI	chicken 
+MOT	good boy Rick 
+MOT	what does the dog say 
+MOT	cluck  cluck  
+MOT	Rick 
+CHI	do that 
+MOT	what does the pig say 
+MOT	where are the horses going 
+MOT	good boy Rick 
+MOT	Rick look 
+CHI	 
+MOT	who is it 
+MOT	bring the box over here 
+MOT	good boy 
+MOT	that looks nice 
+MOT	look  I have another tree 
+MOT	but this is yellow right 
+MOT	he's laying down 
+MOT	good boy 
+MOT	what Ben 
+MOT	Rick look 
+MOT	what color is this one 
+CHI	horse 
+MOT	Rick where does this horse go 
+MOT	look 
+MOT	Rick what's he doing 
+MOT	take them off the board 
+CHI	horse 
+MOT	can you button Danny's pants 
+MOT	setting up the fence 
+MOT	letting the piggy out 
+CHI	some corn 
+MOT	that's very nice 
+MOT	good boy 
+CHI	 
+CHI	nay  
+MOT	look Rick 
+MOT	and set it up 
+MOT	that was a good boy 
+MOT	looks like a hook 
+CHI	good boy 
+CHI	 
+MOT	is that the horse 
+MOT	Rick  what's he doing 
+MOT	what color 
+MOT	nice job Rick 
+MOT	Rick look at mom 
+MOT	here  put him on the horse 
+MOT	what's this 
+MOT	no touch 
+MOT	Rick  what color is his shirt 
+MOT	blue 
+CHI	ride horse 
+MOT	bowow 
+MOT	that looks beautiful 
+MOT	say 
+CHI	Gonzo 
+CHI	 
+CHI	 
+CHI	ride horse 
+MOT	do the people ride 
+MOT	put the people on the horses 
+MOT	Rick  what color is the fence 
+MOT	pegs in 
+CHI	Gonzo 
+CHI	Danny 
+CHI	shovel 
+MOT	good job 
+MOT	fix the farm Rick 
+MOT	Rick 
+MOT	what are you doing Rick 
+CHI	 
+CHI	 
+CHI	one 
+CHI	look look  look 
+CHI	 
+CHI	where door 
+MOT	what's he say 
+CHI	nay  
+MOT	point to Danny's eyes 
+MOT	good boy 
+MOT	what's this 
+MOT	good boy 
+MOT	the fence up 
+MOT	yeah 
+MOT	no 
+CHI	tractor 
+CHI	 
+MOT	Rick 
+CHI	 
+MOT	that's nice 
+MOT	whoops  
+MOT	mama will show you 
+CHI	 
+MOT	okay 
+CHI	pegs in 
+MOT	Rick  what are you doing 
+MOT	there's the rooster 
+CHI	pegs 
+MOT	what color is this 
+CHI	roof  roof  
+MOT	oh  look 
+MOT	two 
+MOT	look 
+MOT	put the rooster in 
+MOT	look at mommy 
+MOT	Rick who's this 
+MOT	you're putting it all together 
+CHI	 
+MOT	we can make them ride 
+MOT	the horses 
+MOT	Rick say cluck  cluck  
+MOT	you're setting up the fence 
+MOT	what's the horse drinking 
+MOT	playing with the car  Rick 
+CHI	yeah 
+MOT	yeah 
+MOT	yeah 
+MOT	what color 
+MOT	those are people 
+MOT	that's nice Rick 
+MOT	good boy Rick 
+CHI	 
+MOT	real loud 
+MOT	that looks good 
+MOT	oh  the door 
+MOT	wanna build something else 
+MOT	let's move all this stuff over 
+MOT	is this a horse 
+MOT	Rick  no touch 
+MOT	oh  look 
+MOT	look 
+CHI	what's this 
+MOT	here's some more fence Rick  look 
+MOT	what color is that Rick 
+MOT	Rick look 
+MOT	what are you doing 
+CHI	red 
+CHI	red 
+MOT	that's where they keep it in the silo 
+CHI	drink water 
+MOT	we threw them away 
+MOT	they go for a ride 
+MOT	you're fixing the fence nice  Rick 
+MOT	what's he drinking 
+MOT	Rick 
+MOT	there's a cow 

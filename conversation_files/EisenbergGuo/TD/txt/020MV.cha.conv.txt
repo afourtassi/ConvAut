@@ -1,0 +1,215 @@
+participant	content
+INV	what's happening in the picture 
+CHI	 
+CHI	 
+INV	what else is happening in this picture 
+INV	tell me what else you see in the picture 
+INV	what's going to happen next 
+INV	the boy is trying to get the cookies 
+INV	what's going to happen in just a little while 
+CHI	he's gonna fall 
+INV	tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+CHI	 it's not aiming to  the sidewalk at all
+INV	what's happening in the picture 
+CHI	his momma is driving 
+INV	what else is happening in this picture [] 
+CHI	the boy [] has a donut in his hand 
+CHI	and one person is in the car 
+CHI	and the other person and the other  and the other kid is in
+INV	what's going to happen next 
+INV	the children are taking the donuts from the bag 
+INV	what's going to happen in just a little while 
+CHI	they will eat all the donuts 
+INV	tell me one more thing about the picture 
+CHI	why is the bag in front  
+CHI	so they cannot get them 
+INV	what's happening in the picture 
+INV	just tell me what you see in the picture 
+CHI	the doggy is under the couch 
+INV	what else is happening in this picture 
+INV	tell me about what else you see in the picture 
+CHI	 what's wrong with that  
+INV	can you tell me that again 
+CHI	what's wrong with that  
+INV	and what's going to happen next 
+INV	oh_no the dog ate some of the cake 
+INV	what's going to happen in just a little while 
+INV	tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+CHI	why is the lamp dirty  
+INV	what's happening in the picture 
+CHI	the cat is sad 
+INV	what else is happening in this picture 
+CHI	this  
+INV	tell me about what else you see in the picture 
+CHI	they're both boys 
+INV	and what's going to happen next 
+CHI	 
+INV	the children see the cat 
+INV	the cat is stuck up in the tree 
+INV	what's going to happen in just a little while 
+CHI	I don't know  
+INV	tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+CHI	the cat is looking down 
+INV	what's happening in the picture 
+CHI	the dad has a short tie 
+INV	what else is happening in this picture 
+CHI	she's not dressed 
+INV	and what's going to happen next 
+CHI	look at the mom and dad 
+INV	can you tell me that again 
+CHI	look at the mom and dad  
+INV	the little girl is still in her pajamas 
+INV	what's going to happen in just a little while 
+CHI	I don't know  
+INV	tell me one more thing about the picture 
+CHI	the  all
+INV	what's happening in the picture 
+INV	just tell me what you see in the picture 
+CHI	the doll  
+INV	what else is happening in this picture 
+CHI	she doesn't have a coat 
+INV	and what's going to happen next 
+CHI	I don't know  
+INV	the daddy is hiding a doll behind his back 
+INV	what's going to happen in just a little while 
+CHI	he will give it to her 
+INV	tell me one more thing about the picture 
+CHI	 
+INV	tell me that again 
+CHI	shouldn't be triangles where my finger is  
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see in the picture 
+CHI	he's gonna snip that thing 
+INV	what else is happening in this picture 
+INV	tell me about what else you see in the picture 
+CHI	I don't know  
+INV	the boy is taking his grandma's scissors 
+INV	and what's going to happen in just a little while 
+INV	tell me one more thing about the picture 
+CHI	he's crawling 
+INV	thank you 
+CHI	and he's crying 
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see in the picture 
+CHI	two of the same girls  
+INV	what else is happening in this picture 
+INV	tell me about what else you see in the picture 
+CHI	this this this this this this  
+CHI	I don't know  
+INV	and what's going to happen next 
+INV	the boy knocked the boxes off the shelf 
+INV	and what's going to happen in just a little while 
+CHI	they will crash and spill  
+INV	tell me one more thing about the picture 
+CHI	both of those one of those  a girl is pushing the cart
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see in the picture 
+CHI	he's getting  out the leafs in the
+INV	what else is happening in this picture 
+INV	tell me about what else you see in the picture 
+CHI	and they're 
+INV	and what's going to happen next 
+INV	they raked the leaves into a big pile 
+INV	what's going to happen in just a little while 
+INV	tell me one more thing about the picture 
+CHI	what's this doing out here  
+CHI	look at this window 
+CHI	these windows are not the same 
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see in the picture 
+CHI	they got the dog after  det
+INV	can you tell me that again 
+CHI	they are afraid 
+INV	what else is happening in this picture 
+CHI	the dog is on the street 
+INV	and what's going to happen next 
+INV	the dog is in front of the bus 
+INV	and the bus can't move 
+INV	what's going to happen in just a little while 
+INV	tell me one more thing about the picture 
+CHI	 
+INV	just tell me anything else about the picture 
+CHI	I don't know  
+CHI	 
+INV	what's happening in the picture 
+CHI	they're throwing  throwing snowballs 
+INV	what else is happening in this picture 
+CHI	I don't know  
+INV	tell me about what else you see in the picture 
+CHI	I don't know  
+INV	what's going to happen next 
+CHI	 
+INV	the boys are throwing snowballs 
+INV	then what will happen in just a little while 
+CHI	they will be dead 
+INV	that's not nice 
+CHI	and they will be knocked over 
+CHI	and they will be dead  
+INV	tell me one more thing about the picture 
+CHI	I don't know  
+INV	just tell me anything else about the picture 
+CHI	the scarf is on backwards 
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see in the picture 
+CHI	they want each   they want the red bucket 
+INV	what else is happening in this picture 
+CHI	there's another bucket 
+INV	and what's going to happen next 
+CHI	I think I like this one not this one 
+CHI	he's very angry 
+CHI	not him  
+INV	tell me one more thing about the picture 
+CHI	the  going
+INV	what's happening in the picture 
+CHI	he bumped his head 
+CHI	and his head comes off 
+CHI	and then his neck comes off 
+CHI	and then he will chop  
+INV	just tell me anything about this picture 
+CHI	 
+INV	what else is happening in this picture 
+CHI	she has his shoes 
+INV	and what's going to happen next 
+CHI	I don't know  
+INV	the dog and the girl have the daddy's shoes 
+INV	what's going to happen in just a little while 
+CHI	and she has his tie  
+INV	tell me one more thing about the picture 
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell me what you see 
+CHI	that looks like a pot 
+INV	what else is happening in this picture 
+CHI	the dog splashed water 
+INV	and what's going to happen next 
+INV	the children are trying to wash the dog 
+INV	and what will happen in just a little while 
+CHI	he will be dirty again 
+INV	tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+CHI	 
+INV	what's happening in the picture 
+INV	just tell me what you see in the picture 
+INV	what's happening in this picture 
+CHI	she threw bubbles 
+CHI	she didn't throw bubbles 
+CHI	she has bubbles in her hand 
+INV	and what's going to happen next 
+CHI	I don't know  
+INV	oh_no the bubbles are spilled 
+INV	what's going to happen in just a little while 
+CHI	he's going to do  
+CHI	and she will knock him over 
+CHI	and he will be dead on his head 
+INV	tell me one more thing about the picture 
+CHI	 
+CHI	 
+INV	just tell me anything else about the picture 

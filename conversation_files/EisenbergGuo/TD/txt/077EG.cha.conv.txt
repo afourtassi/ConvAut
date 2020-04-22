@@ -1,0 +1,257 @@
+participant	content
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell something about the picture 
+CHI	I don't know  
+INV	look what's happening 
+CHI	she's going  she's jumping over here 
+INV	what else is happening in the picture 
+CHI	he's barking 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	they raked the leaves into a big pile and then  
+CHI	I don't know  
+CHI	they jump 
+INV	tell me one more thing about the story 
+CHI	he's raking  
+INV	what's happening in the picture 
+CHI	the kitty cat's stuck 
+INV	the kitty cat's stuck 
+INV	good job 
+INV	what else is happening in the picture 
+CHI	 they're standing 
+INV	they're standing good job 
+INV	now I'll start the story 
+INV	and you finish it 
+INV	the children see the cat 
+INV	the cat is stuck up in the tree and then  
+CHI	I don't know  
+INV	the cat is stuck up in the tree 
+INV	and then what happens in the story 
+CHI	I don't know  
+INV	okay can you tell me one more thing about the story 
+CHI	I don't know  
+INV	tell me one more thing 
+INV	tell me anything else about the picture 
+CHI	I don't know  
+INV	what's happening in the picture 
+CHI	she is  v the shoes
+INV	and he what the shoes 
+CHI	 he  
+INV	she has the shoes good job 
+INV	what else is happening in this picture 
+CHI	 he's  he's holding that 
+INV	he's holding that good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the dog and the girl have the daddy's shoes and then  
+CHI	I don't know  
+INV	the dog and the girl have the daddy's shoes 
+INV	and then what happens on the story 
+CHI	I don't know  
+INV	okay can you tell me one more thing about the story 
+CHI	I don't know  
+INV	just tell me anything else about the picture 
+CHI	I don't know  
+INV	what's happening in the picture 
+CHI	she   they're pulling that 
+INV	they're pulling that good job 
+INV	what else is happening in the picture 
+CHI	her mommy's running 
+INV	her mommy's running very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boys are fighting 
+INV	and here comes the mom and then  
+CHI	I don't  they  they're playing with the bucket 
+INV	good job 
+INV	and tell me one more thing about the story 
+CHI	I don't know  
+INV	just tell me anything else about the picture 
+CHI	their shovels are down 
+INV	their shovels are down good job 
+INV	what's happening in the picture 
+CHI	I don't know  
+INV	just tell something about the picture 
+CHI	she she's   he's eating 
+INV	he's eating good job 
+INV	what else is happening in this picture 
+CHI	I she's   he's tired 
+INV	he's tired 
+INV	good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the little girl is still in her pajamas and then  
+CHI	the daddy is  
+INV	the daddy eating good job 
+INV	tell me one more thing about the story 
+CHI	momma's making dinner 
+INV	momma's making dinner good job 
+INV	what's happening in the picture 
+CHI	they're coming in 
+INV	they're coming in good job 
+INV	what else is happening in this picture 
+CHI	there's a  
+INV	there's birthday cake good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	oh_no the dog ate some of the cake and then  
+CHI	I don't know  
+INV	the dog ate some of the cake 
+INV	and then what happens in the story 
+CHI	there's mud 
+INV	there's mud good job 
+INV	tell me one more thing about the story 
+CHI	 there's black 
+INV	what's happening in the picture 
+CHI	they are they're they're  they're cleaning up 
+INV	they're cleaning up good job 
+INV	what else is happening in the picture 
+CHI	 she's the  he's not letting her do it 
+INV	he's not letting her do it 
+INV	okay 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the children are trying to wash the dog and then  
+CHI	I don't know  
+INV	the children are trying to wash the dog 
+INV	and then what happens in the story 
+CHI	I don't know  
+INV	tell me one more thing about the story 
+CHI	 I don't know  
+INV	just tell me anything else about the picture 
+INV	and then we're done 
+CHI	but I don't know  
+INV	what's happening in the picture 
+CHI	he's holding that 
+INV	he's holding that good job 
+INV	what else is happening in the picture 
+CHI	  he  she's driving 
+INV	he's driving good job 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the children are taking the donuts and then  
+CHI	he's holding it 
+INV	he's holding it good job 
+INV	and tell me one more thing about the story 
+CHI	he's sitting there 
+INV	he's sitting there very good 
+INV	what's happening in the picture 
+CHI	they're crawling 
+INV	they're crawling very good 
+INV	what else is happening in this picture 
+CHI	 they're  he's sitting there 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy's taking his grandma's scissors and then  
+CHI	I don't know  
+INV	look at the picture 
+INV	the boy is taking his grandma's scissors 
+INV	and then what happens in the story 
+CHI	he's cutting that 
+INV	he's cutting that very good 
+INV	and tell me one more thing about the story 
+INV	tell me one more thing about the story 
+CHI	the light is on 
+INV	good job 
+INV	the light is on 
+INV	what's happening in the picture 
+CHI	she's  
+INV	she's pushing very good 
+INV	what else is happening in the picture 
+CHI	he  they fall down 
+INV	they fall down very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy knocked the boxes off the shelf and then  
+CHI	they're running 
+INV	they're running very good 
+INV	tell me one more thing about the story 
+CHI	she's picking one 
+INV	what's happening in the picture 
+CHI	she she  
+INV	she's telling her mommy very good 
+INV	what else is happening in the picture 
+CHI	 her mommy's washing the dishes 
+INV	her mommy's washing the dishes very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the water's spilling all over the floor and then  
+CHI	I don't know  
+INV	look the water is spilling all over the floor 
+INV	and then what happens 
+CHI	she's her  their mommy stepped on it 
+INV	their mommy stepped on it very good 
+INV	tell me one more thing about the story 
+CHI	he's falling 
+INV	he's falling 
+CHI	and he  and he got a cookie 
+INV	he got a cookie yeah 
+INV	good job 
+INV	what's happening in the picture 
+CHI	they're throwing  throwing  balls 
+CHI	  
+INV	they're [] throwing balls 
+CHI	there's snow 
+INV	what else is happening in this picture 
+CHI	 they're making a  
+INV	they're making a snowman very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boys are throwing snowballs and then  
+CHI	the girl is her  pulling her leg up 
+INV	pulling her leg up very good 
+INV	tell me one more thing about the story 
+CHI	 I don't know  
+INV	here look just tell me anything else about the picture 
+CHI	the dad's putting  
+INV	the dad's putting on the snowman very good 
+INV	what's happening in the picture 
+CHI	 the mommy's  the mommy's mad 
+INV	the mommy's mad very good 
+INV	what else is happening in this picture 
+CHI	 the mom  the daddy's pulling her 
+INV	the daddy's pulling her very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the dog is in front of the bus 
+INV	and the bus can't move and then  
+CHI	the mommy's pulling that 
+INV	the mommy's pulling that very good 
+INV	what's happening in the picture 
+CHI	her sister is  
+INV	her sister blowing bubbles very good 
+INV	what else is happening in the picture 
+CHI	 she is  
+INV	she falling very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	oh_no the bubbles spilled and then  
+CHI	she's laughing 
+INV	she's laughing good job 
+INV	tell me one more thing about the story 
+CHI	 the daddy got  
+CHI	he spilled that 
+INV	he spilled that very good 
+INV	what's happening in the picture 
+CHI	she's running 
+INV	she's running very good 
+INV	what else is happening in this picture 
+CHI	 her  
+INV	her daddy holding her present very good 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the daddy is hiding a doll behind his back and then  
+CHI	I don't know  
+INV	look the daddy's holding a doll behind his back 
+INV	and then what happens 
+CHI	I don't know  
+INV	tell me one more thing about the story 
+MOT	 tell me something 
+CHI	I don't wanna  
+INV	it's the last one 
+INV	I wanna hear what happens at the end of the story 
+MOT	 what happens  the daddy 
+INV	just tell me anything else about the picture 
+MOT	what do you think is gonna happen next 
+CHI	I wanna go home  

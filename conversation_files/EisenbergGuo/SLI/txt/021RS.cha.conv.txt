@@ -1,0 +1,174 @@
+participant	content
+INV	what's happening in the picture 
+CHI	the mom is so angry 
+INV	what else is happening in this picture 
+CHI	he go  
+INV	the dog ate some of the cake 
+INV	and what's going to happen next 
+CHI	 
+INV	tell me one more thing about the picture 
+CHI	him  blue nose 
+INV	what's happening in the picture 
+CHI	him taking  a donut
+INV	what else is happening in this picture 
+CHI	her  
+INV	her driving good job 
+INV	the children are taking the donuts from the bag 
+INV	what's going to happen next 
+CHI	the  some more
+INV	tell me one more thing about the picture 
+CHI	ask him  the
+INV	what's happening in the picture 
+CHI	the mom is  
+INV	what else is happening in this picture 
+CHI	him  cookies
+INV	the boy is trying to get the cookies 
+INV	and what's going to happen next 
+CHI	the water's  gonna spill on the floor 
+INV	tell me one more thing about the picture 
+CHI	 
+INV	just tell me anything else about the picture 
+CHI	her  
+INV	what's happening in the picture 
+CHI	her  
+INV	what else is happening in this picture 
+CHI	her  
+INV	oh_no the bubbles spilled 
+INV	and what's going to happen next 
+CHI	he spilled  all over
+INV	tell me one more thing about the story 
+CHI	her  
+INV	the boy what 
+CHI	get also wet  
+INV	what's happening in the picture 
+CHI	the dog splash  
+INV	the dog splashed what 
+CHI	the girl  
+INV	say that again 
+CHI	the girl  
+INV	oh splashed the girl 
+INV	what else is happening in this picture 
+CHI	her  looking at her
+INV	her what 
+CHI	her hands  
+INV	her  
+CHI	hands  
+INV	hands 
+INV	her looking at her hands right 
+INV	the children are trying to wash the dog 
+INV	and the dog ran away 
+INV	what is going to happen next 
+CHI	 
+INV	tell me one more thing about the picture 
+CHI	 
+INV	just tell me anything else in the picture 
+CHI	there's a hose 
+INV	sorry 
+CHI	there's a hose  
+INV	what's happening in the picture 
+CHI	the girl get  
+INV	what else is happening in this picture 
+CHI	her  
+INV	the dog and the girl have the daddy's shoes 
+INV	and what's going to happen next 
+CHI	the  
+INV	tell me one more thing about the picture 
+CHI	he got dad's belt 
+INV	what's happening in the picture 
+CHI	 
+INV	what else is happening in this picture 
+CHI	the mom's running 
+INV	the boys are fighting 
+INV	and here comes the mom 
+INV	what's going to happen next 
+CHI	  
+INV	tell me one more thing about the picture 
+CHI	 him pull  the
+INV	what's happening in the picture 
+CHI	m  they're throwing snowballs 
+INV	what else is happening in this picture 
+CHI	they are  
+INV	the boys are throwing snowballs 
+INV	and what's going to happen next 
+CHI	 mom  
+INV	tell me one more thing about the picture 
+CHI	 they're patting  
+INV	what's happening in the picture 
+CHI	pulling  pulling
+INV	what else is happening in this picture 
+CHI	  
+INV	the dog is in front of the bus 
+INV	and the bus can't move 
+INV	what's going to happen next 
+CHI	the  wagging his
+INV	tell me one more thing about the picture 
+CHI	him  trying to drive the bus
+INV	what's happening in the picture 
+CHI	they're trying to put the leafs in 
+INV	what else is happening in this picture [] 
+CHI	 
+INV	say that again 
+CHI	they got boo_boos  
+INV	they raked the leaves into a big pile 
+INV	what's going to happen next 
+CHI	 
+INV	tell me one more thing about the picture 
+CHI	 him  raking the
+INV	what's happening in the picture 
+CHI	 him  
+INV	what else is happening in this picture 
+CHI	him 
+INV	what else do you see in the picture 
+CHI	 her 
+INV	the boy knocked the boxes off the shelf 
+INV	what's going to happen next 
+CHI	 the girl said   doing that 
+INV	say that again 
+INV	the girl what 
+CHI	get the oranges  
+INV	tell me one more thing about the picture 
+CHI	the girl is running 
+INV	what's happening in the picture 
+CHI	him   getting the
+INV	what else is happening in this picture 
+CHI	her  
+INV	the boy is taking his grandma's scissors 
+INV	and what's going to happen next 
+CHI	 him  looking at the
+INV	tell me one more thing about the picture 
+CHI	the dad says ssh 
+INV	what's happening in the picture 
+CHI	the dad bought a new present 
+INV	what else is happening in this picture 
+CHI	he  
+INV	the daddy is hiding a doll behind his back 
+INV	what's going to happen next 
+CHI	him gon  gonna give it
+INV	tell me one more thing about the picture 
+CHI	 the daddy  
+INV	say that again 
+CHI	daddy  
+INV	just tell me anything else about the picture 
+CHI	 her 
+INV	what's happening in the picture 
+CHI	 the dad 
+CHI	and the dad is  the
+INV	what else is happening in this picture 
+CHI	 her  
+INV	the little girl is still in her pajamas 
+INV	what's going to happen next 
+CHI	her 
+INV	tell me one more thing about the picture 
+CHI	the girl is  
+INV	what's happening in the picture 
+CHI	the cat's stuck in the tree 
+INV	what else is happening in this picture 
+CHI	her  looking at the
+INV	the children see the cat 
+INV	and the cat is stuck up in the tree 
+INV	and what's going to happen next 
+CHI	him  
+INV	tell me one more thing about the picture 
+CHI	 him 
+INV	what 
+CHI	him wagging the tail  

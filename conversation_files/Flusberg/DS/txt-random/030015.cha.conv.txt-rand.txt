@@ -1,0 +1,947 @@
+participant	content
+MOT	so it fits in there 
+MOT	where is it 
+MOT	you wanna do the cat 
+MOT	do you wanna call someone 
+MOT	what is it  though 
+MOT	telephone 
+MOT	that's right 
+MOT	look 
+MOT	shall I put them back in the puzzle 
+MOT	you had the right hole 
+MOT	what's that 
+MOT	let's make a tower 
+MOT	around 
+MOT	where's the kitty go 
+MOT	picture 
+CHI	baa  
+MOT	what's that 
+MOT	what's next 
+CHI	big bus 
+MOT	does it go here 
+MOT	is the horse eating 
+MOT	put all the cars 
+MOT	good_night everyone 
+CHI	duck 
+MOT	where is it 
+MOT	what's on his head 
+MOT	out 
+CHI	doggie 
+MOT	there 
+MOT	there 
+CHI	duck 
+CHI	help mom 
+MOT	no 
+CHI	doggie 
+MOT	what would you like to do 
+MOT	look 
+CHI	bus 
+MOT	hello 
+MOT	green 
+CHI	no 
+MOT	doggie 
+MOT	where's the red 
+MOT	oh  two cows 
+MOT	turn it around 
+CHI	horse 
+CHI	bunny 
+MOT	now this one 
+CHI	this 
+MOT	are you gonna open it 
+MOT	put the green on the green balloon 
+MOT	what's that 
+MOT	where does the truck go 
+MOT	two cows 
+MOT	what's that 
+MOT	no 
+CHI	around 
+CHI	doggie 
+MOT	this is the big bus 
+CHI	out 
+MOT	right 
+MOT	chick 
+MOT	mommy needs to have a card 
+CHI	 
+CHI	box 
+MOT	turn it over 
+MOT	oh wow  
+CHI	a duck 
+MOT	and what are these 
+MOT	can you put the fence there 
+CHI	night 
+CHI	there 
+MOT	look 
+CHI	come 
+MOT	there's another one 
+MOT	pigs go in the pigpen 
+MOT	wood  yeah 
+MOT	wanna get the animals 
+MOT	is the duck stuck 
+CHI	no 
+CHI	mommy 
+MOT	oh  
+MOT	here's one card 
+MOT	is it behind you 
+CHI	duck 
+MOT	put it in 
+CHI	card 
+MOT	put 
+CHI	chick 
+MOT	look Charles 
+MOT	now we need one more fence 
+CHI	bus 
+MOT	tweet  
+MOT	oop  
+CHI	cup 
+CHI	out 
+MOT	good 
+CHI	doggie 
+MOT	where's the kitty go 
+CHI	oops  
+CHI	 
+CHI	night cow 
+CHI	kitty cat 
+MOT	ohoh  
+MOT	close the doors 
+CHI	oops  
+CHI	doggie 
+CHI	block 
+MOT	the big bus and the little bus 
+CHI	white 
+CHI	pot 
+MOT	turn it around 
+CHI	box 
+CHI	puppys 
+CHI	good 
+MOT	where does the clock go 
+MOT	oops  
+MOT	down 
+MOT	oh  here's the doggie 
+MOT	car 
+MOT	open 
+MOT	you know we hafta open this some more 
+CHI	 
+MOT	turn it around 
+CHI	this 
+MOT	it's a horse 
+CHI	cow 
+MOT	here's another one 
+MOT	no 
+CHI	chick 
+MOT	good 
+MOT	square 
+MOT	it doesn't fit 
+MOT	where is it 
+CHI	garage 
+CHI	 
+CHI	car 
+MOT	what's that 
+CHI	do 
+MOT	what is it 
+MOT	up 
+MOT	mhm  
+MOT	we'll lie him down 
+CHI	boat 
+MOT	that's right 
+CHI	phone 
+MOT	Charles 
+CHI	this 
+MOT	behind you 
+MOT	put the green on the green balloon 
+CHI	chick 
+MOT	yup  that was a clock 
+MOT	say good_night and close the doors 
+MOT	pigs 
+CHI	the doggie 
+MOT	where  what's this 
+MOT	okay 
+MOT	one  two  
+CHI	mommy 
+CHI	cup 
+MOT	there we go 
+CHI	doggie 
+CHI	two cow 
+CHI	pig 
+MOT	no 
+MOT	going in the barn 
+MOT	let's see if we can find the animals in here 
+CHI	chick 
+MOT	you can make his stand up 
+MOT	do you want red 
+MOT	keep the green on 
+MOT	alright  your turn first 
+MOT	what 
+CHI	this 
+MOT	the phones right up here 
+MOT	there 
+MOT	did you find it 
+CHI	all_gone 
+MOT	shall I go get it 
+CHI	top 
+MOT	park all the cars 
+MOT	oop  what's that 
+CHI	please help 
+MOT	red 
+MOT	doggie 
+MOT	is this a cow 
+MOT	what's this 
+CHI	cow 
+MOT	house 
+CHI	this 
+CHI	eat 
+CHI	bus 
+MOT	it doesn't fit 
+MOT	I got white 
+MOT	wanna help mommy pick out a white one 
+MOT	did you want these cows to go night_night 
+MOT	you wanna put it in the puzzle 
+CHI	 
+CHI	little bus 
+CHI	barn 
+MOT	no kittys 
+CHI	pig 
+MOT	here comes the big bus 
+MOT	Charles  want the big bus 
+CHI	yay  
+MOT	in the barn 
+MOT	good 
+CHI	night_night 
+MOT	what are we gonna do 
+MOT	chick 
+MOT	is this a pig 
+CHI	sheep 
+CHI	whoops  
+MOT	you wanna make a tower 
+CHI	 
+MOT	yellow 
+MOT	are we gonna do everything 
+MOT	let's see 
+MOT	what does he have 
+MOT	there  I'm gonna put it on my white balloon 
+CHI	bus 
+MOT	you gonna put all the cars in the garage 
+CHI	boat 
+MOT	he really is stuck 
+MOT	two  
+CHI	boat 
+MOT	here's the bird 
+CHI	balloon 
+MOT	that's too little 
+CHI	cat 
+CHI	little bus 
+MOT	find a green 
+MOT	there's a fence around the pigs 
+CHI	out 
+MOT	I see 
+MOT	put it down the bottom 
+MOT	a tree 
+CHI	box 
+MOT	what is it 
+MOT	there 
+CHI	doggie 
+MOT	hello 
+CHI	eat 
+MOT	what color 
+CHI	go up 
+MOT	find red in the box 
+CHI	cow 
+MOT	no 
+MOT	now let's put the pigs inside it 
+MOT	where does the duck go 
+MOT	what does this horse have on his head 
+MOT	no 
+MOT	what does the dog say 
+MOT	what do the cows say 
+CHI	baa  
+CHI	box 
+CHI	kittycat 
+MOT	oh  okay 
+MOT	do you wanna do this one with the bunnys 
+CHI	 
+CHI	car 
+MOT	mhm  
+MOT	right here maybe 
+CHI	cow 
+CHI	broom  
+MOT	yeah 
+MOT	no it's not a doggie 
+MOT	duck 
+MOT	the cats or the cups 
+CHI	go up 
+CHI	fence 
+MOT	what's that 
+CHI	mom 
+MOT	and what's on his head 
+CHI	 
+CHI	box 
+MOT	it goes in a square hole 
+MOT	right here 
+MOT	where's the cow 
+CHI	this 
+MOT	do you know what that is 
+MOT	there are apples growing on that tree 
+CHI	duck 
+MOT	find green 
+MOT	horse 
+CHI	cow 
+CHI	this 
+MOT	mommy's turn 
+MOT	truck  yeah 
+MOT	what's that 
+CHI	good job 
+MOT	that's right 
+MOT	what's that 
+MOT	keep turning it 
+MOT	horse 
+CHI	 
+MOT	all done 
+MOT	let's see 
+CHI	box 
+CHI	roof  roof  
+MOT	you want mommy to put the cup in 
+CHI	boat 
+MOT	this is the garage 
+MOT	oh  good 
+MOT	here are the pigs 
+MOT	what's that 
+MOT	we'll do it your way 
+MOT	what do you want me to do 
+CHI	doggie 
+MOT	how about shapes 
+MOT	 
+MOT	broom  
+MOT	let's see 
+MOT	around and around 
+MOT	what is that 
+MOT	big bus 
+MOT	a present 
+MOT	good_night everyone 
+MOT	is there a horse in the book 
+MOT	pot 
+CHI	help 
+MOT	good job 
+CHI	horse 
+MOT	Charlestophers  turn 
+MOT	let's see 
+MOT	it's a tree 
+MOT	let's just put this here 
+MOT	let's put the cards away 
+CHI	kittycat 
+CHI	pigs 
+MOT	maybe it's under the paper 
+MOT	put the car up 
+MOT	here's red 
+MOT	do they go night_night in the barn 
+MOT	where does the house go 
+CHI	top 
+MOT	right there 
+MOT	mommy's turn 
+CHI	 
+MOT	what's that 
+MOT	night cow 
+CHI	cow 
+MOT	oops  
+MOT	wow  
+CHI	duck 
+MOT	the horse is gonna go upstairs 
+CHI	a cup 
+MOT	no 
+MOT	did ka  did Kathy go to school on a bus this morning 
+CHI	horse 
+CHI	a duck 
+CHI	cow 
+MOT	can you do this one 
+MOT	there 
+CHI	 
+MOT	what's that 
+MOT	oh  now there's more paper on it 
+MOT	what's this 
+CHI	block 
+MOT	night cow 
+MOT	maybe it's over here 
+MOT	where does the bird go 
+MOT	does the teddybear go there 
+MOT	where's the boat 
+MOT	so you can play with it 
+MOT	no  a pig 
+MOT	the car's coming out 
+MOT	what is it 
+MOT	you want the big bus 
+MOT	wood 
+MOT	want red 
+CHI	mommy 
+MOT	here's the teddybear 
+MOT	night_night 
+MOT	let's open this and see what's happened 
+MOT	are the cows gonna eat 
+MOT	circle 
+CHI	eat 
+MOT	is it under you 
+CHI	 
+MOT	phone 
+MOT	try this big one 
+CHI	house 
+MOT	are you finished 
+CHI	this 
+MOT	call someone on the phone 
+MOT	you gonna put it in the garage 
+MOT	one 
+MOT	that's right 
+MOT	that's one way of getting them out 
+MOT	wood 
+MOT	all done 
+MOT	is it behind you 
+MOT	does that go 
+MOT	is that the farmer 
+CHI	the doggie 
+MOT	no 
+MOT	right 
+MOT	no  that's not a dog either 
+MOT	no 
+CHI	bus 
+CHI	 
+MOT	box 
+CHI	big bus 
+MOT	wanna do the shapes 
+MOT	it's coming out the back 
+MOT	hm  
+MOT	are the animals in there 
+CHI	woods 
+MOT	school 
+MOT	it's a cow 
+MOT	what does the horse have 
+CHI	go 
+MOT	green 
+CHI	go up 
+MOT	there's more room down there 
+MOT	that's too little 
+MOT	horse 
+CHI	doggie 
+MOT	here 
+MOT	yeah 
+MOT	night 
+MOT	what's that 
+CHI	mommy 
+MOT	roof  roof  
+CHI	big bus 
+MOT	shapes 
+MOT	night  night 
+CHI	bunny 
+CHI	foods 
+MOT	here's the fence 
+CHI	bus 
+MOT	turn around 
+CHI	head 
+MOT	make a yard for the pigs 
+MOT	right 
+MOT	two more things to take out 
+CHI	car 
+MOT	oops  
+CHI	big bus 
+CHI	cow 
+MOT	good_night 
+CHI	bus 
+MOT	I think this  there 
+MOT	that's white 
+MOT	good 
+CHI	two cow 
+MOT	chick 
+CHI	balloon 
+MOT	what is it 
+MOT	do you wanna do these cups 
+CHI	chick 
+CHI	kittycat 
+MOT	for the horses 
+MOT	that's  what's that 
+MOT	find red 
+MOT	little bus 
+CHI	woods 
+MOT	what's that 
+MOT	yeah  here's the doggie 
+MOT	we don't have a doggie 
+MOT	what does the horse have 
+MOT	all_gone 
+MOT	fence 
+MOT	where's that 
+MOT	there 
+MOT	car 
+CHI	doggie 
+MOT	let's finish the balloon game 
+CHI	hello 
+CHI	two  
+MOT	what is that 
+MOT	now where are the pigs 
+CHI	garage 
+CHI	help  help 
+MOT	kittycat  right 
+MOT	maybe it is a doggie 
+CHI	stuck 
+MOT	what's the matter 
+MOT	you have another square 
+MOT	wanna do the cups 
+MOT	sheep 
+MOT	wait a minute 
+MOT	what 
+CHI	woods 
+CHI	puppys 
+MOT	there's the kitty 
+CHI	this 
+MOT	you can put some up top 
+CHI	all_gone 
+CHI	this 
+MOT	do you wanna play this game or do you wanna put it away 
+CHI	this 
+MOT	do you wanna put another piece of fence in 
+MOT	and what do the sheep say 
+CHI	do 
+CHI	what 
+CHI	that 
+MOT	all done 
+MOT	which card do you want 
+CHI	  
+MOT	what are you gonna do 
+CHI	doggie 
+MOT	night cow 
+MOT	cars 
+MOT	where are they 
+MOT	do you wanna split them inside each_other like this 
+MOT	what are these 
+CHI	what 
+MOT	do you wanna do another puzzle 
+CHI	truck 
+MOT	what else 
+MOT	you need another one 
+CHI	garage 
+MOT	is he eating supper 
+MOT	box  yup 
+MOT	mhm  
+MOT	what was that 
+MOT	find a green 
+MOT	watch 
+MOT	want me to take the plastic off 
+MOT	food 
+MOT	no  you need another one  a bigger one 
+MOT	in 
+MOT	garage 
+MOT	is it 
+CHI	help 
+MOT	can you put it in 
+MOT	look 
+MOT	here's your pigs 
+CHI	big bus 
+MOT	take off this plastic 
+CHI	help 
+CHI	house 
+MOT	oh  it's beside you 
+CHI	this 
+MOT	here 
+MOT	yeah  put some cars up here 
+MOT	what's that 
+CHI	box  box 
+CHI	cup 
+MOT	here it comes 
+CHI	horse 
+CHI	 
+CHI	no 
+MOT	is that a boat 
+MOT	okay 
+CHI	around 
+MOT	what else 
+MOT	there 
+MOT	oop  car's coming out 
+MOT	what is it 
+MOT	pigs 
+CHI	broom  broom  
+MOT	upside down 
+MOT	put the cover on 
+MOT	okay 
+MOT	telephone 
+MOT	that's a 
+CHI	tweet  
+MOT	circle 
+MOT	you wanna take it out_of the box 
+MOT	oh  what color did you get 
+CHI	top 
+CHI	this 
+MOT	a bigger one first 
+MOT	the other chick's over here 
+MOT	put it in the garage 
+MOT	yes 
+MOT	and what's this 
+CHI	phone 
+CHI	 
+MOT	oh  
+MOT	you dump them out 
+CHI	out 
+MOT	is that a square 
+CHI	stuck 
+CHI	duck 
+CHI	woods 
+MOT	I see it behind you 
+MOT	we hafta take this off 
+MOT	yes 
+CHI	duck 
+MOT	does it fit here 
+MOT	thank you 
+CHI	card 
+MOT	you made a tower in there 
+MOT	oh  what are we gonna do 
+MOT	turn it 
+MOT	mhm  
+MOT	two cows 
+MOT	where does it go 
+CHI	doggie 
+MOT	no you're playing with me now 
+MOT	cows 
+MOT	does the big bus fit 
+MOT	are you gonna close the doors and say good_night 
+MOT	okay 
+MOT	somebody's getting tired 
+MOT	where's the horse 
+CHI	doggie 
+MOT	this picture 
+CHI	gone 
+CHI	school 
+MOT	did you find the green 
+CHI	thank you 
+CHI	no 
+MOT	are you sitting on it 
+MOT	three  
+MOT	in 
+CHI	oh  
+MOT	there 
+CHI	please 
+MOT	but where's the horse 
+CHI	doggie 
+CHI	night 
+MOT	wanna make a fence just like the one in the picture 
+MOT	see  just turn it 
+CHI	out 
+MOT	okay 
+MOT	what are these 
+MOT	that's not a boat 
+MOT	put the block in the square hole 
+CHI	this 
+MOT	stuck 
+MOT	what  what are we gonna do 
+MOT	four  
+MOT	what are you doing with all those cars 
+MOT	do you wanna open the box 
+MOT	cups 
+CHI	this 
+MOT	here's the doggie 
+CHI	horse 
+CHI	top 
+CHI	card 
+MOT	what does the horse have on it's head 
+CHI	oh  
+MOT	okay 
+CHI	mom  mom 
+MOT	is he 
+CHI	night 
+CHI	cup 
+CHI	clock 
+CHI	kittycat 
+MOT	cow 
+MOT	that's too little 
+CHI	baa  
+MOT	look 
+MOT	hm  
+MOT	chick  yeah 
+MOT	one  two  
+CHI	help 
+MOT	what's this 
+MOT	where's this go 
+MOT	do you wanna look  look at the cows in this picture 
+MOT	cow 
+MOT	is it a truck 
+MOT	let's see 
+MOT	whoops  
+CHI	this 
+MOT	whi  no let me look 
+MOT	put them back in the box 
+MOT	duck 
+MOT	yes 
+MOT	wanna find something else 
+CHI	kittycat 
+MOT	what is this 
+CHI	do 
+CHI	cup 
+MOT	I see some chicks 
+MOT	that's his head 
+MOT	you wanna do the kittys 
+MOT	what is  what's this 
+CHI	baa  
+CHI	oops  
+CHI	 
+MOT	where's the square 
+MOT	you did it 
+CHI	this 
+MOT	kitty cat  right 
+MOT	oop  
+CHI	red 
+CHI	fence 
+CHI	cup 
+CHI	 
+MOT	no  alright 
+MOT	right there 
+MOT	oop  there we'll stand it up 
+CHI	doggie 
+CHI	pot 
+CHI	help 
+MOT	wanna do these shapes 
+MOT	do we have a horse 
+MOT	let's move his leg 
+MOT	boat 
+MOT	pull it down 
+CHI	card 
+MOT	down 
+MOT	night_night 
+MOT	that's a square block 
+MOT	let's see 
+MOT	there's a bird 
+MOT	food  yeah 
+MOT	can mommy have a card 
+CHI	out 
+MOT	take it out 
+CHI	 
+CHI	all done 
+MOT	truck 
+CHI	chick 
+MOT	should we feed the  the cows 
+MOT	car 
+MOT	does the doggie have puppys 
+MOT	okay  now put the cup in 
+CHI	ball 
+CHI	go 
+MOT	there 
+MOT	open 
+MOT	let me do it 
+MOT	does that fit there 
+MOT	is that green 
+MOT	here we go 
+CHI	car 
+CHI	come down 
+MOT	cows say what 
+CHI	oh  
+MOT	put it right here 
+MOT	you just hadta turn it 
+CHI	in 
+MOT	now turn 
+MOT	close the doors 
+MOT	bunny  yeah 
+CHI	this 
+MOT	clock 
+MOT	the cows go to sleep 
+MOT	yeah 
+MOT	up top 
+MOT	do you know 
+MOT	this is a school bus  just like the one Kathy went to school in 
+MOT	okay 
+CHI	card 
+MOT	okay 
+CHI	Kathy 
+CHI	out 
+CHI	do 
+MOT	here it comes 
+MOT	chick sitting on the fence 
+MOT	is that the phone 
+MOT	you wanna put the duck in 
+MOT	cup 
+MOT	you take it out 
+MOT	okay 
+MOT	puppys 
+MOT	you pick a toy 
+MOT	you wanna put them all to sleep in the barn 
+CHI	clock 
+MOT	two pigs 
+CHI	 
+MOT	put the big school bus away 
+MOT	oh  I know 
+MOT	where's the horse in the picture 
+MOT	see  now it doesn't fit 
+MOT	teddybear 
+CHI	this 
+CHI	help 
+MOT	look 
+CHI	down 
+CHI	cow 
+CHI	cup 
+MOT	you wanna put this in 
+CHI	night_night 
+MOT	what's that 
+MOT	you wanna put the  all the car's away and we'll look at the
+CHI	chick 
+MOT	okay  try it this way 
+MOT	mhm  
+MOT	that's called 
+MOT	white 
+CHI	up 
+MOT	do you need some help 
+CHI	that 
+CHI	oh  
+MOT	no 
+MOT	duck 
+CHI	 
+MOT	look 
+MOT	see the tree with the apples on it 
+CHI	around 
+CHI	car 
+MOT	okay 
+CHI	out 
+CHI	help  help 
+MOT	 
+CHI	 
+MOT	look what Kathy has for you 
+MOT	okay 
+MOT	shall we put everything away 
+MOT	I'll do this one 
+CHI	this 
+MOT	garage 
+CHI	 
+CHI	whoops  
+MOT	two pigs 
+MOT	I thought you were  going to say good_night to them 
+MOT	how's that 
+MOT	oh  you are gonna put everything in the barn 
+MOT	now what 
+MOT	green 
+CHI	help 
+MOT	 
+MOT	balloon  yeah 
+MOT	oh  it does 
+MOT	no 
+MOT	do you wanna do the balloon game 
+MOT	there's a big one there 
+MOT	bus 
+CHI	woods 
+MOT	top 
+CHI	foods 
+CHI	garage 
+CHI	 
+MOT	square 
+MOT	he was stuck 
+MOT	where does the boat go 
+CHI	put 
+MOT	baa  
+CHI	eat 
+CHI	stuck 
+MOT	pig 
+CHI	cow 
+CHI	night  night 
+MOT	do 
+CHI	up 
+CHI	cow 
+MOT	is that a pot 
+MOT	where does the boat go 
+MOT	here are the kittycats 
+CHI	box 
+MOT	and come down 
+CHI	no 
+MOT	are you_all finished with this game 
+MOT	how about that one 
+MOT	let's see 
+MOT	night_night 
+MOT	what's that 
+MOT	hm  
+MOT	no 
+MOT	you got some more 
+MOT	does that fit on the other side 
+MOT	yes 
+MOT	oh  boy 
+MOT	cup 
+MOT	right 
+CHI	big bus 
+MOT	this one goes first 
+MOT	what's that 
+MOT	what is it 
+MOT	come on 
+MOT	now  now we need pigs 
+CHI	moo  
+CHI	the cow 
+CHI	truck 
+CHI	top  bus 
+MOT	do what 
+MOT	here  put the cow right there 
+MOT	out  okay 
+MOT	look 
+MOT	oh  we've got one more piece 
+CHI	horse 
+CHI	that 
+MOT	two cows 
+MOT	I'm doing green 
+CHI	no 
+MOT	how's that 
+MOT	did she go on the bus 
+CHI	eat 
+CHI	horse 
+MOT	I think it goes here 
+MOT	you're not  you don't feel like playing this now 
+MOT	now which 
+CHI	doggie 
+MOT	where's the big bus go 
+MOT	there 
+MOT	in 
+MOT	that's not a doggie 
+MOT	good job 
+CHI	chick 
+CHI	horse 
+MOT	kittycat 
+MOT	where do they sleep 
+MOT	let's see 
+MOT	let's do that 
+MOT	that's not a horse 
+MOT	no  that's a cow 
+CHI	this 
+MOT	out 
+MOT	and here's the little bus 
+CHI	go up 
+CHI	garage 
+MOT	all done  okay 
+CHI	night_night 
+MOT	is that the telephone 
+CHI	baa  
+MOT	house 
+MOT	big bus 
+CHI	horse 
+CHI	block 
+CHI	top 
+CHI	moo  
+CHI	off 
+MOT	that's right 
+MOT	where does the doggie go 
+MOT	what else do you hafta play with 
+CHI	this 
+MOT	yes 
+MOT	wood 
+MOT	does the truck go here 
+MOT	where do they go night_night 
+MOT	oh  
+MOT	there 
+CHI	chick 
+CHI	no 
+CHI	this 
+CHI	bird 
+CHI	pigs 
+MOT	block 
+MOT	I'm gonna do this one 
+MOT	eat 
+MOT	Charles 
+MOT	mhm  
+MOT	do you wanna play with the balloons 
+MOT	kittycat  yeah 
+MOT	does the horse wanna eat 
+CHI	 
+CHI	this 
+MOT	oh  that's a hard one 
+MOT	does he fit 
+CHI	boat 
+CHI	 
+CHI	puppys 
+MOT	is that red 
+CHI	eat 
+MOT	turn it this way 
+MOT	where does that go 
+CHI	chick 
+CHI	foods 
+CHI	cup 

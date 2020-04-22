@@ -1,0 +1,951 @@
+participant	content
+MOT	there  you're shutting 
+MOT	what's that number 
+CHI	out 
+CHI	Grover 
+MOT	what's this 
+CHI	 it 
+CHI	that Bert 
+MOT	oh  look at her going around 
+CHI	want help 
+MOT	that's a knife 
+MOT	you shut the door on her 
+MOT	no  that's a horse 
+CHI	 
+MOT	here 
+CHI	tummy 
+MOT	who's this Rick 
+MOT	Rick look 
+MOT	what's this Rick 
+MOT	Rick look 
+MOT	ride over in my car 
+CHI	all_gone 
+MOT	touch Annie's legs 
+MOT	what's he got in his hands 
+MOT	you want Dan 
+CHI	hi Grover 
+CHI	nine 
+MOT	whoop  
+MOT	what's this 
+MOT	touch Bert's nose 
+MOT	you do 
+CHI	want bacon 
+MOT	good boy 
+MOT	oh  
+CHI	wrench 
+CHI	 
+MOT	put them in the bus 
+MOT	yeah  we'll go over there 
+MOT	pound these in 
+MOT	you're looking nice at me 
+MOT	house  yeah 
+CHI	that jelly 
+CHI	want bacon 
+MOT	here 
+MOT	good boy 
+MOT	plop  
+MOT	tighten them up 
+MOT	what are those 
+MOT	yeah 
+MOT	Rick  look 
+CHI	all done 
+MOT	good boy 
+CHI	cars 
+CHI	chick 
+MOT	pick them up 
+CHI	make sandwich 
+MOT	they're screws 
+MOT	that's nice  huh  
+CHI	green 
+CHI	lunch 
+MOT	Rick look 
+MOT	Rick 
+MOT	Rick  look 
+MOT	come here you 
+MOT	fish 
+MOT	come here 
+CHI	wind down 
+MOT	come here 
+MOT	good boy 
+MOT	hotcakes 
+CHI	cars 
+CHI	twiddle bugs 
+MOT	what 
+MOT	chickens 
+CHI	glasses 
+MOT	raccoon 
+MOT	say choo choo choo 
+CHI	cow 
+MOT	Rick 
+MOT	who's this 
+MOT	something's stuck in here 
+MOT	good boy 
+CHI	one 
+CHI	 
+CHI	the seatbelt 
+CHI	want Dan 
+CHI	page  page 
+MOT	all the shoes 
+MOT	Rick look 
+CHI	Ernie 
+MOT	Rick look 
+MOT	Rick  you wanna cook 
+MOT	there you go 
+MOT	into the house 
+MOT	look 
+MOT	wanna give him a ride in the elevator 
+MOT	Rick  what's this 
+MOT	oh  you're looking for seatbelts on that train Rick 
+MOT	kiss raccoon 
+MOT	 did you see the cars 
+MOT	there she goes 
+MOT	Herry_Monster 
+CHI	 
+CHI	get page 
+MOT	what's this 
+CHI	trees 
+CHI	girl 
+CHI	broken 
+MOT	okay 
+MOT	Rick look what's this 
+CHI	choo choo choo  
+CHI	do it 
+MOT	Rick look 
+MOT	oh  nice kitty 
+MOT	there she goes 
+MOT	Rick here's the other house 
+MOT	nana's house  yeah 
+MOT	that's for you 
+MOT	Rick look 
+MOT	what's this 
+MOT	horse 
+MOT	Rick what about this 
+CHI	Bert 
+MOT	do this 
+CHI	hotcake 
+CHI	those 
+MOT	Grover 
+MOT	Rick 
+MOT	okay 
+MOT	oh oh  
+MOT	candles 
+MOT	there he is 
+MOT	ooh  
+MOT	open the door 
+MOT	count 
+MOT	whoops  
+CHI	hang up phone 
+CHI	hotcakes 
+MOT	alright 
+MOT	monster 
+MOT	you shut the door huh  
+CHI	face 
+MOT	no pegs in 
+MOT	what's this 
+MOT	that's a cow 
+CHI	 
+MOT	oh  look Rick 
+MOT	yeah 
+MOT	say byebye Grover 
+CHI	cake 
+CHI	 
+MOT	and what's this number 
+MOT	I don't know if we can put that in there or not Rick 
+CHI	moo  
+MOT	look 
+MOT	that's right 
+CHI	 
+MOT	that's a green screw 
+CHI	jelly 
+CHI	 
+MOT	here 
+CHI	Hoodsys 
+CHI	hi Grover 
+MOT	and see nana and grandpa 
+MOT	good boy 
+MOT	Rick look 
+MOT	what's this Rick 
+MOT	good boy Rick 
+MOT	put it in 
+CHI	want help 
+MOT	yeah  the little tire came off it  didn't it yeah 
+MOT	look  here's some more 
+CHI	cow 
+MOT	to nana's 
+CHI	wind down 
+CHI	nice 
+CHI	 
+MOT	put Bert inside the block 
+CHI	 
+CHI	count 
+MOT	look at her 
+MOT	oh „ it's stuck 
+CHI	down chimney 
+MOT	well then you cook some bacon 
+MOT	Rick 
+MOT	here 
+MOT	you did a good job 
+CHI	wind down 
+MOT	he's gonna meet us over there 
+MOT	what are you cooking 
+MOT	pick up the cow 
+MOT	Rick look 
+MOT	there she comes 
+MOT	Rick who's that 
+CHI	wanna kiss 
+MOT	Rick  what's he holding 
+MOT	here let mommy show you 
+MOT	what's this Rick 
+MOT	yeah 
+MOT	good boy 
+MOT	look 
+MOT	Rick look 
+MOT	there's the fence 
+MOT	you're turning the crank Rick 
+MOT	oh „ goodness 
+MOT	pick up the rest 
+MOT	Rick look 
+MOT	that's good 
+MOT	she's going 
+MOT	mommy will help 
+CHI	page 
+CHI	hi 
+MOT	good boy 
+MOT	there he is 
+MOT	who's a good boy 
+MOT	Rick 
+CHI	 
+MOT	Rick do this 
+CHI	bugs 
+CHI	I want tv 
+MOT	Rick what's this 
+CHI	bake it 
+MOT	over here 
+MOT	you're putting it back in 
+MOT	no  what's this 
+MOT	tellie  yes  and what are these 
+MOT	we're taking them all out huh  
+MOT	good boy 
+CHI	I want tv 
+MOT	can you give him a ride in the elevator 
+CHI	raccoon 
+CHI	cookies 
+MOT	he fell down again 
+CHI	candy 
+MOT	kiss Bert 
+CHI	in his hand 
+MOT	yeah 
+CHI	lunch 
+CHI	wind down 
+MOT	there's another one 
+MOT	because you're so cute 
+CHI	hi 
+MOT	you're looking at me nice 
+MOT	put them in 
+MOT	you're doing a good job Rick 
+MOT	good 
+MOT	wanna build something 
+MOT	you're screwing in good 
+MOT	down your back 
+MOT	milk 
+MOT	yeah 
+MOT	Rick look 
+CHI	chicken 
+MOT	you're using the wrench 
+MOT	good boy 
+CHI	 
+MOT	hm  
+MOT	remember 
+MOT	huh  
+MOT	good boy 
+MOT	Rick 
+MOT	well  you'll hafta open it and see 
+CHI	ah  
+MOT	come here 
+MOT	yeah 
+MOT	hi 
+MOT	no seatbelts on that train Rick 
+MOT	good boy 
+MOT	look 
+MOT	Rick come here 
+MOT	can I kiss her too 
+MOT	oop  
+MOT	okay 
+MOT	Rick look 
+CHI	green 
+MOT	touch your hair 
+MOT	Rick look 
+MOT	turn the crank 
+MOT	Rick  sit up 
+MOT	no  that's broken 
+CHI	cow 
+MOT	we'll go in momma's car 
+MOT	whoops  
+MOT	you're putting the fence together 
+MOT	whoops  
+MOT	oops  
+MOT	Rick look 
+MOT	yeah  you wanna take it for a ride 
+MOT	now shut the door 
+MOT	here he comes 
+CHI	two 
+CHI	Annie 
+MOT	how about these 
+MOT	you gonna hang up the phone 
+MOT	twiddle bugs 
+CHI	Bert's nose 
+CHI	spaghetti 
+MOT	Rick 
+MOT	you like that 
+MOT	it's a cow 
+MOT	okay 
+MOT	let's cook 
+MOT	look 
+MOT	put the pegs in the jar 
+MOT	watch 
+CHI	on bus 
+MOT	good boy 
+MOT	Rick 
+MOT	look 
+CHI	one  two  
+MOT	kiss Bert 
+MOT	what's that 
+CHI	raccoon 
+MOT	look Rick 
+MOT	sandwiches 
+CHI	 
+MOT	oh  
+MOT	come here 
+MOT	what's that number 
+MOT	Rick 
+MOT	ride up Rick's back 
+CHI	kiss 
+MOT	oop  she fell off the back 
+CHI	knife 
+MOT	okay  now crank the 
+CHI	five 
+CHI	hotcake 
+MOT	do you need this 
+MOT	oh  Rick 
+MOT	look 
+CHI	get on bus 
+MOT	how about a kiss 
+MOT	meow  
+CHI	what this 
+CHI	basket 
+MOT	want me to help 
+MOT	yeah 
+MOT	gonna put some more people in 
+MOT	look 
+MOT	see 
+MOT	fence 
+MOT	that's a fence so the animals won't get out 
+MOT	Rick 
+CHI	no 
+MOT	Rick look 
+MOT	that's nice 
+MOT	you put them in the bus 
+MOT	good boy 
+MOT	good boy 
+CHI	basket 
+CHI	hi  
+MOT	good boy 
+MOT	where's it going 
+MOT	nice kittycat 
+MOT	oh  what's in here 
+MOT	there she goes 
+MOT	what's these 
+CHI	turn the crank 
+MOT	here's some more people 
+CHI	 
+MOT	look 
+CHI	Mickey_Mouse 
+MOT	can you take these out 
+MOT	good boy 
+MOT	you know what we're having for supper 
+MOT	what's this 
+MOT	wanna put her in again 
+MOT	there he goes 
+MOT	whoops  
+MOT	no 
+MOT	call them up 
+MOT	what's that number 
+CHI	hotcake 
+CHI	inside block 
+CHI	Bert 
+CHI	byebye 
+CHI	oh  
+CHI	 
+MOT	Rick look 
+MOT	there 
+CHI	get page 
+MOT	look at the cars 
+MOT	yes  good boy 
+CHI	no 
+MOT	Rick 
+MOT	and I'll help you 
+MOT	you can do it 
+CHI	mama car 
+CHI	bathtub 
+CHI	the seatbelt 
+MOT	good boy 
+CHI	tummy 
+MOT	oops  crash  
+MOT	say no 
+CHI	get page 
+CHI	 
+MOT	no  who's that Rick 
+CHI	mama car 
+CHI	it cook 
+CHI	nana house 
+MOT	put the cover on 
+MOT	put the nails in 
+MOT	good boy 
+MOT	is she stuck 
+MOT	Rick 
+CHI	monster 
+CHI	get page 
+CHI	wind down 
+CHI	milk 
+CHI	shake 
+CHI	handle 
+MOT	if you're a good boy and eat all your supper  you get one 
+MOT	Rick look 
+CHI	 
+MOT	put some bacon in 
+CHI	glasses 
+CHI	me 
+MOT	who's a good boy 
+MOT	good boy 
+CHI	give kisses 
+MOT	are you gonna crank him up again 
+MOT	Rick say no 
+MOT	look at momma 
+MOT	good boy 
+MOT	hang up the phone 
+CHI	go bathroom 
+MOT	Rick 
+MOT	there goes Mickey 
+CHI	four 
+MOT	Rick who's this 
+MOT	look at this 
+MOT	Rick 
+MOT	that's right 
+MOT	take these out 
+MOT	yeah  put them in the pan 
+MOT	you're shaking them up 
+MOT	who's that 
+MOT	Rick look 
+MOT	he's sitting in the block 
+CHI	what this 
+CHI	Big_Bird 
+CHI	train 
+MOT	Rick  wanna play with the puzzle 
+CHI	oh  no 
+MOT	nice talking 
+MOT	there  you're doing it by yourself 
+CHI	tummy 
+MOT	where's daddy 
+MOT	look 
+MOT	come here 
+MOT	come here 
+MOT	there are all your dishes 
+CHI	want tv 
+MOT	and what are these 
+CHI	mama car 
+CHI	hotcake 
+CHI	stairs 
+CHI	 
+CHI	 
+CHI	cake 
+MOT	here's the wrench 
+MOT	jelly  that's right 
+CHI	okay 
+MOT	Rick look 
+MOT	sit up 
+MOT	make her walk up the stairs 
+CHI	stairs 
+MOT	whoops  
+MOT	water 
+MOT	Annie 
+MOT	you know what we're gonna have for dessert 
+CHI	good 
+CHI	green 
+CHI	candy 
+MOT	there 
+CHI	lunch 
+CHI	belts 
+MOT	Oscar 
+MOT	Rick  what's this number 
+MOT	look 
+MOT	let me kiss her 
+MOT	good boy 
+CHI	cookies 
+CHI	no 
+MOT	wanna put some pegs in 
+MOT	Rick  who's a good boy 
+MOT	Rick look at this 
+CHI	kiss 
+CHI	want bacon 
+MOT	do you like Hoodsys 
+MOT	making a block 
+CHI	these out 
+CHI	mama car 
+CHI	open door 
+MOT	nice talking Rick 
+CHI	hotcake 
+MOT	up the stairs 
+MOT	and who's that 
+CHI	picture 
+MOT	do you like the cars 
+MOT	point to her glasses 
+MOT	you like the train 
+MOT	who's this 
+MOT	Rick look 
+CHI	chick 
+MOT	at work 
+MOT	Rick look 
+MOT	Rick pick up the cow 
+CHI	call Ernie 
+MOT	Rick what's this number 
+MOT	Rick 
+MOT	he's in the other room 
+CHI	like those 
+MOT	put her in here and turn the crank 
+MOT	Rick  let's bake something 
+CHI	Dan 
+CHI	nana's 
+MOT	good boy 
+CHI	dishes 
+MOT	do you think she's tired from going down those chutes all that time
+MOT	let's call them up 
+MOT	what does a kittycat say 
+MOT	no  what's this number 
+CHI	all the shoes 
+CHI	 
+MOT	Rick 
+MOT	look at me 
+MOT	good boy 
+MOT	we're going to have supper over there 
+CHI	hotcakes 
+MOT	Rick look 
+CHI	up the stairs 
+CHI	green 
+CHI	want help 
+CHI	Sesame_Street 
+CHI	tighten 
+MOT	that's a good man 
+CHI	fence 
+MOT	yeah 
+MOT	Rick  what's this 
+MOT	oh  no 
+MOT	Rick look 
+MOT	that's nice Rick 
+MOT	yeah 
+MOT	Rick 
+CHI	leg 
+MOT	that's the cow right there 
+MOT	yeah  with chocolate and vanilla in them 
+MOT	look 
+CHI	kiss 
+MOT	oh  they don't have their lunches 
+CHI	pegs 
+MOT	we put it together 
+CHI	 
+CHI	more candy 
+MOT	look 
+MOT	who's that 
+CHI	no 
+MOT	call Ernie 
+MOT	Rick  who's that 
+MOT	you look nice 
+MOT	yeah  who's this 
+MOT	that's good 
+MOT	good boy 
+MOT	make her walk 
+MOT	who's that 
+MOT	look 
+CHI	count 
+MOT	one  that's right 
+MOT	she went down the chimney 
+MOT	there it goes 
+CHI	more candy 
+CHI	raccoon 
+MOT	Sesame_Street 
+MOT	Rick 
+MOT	what are those 
+CHI	I want tv 
+MOT	that's a little girl  yeah 
+MOT	good boy 
+MOT	do you like those 
+MOT	look 
+MOT	oh  who's that 
+CHI	bugs 
+MOT	green  that's right 
+MOT	and what are these 
+MOT	okay 
+CHI	kittycats 
+MOT	can you use this Rick 
+MOT	handle so you can carry it 
+MOT	that's right 
+MOT	who's this 
+MOT	she's taking your picture 
+MOT	good boy 
+MOT	she's over here 
+CHI	 
+CHI	it cook 
+CHI	I want tv 
+MOT	drive the cars in 
+CHI	three 
+MOT	Rick 
+MOT	oop  one dropped out 
+CHI	face 
+MOT	here's another one 
+CHI	 
+CHI	bake it 
+CHI	train 
+MOT	oh oh  
+MOT	wanna play with the bus 
+CHI	 
+MOT	open it up 
+MOT	let's sit up 
+CHI	lunch 
+MOT	yeah 
+MOT	Rick 
+MOT	and she's going in the house 
+CHI	train 
+MOT	are we stuck 
+MOT	good boy 
+CHI	train 
+MOT	what are you doing 
+MOT	there she comes 
+MOT	good boy 
+CHI	kiss 
+MOT	cakes 
+MOT	oh  that was nice kissing 
+MOT	Rick look 
+MOT	yeah  we have bacon for breakfast sometimes  too 
+MOT	put them in here 
+MOT	good boy 
+CHI	fish 
+CHI	horse 
+MOT	come on over here and see me 
+MOT	oh  Rick can I kiss the kitty 
+MOT	you gonna cook some bacon 
+MOT	Rick look 
+MOT	look at him 
+MOT	say hi Grover 
+CHI	want Dan 
+MOT	say how are you 
+CHI	want Dan 
+CHI	in the water 
+MOT	wait  you'll get some more underneath 
+MOT	up the stairs 
+MOT	Oscar 
+MOT	sit down 
+CHI	me 
+MOT	what's that 
+MOT	Rick look 
+MOT	soft kitty 
+MOT	what's this 
+MOT	say choo choo choo 
+MOT	she's going to fall down the chute 
+CHI	want candy 
+MOT	okay 
+CHI	want Dan 
+MOT	there it is 
+CHI	want Dan 
+MOT	I think we must have more people down here  Rick 
+MOT	Rick look 
+CHI	lunch 
+MOT	Rick touch your tummy 
+MOT	yeah 
+CHI	Hoodsy 
+MOT	Hoodsys 
+MOT	push him up 
+MOT	look at me 
+MOT	good boy 
+MOT	what's this 
+MOT	how's that 
+MOT	Rick  put these in 
+MOT	get the cow Rick 
+CHI	lunch 
+MOT	Rick let's pick up the pegs 
+MOT	good boy Rick 
+CHI	sandwich 
+CHI	up stairs 
+MOT	what's that 
+MOT	need some help 
+MOT	yeah 
+MOT	Rick  what's this 
+CHI	help you 
+MOT	up the stairs 
+CHI	want help 
+MOT	Ernie  who's that 
+CHI	hair 
+CHI	tv's on 
+MOT	Rick 
+MOT	did you say byebye 
+MOT	take out the pegs 
+CHI	cake 
+MOT	touch your tummy  Rick 
+MOT	there she is 
+MOT	what's that 
+CHI	bathtub 
+MOT	Rick look 
+CHI	no 
+MOT	I don't know  I thought that would fit in there but I guess it
+MOT	what 
+CHI	green 
+MOT	Rick 
+MOT	kiss 
+MOT	what's this 
+MOT	can you use it some more 
+MOT	you think that's candy 
+MOT	good boy 
+CHI	cookies 
+CHI	want Dan 
+MOT	what are we cooking 
+MOT	are you gonna make something for breakfast 
+MOT	Rick 
+CHI	there's the people 
+MOT	huh  Rick 
+MOT	Grover  he's talking to Rick 
+MOT	good boy 
+CHI	cooking 
+MOT	Rick 
+MOT	there he is 
+MOT	Rick  don't touch 
+MOT	what is this 
+CHI	wind down 
+CHI	ooh  
+MOT	oops  we missed one 
+MOT	Rick come over here 
+MOT	look 
+CHI	tellie 
+MOT	oop   she fell out 
+MOT	hi 
+CHI	want help 
+CHI	daddy work 
+MOT	Rick look 
+CHI	jelly 
+MOT	dial the phone 
+MOT	that was nice talking 
+CHI	that Grover 
+MOT	oh  look 
+MOT	wanna kiss raccoon 
+CHI	train 
+MOT	okay  make some hotcakes 
+MOT	Rick 
+MOT	Rick what's this 
+MOT	look at mom 
+CHI	 
+MOT	Rick 
+MOT	you gonna call somebody on the phone 
+CHI	bye Grover 
+MOT	oh  
+MOT	what's this 
+CHI	balloon 
+MOT	good boy 
+MOT	to make the sandwiches 
+MOT	good boy 
+CHI	water 
+MOT	Rick look 
+MOT	what 
+CHI	the bus 
+CHI	shut door 
+CHI	dog 
+MOT	put it down Rick 
+CHI	 
+MOT	oh  
+MOT	Rick look 
+CHI	fence 
+MOT	no  tummy 
+CHI	 
+MOT	nice and soft Rick 
+MOT	good boy 
+CHI	tv's on 
+MOT	Rick look what's this 
+CHI	Grover 
+CHI	 
+MOT	who's this Rick 
+CHI	no 
+MOT	Rick 
+CHI	cow 
+MOT	Rick are we building 
+MOT	good boy 
+MOT	say how are you 
+MOT	Rick 
+MOT	Rick look 
+MOT	good boy 
+MOT	what do you wanna make 
+MOT	good boy 
+MOT	you okay 
+MOT	need the wrench 
+MOT	that's a fence 
+MOT	oh  Rick what's this 
+CHI	hotcakes 
+MOT	you knocked them all over again 
+MOT	Rick  put the people in the bus 
+MOT	oh „ can you give Bert some kisses 
+MOT	what 
+CHI	kiss her too 
+MOT	make her go down here 
+MOT	that's a riding horse 
+MOT	hi 
+CHI	mommy 
+CHI	cookies 
+MOT	okay 
+MOT	are you gonna give her a ride in there too 
+MOT	look 
+CHI	dog 
+MOT	Rick who's this 
+CHI	 
+MOT	good boy 
+CHI	dog 
+CHI	no 
+CHI	play bus 
+MOT	are you tired  Rick 
+MOT	hm  
+MOT	look at the cars 
+MOT	oh  Danny's not in here Rick 
+CHI	it cook 
+CHI	Bert 
+MOT	Rick 
+CHI	Oscar 
+MOT	pound them down 
+MOT	that's a fence to keep the animals in 
+CHI	want Dan 
+MOT	good boy 
+MOT	there's your hammer 
+MOT	are you watching her 
+MOT	Rick look 
+CHI	want cookies 
+MOT	Rick 
+MOT	good talking Rick 
+MOT	Rick look 
+MOT	that's good picking them up 
+MOT	what are you doing Rick 
+CHI	need help 
+MOT	look 
+MOT	look 
+MOT	what are these Rick 
+MOT	oh  she fell out the other side 
+CHI	I want tv 
+MOT	wanna put these back in 
+MOT	good boy 
+MOT	good boy Rick 
+MOT	put her back in 
+CHI	want Dan 
+CHI	Oscar 
+CHI	 
+CHI	three 
+MOT	who's this 
+MOT	crank 
+MOT	Rick  who's this 
+MOT	she's such a good kitty 
+MOT	Rick look 
+MOT	yeah  sounds good huh  
+CHI	I want tv 
+MOT	come here 
+CHI	go to 
+CHI	want some ba  want bacon 
+MOT	Rick look 
+MOT	give her a ride 
+MOT	I found her 
+MOT	Rick look 
+CHI	want Dan 
+MOT	you want some bacon 
+MOT	do you like it 
+MOT	good boy 
+MOT	can you put the nails in 
+CHI	 
+MOT	make me some bacon for breakfast 
+MOT	touch your tummy 
+MOT	good 
+MOT	yeah  that's right 
+CHI	put back in 
+MOT	Rick come here 
+MOT	no  what's this over here  Rick 
+MOT	plop  
+MOT	Rick look 
+MOT	Rick 
+MOT	crank it up 
+MOT	what 
+MOT	oh  nice hugging the kitty 
+MOT	we can set it right up in here 
+MOT	you want more candy 
+CHI	want help 
+MOT	what happened 
+MOT	Rick  where are we going tonight 
+MOT	Rick come here 
+MOT	look 
+CHI	I want tv 
+MOT	good boy 
+CHI	kisses 
+CHI	Ernie 
+MOT	fish in the water  Rick 
+MOT	they're falling all over 
+MOT	Rick what's this 
+CHI	 
+MOT	here 
+CHI	pick up cow 
+MOT	whoops  
+CHI	house 
+MOT	look 
+MOT	isn't she cute 
+CHI	broken 
+MOT	gonna get you 
+MOT	no  it's not a dog 
+MOT	kittycat 
+CHI	I want tv 
+MOT	wanna kiss raccoon 
+MOT	see  she's wearing glasses 
+MOT	are you still talking 
+CHI	wind down 
+MOT	in the basket 
+CHI	chickens 
+MOT	Rick 
+MOT	who's that 
+MOT	Rick 
+MOT	come on sit up 
+MOT	there's another one  too 
+MOT	the handle 
+CHI	six 
+CHI	chicken 
+MOT	the train 
+MOT	oh  you hug nice 
+CHI	ears 
+CHI	no 
+MOT	those are skates 
+MOT	where's all our dishes 
+MOT	okay 
+CHI	oh  no 
+CHI	hang up phone 
+MOT	look 
+MOT	look 
+CHI	meow  
+MOT	what's that 
+MOT	down Rick's back 
+MOT	look 
+MOT	say spaghetti 
+MOT	that's Grover talking to you Rick 
+MOT	touch your ears 
+CHI	what 
+CHI	want help 
+CHI	what this 
+MOT	good boy 
+CHI	tellie 
+MOT	oh  no 
+CHI	cookie 
+MOT	and what are these little things in here 
+MOT	take the bear 
+CHI	want bacon 
+MOT	spaghetti 
+MOT	daddy's gonna come too 
+MOT	there she comes 
+MOT	nice kissing 
+MOT	what 
+MOT	huh  
+MOT	put them in 
+CHI	green 

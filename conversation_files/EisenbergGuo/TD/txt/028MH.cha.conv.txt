@@ -1,0 +1,194 @@
+participant	content
+INV	what's happening in the picture 
+INV	can you take a look 
+CHI	he's brooming  
+INV	what else is happening in this picture 
+CHI	there was cake 
+INV	and what's going to happen next 
+CHI	 it gets on the floor 
+INV	say that again 
+CHI	it gets on the floor  
+INV	tell me one more thing about the picture 
+CHI	  some people are walking in 
+INV	what's happening in the picture 
+CHI	 he is brooming  
+INV	what else is happening in this picture 
+CHI	he is a dog 
+CHI	the dog is calling “ruff” 
+INV	the dog is crawling what 
+CHI	up the tree  
+INV	they raked the leaves into a big pile 
+INV	what's going to happen next 
+CHI	he is going to sweep them 
+INV	tell me one more thing about the picture 
+CHI	 he is waving in to  is driving the car
+INV	what's happening in the picture 
+CHI	 the  
+INV	what else is happening in this picture 
+CHI	 that is their dog 
+INV	look the dog is in front of the bus 
+INV	and the bus can't move 
+INV	what's going to happen next 
+CHI	 they're going to pull him up 
+INV	tell me one more thing about the picture 
+CHI	 it's driving 
+INV	what's happening in the picture 
+CHI	the daddy is  
+INV	say that again 
+CHI	 he is looking  
+INV	who is looking in the mirror 
+CHI	my daddy  
+INV	the daddy okay 
+INV	what else is happening in this picture 
+CHI	 the shoe is on the wrong feet  on the wrong foot 
+INV	can you say that again 
+CHI	I say  
+INV	the girl and dog have the daddy's shoe 
+INV	and what's going to happen next 
+CHI	 I don't know  
+INV	and what is going to happen in just a little bit while 
+CHI	 she  
+INV	tell me one more thing about the picture 
+CHI	he  he is wearing a hat 
+INV	what's happening in the picture 
+CHI	 dad is toasting a  sandwich 
+INV	what else is happening in this picture 
+CHI	 she's yawning 
+INV	look the little girl is still in her pajamas 
+INV	what's going to happen next 
+CHI	she's yawning  
+INV	tell me one more thing about the picture 
+CHI	   
+INV	what's happening in the picture 
+CHI	mm  daddy is saying ssh 
+INV	say that again 
+CHI	the daddy is saying ssh 
+INV	just tell me what you see in the picture 
+CHI	 a girl  
+INV	what else is happening in this picture 
+CHI	 the daddy is saying ssh  
+INV	look the boy is taking his grandma's scissors 
+INV	what's going to happen next 
+CHI	 he  
+INV	and what is going to happen in just a little bit while 
+CHI	there's two  
+INV	say that again 
+CHI	there's  two guys in this picture 
+INV	tell me one more thing about the picture 
+CHI	the doggy is in it 
+INV	what's happening in the picture 
+CHI	 she is  falling 
+INV	what else is happening in this picture 
+CHI	the boy  
+INV	tell me what else you see in the picture 
+CHI	a girl blowing bubbles  
+INV	look the bubbles spilled 
+INV	what's going to happen next 
+CHI	 she's going to get them back in the box 
+INV	tell me one more thing about the picture 
+CHI	a bucket  water is  pouring
+INV	what's happening in the picture 
+CHI	a cat is in the tree 
+INV	what else is happening in this picture 
+CHI	a girl and boy think it's raining 
+CHI	and it is 
+INV	a girl and a boy think what 
+CHI	it's snowing  
+INV	look the children see the cat 
+INV	and the cat is stuck in the tree 
+INV	what's going to happen next 
+CHI	it's going to  
+INV	tell me one more thing about the picture 
+CHI	a tree is  
+INV	what's happening in the picture 
+CHI	 boy is ing in  a girl is trying to reach it 
+INV	the boy what 
+CHI	is trying to reach a cookie  
+CHI	and  the boy got a cookie in his hand 
+CHI	and the girl is trying to reach it 
+INV	what else is happening in this picture 
+CHI	 the water is falling out of the dishwasher  
+INV	look the water is spilling all over the floor 
+INV	what's going to happen next 
+CHI	  the momma is going to wipe it 
+INV	tell me one more thing about the picture 
+CHI	the mom is going to wipe it  
+INV	what's happening in the picture 
+CHI	he  
+INV	he's what 
+CHI	sitting in the back seat  
+CHI	not in the back seat the front seat  
+INV	what else is happening in this picture 
+CHI	two girls are in the  
+INV	tell me about what else you see in the picture 
+CHI	 a boy holding up a c_d  
+INV	holding a what 
+CHI	a c_d  
+INV	look the children are taking the donuts from the bag 
+INV	what's going to happen next 
+CHI	mm they're going to  
+INV	tell me one more thing about the picture 
+CHI	 he ate his donut 
+INV	what's happening in the picture 
+CHI	 he's trying to get one of them  
+CHI	but one of them are  
+INV	what else is happening in this picture 
+CHI	 he is picking out something 
+INV	look the boy knocked the boxes off the shelf 
+INV	what's going to happen next 
+CHI	he's going to  
+INV	tell me one more thing about the picture 
+CHI	 two girls in green are coming 
+INV	what's happening in the picture 
+CHI	he is grabbing the sandbucket from him 
+CHI	and he is grabbing the sandbucket from him  
+INV	good job 
+CHI	I think that's his sandbucket because [] he has orange hair 
+INV	good job [] 
+INV	what else is happening in this picture 
+CHI	the mom says “no” 
+INV	the boys are fighting 
+INV	and here comes the mom 
+INV	what's going to happen next 
+CHI	 they are going to grab it 
+INV	say that again 
+CHI	they are going to grab it  
+INV	tell me one more thing about the picture 
+CHI	there is a truck in it 
+INV	what's happening in the picture 
+CHI	a doggy is there 
+CHI	and   a boy is too 
+CHI	and a girl is too 
+INV	the dog is there 
+INV	and the boy what 
+CHI	is too  
+INV	what else is happening in this picture 
+CHI	a girl  and the dog spilled   water on the girl 
+INV	the dog spilled the water on the girl 
+INV	and what's going to happen next 
+CHI	I don't know  
+INV	what is going to happen in just a little bit while 
+CHI	 he's going to wipe  
+INV	tell me one more thing about the picture 
+CHI	a boy is in it 
+INV	what's happening in the picture 
+CHI	 the girl is running for  
+INV	what else is happening in this picture 
+CHI	he's bringing a thing for her 
+INV	the daddy is hiding a doll behind his back 
+INV	what's going to happen next 
+CHI	he's going to  
+INV	tell me one more thing about the picture 
+CHI	he's running from that house  
+INV	what's happening in the picture 
+CHI	 two girls are two one  one boy and one girl are fighting
+CHI	but two boys are fighting 
+CHI	look another girl  
+INV	what else is happening in this picture 
+CHI	two  
+INV	look the boys are throwing snowballs 
+INV	what's going to happen next 
+CHI	 they're going snowball fight  
+CHI	they are building a snowman 
+INV	tell me one more thing about the picture 
+CHI	he is shoveling 

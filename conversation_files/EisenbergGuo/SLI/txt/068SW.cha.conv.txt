@@ -1,0 +1,177 @@
+participant	content
+INV	what's happening in the picture 
+CHI	 
+INV	what else is happening in this picture 
+INV	tell me anything else about the picture 
+CHI	  the water's falling down 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy is trying to get the cookies and then  
+CHI	he's falling 
+INV	tell me one more thing about the story 
+CHI	he is  
+INV	what's happening in the picture 
+CHI	it's snowing 
+INV	what else is happening in this picture 
+CHI	they are  
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boys are throwing snowballs and then  
+INV	the boys are throwing snowballs 
+INV	and then what happens in the story 
+INV	tell me one more thing about the story 
+CHI	then they get  
+INV	what's happening in the picture 
+CHI	they're cutting  
+INV	they're cutting 
+INV	and tell me something else about the picture 
+INV	what else is happening in the picture 
+INV	okay I'll start the start the story 
+INV	and you finish it 
+INV	the boy is taking his grandma's scissors and then  
+CHI	 
+INV	tell me one more thing about the story 
+CHI	 he is   
+INV	what's happening in the picture 
+CHI	they're driving  
+INV	what else is happening in this picture 
+INV	tell me something else about the picture 
+INV	I'll start the start the story 
+INV	and you finish it 
+INV	the children are taking the donuts from the bag and then  
+CHI	they'll  
+INV	tell me one more thing about the story 
+CHI	 
+INV	what's happening in the picture 
+CHI	they play with bubbles 
+INV	what else is happening in this picture 
+CHI	they're spilling the  
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	oh no the bubbles spilled and then  
+INV	the bubbles spilled 
+INV	and then what happened 
+INV	tell me one more thing about the story 
+CHI	he's sitting 
+INV	what's happening in the picture 
+CHI	they're gonna buy a doll 
+INV	what else is happening in this picture 
+CHI	he's going to his abba 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the daddy is hiding a doll behind his back and then  
+INV	and then what happens 
+INV	look at the picture 
+INV	the abba is hiding a doll behind his back 
+INV	and then what happens 
+INV	tell me one more thing about the story 
+CHI	he's hiding    
+INV	what's happening in the picture 
+CHI	there's a fire dog 
+INV	what else is happening in this picture 
+CHI	there's a firetruck 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the dog is in front of the bus 
+INV	and the bus can't move and then  
+CHI	them  
+INV	tell me one more thing about the story 
+CHI	   the dog is    
+INV	what's happening in the picture 
+CHI	he   he's trying  
+INV	what's happening in the picture 
+CHI	him trying  
+INV	he's trying to get a box 
+INV	and what else is happening in this picture 
+CHI	it's falling 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the boy knocked the boxes off the shelf and then  
+INV	tell me one more thing about the story 
+CHI	it's falling  
+INV	what's happening in the picture 
+CHI	  
+INV	what else is happening in this picture 
+CHI	the dog is in the water 
+INV	the dog is in the water 
+CHI	yeah  
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the children are trying to wash the dog and then  
+CHI	it spilled 
+INV	tell me one more thing about the story 
+CHI	 the water is  
+INV	what's happening in the picture 
+CHI	the cat's trying to get down 
+INV	the cat's trying to get down 
+INV	and what else is happening in this picture 
+CHI	 the kid is standing 
+INV	the cat is what 
+CHI	 the   
+INV	standing 
+CHI	yeah  
+INV	now I'll start the start the story 
+INV	and you finish 
+INV	the children see the cat 
+INV	the cat is stuck up in the tree and then  
+CHI	 he is  
+INV	tell me one more thing about the story 
+CHI	he's falling 
+INV	what's happening in the picture 
+CHI	 the cake  
+INV	what else is happening in this picture 
+CHI	 the  the people are standing 
+INV	okay the people are standing 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	oh_no the dog same of the cake and then  
+CHI	he   he couldn't get it 
+INV	he couldn't get it 
+INV	and tell me one more thing about the story 
+CHI	 the dog  
+INV	what's happening in the picture 
+CHI	they're they're they're  
+INV	they're pouring 
+INV	what else is happening in this picture 
+CHI	them  not sharing
+INV	they're what 
+CHI	not sharing  
+INV	they're not sharing 
+INV	now I'll start the start the story 
+INV	and you finish 
+INV	the boys are fighting 
+INV	and here comes the mom and then  
+CHI	he's  
+INV	tell me one more thing about the story 
+CHI	the mom is coming 
+INV	what's happening in the picture 
+CHI	them 
+INV	what else is happening in this picture 
+CHI	squirrel  
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	they raked the leaves into a big pile and then  
+CHI	the girl is in the pile 
+INV	tell me one more thing about the story 
+CHI	the squirrel  
+INV	what's happening in the picture 
+CHI	 them  eating
+INV	what else is happening in this picture 
+CHI	the abba's toasting  
+INV	the abba's toasting 
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the little girl is still in her pajamas and then  
+CHI	he he  
+INV	tell me one more thing about the story 
+CHI	the abba's toasting  
+INV	what's happening in the picture 
+CHI	 the boy &I the abba's   the girls are trying to
+INV	what else is happening in this picture 
+CHI	 the girl's trying to  
+INV	now I'll start the start the story 
+INV	and you finish it 
+INV	the dog and the girl have the daddy's shoes and then  
+CHI	   
+INV	tell me one more thing about the story 
+CHI	 the boy's holding his  

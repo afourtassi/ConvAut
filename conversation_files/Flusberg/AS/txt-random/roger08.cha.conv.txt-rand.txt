@@ -1,0 +1,785 @@
+participant	content
+CHI	one  two  three  
+MOT	what do you wanna do 
+CHI	 hm  
+MOT	and you were 
+CHI	oh  yes or no 
+MOT	roger 
+MOT	fold your hands 
+MOT	what do you want 
+MOT	look at me 
+MOT	count the trucks 
+CHI	no 
+CHI	oh  diamond 
+CHI	where's the marbles  mamma 
+CHI	I need help please 
+MOT	where do you live 
+MOT	no  wanna play with the puzzle 
+MOT	you wanna play with the airplane 
+CHI	one  two  three  
+MOT	roger  get the teddybears 
+MOT	good boy 
+CHI	yes 
+CHI	stairs 
+MOT	what's it say 
+MOT	you're  are you being a bad boy 
+MOT	get me the red book on you desk 
+MOT	say hi to joy 
+MOT	what are you doing roger 
+MOT	no  put your feet down 
+CHI	go up 
+MOT	alright  put the color forms away 
+MOT	no  Cookie_Monster's eating icecream 
+CHI	one  two  three  four  five  six  
+CHI	you are lazy 
+CHI	I'm put my shirt on 
+MOT	boy  what are you doing roger 
+CHI	i see  
+MOT	give that to me 
+MOT	roger  look at me 
+MOT	you're a bad boy today 
+CHI	do wanna a play with 
+MOT	count them 
+MOT	this is really crazy 
+CHI	i  
+MOT	get the color forms 
+MOT	look 
+CHI	taking picture 
+MOT	no  what's daddy doing 
+CHI	I want go outside 
+MOT	put it right here 
+MOT	come here 
+MOT	come here 
+MOT	what school 
+CHI	setting 
+MOT	point to the yellow horse 
+MOT	no  I'm not gonna give it to you 
+MOT	roger get the color forms and give them to mama 
+CHI	I go swimming 
+MOT	stay right here 
+MOT	what 
+CHI	do you wanna look at a picture 
+MOT	roger  let's make the pattern 
+MOT	the fruit is 
+CHI	wanna look 
+CHI	fruit bar 
+MOT	are you a bad boy 
+MOT	start again 
+CHI	don't do that 
+MOT	for what 
+MOT	let's make the  do the pattern 
+CHI	yeah 
+MOT	don't 
+MOT	no 
+MOT	look at me 
+CHI	eight 
+CHI	I wanna a play with airplane 
+CHI	let me in 
+MOT	where does the chair go 
+CHI	a spoon 
+CHI	yellow  blue  green  blue  yellow 
+CHI	oh  green  green 
+CHI	a five  
+CHI	a  
+CHI	tree 
+CHI	fell 
+CHI	make it bigger 
+CHI	Laura l  
+MOT	no  put it on your desk 
+CHI	I am doing 
+MOT	no  Ann 
+CHI	yep 
+MOT	are you gonna be a good boy 
+MOT	let's see if we can do this 
+MOT	that's right 
+MOT	good boy 
+CHI	leave those 
+MOT	the chair's beside the what 
+MOT	roger  what are you doing 
+CHI	I'm playing marble 
+MOT	what do you say to Helen for the present 
+MOT	Laura 
+MOT	no  you needta come in here with the airplane 
+CHI	I make 
+CHI	I'm doing 
+CHI	I wanna ah   make a triangle  please 
+MOT	what do you wanna do 
+CHI	eat icecream 
+MOT	roger  who's that 
+CHI	i'm  I'm eating 
+MOT	make a triangle 
+MOT	oh  you did 
+MOT	no 
+MOT	and what's that 
+MOT	right there 
+MOT	okay  color 
+CHI	a Laurie_School 
+MOT	that's right 
+MOT	what are you gonna do there 
+MOT	five 
+MOT	does Ann take you swimming 
+CHI	  nice playing 
+MOT	that's right 
+MOT	no  that's wrong 
+CHI	come here 
+CHI	i see a fish and a yellow ball  
+CHI	mom  
+CHI	I am building 
+MOT	read the words 
+MOT	no that's wrong 
+MOT	now say it 
+MOT	okay roger 
+CHI	I'm looking a picture 
+CHI	yellow 
+MOT	no  who's that 
+MOT	that's right 
+MOT	what are you doing 
+CHI	I'm eat pancakes 
+CHI	it doctor 
+CHI	color I yellow 
+MOT	are you gonna color the rectangle 
+CHI	ow  
+CHI	yes 
+CHI	can you get this  
+MOT	give me the box 
+MOT	what am I doing 
+MOT	nope 
+CHI	where 
+CHI	oh  it spilt 
+CHI	  wednesday 
+CHI	hm  
+MOT	and what's that 
+MOT	point to the yellow car 
+CHI	I'm eating icecream 
+MOT	get the airplane and come back here 
+CHI	one  two  three  four  five  six  seven  eight  
+MOT	no 
+MOT	what am I doing 
+MOT	you are 
+MOT	don't rip them 
+CHI	mamma 
+MOT	oop  
+MOT	momma's not sure  but 
+CHI	yeah 
+CHI	it squeaking 
+CHI	nh  
+MOT	no 
+MOT	put the other ones away 
+MOT	roger  what's today 
+MOT	do you wanna play  Sesame_Street color forms 
+CHI	do I need help 
+MOT	where's the bed go 
+CHI	yellow car 
+MOT	that's wrong 
+CHI	 
+CHI	get  get I go to doctor 
+CHI	I'm spoon 
+MOT	put the chair 
+MOT	look 
+CHI	look 
+CHI	she 
+MOT	give me the red book 
+CHI	sunday  tuesdays  wed 
+MOT	you're being silly today 
+CHI	with Ann 
+CHI	you don't be silly 
+MOT	okay 
+MOT	say  I need help mama 
+MOT	come here 
+MOT	what's she doing 
+MOT	okay  pick them up and give them to me 
+MOT	what are you doing 
+MOT	come on 
+CHI	have some 
+MOT	ah oh  want a cup of coffee 
+CHI	do I need help 
+MOT	you wanna make it bigger 
+CHI	I making cross 
+CHI	diamonds  diamonds 
+CHI	yes or no 
+CHI	i'm going  I'm make a tower 
+MOT	where are you going 
+MOT	do it easy 
+MOT	what do you wanna work with 
+MOT	you're gonna go where 
+MOT	nice reading 
+CHI	no 
+CHI	spoon time 
+CHI	I wanna sing microphone 
+MOT	and what's that 
+MOT	roger you needta be quiet 
+MOT	what is today 
+CHI	down 
+MOT	no 
+MOT	what is it 
+CHI	I'm doing puzzle 
+CHI	give me that 
+MOT	no you're not 
+CHI	do want some fruit bar 
+CHI	 
+CHI	spilt 
+MOT	good  okay 
+MOT	Laura 
+CHI	nineteen eighty one 
+CHI	Melissa's went to the school 
+CHI	do the pattern 
+MOT	sit down please 
+MOT	are you  are you sick roger 
+MOT	here 
+MOT	you can set the table on your desk 
+MOT	it doesn't go there 
+MOT	that's nice sitting 
+CHI	a  
+CHI	out school 
+MOT	no  Ann's gone 
+MOT	you're bad boy roger 
+MOT	how many 
+CHI	I'm going  a General_Hospital 
+CHI	I need help mama 
+MOT	what's that 
+MOT	sit down 
+CHI	I want color please 
+CHI	and triangle pentagon 
+CHI	I'm doing 
+MOT	we needta stay in the house roger 
+CHI	purple  green  red 
+MOT	say  I'm building 
+CHI	a eight  
+MOT	numbers 
+CHI	I set the table 
+MOT	you put the chair on the stove 
+MOT	count them 
+MOT	oh  it's fixed 
+MOT	that's right 
+CHI	number 
+MOT	let's do it all over again 
+CHI	a three  
+MOT	you needta wait 
+MOT	what are you doing 
+MOT	when's your birthday 
+MOT	what do you do at the Boys_Club 
+CHI	Ann 
+CHI	school 
+MOT	get a puzzle 
+CHI	  
+MOT	alright  sit back 
+MOT	ah  be careful 
+MOT	number 
+MOT	that says snack time 
+CHI	go 
+MOT	can you count them 
+CHI	red 
+CHI	do wanna stick a microphone 
+MOT	oh  that's right 
+MOT	no  you put the microphone down 
+MOT	you eat 
+MOT	ask me 
+MOT	what do you wanna do 
+MOT	they're coming 
+CHI	fork 
+MOT	look 
+MOT	oh  let's see if we can 
+CHI	how was swimming at the Boys_Club 
+CHI	I did it 
+CHI	gonna get it 
+MOT	we can play a game roger 
+CHI	I'm opening the present 
+MOT	sing like this 
+MOT	roger what are you doing 
+CHI	after school tomorrow 
+CHI	do you wanna look out to the picture 
+CHI	i see a yellow horse  
+CHI	  
+CHI	 
+MOT	roger 
+CHI	yes you are 
+MOT	let's play with the teddybear counters 
+CHI	thank you Helen 
+MOT	okay  get your crayons 
+CHI	a pig 
+MOT	we're taking a picture of you roger 
+CHI	roger 
+MOT	what are you doing 
+MOT	roger  do you wanna play with the color forms 
+CHI	alright 
+CHI	get 
+MOT	get your crayons 
+MOT	do you wanna color 
+MOT	okay  there it is 
+MOT	do you wanna get the color forms 
+MOT	count the dolls 
+MOT	ah  
+MOT	what's this 
+CHI	you are lazy 
+MOT	it fell 
+CHI	Laurie_School 
+CHI	and name of boys  girl 
+MOT	that's right 
+MOT	let me see 
+MOT	what comes after tuesday 
+CHI	do you want a fixed 
+MOT	you do it 
+CHI	no 
+MOT	and give me the fork and the cup 
+CHI	I did 
+MOT	ah  roger what's this 
+MOT	do the puzzle 
+MOT	play with mommy 
+CHI	no 
+MOT	whose light 
+MOT	we can play house 
+CHI	look up 
+CHI	Lee_School 
+MOT	turn around 
+CHI	no 
+MOT	that's right 
+MOT	put them away 
+MOT	put it right here 
+MOT	say  yes 
+MOT	good boy 
+MOT	and you can color on the paper 
+MOT	you are 
+MOT	what's he doing 
+MOT	get the color forms 
+MOT	okay  bring your crayons and sit down 
+CHI	spoon 
+MOT	what are you gon  are you gonna make something 
+CHI	four hundred Beacon_Street 
+CHI	monday 
+MOT	what's it doing 
+CHI	roger 
+MOT	roger count the bicycles 
+CHI	get  get a fixed 
+MOT	to Helen 
+MOT	fold your legs 
+MOT	what's that 
+CHI	at school 
+MOT	no  say I'm opening the present 
+MOT	say 
+MOT	and it  and it's on the table 
+CHI	yep 
+MOT	count the dolls 
+MOT	get the Sesame_Street color forms and we can play 
+MOT	no  say wh  
+MOT	sit down 
+MOT	what do you want 
+MOT	you 
+MOT	why  what's the matter 
+CHI	three 
+MOT	oop  
+MOT	swallow that 
+CHI	gonna go to General_Hospital 
+MOT	put it right there 
+MOT	Melissa goes to school  that's right 
+CHI	Helen 
+MOT	that's right 
+MOT	what do you want 
+MOT	roger  what am I doing 
+CHI	i  
+MOT	okay 
+CHI	I want need help please 
+CHI	  
+MOT	no  you can't sing in the microphone 
+MOT	good reading 
+CHI	a four  
+MOT	roger  get the color forms 
+MOT	oh  you can have some later 
+MOT	where is it 
+CHI	a present 
+MOT	what are you doing 
+MOT	and what's this 
+CHI	in the bedroom 
+MOT	who's taking the picture 
+MOT	count the dolls 
+CHI	  give me 
+CHI	pool 
+MOT	no  you needta read 
+CHI	I'm want 
+MOT	no roger  you hafta put them on 
+CHI	taking the picture 
+MOT	are you lazy 
+MOT	who do you go swimming at the Boys_Club with 
+CHI	a light 
+MOT	go ahead 
+CHI	look up 
+MOT	no  right here 
+CHI	General_Hospital 
+MOT	roger  where's daddy 
+MOT	you're being silly 
+MOT	no  Laura_Lee 
+MOT	  turn around 
+MOT	where's daddy 
+CHI	you eat 
+CHI	do wanna a play 
+MOT	ooo  no  you did it all by yourself 
+CHI	doll 
+MOT	roger  put the fruit on the table 
+MOT	no  no 
+CHI	Helen and the 
+MOT	sit down roger 
+MOT	find the eight 
+CHI	yeah 
+CHI	I'm want  hafta 
+CHI	yeah 
+MOT	what's tomorrow 
+CHI	saturday 
+MOT	roger  put the chair 
+CHI	diamonds 
+CHI	hi 
+CHI	I'm putting color forms away 
+CHI	knife time 
+MOT	what are you doing 
+CHI	Ann take you swim 
+CHI	yeah 
+CHI	and the cup 
+CHI	play play play play  play 
+CHI	I am fixeding 
+MOT	what are you doing 
+CHI	do you wanna make a triangle 
+CHI	circle 
+CHI	oh ouch  
+MOT	roger look 
+CHI	I'm looking 
+MOT	that's better 
+MOT	say  I play color forms 
+MOT	roger  look 
+MOT	come here 
+MOT	what's the matter with you 
+CHI	sticky 
+CHI	ah  
+MOT	get the color forms 
+MOT	okay  put the puzzle away and get the color forms 
+MOT	what do you wanna play with 
+CHI	hm  
+CHI	I am play color forms 
+CHI	leave them a   lone 
+MOT	ah oh  it's snack time 
+MOT	good boy 
+MOT	okay  go to the hospital 
+MOT	let's do some counting 
+CHI	I making circle 
+MOT	look 
+MOT	okay  but you hafta stay in this room with the airplane 
+MOT	ask me 
+MOT	today is 
+MOT	oh  look what Helen has 
+CHI	green feet 
+MOT	put your hands down please 
+CHI	yellow horse 
+MOT	put it beside the table 
+CHI	one  two  three  four  five  six  seven  
+CHI	oh oh  
+MOT	sit up 
+CHI	one  two  one  two  
+CHI	alright 
+MOT	get Cookie_Monster 
+CHI	nine 
+CHI	it dropped 
+CHI	blue 
+MOT	okay  put the color forms on 
+MOT	no that's wrong 
+MOT	what do you say to Helen for the present 
+MOT	okay  there you go 
+CHI	hold 
+MOT	wow  
+CHI	want a get a green 
+MOT	okay 
+MOT	roger  what's that 
+MOT	say i want  I want 
+MOT	bring the whole box roger 
+CHI	I'm do the puzzle 
+MOT	you dropped it 
+CHI	mamma 
+CHI	right 
+MOT	where's all the pieces roger 
+CHI	I'm taking all m  
+MOT	no 
+MOT	the lau  
+CHI	do you like a spoon 
+CHI	a nine  
+MOT	get the color forms  and then you can go outside 
+MOT	roger look 
+CHI	school 
+MOT	oop  what are you doing 
+CHI	it's swimming 
+MOT	you needta get the color forms first 
+MOT	roger  you made a mess 
+MOT	get the teddybear box 
+MOT	no  what am I doing 
+MOT	yes  you are 
+CHI	it's 
+CHI	get a go with doctor airplane 
+MOT	what do you do at the Boys_Club 
+MOT	who's this 
+CHI	I wanna go outside please 
+MOT	sit down 
+CHI	daddy outside 
+MOT	good job 
+MOT	no  you needta look at Helen 
+CHI	yes or no 
+CHI	I'm eat 
+MOT	what do you want the doctor for 
+MOT	roger  how old are you 
+MOT	look at me 
+MOT	yes  you needta put 
+CHI	look up 
+MOT	say 
+CHI	look quick 
+MOT	come over here 
+CHI	I'm got chair 
+CHI	let's play go 
+CHI	do you want a fix 
+MOT	give me the box  please 
+CHI	Laurie_School 
+MOT	okay  let go 
+MOT	okay 
+MOT	oop  that's wrong 
+MOT	ah  what did you do 
+CHI	do a pattern 
+CHI	no 
+MOT	you needta stay right here though 
+MOT	okay  let go of the marble 
+MOT	no  what's daddy doing outside 
+CHI	on the  on the table 
+CHI	one  two  three  four  
+CHI	do wanna color 
+MOT	roger  what are you doing 
+CHI	yeah 
+CHI	I'm fell 
+CHI	make a block 
+MOT	say  don't do that mama 
+CHI	don't do that mom 
+MOT	nice building 
+CHI	tuesday 
+CHI	hi joy 
+MOT	do you wanna read 
+MOT	what 
+CHI	Laurie_School 
+MOT	oop  what are you doing 
+MOT	roger  what do you wanna do 
+MOT	what happened 
+MOT	okay 
+MOT	let's play with the marble 
+CHI	one  
+CHI	i see a yellow car and a boy  
+MOT	say it right 
+MOT	no  do you wanna play with a puzzle 
+CHI	I want crayon please 
+CHI	gonna go to General_Hospital 
+MOT	he's fixing the 
+CHI	there 
+CHI	  
+MOT	oh  okay 
+CHI	and a boy  
+MOT	what do you want 
+MOT	do you wanna color later 
+MOT	roger come here 
+CHI	it lost the chairs 
+CHI	joy 
+CHI	see 
+CHI	I want color please 
+MOT	what are you doing 
+CHI	I don't wanna  play with table 
+CHI	swal 
+MOT	how many 
+MOT	what school do you go to 
+CHI	do you wanna make a triangle 
+MOT	no  ask me 
+MOT	good boy 
+MOT	look 
+CHI	a ten  
+MOT	what are you doing 
+CHI	I'm play with cup 
+MOT	do you wanna do some counting 
+MOT	what's joy doing 
+MOT	in the desk 
+MOT	wait 
+CHI	I am play color forms 
+MOT	say  give the crayon 
+MOT	ask me for the 
+CHI	look 
+MOT	thank you Helen 
+CHI	June first 
+CHI	no  give me 
+MOT	and the 
+MOT	no  she 
+MOT	what's he doing 
+MOT	where do you live 
+MOT	what does roger do in school 
+CHI	wanna  wawa  
+MOT	no  you needta play on the floor  so we can see Helen 
+MOT	no 
+CHI	six  
+CHI	yeah 
+CHI	can I hafta make a triangle please 
+CHI	circle 
+CHI	I'm opening the present 
+CHI	give me 
+MOT	very good 
+CHI	I am singing 
+MOT	no  what's joy doing 
+CHI	oh  
+MOT	I think it's stuck 
+MOT	roger  are you gonna do the puzzle 
+MOT	roger  put it in here 
+MOT	look at that 
+MOT	come here 
+CHI	do you like a knife 
+MOT	wh  what do you wanna do 
+CHI	one  two  three  four  five  
+MOT	do it fast 
+MOT	that's wrong 
+MOT	here 
+CHI	color 
+MOT	I want crayon please 
+MOT	you needta put the chair beside the 
+MOT	play with the Sesame_Street color forms 
+MOT	in the bedroom 
+CHI	one  two  three  four  five  six  
+MOT	no  that's wrong 
+CHI	no 
+MOT	say  I go swimming 
+MOT	and do what 
+CHI	snack time  
+MOT	alright  give me the plate 
+MOT	how old are you 
+CHI	n n n  
+CHI	do want color afternoon 
+MOT	put it down on the floor 
+CHI	tables 
+MOT	can you sing the song 
+MOT	I don't know 
+CHI	quick 
+MOT	no  it's not gonna come through roger 
+CHI	fix those chairs 
+MOT	what does Melissa do in school 
+CHI	it color a rectangle 
+MOT	come here 
+MOT	listen 
+CHI	General_Hospital 
+MOT	roger 
+MOT	no  joy is taking the picture 
+MOT	do you wanna go outside and play 
+CHI	give me a crayon 
+MOT	say I'm setting the table 
+MOT	what are you gonna make 
+MOT	what city 
+MOT	get the 
+MOT	in the desk 
+CHI	Ma  marbles are coming 
+CHI	Helen and the present 
+MOT	what's this 
+CHI	Cookie_Monster 
+CHI	get a go doctor's 
+CHI	I'm put those 
+MOT	say  yes I do 
+MOT	do you wanna do some reading 
+MOT	nope  what's this 
+MOT	say 
+MOT	what are you doing 
+MOT	roger 
+MOT	well  you needta work first  and then you can go outside 
+MOT	you needta be a good boy 
+CHI	circle 
+MOT	are you being a bad boy 
+MOT	point to the yellow horse 
+CHI	light 
+MOT	what do you say 
+MOT	get the color forms for mama 
+MOT	and point to three 
+MOT	the marbles are coming 
+CHI	I'm coloring 
+CHI	Lowel_Mass 
+MOT	that's right 
+MOT	what are you doing 
+CHI	I want play truck please 
+MOT	hold this 
+MOT	oop  say 
+CHI	it's stucky 
+MOT	are you gonna do the puzzle 
+MOT	do you wanna play with the puzzle 
+CHI	stuck 
+MOT	wanna play with your color forms 
+MOT	what's this 
+CHI	do you want cup of coffee 
+MOT	what else 
+MOT	I did it 
+MOT	look 
+MOT	that's right 
+MOT	say I need help please 
+MOT	do you wanna go on a swing 
+MOT	okay here's your crayon 
+MOT	Roger's not going outside 
+MOT	monday  tuesday  
+CHI	Laura_Lee_School 
+CHI	marble 
+CHI	tower 
+MOT	that's right 
+CHI	make something 
+MOT	no  he's fixing the p  
+CHI	and paper 
+CHI	I'm doing 
+MOT	look at Helen 
+CHI	green 
+CHI	leave them a   lone 
+MOT	what are you doing 
+CHI	do a Laurie_School 
+MOT	get the color forms 
+CHI	school 
+MOT	okay 
+MOT	sit down 
+MOT	sit down 
+MOT	tell Helen 
+MOT	sit  and I'll open it 
+MOT	who's taking pictures 
+CHI	five years old 
+CHI	roger 
+MOT	roger 
+MOT	alright  come in here 
+CHI	let me 
+MOT	you needta ask me 
+MOT	sit up 
+MOT	what's this 
+MOT	what are you doing 
+MOT	come over here now roger 
+MOT	roger  do you wanna do some counting 
+CHI	sit 
+CHI	i'm making  I am eating cookies 
+MOT	oh  
+MOT	that's right 
+MOT	say  I play with cup 
+MOT	point to the boy 
+MOT	what are you doing 
+MOT	no  that's wrong 
+MOT	this is the bedroom 
+MOT	he's a bad boy 
+MOT	it's a knife 
+MOT	what color is that 
+MOT	okay 
+CHI	where 
+CHI	boy 
+MOT	mommy doesn't know how to do this too good  huh  
+MOT	thank you 
+CHI	thank you 
+MOT	leave them alone 
+CHI	bed go in the room 
+MOT	roger  are you lazy 
+MOT	okay 
+MOT	what do you wanna do 
+CHI	I want a  a swing please 
+CHI	I'm make a marble 
+CHI	here 
+MOT	okay 
+MOT	no  what are you doing 
+MOT	that's right 
+MOT	no who's that 
+CHI	a number four 
+MOT	put the puzzle away and get your crayons 
+MOT	where'd it go 
+MOT	stand up 
+MOT	okay 
+MOT	you're not going outside 
+MOT	what goes in here 
+MOT	what's he doing 
+MOT	what are you doing roger 
+MOT	okay 

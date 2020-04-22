@@ -1,0 +1,189 @@
+participant	content
+INV	what's happening in the picture 
+CHI	they're raking  
+INV	what else is happening in this picture 
+CHI	they're raking leafs 
+INV	they raked the leaves into a big pile 
+INV	and what's going to happen next 
+CHI	thee  this is the snow 
+CHI	this is snow  
+INV	no that's grass 
+INV	so what will happen next 
+CHI	 is not this grass 
+CHI	see  
+CHI	it's white 
+CHI	grass is grass is grass is  grass is green 
+CHI	grass is green  
+CHI	snow is white 
+CHI	grass is green  
+INV	tell me one more thing about the picture 
+INV	tell me one more thing 
+CHI	her  in
+CHI	why  
+CHI	why  
+CHI	why putting leafs in  
+INV	what's happening in the picture 
+CHI	dad's looking in the mirror 
+INV	what else is happening in this picture 
+CHI	the girl's  daddy's shoes 
+INV	okay 
+CHI	the girl have  
+INV	the dog and the girl have the daddy's shoes 
+INV	and what's going to happen next 
+CHI	why why are  
+CHI	why are  
+INV	I don't know 
+INV	tell me one more thing about the picture 
+CHI	 the  his tie back
+INV	what's happening in the picture 
+CHI	they're having the cake 
+INV	what else is happening in this picture 
+CHI	it's a dog under the  couch 
+CHI	why is the mother angry  
+CHI	why is the mother angry  
+INV	let's see 
+INV	oh_no the dog ate some of the cake 
+INV	what's going to happen next 
+INV	the dog ate some of the cake 
+INV	what's gonna happen in just a little while 
+CHI	  they all came in from the door 
+INV	tell me one more thing about the picture 
+CHI	the  
+INV	what 
+CHI	cake is on the table  
+INV	what's happening in the picture 
+CHI	playing her's coloring her's coloring her's coloring  her's
+INV	what else is happening in this picture 
+CHI	him's  
+INV	the boy is taking his grandma's scissors 
+INV	and what's going to happen next 
+INV	the boy is taking his grandma's scissors 
+INV	and what's going to happen in a little while 
+CHI	her's  
+INV	tell me one more thing about the picture 
+CHI	 
+INV	what's happening in the picture 
+CHI	water's he's  he he's knock  he is all muddy 
+INV	what else is happening in this picture 
+CHI	he's blowing  the bubbles 
+INV	oh_no the bubbles spilled 
+INV	what's going to happen next 
+CHI	 the wagon the wagon  the wagon is messy 
+INV	tell me one more thing about the picture 
+CHI	hm  the water spilled 
+INV	what's happening in the picture 
+CHI	 
+INV	what else is happening in this picture 
+CHI	they're mad 
+INV	the little girl is still in her pajamas 
+INV	and what's going to happen next 
+CHI	mom's gonna be so angry 
+INV	tell me one more thing about the picture 
+CHI	her  
+INV	what's happening in the picture 
+CHI	 they are gonna shop 
+CHI	and  and  spilled 
+INV	what else is happening in this picture 
+CHI	they're gonna  
+INV	what 
+CHI	 also 
+INV	the boy knocked the boxes off the shelf 
+INV	and what's going to happen next 
+CHI	 they are so angry 
+INV	tell me one more thing about the picture 
+CHI	they're going shopping for food 
+INV	what's happening in the picture 
+CHI	the dog's  on the branch 
+INV	what else is happening in this picture 
+INV	the children see the cat 
+INV	the cat is stuck up in the tree 
+INV	and what's going to happen in a little while 
+CHI	the cat is gonna fall off the tree 
+INV	tell me one more thing about the picture 
+INV	tell me one more thing about the picture 
+INV	what's happening in the picture 
+CHI	the girl  
+INV	what else is happening in this picture 
+CHI	her  going to her
+INV	the daddy is hiding a doll behind his back 
+INV	and what's going to happen next 
+CHI	her's  
+INV	tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+INV	what's happening in the picture 
+CHI	her  
+INV	what else is happening in this picture 
+CHI	dog  the water 
+INV	so the dog spilled the water 
+INV	and what's going to happen in just a little while 
+INV	tell me anything else you see in the picture 
+INV	what's happening in the picture 
+CHI	 it has the   flood 
+INV	what else is happening in this picture 
+CHI	 
+INV	the boy is trying to get the cookies 
+INV	what's going to happen next 
+CHI	 a flood  
+INV	okay 
+CHI	hey what is that water coming down  
+INV	I think it has too much water 
+INV	look the water is spilling all over the floor 
+INV	what is going to happen next 
+CHI	her  
+INV	tell me one more thing about the picture 
+INV	look tell me one more thing about the picture 
+CHI	  on the chair and getting a
+INV	what's happening in the picture 
+CHI	 her  has  
+INV	what else is happening in this picture 
+CHI	the mommy is driving  
+INV	the mommy is driving 
+INV	and the children are taking the donuts from the bag 
+INV	what's going to happen next 
+CHI	her's  
+INV	tell me one more thing about the picture 
+CHI	her's  
+INV	what's happening in the picture 
+CHI	her's  
+INV	what 
+CHI	the doggy's behind the bus  
+INV	what else is happening in this picture 
+CHI	what they are doing  
+INV	you hafta tell me 
+INV	what are they doing 
+CHI	I don't know  
+INV	tell me about what you see in the picture 
+INV	the dog is in front of the bus 
+INV	and the bus can't move 
+INV	what's going to happen next 
+CHI	I don't know  
+INV	the dog is in front of the bus 
+INV	and the bus can't move 
+INV	what is going to happen in just a little bit while 
+CHI	the bus is gonna crash into the dog 
+INV	tell me one more thing about the story 
+CHI	it's raining on the bus  
+INV	what's happening in the picture 
+CHI	it's snowing 
+CHI	they're punching  
+INV	what else is happening in this picture 
+CHI	 
+INV	tell me about what else you see in the picture 
+CHI	a snowman  
+INV	the boys are throwing snowballs 
+INV	what's going to happen next 
+CHI	a snowman  
+INV	tell me one more thing about the story 
+CHI	shoveling  
+INV	just tell me anything else you see in the picture 
+CHI	snow  
+INV	what's happening in the picture 
+CHI	they're fighting 
+INV	they are fighting 
+INV	what else is happening in this picture 
+CHI	he  
+INV	the boys are fighting and the mom says stop 
+INV	what's going to happen next 
+CHI	it spilled 
+INV	tell me one more thing about the picture 
+CHI	the sand spilled 

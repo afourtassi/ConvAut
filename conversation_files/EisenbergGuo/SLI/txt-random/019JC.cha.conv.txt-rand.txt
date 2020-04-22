@@ -1,0 +1,225 @@
+participant	content
+CHI	a doggy is  
+CHI	they go  to eat 
+CHI	and her  
+INV	oh_no the dog ate some of the cake 
+INV	her what 
+CHI	it's gonna spill 
+INV	say that again 
+INV	I'm sorry 
+INV	what else is happening in this picture 
+CHI	they are crawling 
+CHI	a doggy  
+INV	what else is happening in this picture 
+INV	what's happening in the picture 
+INV	what 
+CHI	they have a her has a he have a him and her him her  him
+CHI	a girl is  
+CHI	her 
+CHI	they throwing them  
+CHI	that guy put a mask on  
+INV	the children see the cat 
+CHI	scared  
+INV	what's happening in the picture 
+INV	and the bus can't move 
+INV	tell me one more thing about the picture 
+CHI	they are fighting  
+INV	tell me one more thing about the picture 
+INV	what else is happening in this picture 
+INV	and here comes their mom 
+INV	throwing them 
+INV	tell me one more thing about the picture 
+INV	what else is happening in this picture 
+INV	what else is happening in this picture 
+CHI	her  
+CHI	her  
+CHI	it's  it's running 
+INV	what's happening in the picture 
+INV	what else is happening in this picture 
+INV	just tell me anything you see in the picture 
+CHI	he's looking in the mirror 
+INV	what's going to happen next 
+INV	what's happening in the picture 
+CHI	her  
+CHI	her  
+CHI	her  break
+INV	and what's going to happen next 
+INV	they are fighting 
+INV	tell me one more thing about the picture 
+MOT	okay 
+CHI	her gonna  
+INV	tell me one more thing about the picture 
+CHI	it make  
+INV	tell me one more thing about the picture 
+INV	say that again 
+INV	what 
+INV	what else is happening in this picture 
+CHI	a firefighter is  
+CHI	he has a present and her 
+MOT	the little girl has a hat on 
+INV	they what snowballs 
+CHI	they are smiling 
+INV	and what's going to happen next 
+INV	say that again 
+INV	what's going to happen next 
+INV	say that again 
+MOT	is that what you're saying 
+CHI	a firefighter is gonna come  
+MOT	a little girl hat on 
+CHI	it's snowing 
+CHI	a  coming out of the
+CHI	her  
+INV	what else is happening in this picture 
+INV	say it again 
+CHI	and the steps are  go  
+CHI	and it's try  get the
+CHI	her  
+CHI	and the floor is  
+CHI	I put this down  
+INV	the children are taking the donuts out of the bag 
+CHI	a a  
+INV	the boys are throwing snowballs 
+CHI	a fire dog  
+INV	what else is happening in this picture 
+INV	what else is happening in this picture 
+CHI	they try they   they  
+MOT	okay 
+CHI	he 
+INV	what's happening in the picture 
+INV	the dog is in front of the bus 
+CHI	they are making a  
+INV	what's happening in the picture 
+INV	throwing them okay 
+CHI	her  
+INV	what's happening in the picture 
+CHI	her 
+INV	the cat is stuck up in a tree 
+CHI	they are  
+INV	tell me one more thing about the picture 
+CHI	her  her daddy's
+INV	just tell me anything else about the picture 
+CHI	a  to
+CHI	they are  
+INV	her happy 
+INV	and what's going to happen next 
+CHI	they are sitting in a car 
+INV	say that again 
+INV	they raked the leaves into a big pile 
+CHI	her  
+INV	the boy knocked the boxes off the shelf 
+CHI	and he's  one 
+CHI	they have the seatbelt on  
+CHI	 
+INV	the dog and the girl have the daddy's shoes 
+CHI	and that's they  
+INV	they try what 
+CHI	he's digging 
+INV	what else is happening in this picture 
+CHI	it's try  
+INV	the children are trying to wash the dog 
+INV	what's happening in the picture 
+CHI	in trouble  
+CHI	her  
+INV	her saying stop 
+INV	and what's going to happen next 
+CHI	they are gonna get hurt  
+INV	the daddy is hiding a doll behind is back 
+INV	what's happening in the picture 
+CHI	it's  it's scared 
+CHI	and he is making a  
+INV	they what 
+CHI	her  
+CHI	a birthday cake is breaking  
+INV	what's happening in the picture 
+INV	just tell me one more thing about the picture 
+INV	just tell me anything else about the picture 
+INV	what 
+INV	they try  
+INV	what else is happening in this picture 
+CHI	he got a   cookie 
+CHI	her 
+INV	say that again 
+INV	it's what 
+CHI	running  
+CHI	her  
+INV	just tell me anything you see in the picture 
+CHI	they are  
+CHI	and her  
+CHI	her  
+CHI	a little boy  
+CHI	that guy put a mask on  
+CHI	her  
+CHI	they're falling down 
+CHI	her  putting leafs in the garbage
+INV	tell me one more thing about the picture 
+INV	a cat in what 
+CHI	a  
+INV	and what's going to happen next 
+INV	and what's going to happen next 
+INV	tell me one more thing about the picture 
+INV	what's happening in the picture 
+INV	her driving okay 
+INV	oh_no the bubbles spilled 
+CHI	they has  
+INV	tell me one more thing about the picture 
+CHI	a car  
+INV	and what's going to happen next 
+INV	what's happening in the picture 
+INV	tell me one more thing about the picture 
+INV	what's happening in the picture 
+INV	and what's going to happen next 
+CHI	he try  
+INV	oh her has a hat on okay 
+CHI	they are fighting 
+INV	tell me one more thing about the picture 
+INV	what else is happening in this picture 
+INV	and what's going to happen next 
+CHI	a   
+INV	sorry 
+CHI	it's gonna go way up  up to the ceiling 
+INV	what 
+INV	the water is coming out of the sink 
+INV	the boys are fighting 
+INV	what will happen in just a little bit while 
+INV	what else is happening in this picture 
+CHI	a  
+INV	say that again 
+INV	say that again 
+CHI	 
+CHI	that water  
+INV	what 
+INV	what 
+CHI	to get them  
+INV	a cat in trouble okay 
+INV	and what's going to happen next 
+INV	what else is happening in this picture 
+CHI	 they have safetybelt  
+INV	what's happening in the picture 
+INV	what else is happening in this picture 
+CHI	they're do  
+CHI	they got  he's got scissors 
+INV	and what's going to happen next 
+CHI	and he  
+CHI	  he has a cake 
+INV	her try to break it 
+INV	what 
+MOT	her try to break it 
+CHI	her  
+INV	tell me one more thing about the picture 
+INV	tell me one more thing about the picture 
+INV	tell me one more thing about the picture 
+CHI	 
+INV	and what's going to happen next 
+INV	and what's going to happen next 
+CHI	her  
+INV	the little girl is still in her pajamas 
+CHI	her has  
+CHI	he is driving 
+MOT	throwing them 
+INV	he gonna hug her 
+CHI	her  
+CHI	 
+CHI	they 
+INV	what's happening in the picture 
+INV	say that again 
+INV	the boy is taking the grandma's scissors 

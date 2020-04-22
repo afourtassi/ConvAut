@@ -1,0 +1,648 @@
+participant	content
+MOT	roger 
+CHI	stairs 
+MOT	roger  you need some help 
+CHI	blue 
+CHI	go swimming 
+MOT	roger 
+MOT	you hafta open it 
+MOT	you're all done 
+MOT	let's put her in the car 
+MOT	a blue block 
+CHI	wa  water in her shoes 
+MOT	that's an astronaut 
+MOT	put it in the garage 
+CHI	time to go swimming 
+MOT	nope 
+MOT	she has water in her shoes 
+MOT	roger 
+CHI	go swimming in the water 
+CHI	come on shine 
+MOT	it's stuck somewhere 
+CHI	hi David 
+CHI	four million five hundred twenty three thousand twenty nine 
+MOT	let's give My_Buddy a bath 
+MOT	you hafta work 
+MOT	what's that 
+MOT	he's cold 
+MOT	that's right 
+MOT	look at me 
+CHI	no more Mickey_Mouse 
+MOT	you hafta put his pants on 
+CHI	I want 
+MOT	get My_Buddy 
+CHI	water in her shoes 
+MOT	roger  in the basket 
+MOT	time to close the doors 
+MOT	roger 
+MOT	what's this 
+MOT	what do you want 
+MOT	she can swim now 
+CHI	I want Mickey_Mouse please 
+CHI	  
+MOT	no 
+MOT	do this 
+CHI	 
+CHI	yes 
+MOT	oh  
+CHI	yellow 
+MOT	do this 
+MOT	what's this 
+MOT	come here 
+CHI	not a kick 
+CHI	go swimming 
+MOT	roger 
+MOT	see you 
+MOT	he's not peeling 
+MOT	in the bag 
+CHI	no more Mickey_Mouse 
+MOT	what do you want 
+MOT	roger 
+CHI	it's Aaron 
+MOT	put strawberry to bed 
+MOT	we're gonna give him a bath 
+MOT	roger  is she swimming 
+CHI	Dunkin donuts 
+MOT	oh  
+MOT	look at me 
+MOT	no 
+CHI	I see you 
+CHI	you're welcome 
+CHI	take a kaka 
+CHI	it is a duck 
+CHI	go swimming 
+CHI	I want Mickey_Mouse 
+MOT	good asking 
+CHI	present 
+CHI	I want open it 
+MOT	thank you 
+MOT	look at me 
+MOT	good boy 
+MOT	roger 
+CHI	I want Mickey_Mouse 
+MOT	do this 
+MOT	get My_Buddy 
+CHI	I want 
+CHI	go swimming in the pool 
+CHI	he go swimming 
+CHI	get the bridge 
+MOT	get the horse 
+CHI	dog 
+MOT	you're making mountains 
+CHI	hi 
+MOT	come here 
+CHI	it's time to Etch_A_Sketch 
+MOT	put his shirt on 
+CHI	yellow 
+MOT	thank you 
+MOT	look at me 
+MOT	ooh  
+MOT	what do you need 
+MOT	here comes the truck 
+CHI	one  
+MOT	thank you 
+CHI	airplane 
+CHI	I want Mickey_Mouse 
+MOT	that's right 
+MOT	mommy hasta open it 
+MOT	let's get My_Buddy dressed 
+CHI	swimming 
+MOT	do this 
+CHI	hey  Mickey_Mouse 
+MOT	what do you say 
+MOT	sit down 
+MOT	you're nice and quiet roger 
+MOT	look at me 
+CHI	up 
+MOT	stand up 
+CHI	I want go swimming 
+MOT	okay 
+MOT	do this 
+MOT	sit up 
+MOT	do you need help 
+CHI	I don't want Mickey_Mouse 
+CHI	go see Ann 
+MOT	roger 
+MOT	give me Mickey_Mouse 
+MOT	what is it 
+MOT	roger 
+CHI	yellow 
+MOT	oh  
+CHI	get the Mickey_Mouse 
+CHI	puzzle 
+CHI	go swimming 
+MOT	what 
+MOT	roger 
+CHI	good_night 
+CHI	water in her shoes 
+MOT	it's time to work 
+CHI	I 
+MOT	you're washing his tummy 
+MOT	touch your head 
+CHI	I want see you later 
+MOT	wait a minute 
+MOT	what do you want 
+MOT	pull them up 
+MOT	oop  
+CHI	I wanna go see sue 
+CHI	go swim 
+CHI	I want take a shirt off 
+CHI	I want Mickey_Mouse 
+MOT	that's right 
+CHI	I want 
+CHI	blue 
+CHI	helicopter 
+CHI	hat 
+MOT	thank you 
+CHI	they're dancing 
+MOT	give me the Etch_A_Sketch 
+CHI	have 
+MOT	sit down 
+MOT	making pop 
+CHI	gone to bed 
+CHI	no go see Ann 
+MOT	get My_Buddy's pants on 
+MOT	put the pieces in 
+CHI	bridge 
+MOT	roger 
+CHI	moon 
+MOT	what do you say 
+CHI	good_night 
+MOT	what are you doing 
+MOT	put that down 
+CHI	go swim 
+CHI	go swimming 
+MOT	do this 
+CHI	nose 
+CHI	frog 
+CHI	yes 
+MOT	he's dancing 
+CHI	you're welcome 
+CHI	nose 
+CHI	oop  
+MOT	have you lost interest in that 
+CHI	 
+MOT	you hafta put his shirt on 
+MOT	where's strawberry 
+CHI	hi 
+MOT	what do you need 
+CHI	time to go swimming 
+MOT	give him a bath 
+MOT	look at me 
+MOT	oh  let's put his clothes on  he's cold 
+CHI	Etch_A_Sketch 
+MOT	roger look at me 
+MOT	you hafta ask 
+CHI	yellow 
+CHI	make a kick 
+MOT	do Big_Bird 
+CHI	mouth 
+MOT	sit up 
+CHI	and 
+MOT	roger 
+MOT	no 
+MOT	let's put strawberry to bed  roger 
+MOT	roger 
+CHI	I want 
+MOT	what's your name 
+MOT	that's nice asking 
+CHI	blue 
+MOT	you made a stair 
+CHI	microphone 
+MOT	you hafta ask me 
+MOT	no 
+CHI	blue  blue 
+CHI	and 
+MOT	what's your phone number 
+MOT	no 
+MOT	get the truck 
+MOT	play with the truck  roger 
+MOT	put the pieces in 
+CHI	air 
+CHI	head 
+MOT	that's wrong 
+MOT	put your hands down 
+CHI	gone to bed 
+CHI	I want Mickey_Mouse 
+CHI	thank you 
+MOT	roger 
+CHI	red 
+MOT	put the house away 
+CHI	frog 
+CHI	Mickey_Mouse 
+MOT	okay 
+MOT	what's Mickey_Mouse doing 
+MOT	roger 
+MOT	sit down 
+CHI	duck 
+MOT	roger 
+CHI	say thank you 
+CHI	it's coming 
+MOT	roger 
+CHI	airplane 
+CHI	jump 
+MOT	you're building a bridge 
+CHI	no  
+MOT	you hafta put the pieces in 
+MOT	put the house away 
+MOT	roger 
+MOT	get the bridge 
+CHI	that's all 
+MOT	what's he gonna do 
+MOT	roger 
+MOT	okay 
+CHI	making a stairs 
+MOT	what do you want 
+MOT	what's he doing 
+MOT	popped 
+MOT	no 
+CHI	thank you 
+MOT	mom can't do it either  roger 
+CHI	give me the airplane 
+CHI	 
+MOT	open the garage 
+MOT	put the pieces in 
+MOT	roger 
+MOT	roger 
+MOT	that's right 
+MOT	roger 
+CHI	come on shine 
+MOT	roger 
+CHI	I want Mickey_Mouse please 
+MOT	give me the Etch_A_Sketch 
+MOT	that's wrong 
+CHI	you're pushing 
+CHI	pushing 
+CHI	Roger_Davidson 
+MOT	we hafta build a car roger 
+CHI	need help 
+CHI	woppy  go under a bridge 
+MOT	get My_Buddy 
+CHI	wanna sit on a horse 
+MOT	he's all done swimming 
+CHI	close your nose 
+CHI	horsie 
+CHI	come here  roger 
+MOT	roger 
+CHI	I want 
+MOT	oops  
+MOT	what are you making 
+MOT	nice taking the shirt off roger 
+MOT	popped 
+MOT	look at me 
+MOT	what do you say 
+MOT	that's wrong 
+MOT	let's wash his face 
+MOT	look at me 
+CHI	bag 
+MOT	that's wrong 
+CHI	take a kaka 
+CHI	bath 
+CHI	go swimming 
+MOT	this is the garage 
+CHI	wash his face 
+MOT	take his shirt off 
+MOT	roger 
+CHI	I want fish 
+CHI	I want Mickey_Mouse 
+CHI	and kick 
+CHI	stairs 
+CHI	duck 
+CHI	making pop 
+CHI	 
+MOT	good boy 
+CHI	look_it  I'll be right back 
+MOT	give to mama 
+MOT	let's give him a bath 
+MOT	give it to mom 
+MOT	it did it 
+MOT	what's that 
+CHI	I want Mickey_Mouse 
+MOT	good asking 
+MOT	roger 
+MOT	My_Buddy's going swimming 
+CHI	blue red 
+CHI	go swimming 
+MOT	you're making a car 
+MOT	but that's a submarine 
+MOT	take his clothes off 
+MOT	okay 
+CHI	 
+CHI	take off a shoes 
+CHI	no more slide 
+MOT	come here 
+CHI	go in the car 
+MOT	do you want Strawberry_Shortcake 
+MOT	what are you making 
+MOT	roger 
+CHI	go swimming 
+MOT	in the basket 
+CHI	open it 
+MOT	roger  give me the airplane 
+MOT	roger 
+CHI	not rain 
+MOT	she's in the water 
+MOT	what's your name 
+MOT	good asking 
+CHI	I want helicopter 
+CHI	pop 
+MOT	look at me 
+MOT	let's do Big_Bird 
+CHI	I want 
+CHI	I won't go swimming 
+CHI	water in her shoes 
+MOT	roger 
+CHI	got a booboo 
+CHI	you're welcome 
+MOT	roger 
+MOT	what do you want 
+MOT	good asking 
+MOT	roger 
+CHI	doorbell 
+CHI	they're dancing 
+CHI	I wanna go see sue 
+MOT	what's she doing 
+CHI	leave the stairs alone 
+MOT	he's gonna jump on you 
+MOT	give him a bath 
+MOT	hands down 
+CHI	good 
+CHI	take pants 
+MOT	do this 
+MOT	what's that 
+CHI	I want house please 
+CHI	leave the stairs alone 
+CHI	woppy  go under a bridge 
+CHI	come on  
+CHI	in basket 
+MOT	it's time to put his clothes on 
+CHI	need help 
+MOT	build the car 
+MOT	where's strawberry 
+MOT	no  that's a dog 
+MOT	that's right 
+MOT	take his pants off 
+CHI	 
+MOT	put My_Buddy's shirt on 
+MOT	roger 
+CHI	airplane 
+CHI	no slide 
+CHI	time for Etch_A_Sketch 
+CHI	you're welcome 
+MOT	you can play with Mickey_Mouse later 
+MOT	that's wrong 
+CHI	go up the bridge 
+MOT	make a car 
+CHI	no play 
+MOT	time to get up strawberry 
+MOT	that's wrong 
+CHI	no 
+CHI	do Big_Bird 
+CHI	go swimming in the pool 
+MOT	what do you want 
+MOT	oh  
+MOT	good boy 
+MOT	what do you need 
+MOT	oh  the doorbell 
+MOT	give My_Buddy a bath 
+CHI	oops  
+MOT	it's time for Etch_A_Sketch 
+MOT	look at me 
+MOT	what do you say 
+CHI	stairs 
+CHI	need help 
+CHI	David home 
+CHI	it's a dog 
+CHI	water in her shoes 
+MOT	take her shoes off 
+CHI	airplane 
+CHI	and peeling 
+CHI	wash his face 
+CHI	nose 
+MOT	come here  roger 
+MOT	you're looking at Mickey_Mouse 
+CHI	okay   
+MOT	that's right 
+MOT	that's wrong 
+MOT	do you need help 
+MOT	put that down 
+MOT	that's a frog 
+MOT	what's this 
+MOT	it's a present 
+MOT	you hafta wait 
+MOT	oh  let's wake her up 
+CHI	 
+MOT	who's there 
+MOT	you hafta wait 
+CHI	here comes some truck 
+CHI	eyes 
+MOT	roger  look 
+MOT	where's David 
+MOT	you took off his sock 
+MOT	look at me 
+CHI	blue 
+CHI	take a clothes off 
+MOT	good_night 
+CHI	Mick 
+MOT	thank you 
+CHI	I want Mickey_Mouse 
+CHI	duck 
+MOT	no 
+MOT	roger 
+MOT	here 
+CHI	here 
+CHI	it's Aaron 
+CHI	and to kick 
+CHI	hot 
+MOT	oh  it's a horsie 
+MOT	what's he doing 
+CHI	go swimming 
+MOT	what do you need 
+MOT	good asking 
+MOT	what do you want 
+MOT	you hafta ask 
+MOT	no it's not raining 
+MOT	good boy 
+CHI	 Ann 
+CHI	I want 
+MOT	what are you doing 
+MOT	roger 
+CHI	no slide 
+MOT	roger 
+MOT	okay 
+CHI	it's time to work 
+MOT	what do you want 
+MOT	roger 
+MOT	put her in bed 
+MOT	no  that's wrong 
+MOT	look at me 
+MOT	roger 
+MOT	hi David 
+MOT	that's right 
+CHI	swimming in the water 
+CHI	wanna go swimming 
+CHI	I don't wanna go swimming 
+MOT	hi Christine 
+CHI	 
+MOT	okay 
+MOT	oh  
+CHI	where's the blue go 
+MOT	no more Mickey_Mouse 
+MOT	what are you doing 
+MOT	roger 
+MOT	roger 
+MOT	what do you need 
+MOT	he's gonna 
+CHI	I wanna go swimming 
+MOT	she's sleeping 
+CHI	here comes the truck 
+MOT	he's dirty 
+MOT	give to mom 
+MOT	won't budge 
+MOT	you're not in a hurry  are you 
+CHI	where's the truck 
+MOT	roger 
+CHI	jump 
+MOT	roger 
+CHI	got dirty 
+CHI	go swimming 
+MOT	do the puzzle 
+CHI	time put shoes on 
+MOT	that's it 
+MOT	okay 
+MOT	what's this 
+CHI	blue 
+CHI	good_night strawberry 
+MOT	no 
+CHI	you're welcome 
+MOT	where's strawberry 
+CHI	need  need help 
+CHI	eyes 
+MOT	no 
+MOT	oh  
+MOT	roger 
+CHI	I want Etch_A_Sketch 
+CHI	water in her shoes 
+MOT	no 
+CHI	no play with sue 
+CHI	I wanna to go see Ann 
+MOT	get My_Buddy 
+CHI	I want 
+CHI	go swimming 
+MOT	nice buddy 
+MOT	roger 
+CHI	you can play with Mickey_Mouse 
+CHI	I want airplane 
+MOT	give to mommy 
+MOT	put that down 
+MOT	what do you want 
+CHI	I want Mickey_Mouse 
+CHI	good_night 
+CHI	go swimming 
+MOT	you say thank you 
+MOT	put it in the garage 
+CHI	rain 
+MOT	come in 
+CHI	yellow 
+CHI	need help 
+MOT	roger 
+MOT	get the horse 
+MOT	roger 
+CHI	no play 
+MOT	roger 
+MOT	give Mickey_Mouse to mom 
+MOT	good_night 
+MOT	what's this 
+MOT	time to go swimming 
+CHI	I wanna go swimming 
+CHI	whoa  
+CHI	it's coming 
+MOT	oop  
+MOT	one time 
+MOT	let's give him a bath 
+CHI	it's Christine 
+CHI	get the Mickey_Mouse 
+MOT	come here 
+CHI	pull off shorts 
+CHI	go swimming 
+CHI	 
+CHI	go to sleep 
+MOT	sit 
+CHI	see you later 
+CHI	 
+MOT	give it to mom 
+CHI	pancakes 
+MOT	that's right 
+CHI	need help 
+MOT	it's a frog 
+MOT	roger no 
+MOT	you're welcome 
+CHI	you're pushing 
+MOT	hi Aaron 
+MOT	put his shirt on 
+MOT	that's wrong 
+MOT	what's that 
+CHI	 all_gone 
+MOT	a dog 
+CHI	making a blue stairs 
+MOT	what are you doing 
+CHI	I want Mickey_Mouse 
+CHI	you're jumping 
+MOT	look at me 
+MOT	roger 
+MOT	what do you need 
+MOT	sit 
+MOT	let's do Kermit 
+MOT	roger 
+CHI	what's that 
+CHI	water in 
+MOT	get the truck 
+MOT	what do you want 
+CHI	duck 
+MOT	okay 
+MOT	put her to bed 
+CHI	  
+MOT	put his pants on roger 
+CHI	needta open it 
+MOT	good boy 
+MOT	and the yellow blocks 
+CHI	I want Mickey_Mouse 
+CHI	have   eye 
+MOT	what's he doing 
+MOT	what's he doing 
+CHI	sit on the horsie 
+MOT	oh  
+MOT	what's Mickey_Mouse doing 
+CHI	water in her shoes 
+MOT	stand up 
+MOT	look at me 
+CHI	and go pee_pee 
+MOT	that's right 
+MOT	okay 
+CHI	submarine 
+CHI	need help 
+CHI	it turn to rain 
+MOT	let's give him a bath 
+CHI	give him a bath 
+MOT	there's the house 
+MOT	get strawberry 
+CHI	got a booboo 
+MOT	what's your name 
+MOT	roger 
+MOT	it's time to play with the puzzles 
+MOT	it's time to build the car 
+MOT	you want house 
+CHI	sit down the horsie 
+MOT	okay 
+MOT	turn around 
+MOT	play with the truck 
+CHI	I want take his shirt off 
+CHI	  
+CHI	wanna jump 
+MOT	ask me 
+MOT	he's doing magic 
+CHI	   
+MOT	that was 
+CHI	I wanna go swimming 
+MOT	the stairs are all_gone 
+MOT	shake it up 

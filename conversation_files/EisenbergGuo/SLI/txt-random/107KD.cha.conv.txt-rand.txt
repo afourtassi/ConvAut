@@ -1,0 +1,441 @@
+participant	content
+CHI	 
+CHI	boy  
+INV	they throw 
+CHI	say tree cat  
+INV	what the tree 
+INV	very good 
+CHI	snow  
+CHI	cooking  
+INV	now I'll start the start the story 
+INV	broom that's right 
+INV	okay 
+INV	wash the dog 
+CHI	then  
+INV	and you finish it 
+CHI	then  
+CHI	banana  
+INV	she's crying 
+INV	give them to you 
+INV	that's right good job 
+INV	she's holding that 
+INV	I'm sorry 
+INV	very good job 
+INV	she has her hands out like this 
+INV	and you finish it 
+INV	okay good 
+INV	he's happy 
+INV	and tell me one more thing about the story 
+CHI	mom  
+INV	and you finish it 
+INV	alrighty good 
+INV	what's happening in the picture 
+INV	the picture what 
+INV	snow that's right 
+INV	this one the boy 
+INV	and tell me one more thing about the story 
+INV	okay good job 
+INV	the picture girl 
+INV	what is happening in the picture 
+INV	and you finish it 
+CHI	she is  
+INV	good 
+INV	what is happening in the picture 
+INV	good job 
+INV	then hug good 
+INV	what is happening in the picture 
+INV	he's holding up the donut right 
+INV	what did you say 
+INV	this 
+CHI	this  
+INV	what is happening in the picture 
+CHI	he's happy 
+INV	tree cat okay good 
+CHI	cake  
+CHI	scissors  
+CHI	he's mad  
+CHI	banana eat  
+INV	what is happening in the picture 
+INV	and then  
+CHI	it's messy 
+CHI	catch  
+CHI	hugging  
+INV	boy 
+INV	crying 
+INV	and then  
+INV	and tell me one more thing about the story 
+INV	okay good 
+CHI	oh this is  
+INV	what is the girl doing 
+INV	okay what else is happening in the picture 
+CHI	pajama  
+CHI	 [] 
+CHI	then  
+INV	is that what you said hugging 
+INV	the water stopped 
+INV	she's okay 
+CHI	broom  
+INV	what'd you say 
+INV	walking 
+CHI	he's mad [] 
+INV	yes there are apples 
+INV	water 
+CHI	the daddy  
+INV	father eat 
+CHI	she get  
+INV	gave to you okay good 
+INV	okay good job 
+INV	what else is happening in the picture 
+CHI	nothing  
+CHI	grah  
+CHI	they're pushing  
+INV	actually  
+INV	he is mad very good job 
+CHI	they're blowing  
+INV	very good 
+INV	the boy knocked the boxes off the shelf and then  
+INV	and you finish it 
+INV	and tell me one more thing about the story 
+CHI	picture  
+CHI	picture  
+CHI	picture  
+INV	and tell me one more thing about the story 
+INV	and tell me one more thing about the story 
+INV	tell me something else about the picture 
+CHI	the picture   
+INV	and you finish it 
+INV	they do look mad 
+INV	then go 
+INV	what 
+CHI	eat  
+INV	and tell me one more thing about the story 
+INV	she get up 
+CHI	that is  
+CHI	 
+INV	now I'll start the start the story 
+INV	what 
+INV	okay great 
+INV	they throw 
+CHI	they fall down 
+INV	hugging 
+INV	now I'll []   
+INV	oh_no the bubbles spilled and then []  
+INV	give it to you 
+INV	what is that 
+INV	they're blowing 
+CHI	stop  
+INV	what did you say 
+CHI	then they're pushing  
+CHI	the girl is  
+INV	okay good 
+INV	okay very good 
+INV	and you finish it 
+INV	what fall down 
+CHI	it's eat  
+INV	okay good 
+INV	the dog and the girl have daddy's shoes and then []  
+INV	what else is happening in the picture 
+INV	hm 
+CHI	hugging  
+CHI	hugging  
+INV	okay 
+INV	just tell something about the picture 
+INV	and you finish it 
+CHI	this the boy  
+CHI	tree cat  
+INV	now I'll start the start the story 
+INV	what else is happening in the picture 
+INV	cooking 
+CHI	the mommy  
+INV	oh they're walking again 
+INV	she run again 
+INV	what is happening in the picture 
+INV	good 
+INV	good job with that picture 
+CHI	wash the dog 
+INV	he's mad that's right 
+CHI	finish  
+INV	catch 
+INV	then they're this 
+CHI	she is  
+CHI	they blow  
+INV	above his head 
+INV	tell me one more thing about the story 
+INV	good 
+INV	alright very good 
+CHI	picture  
+INV	let's look 
+INV	and tell me one more thing about the story 
+INV	grr 
+INV	sit down 
+INV	tell me something about the picture 
+INV	they raked the leaves into a big pile and then  
+CHI	the daddy  
+CHI	finish  
+INV	okay what else is happening in this picture 
+CHI	bag  
+INV	now I'll start the start the story 
+INV	okay 
+INV	now I'll start the start the story 
+CHI	is happening picture  
+CHI	then  
+INV	and then  
+INV	that's right good 
+INV	okay good 
+CHI	father eat  
+CHI	then cat go tree  
+INV	oh_no the dog ate some of the cake 
+INV	the mommy good job 
+INV	this girl right here 
+CHI	he's crying  
+INV	they throw bubbles 
+CHI	it's make  
+CHI	walking  
+CHI	is happen picture  
+CHI	picture picture  
+CHI	then  
+INV	and tell me one more thing about the story 
+INV	they're pushing 
+INV	what else is happening in the picture [] 
+INV	this dirty 
+CHI	tree  
+INV	and then  
+CHI	okay  
+CHI	the bubble  
+INV	and you finish it 
+INV	okay very good 
+CHI	the picture cry  
+INV	what's happening in the picture 
+INV	like a bear 
+INV	alrighty 
+INV	she has her arm up like this right 
+CHI	 
+CHI	yes crying  
+INV	okay 
+INV	and here comes the mom 
+INV	and you finish it 
+INV	what's happening in the picture 
+INV	what did you say 
+CHI	then they fall down 
+INV	and tell me one more thing about the story 
+CHI	then they're alright 
+INV	and you finish it 
+INV	what else is happening in this picture 
+INV	mom 
+CHI	that  
+CHI	picture  
+INV	the children are trying to wash the dog 
+CHI	then   
+CHI	banana eat  
+CHI	back  
+INV	now I'll start the start the story 
+CHI	give to you  
+CHI	above his head  
+CHI	 
+INV	just tell something about the picture 
+INV	what did you say 
+CHI	the bus  
+INV	mhm 
+CHI	happen picture  
+INV	okay I'll start the start the story and you finish it 
+CHI	she  
+INV	okay so the boy this 
+INV	what is happening in the picture 
+CHI	 
+CHI	this  
+CHI	these are apples 
+INV	good job 
+INV	alrighty 
+INV	what else is happening in this picture 
+INV	he's mad 
+INV	stop 
+CHI	the boy  
+INV	now I'll start the start the story 
+CHI	is happening  
+INV	okay good 
+INV	very good 
+INV	the children see the cat 
+INV	lookit again 
+INV	and you finish it 
+CHI	the daddy  
+CHI	they're  
+INV	he's what 
+INV	the girl  
+INV	okay very good 
+INV	good job 
+INV	then they're what 
+INV	and then  
+INV	this one 
+CHI	happening  
+INV	okay good 
+CHI	 
+INV	the dog is in front of the bus 
+CHI	banana  
+CHI	boy  
+INV	she running that's right 
+CHI	cry  
+INV	now I'll start the start the story 
+INV	okay good 
+CHI	it's picture  
+CHI	shoes  
+INV	the boy what 
+INV	the cat is stuck up in the tree 
+INV	alrighty good 
+INV	the girl okay good 
+CHI	they blow bubble  
+INV	oh okay 
+INV	the girl hugging 
+INV	banana eat 
+INV	and then  
+CHI	 front  
+INV	alright good job 
+INV	and tell me one more thing about the story 
+CHI	they fall down tree  
+INV	good story 
+INV	cooking okay 
+INV	now I'll start the start the story and you finish it 
+INV	what is happening in the picture 
+CHI	story  
+INV	the daddy 
+INV	tell me one more thing about the picture 
+INV	okay [] good 
+INV	the boy the bear 
+INV	the boys are fighting 
+CHI	ba  
+INV	now I'll start the start the story 
+INV	okay 
+CHI	grr  
+CHI	water  
+INV	what else is happening in the picture 
+INV	good job 
+INV	and then  
+INV	bamada 
+CHI	the picture fall  
+INV	now I'll start the start the story 
+INV	what else is happening in the picture 
+INV	okay good 
+INV	happy 
+INV	they shovel 
+CHI	it's  
+CHI	picture 
+CHI	then  
+INV	and you finish it 
+CHI	girl  
+INV	what is happening in the picture 
+CHI	they shovel  
+INV	just tell something about the picture 
+CHI	tree  
+INV	tell me something else about the picture 
+INV	now I'll start the  []  
+CHI	she is  
+CHI	they trying to bring the  
+INV	and tell me one more thing about the story 
+INV	what else is happening in this picture 
+INV	eat 
+CHI	the picture  
+CHI	then   
+CHI	bubbles spilled  
+INV	banana 
+CHI	he's happy  
+INV	the daddy is hiding a doll behind his back 
+INV	grr 
+INV	okay good 
+CHI	she cut it 
+INV	the cake is messy good job 
+INV	okay good 
+CHI	this one  
+INV	good good job 
+CHI	they're looking  
+INV	now I'll start the start the story 
+INV	and then  
+INV	the children are taking the donuts from the bag 
+CHI	they blow bubbles  
+INV	good job 
+CHI	yeah  
+CHI	the doggy  
+INV	now I'll start the start the story 
+INV	say tree cat 
+CHI	he's mad 
+CHI	  
+CHI	she run  
+CHI	snowballs  
+INV	very good job with that picture 
+CHI	she  
+INV	and the bus can't move and then  
+INV	he's mad too 
+INV	good 
+CHI	picture  
+CHI	he's mad too 
+INV	is that what you said 
+CHI	the picture  
+INV	the bus 
+INV	okay good 
+CHI	they shovel  
+INV	what is that 
+CHI	  
+INV	okay good 
+INV	alright 
+CHI	boy  
+INV	okay good 
+INV	what else is happening in this picture 
+INV	the boy is trying to get the cookies and then  
+CHI	picture 
+INV	and tell me one more thing about the story 
+INV	very good 
+CHI	wash the dog  
+INV	what did you say 
+INV	okay fall down 
+INV	okay alright good 
+CHI	picture  
+CHI	that's  that's  
+INV	what else is happening in the picture 
+INV	the  the boys are throwing snowballs 
+INV	happy 
+CHI	again  
+INV	okay what else is happening in the picture 
+INV	okay 
+INV	what did you say first 
+INV	just tell me something else about the picture 
+CHI	she  
+CHI	she is holding  
+CHI	then  the girl  
+CHI	then  happy  
+INV	okay good 
+INV	fall down tree 
+INV	good 
+INV	good and tell me one more thing about the story 
+INV	good job 
+CHI	the  tree
+INV	tree 
+INV	and then  
+INV	what else is happening in the picture 
+INV	what is happening in the picture 
+CHI	this  
+INV	alright I'm gonna []  
+INV	okay can you tell me what else is happening in this picture 
+INV	okay good 
+CHI	then  
+CHI	yeah  
+CHI	the boy the bear  
+INV	very good 
+CHI	this girl  
+CHI	cat  
+CHI	he's mad  
+INV	now I'll start the start the story 
+CHI	picture  
+CHI	there's  this boy this girl  this boy  
+CHI	bubbles  
+CHI	he's happy  
+CHI	this one  
+CHI	he's [] crying 
+INV	now I'll start the start the story 
+INV	okay 
+CHI	story  
+CHI	yes crying  
+INV	what's happening in the picture 
+INV	and you finish it 
+INV	he's what 
+INV	the little girl is still in her pajamas 
+INV	what is happening in the picture 
+INV	alright good job 
+INV	the boy is taking his grandma's scissors 
