@@ -1,0 +1,1336 @@
+participant	content
+MOT:	Ben and Denise .
+MOT:	yup , make the puzzle .
+MOT:	a wrench .
+MOT:	you did a good job .
+CHI:	<one , two , three> [/?] .
+CHI:	cellar .
+CHI:	Chef_Brocket .
+MOT:	can you count them ?
+MOT:	good boy .
+MOT:	no touch .
+MOT:	need help ?
+CHI:	watermelon .
+MOT:	put nose on , good boy .
+CHI:	take it off .
+MOT:	turn the key .
+MOT:	they didn't ?
+CHI:	open .
+MOT:	Rick look .
+CHI:	bring it .
+MOT:	it's a puzzle .
+CHI:	light .
+CHI:	little card .
+MOT:	who's holding the stocking ?
+MOT:	oh , Rick look .
+CHI:	lunch over .
+MOT:	make one what ?
+MOT:	poor kitty .
+CHI:	Potato_Head .
+MOT:	it goes this way .
+MOT:	get down here .
+CHI:	yes .
+CHI:	sit down .
+CHI:	I do .
+MOT:	what's this down here though ?
+MOT:	Rick look .
+MOT:	presents under the tree ?
+MOT:	can you play it loud ?
+MOT:	yes , he's making toys +/.
+MOT:	what do you wanna do now ?
+CHI:	stocking .
+CHI:	take a fence a off .
+MOT:	okay .
+MOT:	try to find nine .
+CHI:	piece .
+CHI:	five [/?] .
+MOT:	green eyes .
+CHI:	cakes gone .
+MOT:	good .
+MOT:	who's Ben watching with ?
+CHI:	no .
+MOT:	whoops [/?] .
+MOT:	okay .
+CHI:	yes .
+MOT:	yeah .
+CHI:	put doors on .
+MOT:	okay .
+MOT:	okay .
+MOT:	oh , Rick , these are nice .
+CHI:	yes .
+MOT:	Rick .
+MOT:	where is it ?
+CHI:	no .
+MOT:	that's nice .
+MOT:	what big card Rick ?
+CHI:	popcorn .
+CHI:	boots .
+MOT:	do you need help ?
+MOT:	you don't ?
+CHI:	five ears .
+MOT:	six lemons .
+MOT:	<one , two , three , four , five , six , seven , eight , nine ,
+CHI:	oh , .
+MOT:	good .
+MOT:	watch .
+MOT:	yeah .
+MOT:	yes .
+CHI:	one .
+MOT:	what's this ?
+MOT:	what number ?
+MOT:	when do we turn them on Rick ?
+CHI:	mustache .
+MOT:	good boy .
+CHI:	yes .
+MOT:	good boy .
+MOT:	do you like cake ?
+CHI:	christmas .
+MOT:	<four , five> [/?] .
+MOT:	huh [/?] ?
+MOT:	no .
+MOT:	what's that Rick ?
+MOT:	good boy Rick .
+MOT:	you're okay .
+CHI:	stocking .
+MOT:	okay .
+MOT:	Rick , what are those ?
+MOT:	four [/?] .
+CHI:	make a He_Man ?
+CHI:	hello there .
+MOT:	do you like these ?
+MOT:	that's a red hat .
+CHI:	xxx .
+CHI:	find six .
+CHI:	head put boots on .
+MOT:	<one , two , three> [/?] .
+MOT:	sit down Rick .
+CHI:	see , got in kindergarten .
+MOT:	find two .
+MOT:	good boy .
+MOT:	and look .
+CHI:	sew it .
+MOT:	oh , those are her shoes .
+CHI:	kitty+cat on .
+CHI:	get a wheels .
+CHI:	hurt yourself .
+CHI:	wrong way .
+CHI:	find nine .
+CHI:	pears .
+CHI:	antenna .
+MOT:	no , Ben's watching .
+MOT:	there he is , look .
+CHI:	put away .
+MOT:	what does mommy keep in the cellar ?
+MOT:	you can do it .
+MOT:	okay find ten .
+MOT:	find number five .
+MOT:	Potato_Head wants to go to the movies ?
+MOT:	and the dryer .
+CHI:	kitty+cat xxx .
+MOT:	mhm [/?] .
+MOT:	seven tomatoes .
+CHI:	<one , two , three , four , five , six> [/?] .
+CHI:	kitty+cat tie a shoes .
+MOT:	who made that ?
+MOT:	what are these ?
+MOT:	oops [/?] .
+CHI:	<three , four , five , six , seven> [/?] .
+MOT:	what's this ?
+MOT:	do you need help ?
+CHI:	socks .
+MOT:	look at this one .
+MOT:	or plain ?
+MOT:	ask me .
+MOT:	it's bells .
+CHI:	tie a fence .
+CHI:	no .
+CHI:	five .
+MOT:	good job .
+CHI:	find two .
+CHI:	piece .
+CHI:	I .
+MOT:	say yes .
+CHI:	big card .
+CHI:	found it .
+MOT:	those are nice , huh [/?] ?
+CHI:	popcorn .
+MOT:	no , those aren't apples .
+CHI:	donuts .
+CHI:	no .
+MOT:	oops [/?] .
+MOT:	he's next to the car , Rick .
+MOT:	did he take his clothes off ?
+MOT:	what do you wanna do Rick ?
+MOT:	find five .
+CHI:	kitty+cat got hurt .
+CHI:	a fence .
+MOT:	yeah .
+MOT:	alright .
+CHI:	it's green .
+MOT:	isn't that nice ?
+CHI:	Chef_Brocket .
+MOT:	good job , Rick .
+MOT:	oh , that looks like a fence , huh [/?] Rick ?
+CHI:	broken .
+MOT:	Ben's watching it .
+MOT:	what color ?
+CHI:	move it .
+MOT:	he can't ride with his shoes .
+MOT:	you need some help ?
+MOT:	good boy .
+MOT:	good boy .
+MOT:	Rick , look .
+CHI:	xxx <on , on> [/?] on .
+CHI:	poor kitty .
+CHI:	put bag in .
+CHI:	find two .
+MOT:	let's make the puzzles .
+CHI:	Santa treats .
+MOT:	you're playing the drums .
+MOT:	there we go .
+MOT:	and then we can draw whatever we wanna .
+CHI:	gone .
+CHI:	dryer .
+CHI:	make at school .
+CHI:	three [/?] .
+MOT:	come here .
+CHI:	erase this .
+CHI:	shut off tv .
+CHI:	a piece .
+CHI:	make one .
+CHI:	broken .
+MOT:	a big square white head .
+MOT:	what else ?
+MOT:	how many ?
+MOT:	with your steering wheel .
+MOT:	okay .
+CHI:	wrong way .
+MOT:	it looks good .
+MOT:	okay .
+CHI:	oh , <one , two> [/?] +/.
+CHI:	door knob .
+CHI:	make a xxx ?
+MOT:	okay .
+MOT:	Rick , you needta stay over here , honey .
+MOT:	good boy Rick .
+MOT:	who built this Rick ?
+CHI:	no swimming in .
+CHI:	help please .
+MOT:	what's this ?
+MOT:	where's kitty ?
+CHI:	piece .
+MOT:	do you know what these are ?
+CHI:	can fit .
+MOT:	put them down here .
+MOT:	find the number one .
+CHI:	there's one .
+MOT:	and the boiler is over here where we get the heat .
+MOT:	can you find number two ?
+MOT:	say hello .
+CHI:	kitty+cat put on shoe .
+MOT:	good boy .
+MOT:	did you hurt yourself ?
+MOT:	big wheels and little wheels .
+MOT:	see , and you just slip it in .
+MOT:	that's right .
+MOT:	good boy .
+MOT:	when it gets dark ?
+MOT:	that's okay .
+MOT:	oh , those are good .
+MOT:	Rick .
+MOT:	mhm [/?] .
+MOT:	what else should we make ?
+CHI:	c@l .
+MOT:	good boy Rick .
+CHI:	they didn't eat .
+MOT:	yay [/?] .
+MOT:	tie the shoe Rick .
+MOT:	alright .
+MOT:	kiss him .
+CHI:	help please .
+MOT:	good job !
+MOT:	is the kitty+cat on camera ?
+MOT:	don't touch .
+MOT:	soft .
+CHI:	<one , two> [/?] .
+MOT:	Rick , are [/?] they watching tv ?
+CHI:	draw c@l .
+CHI:	eat [/?] eat .
+CHI:	what's this ?
+MOT:	oops [/?] .
+MOT:	what happened ?
+MOT:	is Denise watching tv ?
+MOT:	who do I love ?
+MOT:	yup .
+MOT:	nice taking the shoes off .
+CHI:	bag [/?] bag ?
+CHI:	present .
+CHI:	Ben's .
+MOT:	oh , you pushing him out the window ?
+CHI:	warm hat .
+MOT:	turn on the fire engine .
+MOT:	do you know what that is Rick ?
+MOT:	good .
+CHI:	He_Man take a clothes off .
+CHI:	board .
+MOT:	kiss .
+MOT:	alright , put these right here .
+CHI:	hi .
+CHI:	kitty+cat put a shoes on ?
+CHI:	tie .
+MOT:	Rick , look .
+CHI:	jingle bell .
+MOT:	yes .
+CHI:	kitty+cat .
+MOT:	is Santa gonna bring you some new presents ?
+MOT:	good boy .
+CHI:	what put the cellar ?
+CHI:	it can found it .
+CHI:	kitty+cat .
+CHI:	Potato_Head put eyes on .
+CHI:	shut off the tv .
+CHI:	make one .
+MOT:	that's better .
+MOT:	do you see number four ?
+MOT:	we had popcorn at the movies .
+CHI:	make one , big one .
+CHI:	big card .
+CHI:	kitty+cat ?
+CHI:	make one .
+CHI:	xxx walk .
+MOT:	nope Rick look .
+MOT:	doesn't it ?
+CHI:	it can fit .
+CHI:	cherrys .
+MOT:	good boy Rick .
+MOT:	where did you make that ?
+MOT:	yup .
+MOT:	mustache .
+MOT:	there's He_Man .
+MOT:	Rick , play it soft .
+CHI:	make a toys .
+MOT:	Rick look .
+MOT:	is Denise watching tv ?
+CHI:	open .
+CHI:	stockings .
+CHI:	head .
+MOT:	in the bag .
+MOT:	what else ?
+CHI:	pineapple .
+CHI:	xxx .
+CHI:	make a house .
+CHI:	shut off a tv .
+MOT:	alright .
+CHI:	the board gone .
+CHI:	a girl .
+CHI:	move .
+MOT:	what is it ?
+MOT:	oh , Rick look !
+MOT:	here are the big wheels .
+MOT:	he can sit +/.
+CHI:	bag ?
+CHI:	kitty+cat shut off .
+MOT:	find the number two .
+CHI:	put on ?
+MOT:	mhm [/?] .
+CHI:	a house .
+MOT:	Rick , can you play these quietly ?
+CHI:	sew it .
+MOT:	okay , Rick .
+MOT:	we'll hafta get some new ones , okay ?
+MOT:	n@l [/?] .
+CHI:	black horse .
+MOT:	that's right .
+CHI:	watch .
+CHI:	make ten .
+MOT:	you can +/.
+CHI:	Ben .
+CHI:	make one .
+MOT:	Rick , where's the chimney ?
+CHI:	gone .
+CHI:	<one , two , three> [/?] .
+MOT:	okay ?
+MOT:	you stay here with mommy .
+MOT:	no , that's not Santa_Claus .
+CHI:	kitty+cat .
+MOT:	we'll hafta get some new ones Rick .
+MOT:	okay .
+MOT:	do you wanna make legos ?
+MOT:	hm: [/?] ?
+CHI:	look_it .
+MOT:	Rick , no touch .
+MOT:	are you looking for the window ?
+CHI:	it's gone .
+MOT:	what are these ?
+CHI:	lights .
+CHI:	make a sword .
+MOT:	there we go .
+CHI:	onions .
+MOT:	look .
+MOT:	at school .
+MOT:	oh , we lost one .
+MOT:	oops [/?] there you go .
+MOT:	let me see .
+MOT:	put it together .
+MOT:	oh , what goes in there ?
+CHI:	put it on .
+MOT:	poor kitty's falling apart .
+CHI:	not a bell .
+MOT:	oh , it's kind of a little house .
+MOT:	missing .
+MOT:	he's going for a ride in the car .
+MOT:	there you go .
+CHI:	let's do fire engine .
+CHI:	this schwa [/?] Rick .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	can you do it ?
+MOT:	what else ?
+MOT:	he's standing beside his car .
+CHI:	touch the car .
+MOT:	Rick look .
+MOT:	okay .
+CHI:	piece .
+MOT:	look .
+MOT:	there .
+MOT:	you're doing a nice job Rick .
+CHI:	wrench .
+MOT:	that's okay .
+MOT:	did they eat them all ?
+MOT:	those are your work cards , huh [/?] ?
+MOT:	black horse .
+CHI:	xxx .
+CHI:	<one , two> [/?] .
+MOT:	Rick look .
+CHI:	what's this ?
+MOT:	come here .
+MOT:	Rick look .
+CHI:	the man .
+CHI:	two [/?] .
+MOT:	come here .
+MOT:	Denise .
+CHI:	<one , two> [/?] .
+MOT:	he wants to watch .
+CHI:	make a Chef_Brocket .
+MOT:	pull the antenna up .
+CHI:	move it ?
+MOT:	where does this go ?
+MOT:	<three , four , five , six , seven> [/?] .
+CHI:	popcorn .
+CHI:	Santa live ?
+CHI:	down .
+CHI:	daddy .
+MOT:	Rick , she's taking your picture .
+MOT:	can you say thank you ?
+MOT:	they're all set .
+MOT:	do you wanna sit down ?
+CHI:	shut schwa [/?] off .
+CHI:	<one , two , three> [/?] .
+MOT:	oh , what's that Rick ?
+CHI:	bath+room ?
+CHI:	a fence .
+CHI:	hurt .
+CHI:	yes .
+CHI:	chef bro [/?] +/.
+MOT:	what else ?
+CHI:	take off .
+MOT:	soft .
+CHI:	kitty+cat .
+CHI:	one .
+CHI:	me .
+MOT:	oh , Rick look .
+MOT:	here .
+CHI:	shut off the movies off .
+MOT:	Rick ?
+MOT:	that's a microphone .
+MOT:	this way .
+MOT:	what are you doing Rick ?
+CHI:	xxx .
+CHI:	rest on your cot Rick .
+CHI:	take .
+MOT:	what do you wanna play Rick ?
+MOT:	Rick look .
+MOT:	mhm [/?] .
+CHI:	this is +/.
+MOT:	Rick , do you like Mister_Rogers ?
+MOT:	put his teeth in .
+MOT:	Rick look .
+CHI:	<one , two> [/?] .
+CHI:	knife get out a house .
+MOT:	look .
+MOT:	oh , .
+MOT:	good boy , Rick .
+CHI:	letters .
+MOT:	chalk+board .
+MOT:	good boy !
+MOT:	good boy .
+MOT:	what movie did you go see ?
+MOT:	yeah , what does that say up there ?
+MOT:	one nose .
+CHI:	found it .
+CHI:	xxx .
+CHI:	socks .
+CHI:	big card .
+CHI:	make one .
+MOT:	He_Man in the play+room ?
+CHI:	me .
+CHI:	what's this ?
+MOT:	what does daddy keep down there that's shaped like this ?
+CHI:	kitty+cat hurt yourself .
+MOT:	draw c@l .
+CHI:	a [/?] trees .
+CHI:	lemons .
+MOT:	<oh , oh> [/?] .
+MOT:	good boy .
+CHI:	mouse .
+CHI:	eat that .
+MOT:	that's right .
+MOT:	good boy .
+CHI:	daddy fix .
+MOT:	Rick , who's this ?
+MOT:	how many ?
+CHI:	help please .
+CHI:	piece .
+MOT:	do you like those ?
+MOT:	you gonna tie ?
+CHI:	help please .
+MOT:	Rick , what are these ?
+MOT:	and Denise .
+CHI:	put shoes on .
+CHI:	piece .
+CHI:	what's this ?
+MOT:	<one , two , three , four , five , six> [/?] .
+MOT:	see the mouse ?
+CHI:	buy toys ?
+MOT:	come here .
+MOT:	okay .
+CHI:	north pole .
+CHI:	Chef_Brocket .
+MOT:	find six .
+MOT:	find eight sweetie .
+MOT:	yeah .
+MOT:	good boy .
+MOT:	Rick , what's this ?
+MOT:	say three [/?] .
+MOT:	yes , that's right .
+CHI:	it can found it .
+MOT:	oh , .
+MOT:	count his eyes .
+CHI:	daddy fix .
+CHI:	little card .
+MOT:	good .
+MOT:	sit down .
+CHI:	hide .
+MOT:	two ears .
+MOT:	that's good .
+MOT:	we'll make a +/.
+MOT:	mhm [/?] .
+MOT:	good boy .
+MOT:	did daddy make that ?
+MOT:	Rick is Santa gonna bring you presents ?
+MOT:	here's a sword .
+CHI:	make a Chef_Brocket .
+MOT:	here .
+MOT:	you ask me to watch every morning .
+MOT:	maracas .
+MOT:	okay .
+CHI:	is that a horse ?
+CHI:	that's <one , two> [/?] .
+CHI:	no bells .
+MOT:	say <kissing noise> [/?] .
+MOT:	Rick , say jingle jingle jingle .
+MOT:	find number four .
+CHI:	Denise .
+MOT:	who's watching tv ?
+MOT:	yep , that's Ben's .
+MOT:	what are those ?
+MOT:	what's Santa gonna bring you ?
+MOT:	poor kitty .
+MOT:	<two , three , four> [/?] .
+MOT:	what's that ?
+CHI:	mustache .
+MOT:	another day .
+MOT:	good boy .
+MOT:	that's nice Rick .
+MOT:	he's gonna bring you presents because you're a good boy .
+MOT:	do you know what that is ?
+CHI:	shut off tv .
+CHI:	Rick .
+CHI:	e@l [/?] .
+CHI:	Santa_Claus bring it .
+MOT:	can you count the grapes ?
+CHI:	kitty+cat look_it .
+MOT:	that's the cellar .
+CHI:	found it .
+MOT:	pineapple .
+CHI:	four [/?] .
+MOT:	this is what we'll do .
+MOT:	what kind of donuts , Rick ?
+MOT:	good boy .
+MOT:	Rick ?
+MOT:	put it together .
+MOT:	what's in that ?
+CHI:	it's gone .
+MOT:	yeah .
+CHI:	hurt yourself .
+MOT:	you wanna put that away ?
+MOT:	the hose .
+MOT:	what do you wanna make ?
+MOT:	Ben's watching tv .
+MOT:	hm: ?
+MOT:	green tree .
+MOT:	there he is .
+CHI:	<one , two> [/?] .
+MOT:	alright .
+CHI:	get a wheels .
+MOT:	watch .
+MOT:	what else ?
+MOT:	what do you wanna play ?
+CHI:	put away .
+MOT:	we're gonna play .
+CHI:	please help .
+CHI:	xxx .
+CHI:	please help .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	that's right here .
+MOT:	you're on the movies .
+CHI:	black .
+MOT:	you wanna make a house , Rick , with this ?
+MOT:	kitty .
+CHI:	move ?
+MOT:	we turn them on .
+MOT:	Rick , stay over here honey .
+CHI:	make one .
+MOT:	Rick , can you beep the horn ?
+MOT:	good boy .
+MOT:	come here .
+MOT:	achoo [/?] .
+CHI:	fence .
+CHI:	table , chair .
+CHI:	make bells .
+MOT:	those are four apples .
+MOT:	what's kitty doing ?
+MOT:	Rick , look .
+MOT:	good boy .
+CHI:	hurt [/?] .
+CHI:	yes .
+CHI:	light .
+MOT:	the washing machine .
+MOT:	good boy , Rick .
+CHI:	tie a fence .
+MOT:	say this is Rick .
+CHI:	popcorn .
+CHI:	find number one .
+MOT:	can you draw c@l ?
+CHI:	put away .
+MOT:	a cover ?
+CHI:	let's make a coat away .
+MOT:	can you count them ?
+MOT:	do you like Mister_Rogers , Rick ?
+MOT:	yay [/?] !
+CHI:	tomatoes .
+CHI:	it can fit .
+CHI:	<let's do> [/?] let's do fire engine .
+MOT:	kiss him Rick .
+MOT:	mommy will help .
+MOT:	you know but it's easier to put it down like this Rick and do it .
+MOT:	no , what's this ?
+CHI:	what's this ?
+MOT:	r@l [/?] .
+MOT:	okay , lay it down .
+MOT:	watch .
+CHI:	Claus .
+MOT:	find two .
+MOT:	look at this .
+CHI:	a horse .
+MOT:	a horse .
+CHI:	three .
+MOT:	you do .
+MOT:	here .
+MOT:	I don't know what happened to them .
+CHI:	no .
+MOT:	okay .
+CHI:	count .
+MOT:	there .
+MOT:	Rick come here .
+MOT:	make the puzzle .
+MOT:	Rick , what's this ?
+CHI:	one .
+CHI:	tie a fence .
+MOT:	three [/?] .
+MOT:	drive like daddy .
+CHI:	wrong way .
+CHI:	put away .
+MOT:	we'll get some new windows for it .
+CHI:	mustache .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	play them loud .
+CHI:	no take .
+MOT:	Rick , how many hats ?
+MOT:	oops [/?] .
+CHI:	eraser .
+MOT:	good boy .
+CHI:	broken .
+MOT:	good boy .
+MOT:	Rick , what color is the nose ?
+MOT:	what did you put on his head Rick ?
+MOT:	they're okay .
+MOT:	make a bath+room .
+CHI:	what else ?
+CHI:	count onions .
+MOT:	he's holding it with his paw .
+MOT:	Rick , look .
+CHI:	shut schwa [/?] off .
+MOT:	good boy .
+CHI:	good boy .
+MOT:	good boy Rick .
+CHI:	pizza .
+CHI:	a hurt yourself .
+CHI:	shut off a tv .
+CHI:	chalk .
+MOT:	good boy .
+MOT:	make the puzzle .
+MOT:	oh , my_goodness .
+CHI:	Santa_Claus .
+MOT:	jingle bells , huh [/?] ?
+MOT:	there it is .
+MOT:	you make the house .
+MOT:	okay .
+CHI:	make a knife .
+CHI:	kitty+cat .
+CHI:	kitty+cat on light .
+CHI:	kitty's here .
+MOT:	alright .
+MOT:	can you [/?] you put it with this ?
+MOT:	do you like cakes ?
+MOT:	see ?
+CHI:	kitty+cat a put shoes on ?
+MOT:	do you need your hat ?
+MOT:	put it together .
+CHI:	windows gone .
+CHI:	cellar .
+MOT:	they are just turned off .
+MOT:	yes that's right .
+MOT:	<one , two , three , four , five , six , seven , eight , nine> [/?]
+CHI:	yes .
+CHI:	bag .
+CHI:	jingle bells .
+CHI:	make the fence .
+MOT:	those are nice , huh [/?] ?
+CHI:	all away .
+MOT:	say hello , this is Rick .
+MOT:	you did it .
+MOT:	whose shoes are these ?
+MOT:	ten grapes , Rick .
+CHI:	shut off the tv .
+MOT:	what's he making today ?
+MOT:	play them quiet .
+MOT:	good boy .
+MOT:	we turn them on +/.
+MOT:	you do .
+CHI:	<one , two> [/?] .
+MOT:	good job Rick .
+MOT:	what are these ?
+CHI:	big card .
+MOT:	see .
+CHI:	kitty+cat pick up .
+CHI:	kitty .
+MOT:	you do a nice job .
+MOT:	a white head .
+MOT:	good boy Rick .
+MOT:	what do you want ?
+MOT:	kitty's here .
+CHI:	make it .
+MOT:	put on your fire hat .
+MOT:	do you watch Mister_Rogers in the morning ?
+CHI:	xxx .
+CHI:	xxx .
+MOT:	Rick look .
+MOT:	is he going for a ride in the car ?
+MOT:	you did a good job .
+MOT:	good boy .
+CHI:	another day .
+MOT:	see we hafta make a littler house because we don't have as much
+MOT:	oh , well , that's okay Rick .
+MOT:	okay .
+CHI:	no .
+MOT:	i@l [/?] .
+MOT:	what's that ?
+CHI:	make one .
+MOT:	no !
+MOT:	can you count his teeth ?
+MOT:	here .
+CHI:	you do it .
+CHI:	put it away .
+CHI:	cover .
+CHI:	find legos ?
+CHI:	tie a fence .
+CHI:	Potato_Head's car .
+MOT:	what are you gonna make ?
+MOT:	quiet .
+MOT:	there they go .
+CHI:	fit .
+MOT:	or honey dip ?
+MOT:	what is this ?
+MOT:	alright .
+MOT:	Rick , find seven .
+MOT:	okay , put it down .
+MOT:	let's write your name .
+MOT:	oh , nice kissing .
+MOT:	okay .
+CHI:	fireman .
+CHI:	it can found it .
+CHI:	nine [/?] .
+MOT:	oh , that's okay .
+CHI:	I can found it .
+CHI:	what's this ?
+CHI:	wash .
+CHI:	a fence .
+MOT:	a front door .
+MOT:	and whose is that ?
+CHI:	<one , two , three , four , five , six , seven> [/?] .
+CHI:	a hurt yourself .
+MOT:	Rick , can you draw h@l ?
+MOT:	Rick look .
+CHI:	microphone .
+CHI:	help please .
+MOT:	the other wheels are gone , Rick .
+MOT:	look at mommy .
+CHI:	broken .
+MOT:	good boy .
+MOT:	oh , okay .
+MOT:	Rick , give kitty a kiss .
+MOT:	what are you doing Rick ?
+MOT:	good boy Rick !
+MOT:	what's in the cellar ?
+MOT:	hands down .
+CHI:	make a sword .
+MOT:	jingle bells .
+CHI:	this is teeth .
+CHI:	a hurt yourself .
+MOT:	Rick , who's holding up the stocking ?
+CHI:	put away .
+MOT:	can you tie this one ?
+CHI:	not a bell .
+MOT:	Ben .
+CHI:	a fence .
+MOT:	draw I ?
+CHI:	christmas .
+CHI:	<one , two> [/?] .
+CHI:	listen to movies .
+CHI:	letters .
+CHI:	hurt yourself .
+CHI:	kitty+cat find microphone .
+CHI:	kitty+cat eat .
+MOT:	that's the radio .
+CHI:	hurt yourself .
+MOT:	Rick , what are you doing ?
+CHI:	put away .
+MOT:	do you wanna make a car ?
+MOT:	it's all better .
+MOT:	what are you doing ?
+MOT:	can you drive down the street ?
+MOT:	Rick , do you wanna draw some letters ?
+MOT:	we hafta sew that up .
+MOT:	how many ?
+CHI:	shut off a tv ?
+MOT:	when you put it up straight !
+CHI:	no .
+CHI:	another day .
+MOT:	you can drive .
+MOT:	see ?
+CHI:	big card .
+MOT:	give them to mommy .
+MOT:	okay .
+CHI:	kitty+cat found .
+CHI:	<one , two> [/?] .
+MOT:	Rick look .
+MOT:	what is that ?
+MOT:	Rick , look .
+CHI:	xxx .
+MOT:	well , that's h@l if you turn it that way , yeah .
+MOT:	good boy Rick .
+CHI:	broken .
+MOT:	jelly ?
+MOT:	Rick do you watch +/.
+CHI:	okay .
+MOT:	you wanna make a sword ?
+CHI:	xxx .
+CHI:	the puzzle .
+MOT:	oops [/?] .
+MOT:	no , it's not broken .
+CHI:	man .
+MOT:	what comes out the chimney ?
+CHI:	move .
+MOT:	let's find with one thing .
+CHI:	r@l [/?] .
+MOT:	yeah , what are these Rick ?
+CHI:	help please .
+CHI:	let's put doors on .
+MOT:	can you write your name ?
+MOT:	we'll erase the house , okay ?
+CHI:	take a wheels off .
+CHI:	no .
+MOT:	Rick , ride him back here .
+CHI:	a smoke .
+CHI:	put all away .
+CHI:	Rick xxx .
+MOT:	play them loud .
+MOT:	can you make the puzzle ?
+MOT:	two bumps .
+MOT:	what else do we need ?
+CHI:	found it .
+CHI:	present .
+CHI:	shut off the movies off .
+MOT:	smoke .
+CHI:	red .
+CHI:	maracas .
+CHI:	hurt okay .
+MOT:	put them down .
+CHI:	Potato_Head go movies ?
+MOT:	e@l [/?] .
+CHI:	xxx up .
+CHI:	find four .
+MOT:	Rick , what's this ?
+CHI:	I am play drums .
+CHI:	<one , two , three> [/?] ?
+MOT:	good boy .
+MOT:	yeah , that's right .
+CHI:	piece .
+MOT:	Rick , what's this ?
+CHI:	do this .
+MOT:	oh , you're okay .
+CHI:	put away .
+CHI:	open legos .
+MOT:	Rick .
+MOT:	can you play them loud ?
+CHI:	turn schwa [/?] over .
+MOT:	Ben's watching .
+MOT:	that's the movies Rick .
+CHI:	Rick xxx .
+MOT:	Rick look .
+MOT:	good job .
+CHI:	take it off .
+MOT:	fire engine .
+MOT:	what's he making ?
+MOT:	soft Rick .
+MOT:	look at mommy .
+CHI:	honey dip ?
+CHI:	Ben .
+MOT:	yeah , those are stockings .
+MOT:	that's good .
+CHI:	get a wheels .
+MOT:	Rick draw I .
+MOT:	put it on .
+CHI:	socks .
+CHI:	in .
+MOT:	it's just the way the little man sits in .
+MOT:	n@l [/?] ?
+MOT:	that's good .
+MOT:	do you know what that is ?
+MOT:	look , what's that ?
+CHI:	put away .
+MOT:	pizza ?
+CHI:	come sit .
+MOT:	oops [/?] .
+MOT:	three [/?] .
+MOT:	look .
+MOT:	is she watching with Ben ?
+MOT:	what color ?
+MOT:	are those presents Rick ?
+CHI:	red .
+MOT:	good boy .
+CHI:	<&o &o> [/?] off .
+MOT:	make the puzzle .
+CHI:	kitty+cat .
+MOT:	do you remember ?
+MOT:	good boy .
+CHI:	it can find it .
+CHI:	found it .
+CHI:	Rick .
+CHI:	Ben's .
+MOT:	let me see .
+MOT:	can you play them soft ?
+CHI:	not a bell .
+CHI:	shut off the tv .
+MOT:	good boy .
+CHI:	piece .
+CHI:	count the bananas .
+MOT:	does this go in there ?
+CHI:	christmas .
+CHI:	found it .
+MOT:	oh , what kind ?
+CHI:	bells .
+CHI:	find number one .
+CHI:	no .
+CHI:	you do it .
+CHI:	kitty .
+MOT:	that's what daddy keeps down there , yup .
+CHI:	Potato_Head's car .
+CHI:	house .
+CHI:	two [/?] .
+MOT:	you know where he is ?
+CHI:	listen +/.
+CHI:	gone .
+CHI:	eyes .
+MOT:	good boy .
+MOT:	onions .
+MOT:	<jingle , jingle> [/?] jingle .
+CHI:	get toys .
+MOT:	yeah .
+CHI:	mine's .
+MOT:	what's this Rick ?
+MOT:	what else ?
+MOT:	good boy .
+CHI:	what the name ?
+MOT:	no , who's watching right now ?
+MOT:	yeah whoops [/?] .
+MOT:	find nine .
+MOT:	that's a radio .
+MOT:	that's a mouse .
+CHI:	a fence .
+CHI:	play Mister_Head car .
+MOT:	whoop [/?] .
+MOT:	oops [/?] .
+CHI:	can fit .
+CHI:	little card .
+MOT:	is there a little man in there ?
+CHI:	wrong way .
+CHI:	gonna take off fence .
+MOT:	when it gets dark , right ?
+MOT:	what are these ?
+MOT:	what else ?
+MOT:	find four .
+MOT:	find eight .
+MOT:	good boy .
+MOT:	let's count them .
+CHI:	no take .
+MOT:	can you see it ?
+CHI:	see ?
+CHI:	n@l [/?] .
+MOT:	those are grapes , Rick .
+CHI:	put doors on .
+CHI:	horse .
+CHI:	not a bell .
+MOT:	say hello .
+MOT:	can you find number four ?
+MOT:	good .
+CHI:	put nose on .
+CHI:	socks .
+MOT:	alright , we can put them right here .
+CHI:	help please .
+CHI:	put away .
+MOT:	what's this ?
+CHI:	<this , this , this> [/?] this .
+CHI:	find ten .
+MOT:	Rick , what's this ?
+MOT:	and a door knob .
+CHI:	Santa_Claus .
+MOT:	okay .
+MOT:	good boy .
+CHI:	put away .
+CHI:	make one .
+CHI:	hurt yourself .
+MOT:	bring him back here .
+MOT:	look .
+MOT:	say thank you .
+CHI:	I do .
+CHI:	o@l [/?] .
+CHI:	put away .
+CHI:	I .
+MOT:	here's a knife .
+MOT:	sit over here with mama .
+MOT:	donuts !
+MOT:	five .
+CHI:	kitty+cat got hurt .
+CHI:	hurt okay .
+CHI:	Denise .
+MOT:	Rick , how many ears ?
+CHI:	hurt .
+CHI:	take it off .
+MOT:	what is that Rick ?
+MOT:	ah [/?] they're falling apart on me Rick .
+MOT:	Rick .
+MOT:	Rick , you draw .
+MOT:	mhm [/?] .
+MOT:	good job .
+CHI:	gone .
+MOT:	here .
+MOT:	is that the water ?
+CHI:	not apples .
+CHI:	kitty+cat put away .
+CHI:	shut off the tv .
+MOT:	oh , your thumb ?
+MOT:	oh , no , they're +/.
+CHI:	xxx .
+MOT:	woo [/?] !
+MOT:	make the puzzle .
+CHI:	yes .
+CHI:	house .
+CHI:	found it .
+CHI:	put shoes on kitty [/?] kitty .
+MOT:	some &t [/?] +/.
+CHI:	cymbal .
+MOT:	the movies .
+CHI:	it can found it .
+CHI:	yes [/?] yes .
+MOT:	you're driving nice Rick .
+MOT:	okay , Rick .
+CHI:	help please .
+CHI:	present .
+CHI:	no .
+MOT:	<one , two , three , four , five , six , seven> [/?] eight cherrys
+CHI:	make put lights are on .
+CHI:	take a shoes off .
+CHI:	these onions .
+MOT:	there .
+MOT:	yeah he got hurt .
+MOT:	you opened up the legos ?
+MOT:	oh , the window .
+MOT:	Rick look .
+MOT:	to heat the house .
+MOT:	put the shoes on kitty .
+CHI:	kitty+cat look at the shoes .
+MOT:	good job .
+MOT:	okay .
+MOT:	good boy .
+MOT:	what do you wanna make ?
+CHI:	mine .
+CHI:	shut off a tv ?
+MOT:	and what do we need on here ?
+MOT:	here's the handle .
+MOT:	<let me see> [/?] oh , here's the eraser .
+MOT:	okay .
+MOT:	Rick , look .
+CHI:	help please .
+MOT:	okay .
+CHI:	help please .
+MOT:	daddy keeps +/.
+MOT:	Rick , what's this ?
+CHI:	<one , two> [/?] .
+CHI:	pieces .
+MOT:	what color is his nose ?
+MOT:	don't pull them over .
+MOT:	who's a good boy ?
+CHI:	<white eyes> [/?] white eyes .
+CHI:	put [/?] put away .
+CHI:	kitty+cat .
+MOT:	o@l [/?] .
+MOT:	good boy .
+CHI:	it can fit .
+MOT:	you can open it .
+MOT:	gracious .
+CHI:	broken .
+MOT:	alright .
+MOT:	you do .
+MOT:	okay , good boy .
+CHI:	bath+rooms ?
+CHI:	shut off a tv .
+MOT:	look at this .
+MOT:	good boy .
+CHI:	h@l .
+MOT:	that looks nice Rick .
+MOT:	good .
+MOT:	well , you start and I'll help you .
+CHI:	get a wheels .
+CHI:	three [/?] .
+CHI:	it go find it .
+MOT:	there .
+MOT:	how about the drum ?
+MOT:	Rick ?
+CHI:	shut off the tv .
+MOT:	pull it up .
+MOT:	say yes .
+MOT:	good .
+MOT:	how many ?
+CHI:	yes .
+MOT:	those windows are gone .
+MOT:	good boy Rick .
+MOT:	alright .
+CHI:	popcorn .
+MOT:	over here .
+CHI:	<one , two> [/?] .
+CHI:	cakes .
+MOT:	little bells .
+MOT:	no , what is this ?
+MOT:	pizza donuts ?
+MOT:	Rick come here .
+MOT:	<one , two> [/?] .
+MOT:	what color is the tree Rick ?
+MOT:	four teeth .
+MOT:	what's this ?
+CHI:	turn a on .
+CHI:	jelly ?
+CHI:	get tire wheels .
+MOT:	what do you wanna make ?
+MOT:	you do too .
+MOT:	oh , puzzles .
+CHI:	<one , two> [/?] .
+MOT:	what's this Rick ?
+MOT:	can you do this ?
+CHI:	tie a fence .
+CHI:	cellar .
+MOT:	can you tie these shoes ?
+CHI:	put doors on .
+CHI:	take a off .
+MOT:	he's in the play+room .
+CHI:	put ears on .
+CHI:	gone .
+MOT:	here she is .
+CHI:	xxx .
+CHI:	where kitty+cat got hurt ?
+MOT:	good boy .
+MOT:	where does that go ?
+MOT:	jingle bell .
+MOT:	yeah .
+CHI:	it's gone .
+MOT:	in the north +/.
+MOT:	look .
+MOT:	Rick look .
+MOT:	find number three .
+MOT:	it's gone .
+MOT:	no .
+CHI:	shut off the tv .
+CHI:	okay .
+CHI:	kitty+cat no swimming in .
+CHI:	toys ?
+CHI:	tie a shoes .
+CHI:	shut off .
+MOT:	is that Chef_Brocket's bakery ?
+CHI:	xxx .
+MOT:	oh , what do we hafta do ?
+CHI:	it go found it .
+CHI:	turn lights on .
+CHI:	cover .
+CHI:	big one .
+MOT:	I see the cards .
+CHI:	apples .
+CHI:	get out .
+MOT:	are you okay ?
+CHI:	help please .
+CHI:	kitty+cat get hurt [/?] hurt .
+MOT:	find number four Rick .
+MOT:	Rick ?
+MOT:	his head won't fit .
+CHI:	find seven .
+CHI:	yes .
+CHI:	n@l [/?] .
+CHI:	a apples .
+MOT:	have you been a bad boy ?
+CHI:	play .
+MOT:	no , his teeth Rick .
+CHI:	what's this ?
+CHI:	make a xxx .
+CHI:	fence .
+CHI:	fence .
+CHI:	kitty+cat .
+MOT:	Rick what are you doing ?
+MOT:	okay ?
+MOT:	piece of legos .
+CHI:	a head +/.
+CHI:	make [/?] make a coat away .
+CHI:	turn schwa [/?] over .
+MOT:	do you like the movies ?
+MOT:	Santa gonna fill your stocking with toys because you're a good boy
+MOT:	toys for Rick , good boy .
+MOT:	make a chimney ?
+CHI:	movie .
+CHI:	kitty+cat a put shoes on ?
+MOT:	mommy's shoes .
+MOT:	okay .
+MOT:	can you play the drums loud ?
+MOT:	look .
+MOT:	you do .
+CHI:	lunch is over .
+MOT:	oops [/?] .
+MOT:	you did a good job .
+MOT:	oh , Rick .
+MOT:	good .
+CHI:	&m [/?] mommy's .
+CHI:	<one , two> [/?] .
+CHI:	thank you .
+CHI:	count one ?
+MOT:	Rick , your hat's on backwards .
+CHI:	hello radio .
+CHI:	card .
+CHI:	Chef_Brocket .
+CHI:	get out .
+CHI:	board .
+CHI:	piece .
+CHI:	tie a fence .
+MOT:	yay [/?] !
+CHI:	kitty+cat .
+MOT:	mommy will help you .
+MOT:	who's holding it ?
+CHI:	put away .
+MOT:	look .
+MOT:	tie the shoes .
+CHI:	a hose .
+MOT:	count again .
+MOT:	you do a good job , Rick .
+CHI:	not a bell .
+MOT:	there's one ear .
+MOT:	what color ?
+CHI:	put away .
+MOT:	find number five .
+CHI:	one [/?] .
+CHI:	He_Man .
+CHI:	tie shoes .
+MOT:	no bath+room .
+CHI:	is that a horse ?
+CHI:	christmas .
+CHI:	<one , two , three , four> [/?] .
+MOT:	xxx .
+MOT:	is Ben and Denise watching tv ?
+CHI:	kitty+cat .
+MOT:	yeah .
+MOT:	down here .
+MOT:	no , but who's this ?
+MOT:	good boy .
+MOT:	it's on our house .
+CHI:	cakes gone .
+CHI:	a fence .
+CHI:	Ben's .
+CHI:	bring it .
+MOT:	okay .
+CHI:	movie .
+CHI:	lis [/?] +/.
+MOT:	good boy .
+MOT:	sit down here Rick .
+MOT:	Rick look .
+MOT:	what are you doing Rick ?
+MOT:	there .
+MOT:	can you play this soft ?
+CHI:	make [/?] make a knife .
+MOT:	one hat .
+MOT:	what do you wanna play ?
+MOT:	Rick .
+MOT:	alright , you wanna put them there .
+MOT:	I'll tell you what we'll do .
+MOT:	you can talk into the radio .
+MOT:	no , they're not apples .
+MOT:	where does Santa live ?
+MOT:	Rick , what are you doing ?
+CHI:	help .
+MOT:	you can put them back in there .
+CHI:	gone .
+MOT:	can you tie them ?
+MOT:	good boy .
+MOT:	they're puzzles .
+CHI:	piece .
+MOT:	Rick , what's this ?
+CHI:	help please .
+MOT:	look .
+MOT:	Rick ?
+CHI:	put shoes on .
+MOT:	that doesn't hurt him .
+MOT:	count .
+MOT:	cherrys .
+MOT:	be careful .
+MOT:	those are his teeth .
+CHI:	a head .
+CHI:	no ones .
+CHI:	lights , broken .
+MOT:	Rick , find eight .

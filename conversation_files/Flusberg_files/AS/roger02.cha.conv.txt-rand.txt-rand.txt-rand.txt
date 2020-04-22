@@ -1,0 +1,617 @@
+participant	content
+CHI:	their breakfast .
+CHI:	help game .
+MOT:	put the blocks away .
+CHI:	green the frog .
+MOT:	well , they're not all police cars .
+CHI:	good boy .
+MOT:	you did a good job !
+CHI:	what +/.
+MOT:	here you go .
+MOT:	build the tower .
+MOT:	right .
+MOT:	it's a butterfly , roger .
+CHI:	no .
+MOT:	okay .
+MOT:	where's Doctor_Essy_Bessy ?
+CHI:	one bite .
+MOT:	and get a drink of chocolate milk .
+MOT:	what color is it ?
+CHI:	oval .
+CHI:	want a bite ?
+CHI:	give me the cups .
+CHI:	no talking .
+MOT:	yep , open it up .
+MOT:	turn it around .
+CHI:	no talking .
+CHI:	twinkie and milk .
+MOT:	what's this ?
+MOT:	what's that ?
+MOT:	roger here .
+CHI:	put the white in .
+CHI:	good boy .
+CHI:	roger look at me .
+CHI:	to museum .
+MOT:	go like this .
+MOT:	good boy .
+MOT:	do you +/.
+MOT:	roger , what do you want ?
+MOT:	roger .
+MOT:	nice .
+MOT:	put it in the box .
+MOT:	no that's a microphone .
+MOT:	let's see .
+CHI:	want a bite ?
+CHI:	it's a xxx .
+CHI:	<that's> [/?] it's a water .
+MOT:	don't spill it .
+CHI:	find cars .
+CHI:	star .
+MOT:	okay .
+MOT:	let's find it .
+MOT:	what's that ?
+CHI:	home see Maura .
+MOT:	roger what color is the car ?
+MOT:	Maura's home .
+MOT:	hm: ?
+CHI:	xxx .
+MOT:	alright .
+MOT:	yeah .
+CHI:	microphone .
+CHI:	don't xxx +/.
+MOT:	and , they're having some +/.
+MOT:	play with all the cars ?
+MOT:	what's this ?
+CHI:	need help ?
+MOT:	that's a door , yeah .
+CHI:	yellow car .
+MOT:	put the circle in the box .
+CHI:	don't spill it .
+CHI:	star .
+MOT:	breakfast .
+MOT:	a moon ?
+CHI:	six car .
+MOT:	all_gone roger .
+MOT:	and what's this ?
+CHI:	put the blocks away .
+MOT:	is that an oval ?
+MOT:	you wanna open it up ?
+MOT:	you put in the boat .
+CHI:	need help .
+CHI:	Kermit .
+CHI:	Lowell , Mass .
+MOT:	look at me .
+CHI:	want a bite ?
+MOT:	what's this roger ?
+CHI:	help game .
+MOT:	roger .
+CHI:	purple red .
+CHI:	good boy .
+MOT:	yeah .
+MOT:	the green star .
+MOT:	alright .
+CHI:	to work .
+MOT:	to the museum .
+CHI:	hand .
+MOT:	roger .
+MOT:	water on the flowers .
+MOT:	roger , rub it on your face .
+CHI:	roger .
+CHI:	put it in .
+MOT:	wipe your hand .
+MOT:	what's the matter roger ?
+MOT:	it's a watering can .
+MOT:	and this is a truck .
+MOT:	yeah what color is the police car ?
+CHI:	<you need> [/?] you need xxx .
+MOT:	excuse me .
+MOT:	okay .
+CHI:	twinkie .
+MOT:	okay , what else do you wanna play with ?
+CHI:	police car .
+CHI:	xxx .
+MOT:	okay .
+MOT:	what's this roger ?
+CHI:	their breakfast .
+MOT:	the shapes .
+CHI:	<seven six> [/?] .
+MOT:	okay , put the green star in .
+MOT:	no .
+MOT:	it's a purple +/.
+CHI:	mommy .
+CHI:	want milk .
+MOT:	what's this here ?
+MOT:	come here , roger .
+CHI:	want a bite ?
+CHI:	Ann .
+CHI:	xxx .
+CHI:	on a hand .
+CHI:	put the +/.
+MOT:	we're gonna do the dog .
+MOT:	oop [/?] .
+CHI:	xxx .
+CHI:	to work .
+MOT:	zip it up .
+CHI:	we got the pentagon ?
+CHI:	it's a purple +/.
+MOT:	look at me .
+MOT:	no .
+MOT:	it's a truck .
+MOT:	what do you need ?
+MOT:	okay .
+CHI:	no .
+CHI:	roger .
+CHI:	blue .
+CHI:	xxx .
+MOT:	that's not a star .
+CHI:	good boy .
+CHI:	green .
+CHI:	xxx .
+MOT:	let's count them again .
+MOT:	give me the cups .
+CHI:	want some help ?
+MOT:	put the star in the box .
+CHI:	Roger_Davidson .
+MOT:	xxx .
+CHI:	okay hand .
+CHI:	police .
+MOT:	put the purple triangle in the box .
+MOT:	there's eight ?
+MOT:	sit down .
+MOT:	roger you're gonna work for twinkie and chocolate milk ?
+MOT:	the police car tipped over .
+MOT:	that's an oval , yes .
+MOT:	okay , put the milk down .
+CHI:	of a twinkie .
+MOT:	come here .
+CHI:	oop [/?] it fell down .
+CHI:	present .
+CHI:	it's a green car .
+MOT:	put the blocks away .
+CHI:	it's a good job .
+MOT:	what's she doing ?
+MOT:	do you wanna +/.
+CHI:	it's a butterfly .
+MOT:	what's that ?
+MOT:	you have two police cars now .
+CHI:	hi roger .
+CHI:	give you a bite .
+MOT:	that's right .
+MOT:	yeah <this is> [/?] this is almost the same color as Ann's car .
+CHI:	pentagon ?
+MOT:	turn it around .
+MOT:	what's that ?
+MOT:	look at me .
+MOT:	put your blocks away .
+CHI:	orange .
+CHI:	where's she going ?
+CHI:	what color ?
+MOT:	it looks like a +/.
+MOT:	Ann's car ?
+MOT:	which one is Ann's car ?
+CHI:	time to play your blocks .
+MOT:	roger , here .
+MOT:	we'll find it roger .
+CHI:	it's a purple xxx .
+MOT:	no .
+MOT:	you need help ?
+MOT:	oh , you're lining up all the cars .
+MOT:	what color is the star ?
+MOT:	look at all the cars .
+MOT:	we're gonna play with Doctor_Essy_Bessy .
+CHI:	help ?
+MOT:	roger , what do you want ?
+MOT:	yeah the man's lying down inside the police car .
+CHI:	help game .
+MOT:	okay ?
+MOT:	it's a police man ?
+MOT:	wanna play with the puzzles ?
+CHI:	no , not go to museum .
+MOT:	wipe your mouth .
+MOT:	what's that ?
+MOT:	who's this ?
+MOT:	hey [/?] , hands down .
+MOT:	oops [/?] .
+MOT:	hafta wait , to wait .
+CHI:	purple .
+MOT:	good boy , you get a piece +/.
+MOT:	yeah .
+MOT:	put all the blocks away .
+MOT:	okay .
+CHI:	Maura's home .
+CHI:	it's a xxx .
+MOT:	okay , daddy will help you .
+MOT:	does that go right there ?
+CHI:	oh , !
+MOT:	roger , look_it .
+MOT:	where do you want the lotion ?
+CHI:	pentagon .
+CHI:	that's right .
+MOT:	roger [/?] roger .
+CHI:	mommy .
+CHI:	yellow car .
+MOT:	good boy .
+MOT:	put the star in .
+MOT:	which one's Ann's car ?
+MOT:	yeah we made a square out_of the cars .
+MOT:	smells good .
+MOT:	what color is it ?
+MOT:	no .
+MOT:	what's this ?
+MOT:	alright put the police man in the car .
+MOT:	that's a truck .
+MOT:	okay .
+CHI:	want some help ?
+CHI:	it's a bite .
+MOT:	what's that ?
+MOT:	roger , what's this ?
+MOT:	put the pentagon in .
+MOT:	look at me .
+CHI:	what do you want ?
+MOT:	show me Ann's car ?
+MOT:	yeah .
+MOT:	can we make a triangle ?
+CHI:	beacon street .
+CHI:	police car .
+CHI:	roger , hands down .
+CHI:	zipper up .
+CHI:	in a minute .
+CHI:	purple .
+CHI:	it's a xxx .
+CHI:	all done .
+MOT:	good boy .
+MOT:	sit over there .
+CHI:	good boy .
+CHI:	toast .
+MOT:	what is it ?
+MOT:	which one is Ann's car ?
+MOT:	hm:: [/?] ?
+CHI:	Fruit_Roll_Ups .
+CHI:	help game .
+MOT:	what color is this ?
+MOT:	Kermit's +/.
+MOT:	okay .
+MOT:	sit down .
+MOT:	what's this ?
+CHI:	all_gone .
+CHI:	police man open the door .
+CHI:	put it in .
+CHI:	parallelogram .
+MOT:	ah [/?] .
+CHI:	want bite .
+MOT:	yeah .
+MOT:	what's that ?
+CHI:	blue .
+CHI:	xxx .
+MOT:	you hafta wait .
+CHI:	oop [/?] it fell down .
+MOT:	put the pentagon in the box .
+CHI:	police man !
+MOT:	good job !
+MOT:	purple car ?
+CHI:	twinkle star .
+MOT:	alright .
+CHI:	put it in .
+CHI:	lay down .
+MOT:	are you_all through ?
+MOT:	all done the dog .
+MOT:	is that it ?
+MOT:	no I made a square .
+MOT:	what's this roger ?
+CHI:	zipper up .
+CHI:	fell and down .
+CHI:	it's blue .
+MOT:	well , you can put the white one in too .
+MOT:	six cars .
+CHI:	nice [/?] nice dreaming !
+MOT:	parallelogram .
+MOT:	maybe they gave us an extra set of wheels .
+CHI:	got the pentagon ?
+MOT:	what's this ?
+CHI:	xxx .
+CHI:	no more twinkies .
+CHI:	good .
+MOT:	yeah .
+CHI:	police man .
+MOT:	nice cars .
+CHI:	blue .
+MOT:	what do you need ?
+CHI:	give me the cup .
+CHI:	do you need help ?
+MOT:	what color is the star ?
+MOT:	right .
+CHI:	twinkie .
+MOT:	that's mommy , yeah .
+CHI:	good boy .
+CHI:	what color ?
+CHI:	<one two three four five six seven eight> [/?] .
+MOT:	yeah , it fell down .
+CHI:	take your blocks out .
+CHI:	star .
+MOT:	make a police car .
+MOT:	you want it on your hand ?
+MOT:	you're gonna get a piece of the twinkie .
+MOT:	roger .
+MOT:	want some help ?
+CHI:	orange .
+MOT:	what are they doing ?
+MOT:	rub the lotion .
+CHI:	six car .
+MOT:	good .
+CHI:	yeah .
+CHI:	<you make a> [/?] you make a triangle ?
+MOT:	put the pentagon in .
+MOT:	can you do this ?
+CHI:	twinkie .
+CHI:	zipper up .
+CHI:	smells good .
+MOT:	let's line up all the cars like this .
+MOT:	take a bite .
+MOT:	what's that ?
+MOT:	take the shapes out .
+MOT:	okay count the cars .
+CHI:	help game .
+CHI:	and hand .
+MOT:	it's red .
+MOT:	what's this ?
+MOT:	they're just cars .
+CHI:	help game .
+MOT:	put the cars down .
+MOT:	okay .
+MOT:	what are you doing roger ?
+CHI:	help game .
+CHI:	zipper up .
+MOT:	build the tower again .
+MOT:	Porsche .
+MOT:	take your blocks out .
+MOT:	look .
+CHI:	and hand .
+CHI:	orange car ?
+CHI:	zipper up .
+CHI:	Ann's car .
+MOT:	my actor .
+CHI:	need help .
+CHI:	home see Maura .
+MOT:	in a minute .
+MOT:	roger what do you need ?
+CHI:	good boy .
+MOT:	good boy .
+MOT:	alright put the star in the box .
+CHI:	to museum .
+MOT:	we'll give you a bite .
+CHI:	<it's> [/?] it's red .
+MOT:	what's that ?
+CHI:	train ?
+CHI:	smell good .
+MOT:	here .
+CHI:	it's a yellow car .
+MOT:	new cars ?
+CHI:	want a twinkie ?
+CHI:	yellow .
+MOT:	put the cups away .
+CHI:	<one two three four five six seven> [/?] .
+MOT:	police man .
+MOT:	is that it ?
+MOT:	well , turn it this way .
+CHI:	Fruit_Roll_Ups .
+MOT:	what's this ?
+CHI:	it's a orange oval .
+CHI:	good job .
+CHI:	you make a triangle .
+MOT:	open it .
+MOT:	use a napkin .
+CHI:	okay oh , bite .
+MOT:	put them all away .
+CHI:	need help .
+MOT:	good boy .
+MOT:	let's play a little game .
+CHI:	purple diamond .
+CHI:	that's old xxx .
+CHI:	take +/.
+MOT:	oops [/?] .
+CHI:	red .
+CHI:	put the star .
+CHI:	put the star in .
+MOT:	what color is it ?
+CHI:	purple .
+MOT:	yellow .
+MOT:	thank you !
+CHI:	combing hair .
+CHI:	smell good .
+MOT:	oh , pushing them all together ?
+CHI:	good boy .
+CHI:	piece of a twinkie .
+MOT:	roger , who's that ?
+MOT:	good boy .
+MOT:	roger , no , you're working for the twinkie .
+CHI:	put in star .
+MOT:	what's this ?
+CHI:	we got parallelogram .
+CHI:	roger .
+MOT:	sit down .
+MOT:	what's that ?
+CHI:	star .
+MOT:	what's that ?
+CHI:	open the door .
+CHI:	police cars .
+CHI:	xxx .
+MOT:	what color is this one ?
+CHI:	okay .
+MOT:	it's a green car .
+CHI:	orange car .
+CHI:	car .
+MOT:	wanna sing ?
+MOT:	have some chocolate milk .
+MOT:	they're eating +/.
+MOT:	what do you need ?
+MOT:	alright .
+CHI:	oop [/?] it fell down .
+CHI:	blue [/?] , red star .
+CHI:	microphone .
+CHI:	want a bite .
+CHI:	Ann's car .
+CHI:	good job .
+CHI:	sit down .
+CHI:	a square .
+CHI:	want [/?] want bite .
+CHI:	find cars .
+MOT:	smells good .
+MOT:	zip up .
+CHI:	you make a car .
+MOT:	what's that ?
+MOT:	what color is the car ?
+MOT:	here , we'll just let you take a bite .
+MOT:	what color is that , roger ?
+MOT:	what color's the circle ?
+MOT:	oh , .
+MOT:	looks like one of them lost it's wheels .
+MOT:	you're all done Kermit .
+CHI:	want a bite ?
+CHI:	don't wipe a shirt .
+CHI:	twinkie .
+MOT:	how about this one ?
+MOT:	let's do Grover .
+CHI:	want twinkie .
+CHI:	yeah put it in .
+MOT:	yeah .
+MOT:	where's Doctor_Essy_Bessy ?
+MOT:	it's an orange car ?
+MOT:	but you're close .
+CHI:	orange .
+MOT:	roger ?
+CHI:	star .
+CHI:	want one .
+MOT:	blue , yeah .
+MOT:	open the present .
+MOT:	is that Grover's hand ?
+MOT:	what's that ?
+CHI:	get the raincoat .
+MOT:	yeah , it's a yellow car .
+MOT:	this one looks like a Volkswagon , but I don't know +/.
+CHI:	<one two three four five six> [/?] .
+CHI:	yeah , it's +/.
+MOT:	good .
+MOT:	put the blocks out .
+MOT:	what do you need roger ?
+CHI:	it's a busybite@c .
+MOT:	to see Ann ?
+CHI:	triangle .
+MOT:	put it in .
+CHI:	it's a purple triangle .
+MOT:	read your book .
+CHI:	put it in .
+CHI:	door .
+CHI:	get up .
+CHI:	here's orange .
+CHI:	and Richie .
+MOT:	who [/?] who's that ?
+MOT:	what do you need ?
+CHI:	roger .
+MOT:	roger ?
+CHI:	four million five hundred twenty three thousand twenty nine .
+MOT:	<can you> [/?] can you open the lotion ?
+CHI:	twinkie .
+CHI:	yeah it's the circle .
+MOT:	I made a triangle with the cars .
+MOT:	blue pentagon alright .
+MOT:	daddy's wrong .
+MOT:	alright .
+MOT:	you have the duck .
+MOT:	okay , wanna do another puzzle ?
+MOT:	that's right .
+CHI:	okay .
+MOT:	let's see .
+CHI:	what do you want ?
+MOT:	that's purple .
+CHI:	put it in .
+MOT:	okay .
+CHI:	Grover .
+MOT:	what color is the star ?
+MOT:	what color is this ?
+CHI:	row the boat .
+CHI:	what do you want ?
+MOT:	here , can we line them up ?
+CHI:	it's a xxx .
+MOT:	wanna play with blocks ?
+CHI:	one bite .
+MOT:	take the shapes out .
+MOT:	roger why don't you put [/?] put your blocks away ?
+MOT:	he opened the door .
+CHI:	blue [/?] blue pentagon .
+MOT:	oh „ a Porsche .
+CHI:	you made this .
+CHI:	need help .
+CHI:	it fell down .
+MOT:	what's she doing ?
+CHI:	where you live ?
+MOT:	look roger .
+CHI:	want a bite ?
+MOT:	one [/?] .
+CHI:	put it in .
+CHI:	need help .
+MOT:	give it to mommy .
+CHI:	okay .
+CHI:	xxx .
+CHI:	good boy .
+MOT:	line up all the cars .
+CHI:	what city ?
+CHI:	play with blocks and Cabbage_Patch .
+CHI:	xxx .
+CHI:	wanna bite ?
+MOT:	can I have the lotion ?
+MOT:	don't touch xxx .
+CHI:	good job .
+CHI:	butterfly .
+MOT:	put the police man in the car .
+CHI:	want puzzle .
+CHI:	need help .
+CHI:	<it's> [/?] it's red .
+CHI:	star .
+MOT:	good boy .
+MOT:	roger .
+CHI:	make a police car .
+CHI:	we make a triangle ?
+MOT:	roger , what's your name ?
+MOT:	roger .
+CHI:	zipper up .
+MOT:	where's the police car ?
+MOT:	do you wanna +/.
+CHI:	lotion .
+CHI:	shapes .
+MOT:	sit down .
+CHI:	in the water .
+CHI:	butterfly .
+MOT:	what's your telephone number ?
+CHI:	we got +/.
+CHI:	butterfly .
+CHI:	don't touch .
+CHI:	want a bite .
+MOT:	those are nice cars , huh [/?] ?
+CHI:	yellow .
+CHI:	talk to Grover .
+MOT:	count them .
+MOT:	roger , look .
+MOT:	purple diamond ?
+MOT:	gotta turn your hand like this .
+MOT:	okay .
+MOT:	what color ?
+MOT:	wanna play with the blocks ?
+MOT:	put the purple diamond in .
+MOT:	roger , wanna play Row_Row_Row_Your_Boat ?
+CHI:	need help .
+CHI:	want a bite ?
+CHI:	want a bite ?
+CHI:	car .
+CHI:	yeah it's parallelogram .
+MOT:	alright put the orange circle in the box .
+MOT:	no .
+MOT:	put that one here .
+MOT:	alright .
+CHI:	<it's , it's a> [/?] it's a orange car .
+CHI:	oops [/?] .
+CHI:	take your blocks out .
+MOT:	roger ?
+CHI:	a moon .
+CHI:	can I have the lotion ?
+CHI:	give it to mommy .
+MOT:	what's that roger ?

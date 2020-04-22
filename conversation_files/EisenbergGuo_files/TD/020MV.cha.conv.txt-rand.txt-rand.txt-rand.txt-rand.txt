@@ -1,0 +1,215 @@
+participant	content
+INV:	just tell me what you see in the picture .
+INV:	and what's going to happen next ?
+CHI:	0 .
+INV:	and what's going to happen next ?
+INV:	they raked the leaves into a big pile .
+INV:	tell me that again .
+INV:	what else is happening in this picture ?
+CHI:	this [% pointing to picture] [^ ns] .
+INV:	the cat is stuck up in the tree .
+INV:	what's going to happen in just a little while ?
+INV:	what's going to happen in just a little while ?
+CHI:	0the [^ emorph] crescent moon face's <going this way> [/?] going
+INV:	what's happening in the picture ?
+INV:	and what's going to happen next ?
+INV:	and what will happen in just a little while ?
+INV:	what's happening in the picture ?
+INV:	tell me about what else you see in the picture .
+INV:	tell me one more thing about the picture .
+INV:	tell me one more thing about the picture .
+INV:	what else is happening in this picture ?
+INV:	oh_no, the bubbles are spilled .
+INV:	tell me one more thing about the picture .
+INV:	what else is happening in this picture ?
+CHI:	why is the bag in front [^ ns] ?
+INV:	what else is happening in this picture ?
+INV:	what's going to happen in just a little while ?
+INV:	can you tell me that again ?
+INV:	the boy knocked the boxes off the shelf .
+CHI:	the cat is looking down .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+INV:	the boys are throwing snowballs .
+CHI:	shouldn't be triangles where my finger is [^ ns] .
+CHI:	not him [^ ns] .
+INV:	then what will happen in just a little while ?
+INV:	what's happening in the picture ?
+INV:	tell me one more thing about the picture .
+INV:	the dog and the girl have the daddy's shoes .
+INV:	that's not nice .
+INV:	just tell me what you see in the picture .
+CHI:	she has bubbles in her hand .
+INV:	tell me one more thing about the picture .
+CHI:	they will crash and spill [^ earg] [^ eu] .
+CHI:	look at the mom and dad [^ ns] .
+INV:	what's going to happen in just a little while ?
+CHI:	and they will be dead [^ ns] .
+INV:	tell me one more thing about the picture .
+INV:	and what's going to happen next ?
+CHI:	and his head comes off .
+CHI:	I don't know [^ ns] .
+CHI:	I don't know [^ ns] .
+INV:	the children are trying to wash the dog .
+INV:	tell me one more thing about the picture .
+INV:	just tell me what you see in the picture .
+INV:	just tell me anything else about the picture .
+CHI:	<both of those one of those> [/?] a girl is pushing the cart
+CHI:	he's gonna snip that thing .
+CHI:	0 .
+INV:	what's going to happen in just a little while ?
+INV:	just tell me what you see in the picture .
+CHI:	he's going to do [^ ew] the pop [^ other] [^ eu] .
+CHI:	[^ earg] shouldn't be triangles [^ eu] .
+CHI:	look at this window .
+INV:	what's going to happen in just a little while ?
+CHI:	and then his neck comes off .
+CHI:	the doll [^ ns] .
+INV:	what else is happening in this picture ?
+INV:	the dog is in front of the bus .
+INV:	what's going to happen in just a little while ?
+CHI:	and she has his tie [^ eu] .
+CHI:	I don't know [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	the scarf is on backwards .
+INV:	tell me one more thing about the picture .
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+INV:	just tell me anything else about the picture .
+CHI:	this this this this this this [^ ns] .
+CHI:	he will be dirty again .
+INV:	and what's going to happen in just a little while ?
+CHI:	I don't know [^ ns] .
+CHI:	so they cannot get them ?
+CHI:	she threw bubbles .
+INV:	and what's going to happen next ?
+INV:	oh_no, the dog ate some of the cake .
+CHI:	and she will knock him over .
+CHI:	I don't know [^ ns] .
+CHI:	they will eat all the donuts .
+INV:	what else is happening in this picture ?
+CHI:	<and they're> [/?] and <they're> [/?] they are not raking [^ earg]
+CHI:	and they will be knocked over .
+CHI:	they will be dead .
+INV:	tell me one more thing about the picture .
+CHI:	he's crawling .
+INV:	and what's going to happen next ?
+CHI:	these windows are not the same .
+CHI:	I don't know [^ ns] .
+CHI:	the doggy is under the couch .
+INV:	what else is happening in this picture ?
+CHI:	she doesn't have a coat .
+INV:	and what's going to happen next ?
+CHI:	I don't know [^ ns] .
+INV:	the daddy is hiding a doll behind his back .
+CHI:	[^ earg] spilling [^ earg] [^ eu] .
+INV:	and what's going to happen next ?
+INV:	and the bus can't move .
+INV:	what's going to happen in just a little while ?
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	the children are taking the donuts from the bag .
+INV:	what's going to happen in just a little while ?
+INV:	and what's going to happen next ?
+CHI:	<the boy> [<] has a donut in his hand .
+CHI:	0 .
+INV:	the boy is taking his grandma's scissors .
+CHI:	and he will be dead on his head .
+INV:	the children see the cat .
+INV:	just tell me anything else about the picture .
+CHI:	the dog is on the street .
+CHI:	his momma is driving .
+INV:	tell me about what else you see in the picture .
+CHI:	I don't know [^ ns] .
+INV:	what's going to happen next ?
+CHI:	they got the dog <after> [/?] after [^ ew] [^ emorph] 0det
+INV:	what's happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	just tell me what you see in the picture .
+CHI:	0 .
+INV:	just tell me what you see in the picture .
+CHI:	I think I like this one, not this one .
+INV:	and what's going to happen in just a little while ?
+INV:	just tell me anything about this picture .
+CHI:	I don't know [^ ns] .
+CHI:	<they want each &buc> [/?] they want the red bucket .
+INV:	what else is happening in this picture ?
+INV:	the little girl is still in her pajamas .
+INV:	what else is happening in this picture ?
+CHI:	and then he will chop [x 4] [^ earg] [^ eu] .
+CHI:	she didn't throw bubbles .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+INV:	tell me what else you see in the picture .
+CHI:	I don't know [^ ns] .
+INV:	tell me about what else you see in the picture .
+CHI:	0 .
+CHI:	she has his shoes .
+INV:	tell me about what else you see in the picture .
+CHI:	they're <throwing> [/?] throwing snowballs .
+CHI:	I don't know [^ ns] .
+CHI:	he will give it to her .
+CHI:	he bumped his head .
+INV:	the boy is trying to get the cookies .
+CHI:	he's getting [^ ew:putting] [^ elexical] out the leafs in the
+INV:	what else is happening in this picture ?
+CHI:	he's gonna fall .
+CHI:	the dad has a short tie .
+CHI:	the dog splashed water .
+INV:	can you tell me that again ?
+INV:	tell me one more thing about the picture .
+INV:	tell me one more thing about the picture .
+INV:	and what's going to happen next ?
+CHI:	look at the mom and dad .
+INV:	just tell me anything else about the picture .
+CHI:	&um what's wrong with that [^ ns] ?
+CHI:	[^ earg] leaning over [^ earg] [^ eu] .
+CHI:	I don't know [^ ns] .
+CHI:	that looks like a pot .
+CHI:	0 .
+INV:	just tell me what you see in the picture .
+INV:	what's going to happen in just a little while ?
+INV:	<what else is happening in this picture> [>] ?
+CHI:	why is the lamp dirty [^ ns] ?
+INV:	what's happening in the picture ?
+INV:	just tell me anything else about the picture .
+CHI:	I don't know [^ ns] .
+CHI:	she's not dressed .
+CHI:	and he's crying .
+CHI:	I don't know [^ ns] .
+CHI:	I don't know [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	what's this doing out here [^ ns] ?
+INV:	tell me one more thing about the picture .
+INV:	just tell me anything else about the picture .
+INV:	tell me one more thing about the picture .
+INV:	just tell me anything else about the picture .
+INV:	can you tell me that again ?
+CHI:	0 .
+CHI:	two of the same girls [^ ns] .
+INV:	just tell me what you see in the picture .
+CHI:	they are afraid .
+CHI:	there's another bucket .
+INV:	what else is happening in this picture ?
+CHI:	I don't know [^ ns] .
+CHI:	0the [^ emorph] orange juice has got [^ ew:gotten] [^ emorph] all
+CHI:	he's very angry .
+CHI:	&um it's not aiming to [^ ew:at] [^ emorph] the sidewalk at all
+CHI:	the cat is sad .
+CHI:	and one person is in the car .
+INV:	tell me one more thing about the picture .
+INV:	what's going to happen next ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+CHI:	I don't know [^ ns] .
+INV:	tell me about what else you see in the picture .
+INV:	what's going to happen next ?
+CHI:	&um .
+INV:	thank you .
+INV:	what's happening in the picture ?
+INV:	just tell me what you see .
+CHI:	<and the other person and the other> [/?] and the other kid is in
+INV:	tell me about what else you see in the picture .
+CHI:	what's wrong with that [^ ns] ?
+CHI:	they're both boys .

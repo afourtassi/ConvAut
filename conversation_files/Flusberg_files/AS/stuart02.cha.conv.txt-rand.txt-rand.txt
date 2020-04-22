@@ -1,0 +1,642 @@
+participant	content
+MOT:	oop [/?] what's that ?
+MOT:	do this .
+CHI:	star .
+MOT:	Stuart , say car .
+MOT:	good boy .
+CHI:	fine .
+MOT:	what's this ?
+CHI:	shirt .
+CHI:	xxx .
+MOT:	see that .
+MOT:	and a bat .
+MOT:	you can play with your piano .
+MOT:	oop [/?] !
+MOT:	that's a nice book .
+MOT:	okay .
+MOT:	I think you're alright .
+MOT:	Stuart .
+CHI:	bed .
+MOT:	good boy .
+MOT:	with the umbrella ?
+MOT:	see the skunk ?
+MOT:	what is this ?
+MOT:	like that ?
+MOT:	what's this ?
+MOT:	here .
+MOT:	no , Stuart .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	and what's this ?
+MOT:	oh , boy .
+MOT:	that's right .
+MOT:	good boy .
+CHI:	tickle .
+MOT:	that's how you make him work .
+MOT:	Stuart , look here .
+MOT:	what's this +/.
+MOT:	those are pants but his legs are under there too .
+MOT:	you gonna pop it ?
+MOT:	what's that ?
+MOT:	what ?
+MOT:	see the sky ?
+MOT:	Stuart .
+MOT:	it's milk .
+MOT:	you like it , huh [/?] ?
+MOT:	the bear .
+MOT:	what's this ?
+MOT:	he's riding his bike .
+CHI:	okay .
+MOT:	what a nice +/.
+MOT:	yeah .
+CHI:	rainbow .
+MOT:	oh , look at that Stuart .
+MOT:	do this .
+MOT:	Stuart , say bear .
+MOT:	what's this ?
+CHI:	<no , no , no , no> [/?] no !
+MOT:	surprises , and the +/.
+MOT:	belly .
+CHI:	key .
+MOT:	I think these are gonna make a mess .
+CHI:	belly .
+CHI:	I like it .
+MOT:	can you play it ?
+MOT:	that's a good boy .
+MOT:	go byebye car .
+CHI:	more .
+MOT:	Stuart , what is this ?
+MOT:	and the two bears .
+MOT:	good boy .
+CHI:	belly .
+MOT:	what is it ?
+CHI:	bear .
+CHI:	okay .
+CHI:	no !
+MOT:	pull it .
+MOT:	good boy .
+MOT:	Stuart .
+MOT:	this , Stuart .
+MOT:	oh , good boy .
+MOT:	Stuart , look .
+MOT:	oh , good boy Stuart .
+CHI:	do this .
+MOT:	oop [/?] Stuart .
+MOT:	tickle .
+MOT:	very nice .
+MOT:	you quiet now ?
+MOT:	see the squirrel ?
+MOT:	you're being good now Stuart .
+MOT:	oop [/?] !
+CHI:	hi .
+MOT:	Stuart , do this .
+CHI:	bear .
+CHI:	more bubble .
+MOT:	look .
+MOT:	let's see what's hidden in here .
+MOT:	it's got honey in there , underneath the hood .
+CHI:	uhoh [/?] !
+MOT:	here .
+CHI:	uhoh [/?] !
+MOT:	oop [/?] what's in there ?
+MOT:	oop [/?] there's the doll .
+MOT:	nice , good .
+MOT:	see .
+MOT:	oh , look Stuart .
+CHI:	crab .
+MOT:	Stuart , that's good .
+MOT:	good boy .
+MOT:	you're too big .
+MOT:	can you say I like it ?
+CHI:	do this .
+CHI:	Vicari .
+MOT:	Stuart .
+MOT:	that's nice .
+CHI:	milk .
+MOT:	you like rainbows , huh [/?] ?
+CHI:	bike .
+MOT:	music ?
+CHI:	car .
+MOT:	what's this ?
+MOT:	good boy .
+MOT:	hair .
+CHI:	bear .
+CHI:	more bubble .
+CHI:	huh [/?] .
+MOT:	that's right .
+MOT:	say belly .
+MOT:	in the car ?
+MOT:	huh ?
+MOT:	now for me to figure out how I'm going to do this .
+CHI:	huh [/?] .
+CHI:	you're wet .
+MOT:	good boy .
+MOT:	Stuart .
+CHI:	bike .
+MOT:	tick .
+MOT:	more tickle .
+CHI:	eye .
+CHI:	puppet .
+CHI:	hair .
+MOT:	Stuart , it's a bear .
+MOT:	up there .
+MOT:	oop [/?] !
+CHI:	music on xxx .
+MOT:	this is a plane .
+MOT:	look .
+MOT:	rainbow .
+CHI:	shoe .
+MOT:	what's this ?
+CHI:	<oh , oh , oh> [/?] !
+MOT:	good , touch your nose .
+CHI:	arm .
+MOT:	yep .
+CHI:	hair .
+CHI:	nose .
+MOT:	that's right .
+MOT:	do this .
+MOT:	no , you're dry .
+CHI:	tickle .
+MOT:	oop [/?] !
+CHI:	xxx .
+MOT:	and what's this ?
+MOT:	what do you want ?
+MOT:	Stuart what's this ?
+MOT:	look here .
+CHI:	baby .
+MOT:	try it on .
+MOT:	and what's this ?
+MOT:	Stuart , you're quiet .
+MOT:	you're a good boy .
+CHI:	shoe .
+MOT:	what is it ?
+MOT:	what's this ?
+CHI:	more bubble .
+MOT:	good boy .
+MOT:	see the fish ?
+CHI:	plane .
+MOT:	oop [/?] !
+MOT:	Stuart .
+MOT:	oop [/?] and what's this ?
+MOT:	say shoes .
+MOT:	see the puppet .
+MOT:	yeah .
+MOT:	right here .
+MOT:	car .
+MOT:	see that .
+MOT:	more tickle .
+CHI:	bubble .
+CHI:	tickle .
+MOT:	much better .
+CHI:	do this .
+MOT:	what's he doing ?
+CHI:	shirt .
+CHI:	star .
+MOT:	sandwich .
+CHI:	arm [/?] arm .
+MOT:	good boy .
+MOT:	yeah .
+MOT:	see .
+CHI:	fish .
+MOT:	good boy .
+MOT:	Stuart what is it ?
+CHI:	do this .
+CHI:	oop [/?] .
+MOT:	and what's your name ?
+MOT:	in the water .
+MOT:	look_it .
+MOT:	look here .
+MOT:	what's this ?
+MOT:	good .
+MOT:	keys .
+CHI:	sock .
+MOT:	Stuart .
+MOT:	Stuart .
+MOT:	he's gonna eat you up .
+MOT:	what's he doing ?
+CHI:	Vicari .
+MOT:	they have rainbows in school .
+MOT:	good boy .
+MOT:	what's that ?
+MOT:	see the crab .
+MOT:	and you see what these are ?
+MOT:	good boy Stuart .
+MOT:	Mikey .
+CHI:	pa [/?] pant .
+MOT:	look .
+MOT:	look here .
+MOT:	oh , look .
+CHI:	squirrel .
+MOT:	Stuart_Vicari .
+MOT:	what are these ?
+CHI:	bear .
+MOT:	no xxx .
+MOT:	oh , .
+MOT:	what's this ?
+MOT:	Stuart , look .
+MOT:	like the keys ?
+MOT:	got another one in the back , too , in the trunk .
+MOT:	and who's this ?
+CHI:	pull it .
+MOT:	and that's a +/.
+CHI:	tickle .
+MOT:	Stuart , say Mikey .
+MOT:	that's how you make him work .
+CHI:	xxx .
+CHI:	do this .
+MOT:	good boy , right .
+MOT:	in here .
+MOT:	oh , look at that big mouth .
+MOT:	you like when he gets you ?
+MOT:	see the plane ?
+MOT:	look .
+MOT:	see his eyes ?
+MOT:	<let's> [/?] see .
+CHI:	fish .
+MOT:	Stuart , what's my name .
+MOT:	I like it .
+MOT:	<tickle , tickle> [/?] tickle .
+MOT:	a present .
+MOT:	good boy Stuart .
+CHI:	shoe .
+MOT:	good boy .
+MOT:	but look , what's all this ?
+CHI:	ah [/?] .
+MOT:	what's this ?
+MOT:	Stuart what's that ?
+MOT:	hair .
+MOT:	you wanna play with your piano .
+MOT:	Stuart .
+CHI:	feet .
+CHI:	sleep .
+CHI:	bike .
+MOT:	right here .
+MOT:	good boy .
+MOT:	very nice , Stuart .
+MOT:	good boy .
+CHI:	puppet .
+MOT:	bear .
+CHI:	feet .
+MOT:	he has [/?] a big nose .
+MOT:	Stuart , it's a bear .
+MOT:	frog .
+MOT:	bath , good boy .
+MOT:	good boy .
+CHI:	go car .
+CHI:	baby .
+MOT:	good boy .
+MOT:	what's that ?
+MOT:	looks like he's riding his bike .
+MOT:	Stuart , say pants .
+CHI:	good boy .
+MOT:	how about this ?
+CHI:	crab .
+MOT:	and the bears .
+MOT:	looks like he's at the beach .
+MOT:	what is it ?
+MOT:	you like puppets ?
+MOT:	oh „ one of them is riding a plane .
+CHI:	pants .
+MOT:	mama showed you the sky before , right ?
+MOT:	yeah , that's a bear .
+MOT:	gonna get you .
+CHI:	frog .
+MOT:	tickle [/?] tickle .
+MOT:	look .
+MOT:	Stuart .
+MOT:	say pants .
+CHI:	plane .
+MOT:	you like this ?
+MOT:	gonna tickle you .
+MOT:	want .
+MOT:	this is a puppet .
+CHI:	shoe .
+MOT:	puppet .
+MOT:	very nice .
+MOT:	good boy .
+MOT:	it's a monkey .
+MOT:	see the bear ?
+MOT:	that's good .
+MOT:	okay .
+MOT:	what do you think ?
+MOT:	that's his hair .
+MOT:	Stuart , look here .
+MOT:	Stuart , what's that ?
+MOT:	you're all ready for him to get you ?
+MOT:	what's this ?
+MOT:	<&-um &-um &-um> [/?] .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	more .
+MOT:	what's your name .
+MOT:	see what else we have here , Stuart .
+MOT:	what is it ?
+MOT:	Stuart , do this .
+CHI:	bear .
+MOT:	on ?
+MOT:	do you wanna open it ?
+MOT:	what are these ?
+MOT:	good boy .
+MOT:	good boy .
+MOT:	oh , look Stuart .
+CHI:	car .
+CHI:	block .
+MOT:	turtle .
+CHI:	doing ?
+MOT:	see all the nice things ?
+MOT:	look at that .
+MOT:	want him to get you ?
+CHI:	key .
+MOT:	Stuart , do this .
+MOT:	Stuart .
+MOT:	oh , look at that .
+MOT:	good , boy .
+MOT:	do this .
+MOT:	let's see what's in there .
+CHI:	book .
+MOT:	star .
+MOT:	your name is Stuart_Vicari .
+MOT:	mhm [/?] ?
+MOT:	what's that ?
+MOT:	look .
+MOT:	you make him do <&-um &-um> [/?] .
+MOT:	okay , good .
+MOT:	see the ice+cream ?
+CHI:	monkey .
+MOT:	let's see .
+MOT:	huh ?
+CHI:	more tickle .
+MOT:	oh , look_it Stuart .
+MOT:	no where ?
+MOT:	and a crab .
+MOT:	can you say frog ?
+MOT:	ah , what is it ?
+MOT:	what do you want ?
+CHI:	xxx .
+MOT:	and what's this ?
+CHI:	bear .
+MOT:	and what are these ?
+MOT:	shoes .
+CHI:	ear .
+CHI:	umbrella .
+CHI:	music .
+MOT:	tickle , tickle [/?] .
+MOT:	what's this ?
+MOT:	what is it ?
+MOT:	Stuart , that's good .
+MOT:	look at that .
+MOT:	oh , look Stuart , it's a book .
+CHI:	&e [/?] +/.
+MOT:	look in your book , huh [/?] .
+MOT:	this is nice .
+CHI:	Mikey .
+MOT:	do you know what that is ?
+MOT:	Stuart , what's this ?
+CHI:	more bubble .
+MOT:	hi .
+MOT:	Stuart , what's this ?
+MOT:	good , that's nice .
+MOT:	good boy .
+MOT:	all over me ?
+MOT:	oop [/?] .
+MOT:	he walks .
+CHI:	head .
+CHI:	okay .
+MOT:	Stuart , what's this ?
+MOT:	what's this ?
+CHI:	more bubble .
+MOT:	it's small .
+CHI:	good ?
+MOT:	Stuart .
+MOT:	look , where do the keys go ?
+MOT:	where do the keys go Stuart .
+MOT:	what's that ?
+MOT:	good boy .
+MOT:	huh [/?] ?
+MOT:	oop [/?] !
+MOT:	look Stuart .
+MOT:	that's right .
+MOT:	shoes .
+CHI:	pillow .
+MOT:	more tickle .
+MOT:	oop [/?] !
+CHI:	tickle .
+MOT:	oh , pop .
+CHI:	picture .
+MOT:	oh , yeah , that's a shoe on there but what is this ?
+MOT:	look .
+MOT:	go ahead .
+MOT:	can you make him do it ?
+MOT:	bike .
+MOT:	that's what that is .
+MOT:	Vicari .
+MOT:	Stuart , hi .
+MOT:	frog .
+CHI:	bear .
+MOT:	that's Mikey .
+CHI:	quiet .
+MOT:	<teddy bears take a vacation> [/?] .
+MOT:	that's better .
+MOT:	oh , no .
+MOT:	with ice+cream .
+MOT:	hi .
+MOT:	do this .
+MOT:	yeah .
+MOT:	Stuart , what's this ?
+MOT:	what's this , Stuart .
+MOT:	good boy .
+MOT:	you like bubbles ?
+MOT:	okay ?
+MOT:	oh , look Stuart .
+CHI:	more .
+MOT:	shooting star ?
+MOT:	with the water .
+MOT:	what's that ?
+CHI:	hair .
+MOT:	put your hands down .
+MOT:	oh , look .
+CHI:	ba [/?] .
+MOT:	that's good Stuart .
+MOT:	this is Mikey .
+MOT:	can you say planet ?
+CHI:	cake .
+CHI:	byebye car .
+MOT:	what is it ?
+CHI:	xxx .
+MOT:	do this .
+MOT:	it's nice .
+MOT:	look .
+MOT:	Stuart , look .
+MOT:	Stuart , what's this ?
+MOT:	fish .
+MOT:	oh .
+MOT:	tickle the body .
+CHI:	more tickle .
+MOT:	yeah , where do you go in the car ?
+CHI:	Mikey .
+MOT:	oh , good .
+MOT:	hi , Stuart .
+MOT:	what are these ?
+MOT:	yeah , a little [/?] baby bear .
+MOT:	and what is this up here ?
+MOT:	do this .
+MOT:	it's nice .
+MOT:	Stuart , touch your arms .
+MOT:	milk .
+CHI:	Big_Bird .
+MOT:	Stuart , what's he doing ?
+CHI:	doll .
+MOT:	Stuart .
+MOT:	truck .
+MOT:	look , want .
+MOT:	good .
+CHI:	toy .
+MOT:	you like that ?
+MOT:	and the moon .
+CHI:	rainbow .
+MOT:	that's right .
+CHI:	tick .
+CHI:	mamma .
+MOT:	<&-um &-um &-um &-um> [/?] .
+CHI:	feet .
+MOT:	do you know what that is ?
+MOT:	book .
+MOT:	crab .
+CHI:	I like it .
+MOT:	say car .
+MOT:	shoes .
+MOT:	what's this ?
+MOT:	what's this ?
+CHI:	hair .
+MOT:	here's another puppet .
+MOT:	say hi .
+MOT:	hi .
+MOT:	and the sky .
+MOT:	Stuart , what's this ?
+MOT:	what's he doing ?
+MOT:	who's that ?
+MOT:	what is it ?
+CHI:	do this .
+MOT:	Stuart , what's this ?
+MOT:	it's a bed .
+CHI:	tickle .
+MOT:	okay , better .
+MOT:	oh , here's the book that's all the toys in it .
+MOT:	Stuart look .
+MOT:	open .
+MOT:	look .
+MOT:	the keys +/.
+MOT:	yeah .
+MOT:	I'll give you a couple .
+MOT:	you like puppets ?
+MOT:	plane .
+MOT:	look .
+CHI:	rainbow .
+MOT:	here's another one .
+MOT:	gonna tickle you .
+MOT:	Stuart , what's this ?
+MOT:	good boy .
+MOT:	his eyes are turning .
+MOT:	Stuart , do this .
+MOT:	it's a crab .
+MOT:	look here .
+MOT:	right in here .
+MOT:	oh , Stuart , that's a nice book .
+MOT:	good boy , you're smart .
+MOT:	looks like a shooting star .
+MOT:	and [/?] it's a fish .
+CHI:	more tickle .
+MOT:	do this .
+MOT:	and what's this ?
+CHI:	uhoh [/?] !
+MOT:	they're all hidden .
+MOT:	what's this ?
+MOT:	what's the matter ?
+MOT:	they're keys .
+MOT:	that's socks ?
+MOT:	good boy , Stuart .
+MOT:	it's a ball .
+MOT:	look here .
+MOT:	look .
+CHI:	want bubble .
+MOT:	sleeping .
+MOT:	Stuart look .
+MOT:	good boy Stuart .
+MOT:	that's a good boy .
+MOT:	can you see that ?
+MOT:	look .
+MOT:	it's gonna tickle <tickle , tickle , tickle> [/?] .
+CHI:	do this .
+MOT:	what's this ?
+MOT:	let's see .
+MOT:	what do you wanna play with , huh [/?] ?
+MOT:	Stuart .
+CHI:	xxx .
+MOT:	what is it ?
+MOT:	oh , wow [/?] Stuart .
+MOT:	oh , a present for Stuart .
+MOT:	Stuart do this .
+MOT:	that's a bike .
+MOT:	it's a little bear .
+CHI:	do this .
+MOT:	that's a frog .
+MOT:	oh , boy , something that you like is rainbows , huh .
+MOT:	good boy , that's right .
+MOT:	I don't see anything .
+CHI:	doll .
+MOT:	good boy , Stuart .
+MOT:	picture .
+MOT:	Stuart , what's this ?
+CHI:	nose .
+CHI:	Stuart .
+MOT:	oop [/?] .
+CHI:	more bubble .
+CHI:	shoe .
+MOT:	there's a planet .
+MOT:	and a turtle .
+MOT:	that sounds better .
+MOT:	Stuart .
+CHI:	uhoh [/?] !
+CHI:	nose .
+MOT:	it's nice .
+CHI:	byebye car .
+MOT:	say bear .
+MOT:	see the bike ?
+MOT:	Stuart , what's this ?
+MOT:	it's a present .
+CHI:	car .
+MOT:	good boy .
+CHI:	want .
+CHI:	sandwich .
+MOT:	more tickle .
+MOT:	how are you ?
+MOT:	touch your ears .
+MOT:	more bubbles .
+MOT:	say want .
+CHI:	bath .
+MOT:	look .
+MOT:	what do you want him to do ?
+MOT:	look at that .
+CHI:	bike .
+CHI:	try it .
+MOT:	they're bears .
+MOT:	good .
+MOT:	good boy .
+MOT:	that's right , good boy .
+MOT:	you want bubbles ?
+MOT:	block .
+MOT:	a puppet , huh ?
+MOT:	nice .
+MOT:	he's sleeping .
+MOT:	the monkey's gonna tickle .
+CHI:	Stuart .
+CHI:	monkey .
+MOT:	what do you want ?
+MOT:	look .
+MOT:	Stuart , can you do ?
+MOT:	it's a skunk .
+MOT:	am I doing this right ?
+CHI:	truck .
+MOT:	Stuart what's this ?
+CHI:	boat .
+MOT:	and what are these ?

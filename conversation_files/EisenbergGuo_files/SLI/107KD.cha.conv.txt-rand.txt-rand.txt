@@ -1,0 +1,441 @@
+participant	content
+CHI:	hugging [^ ns] .
+INV:	this girl right here ?
+INV:	alright .
+INV:	okay, what else is happening in the picture ?
+INV:	the children see the cat .
+INV:	cooking, okay .
+INV:	he's mad ?
+INV:	the boy is trying to get the cookies and then xxx +...
+CHI:	<then> [/?] then [^ earg] coming [^ eu] .
+CHI:	the picture cry [^ other] [^ eu] .
+INV:	oh_no, the dog ate some of the cake .
+CHI:	above his head [^ ns] .
+INV:	what is happening in the picture ?
+CHI:	she cut it .
+INV:	what is happening in the picture ?
+INV:	okay good .
+CHI:	banana [^ ns] .
+INV:	tree cat, okay good .
+INV:	the cake is messy, good job .
+INV:	what is happening in the picture ?
+INV:	what did you say first ?
+INV:	okay, good .
+INV:	actually xxx +...
+INV:	lookit again ?
+CHI:	tree cat [^ ns] .
+INV:	the water stopped ?
+INV:	what else is happening in the picture ?
+INV:	okay, good .
+INV:	and tell me one more thing about the story .
+INV:	now I'll start the start the story and you finish it .
+CHI:	then [^ earg] blow [^ earg] [^ eu] .
+INV:	just tell me something else about the picture .
+INV:	sit down ?
+INV:	okay good .
+INV:	good story .
+CHI:	mom [^ imitation] [^ ns] .
+INV:	okay good .
+INV:	he's what ?
+INV:	he's what ?
+INV:	and then xxx +...
+CHI:	okay [% whispering] .
+INV:	and then xxx +...
+INV:	they throw ?
+CHI:	cake [^ imitation] [^ ns] .
+INV:	what is that ?
+INV:	what else is happening in this picture ?
+CHI:	this [^ ns] .
+INV:	tell me something else about the picture .
+CHI:	picture [% repeated “picture” four more times] [^ imitation] [^ ns]
+INV:	the boy knocked the boxes off the shelf and then xxx +...
+INV:	this dirty ?
+INV:	the boy is taking his grandma's scissors .
+INV:	and tell me one more thing about the story .
+INV:	boy ?
+INV:	and you finish it .
+INV:	what else is happening in the picture ?
+INV:	okay, good .
+CHI:	0 .
+INV:	mhm .
+CHI:	cat [^ imitation] [^ ns] .
+CHI:	it's xxx .
+INV:	what's happening in the picture ?
+INV:	and you finish it .
+INV:	okay, fall down .
+INV:	the cat is stuck up in the tree .
+INV:	tree ?
+CHI:	pajama [^ imitation] [^ ns] .
+INV:	crying ?
+CHI:	then they're alright .
+INV:	they're blowing ?
+CHI:	<ba> [/?] eat [^ ns] .
+INV:	okay good .
+CHI:	finish [% whispering] [^ imitation] [^ ns] .
+INV:	good job .
+CHI:	picture picture [^ imitation] [^ ns] .
+CHI:	he's mad [^ ns] .
+CHI:	snowballs [^ imitation] [^ ns] .
+INV:	hugging ?
+INV:	alright, I'm <gonna> [>] xxx +/.
+CHI:	they blow bubbles [^ ns] .
+INV:	bamada@n .
+INV:	what'd you say ?
+INV:	the dog is in front of the bus .
+CHI:	boy [^ frag] [^ eu] .
+INV:	and you finish it .
+INV:	what else is happening in the picture ?
+CHI:	it's make [* m:0ing] [^ emorph] a snow [^ other] [^ eu] .
+INV:	and you finish it .
+INV:	this one, the boy ?
+INV:	good, good job .
+INV:	okay, alright good .
+INV:	I'm sorry ?
+INV:	what else is happening in the picture ?
+CHI:	then they fall down .
+CHI:	it's messy .
+CHI:	she xxx +...
+INV:	now I'll start the start the story .
+CHI:	scissors [^ imitation] [^ ns] .
+CHI:	<she> [/?] she 0is [^ ev] walking [^ eu] .
+INV:	very good .
+INV:	what else is happening in this picture ?
+INV:	good .
+CHI:	hugging [^ ns] .
+INV:	very good .
+INV:	the children are taking the donuts from the bag .
+INV:	now <I'll> [>] &s xxx +/.
+INV:	what the tree ?
+CHI:	then [^ earg] give [^ earg] to you [^ eu] .
+CHI:	then [^ earg] cooking [^ eu] !
+CHI:	picture [^ imitation] [^ ns] !
+INV:	the daddy ?
+INV:	now I'll start the start the story .
+INV:	cooking ?
+INV:	the bus ?
+INV:	and you finish it .
+INV:	he is mad, very good job .
+INV:	the girl hugging ?
+CHI:	this one [^ ns] .
+CHI:	this one [^ ns] .
+CHI:	cooking [^ ns] .
+INV:	and tell me one more thing about the story .
+INV:	gave to you, okay good .
+CHI:	this girl [^ ns] .
+INV:	alright good job .
+INV:	water .
+CHI:	happen picture [^ imitation] [^ ns] .
+INV:	what is happening in the picture ?
+CHI:	she 0is [^ ev] looking again [^ eu] .
+CHI:	he's mad too .
+INV:	the picture what ?
+INV:	the boys are fighting .
+CHI:	grah@o [^ ns] .
+INV:	she running, that's right .
+CHI:	the daddy [^ ns] .
+INV:	okay, good .
+INV:	okay good .
+INV:	what else is happening in the picture ?
+INV:	and tell me one more thing about the story .
+CHI:	shoes [<] [^ imitation] [^ ns] .
+INV:	is that what you said, hugging ?
+INV:	hm ?
+INV:	the dog and the girl have daddy's shoes <and then> [>] xxx +...
+INV:	very good job with that picture .
+CHI:	wash the dog [^ imitation] [^ ns] .
+INV:	good .
+INV:	okay, good job .
+CHI:	yes, crying [^ ns] .
+CHI:	banana eat [^ ns] .
+INV:	good job with that picture .
+CHI:	then [/] then they [^ other] 0v cake [^ eu] .
+INV:	now I'll start the start the story .
+CHI:	banana [^ frag] [^ eu] .
+INV:	the boy what ?
+CHI:	they're pushing [^ ns] .
+CHI:	oh, this 0is [^ ev] dirty [^ eu] .
+INV:	what is happening in the picture ?
+INV:	okay, so the boy this .
+INV:	broom, that's right .
+INV:	just tell something about the picture .
+INV:	tell me one more thing about the picture .
+INV:	what is happening in the picture ?
+CHI:	picture [^ imitation] [^ ns] .
+INV:	the girl, okay good .
+INV:	and then xxx +...
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	okay .
+INV:	and you finish it .
+INV:	he's happy ?
+INV:	good job .
+INV:	okay .
+INV:	alrighty good .
+CHI:	that [^ ns] .
+INV:	okay, what else is happening in this picture ?
+INV:	okay, good .
+CHI:	he's happy [^ ns] .
+INV:	wash the dog ?
+INV:	stop ?
+CHI:	happening [^ imitation] [^ ns] .
+INV:	she's crying ?
+CHI:	picture [% repeated “picture” four more times] [^ imitation] [^ ns]
+INV:	what ?
+INV:	the boy the bear ?
+INV:	okay, good .
+INV:	alrighty good .
+INV:	what's happening in the picture ?
+INV:	mom ?
+CHI:	bag [^ imitation] [^ ns] .
+CHI:	girl [^ ns] .
+CHI:	picture [% repeated picture five more times] [^ imitation] [^ ns] .
+CHI:	they fall down tree [^ ns] .
+INV:	walking ?
+CHI:	the boy the bear [^ ns] .
+INV:	yes, there are apples .
+INV:	and you finish it .
+INV:	let's look .
+INV:	now I'll start the start the story .
+INV:	good job .
+CHI:	she [^ other] this [% CHI putting arms up] [^ eu] .
+INV:	she has her arm up like this, right ?
+CHI:	picture [% whispering] [^ imitation] [^ ns] .
+CHI:	picture [^ x 6] [^ imitation] [^ ns] .
+CHI:	the picture fall [^ ev] down [^ other] [^ eu] .
+CHI:	this [^ ns] .
+CHI:	they're looking [^ ns] .
+CHI:	this [^ ns] .
+INV:	they throw ?
+CHI:	then (.) [^ earg] hug [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+INV:	what did you say ?
+INV:	what fall down ?
+CHI:	the picture [^ imitation] [^ ns] .
+CHI:	father eat [^ imitation] [^ ns] .
+CHI:	grr [^ ns] .
+INV:	the picture girl ?
+INV:	<okay> [<] good .
+INV:	tell me something about the picture .
+CHI:	0 .
+CHI:	he's crying [^ ns] .
+CHI:	the daddy [^ frag] [^ eu] .
+CHI:	<yeah> [>], this [^ ns] .
+INV:	she get up ?
+CHI:	<they're> [<] blowing [^ earg] [^ eu] .
+INV:	and then xxx +...
+CHI:	xxx [<] .
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	what is happening in the picture ?
+CHI:	snow [^ frag] [^ eu] .
+INV:	okay, good .
+INV:	and tell me one more thing about the story .
+INV:	what did you say ?
+INV:	what is happening in the picture ?
+CHI:	walking [^ ns] .
+INV:	she's okay ?
+INV:	and tell me one more thing about the story .
+INV:	the little girl is still in her pajamas .
+CHI:	then (.) the girl [^ frag] [^ eu] .
+INV:	now I'll start the start the story .
+INV:	above his head ?
+CHI:	stop [^ ns] .
+INV:	grr ?
+INV:	good job .
+INV:	good, and tell me one more thing about the story .
+INV:	okay, very good .
+INV:	very good .
+INV:	tell me one more thing about the story .
+CHI:	tree [^ ns] .
+INV:	very good .
+INV:	banana eat ?
+INV:	and tell me one more thing about the story .
+INV:	now I'll start the start the story .
+CHI:	<this the boy> [/?] this one [^ ns] .
+CHI:	say tree cat [^ ns] .
+INV:	okay great .
+CHI:	is happening [^ imitation] [^ ns] .
+CHI:	then cat go tree [^ eu] .
+CHI:	finish [^ imitation] [^ ns] .
+INV:	he's mad, that's right .
+CHI:	<that's> [/?] that's xxx +...
+CHI:	[^ earg] sit down [^ eu] .
+CHI:	the bubble [* m:0s] [^ emorph] [^ frag] [^ eu] .
+INV:	this one ?
+INV:	okay very good .
+INV:	she's holding that ?
+INV:	now I'll start the start the story .
+CHI:	they shovel [^ earg] [^ eu] .
+CHI:	then they're pushing [^ earg] [^ eu] .
+INV:	and then xxx +...
+INV:	and you finish it .
+CHI:	again [^ ns] .
+INV:	what is that ?
+INV:	good .
+INV:	okay .
+INV:	good .
+INV:	the daddy is hiding a doll behind his back .
+INV:	now I'll start the start the story .
+INV:	okay, good .
+CHI:	yes, crying [^ ns] .
+INV:	good job .
+INV:	and tell me one more thing about the story .
+CHI:	the picture [^ imitation] [^ ns] .
+CHI:	picture [^ imitation] [^ ns] .
+INV:	oh, they're walking again ?
+INV:	what else is happening in the picture ?
+CHI:	<&th> [/?] the water stop [* m:0ed] [^ ev] [^ eu] .
+CHI:	that 0is [^ ev] 0a [^ emorph] pretty picture [^ eu] .
+INV:	and tell me one more thing about the story .
+CHI:	he's happy [^ ns] .
+CHI:	picture [x 6] [^ imitation] [^ ns] .
+CHI:	boy [^ ns] .
+INV:	then hug, good .
+INV:	okay .
+CHI:	then (.) [^ earg] catch [^ earg] [^ eu] .
+INV:	grr ?
+CHI:	these are apples .
+CHI:	they blow bubble [* m:0s] [^ ns] .
+CHI:	the boy xxx .
+INV:	is that what you said ?
+INV:	what is the girl doing ?
+CHI:	&t xxx +/.
+INV:	the girl xxx +...
+INV:	and here comes the mom .
+INV:	now I'll start the start the story .
+INV:	happy ?
+INV:	what is happening in the picture ?
+INV:	okay, can you tell me what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	and you finish it .
+CHI:	the doggy [^ frag] [^ eu] .
+INV:	okay, good job .
+INV:	now I'll start the start the story .
+CHI:	they blow [^ ns] .
+INV:	now I'll start the start the story .
+INV:	and then xxx +...
+CHI:	boy [^ frag] [^ eu] .
+INV:	<the> [/?] <&bo> [>] the boys are throwing snowballs .
+INV:	snow, that's right .
+INV:	banana ?
+INV:	okay, I'll start the start the story and you finish it .
+INV:	what is happening in the picture ?
+CHI:	she 0is [^ ev] running [^ eu] .
+INV:	like a bear ?
+CHI:	then (.) happy [^ frag] [^ eu] .
+INV:	he's holding up the donut, right ?
+CHI:	they fall down .
+INV:	just tell something about the picture .
+INV:	oh_no, the bubbles spilled <and then> [>] xxx +...
+INV:	she has her hands out like this ?
+INV:	what else is happening in <the picture> [>] ?
+CHI:	they're blowing [^ ns] .
+INV:	what else is happening in this picture ?
+CHI:	<he's> [<] crying .
+INV:	good job .
+CHI:	broom [^ frag] [^ eu] .
+INV:	happy ?
+CHI:	they shovel [^ ns] .
+CHI:	the picture [^ imitation] [^ ns] xxx +...
+CHI:	0the [^ emorph] picture say [* m:03s] [^ ev] tree
+INV:	and then xxx +...
+INV:	very good job .
+INV:	and you finish it .
+INV:	okay good .
+INV:	okay .
+CHI:	he's mad .
+CHI:	banana eat [^ ns] .
+INV:	and tell me one more thing about the story .
+INV:	tell me something else about the picture .
+INV:	what ?
+INV:	and then xxx +...
+INV:	she run again .
+INV:	give it to you ?
+INV:	the children are trying to wash the dog .
+INV:	father eat ?
+INV:	that's right, good .
+CHI:	it's eat [* m:0ing] [^ other] [^ eu] .
+INV:	alrighty .
+CHI:	it's picture [x 7] [^ imitation] [^ ns] [^ ns] .
+CHI:	he's mad [^ ns] .
+CHI:	the mommy [^ frag] [^ eu] .
+INV:	and tell me one more thing about the story .
+CHI:	<there's &wa this boy this girl> [/?] this boy xxx .
+INV:	then they're this ?
+INV:	and then xxx +...
+CHI:	bubbles [^ ns] .
+INV:	this ?
+INV:	what else is happening in the picture ?
+CHI:	<he's mad> [<] .
+CHI:	story [^ imitation] [^ ns] .
+INV:	oh okay .
+CHI:	the bus [^ frag] [^ eu] .
+INV:	fall down tree ?
+CHI:	cry [^ ns] .
+INV:	alright good job .
+INV:	that's right, good job .
+INV:	they're pushing ?
+INV:	now I'll start the start the story .
+INV:	okay, good .
+INV:	and tell me one more thing about the story .
+INV:	alright very good .
+CHI:	back [^ imitation] [^ ns] .
+CHI:	catch [^ ns] .
+INV:	what else is happening in this picture ?
+CHI:	yeah [^ ns] .
+INV:	<now I'll start the &st> [>] xxx +/.
+CHI:	bubbles <spilled> [<] [^ imitation] [^ ns] .
+INV:	they do look mad .
+CHI:	is happening picture [^ imitation] [^ ns] .
+INV:	he's mad too .
+INV:	they throw bubbles ?
+CHI:	eat [^ ns] .
+CHI:	[^ earg] give [^ earg] to you [^ eu] .
+INV:	then go ?
+CHI:	wash the dog .
+INV:	what did you say ?
+INV:	and you finish it .
+INV:	okay, what else is happening in the picture ?
+INV:	then they're what ?
+INV:	give them to you ?
+CHI:	she get [^ ev] up [^ eu] .
+INV:	what did you say ?
+CHI:	<then> [/?] then they blow [^ ns] .
+INV:	and you finish it .
+CHI:	the daddy [^ ns] .
+INV:	alrighty .
+CHI:	the girl 0is [^ ev] hugging [^ earg] [^ eu] .
+CHI:	is happen picture [^ ns] .
+CHI:	she 0is holding [^ ns] .
+INV:	say tree cat ?
+CHI:	<she 0is [^ ev] holding [^ earg] [^ eu]> [<] .
+INV:	just tell something about the picture .
+CHI:	0 .
+CHI:	<they trying to bring the &pict> [/?] [^ earg] stop [^ earg] [^ eu]
+CHI:	nothing [^ ns] .
+CHI:	picture [^ x 4] [^ imitation] [^ ns] .
+INV:	the mommy, good job .
+INV:	okay very good .
+INV:	very good .
+INV:	they shovel ?
+INV:	and the bus can't move and then xxx +...
+INV:	okay .
+CHI:	hugging [^ ns] .
+INV:	eat ?
+CHI:	he's happy .
+INV:	okay .
+CHI:	give to you [^ ns] .
+CHI:	water [^ ns] .
+INV:	they raked the leaves into a big pile and then xxx +...
+CHI:	she run [^ ev] again [^ eu] .
+CHI:	story [^ imitation] [^ ns] .
+INV:	and you finish it .
+CHI:	then [^ earg] wash the dog [^ eu] .
+INV:	catch ?
+INV:	what is happening in the picture ?
+CHI:	0 .
+INV:	and tell me one more thing about the story .
+CHI:	tree [^ imitation] [^ ns] .
+INV:	what did you say ?
+INV:	good .
+CHI:	xxx front [^ eu] .

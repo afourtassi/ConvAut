@@ -1,0 +1,557 @@
+participant	content
+CHI:	chair .
+MOT:	what is that ?
+MOT:	no !
+CHI:	macaroni .
+MOT:	hello Stuart .
+MOT:	oh , you wanna say abcs ?
+CHI:	do .
+MOT:	no !
+CHI:	hi .
+MOT:	good boy !
+CHI:	phone .
+MOT:	okay .
+MOT:	good boy .
+MOT:	yeah !
+MOT:	Stuart , what's this ?
+MOT:	scissors .
+CHI:	picture .
+MOT:	I'm gonna sing .
+MOT:	yay Stuart .
+CHI:	mama .
+CHI:	toy .
+MOT:	Oscar .
+CHI:	water .
+MOT:	are you gonna sing ?
+MOT:	can you give mama a kiss ?
+CHI:	clap .
+MOT:	Bert .
+MOT:	good boy .
+MOT:	good boy !
+MOT:	book .
+MOT:	let me hear you .
+CHI:	chair .
+CHI:	no this .
+MOT:	say hello .
+CHI:	car .
+MOT:	and blocks .
+MOT:	tickle tickle [/?] .
+MOT:	good boy .
+CHI:	sit .
+MOT:	on .
+MOT:	good boy .
+MOT:	Stuart .
+MOT:	what's this ?
+MOT:	all up .
+MOT:	what's that ?
+MOT:	Stuart .
+CHI:	water .
+CHI:	church .
+MOT:	let me see you count .
+MOT:	baby .
+MOT:	no .
+CHI:	water .
+CHI:	do this .
+MOT:	see what it is .
+MOT:	yay !
+MOT:	do this .
+CHI:	two [/?] .
+MOT:	you're going to make him do pattycake ?
+MOT:	Stuart .
+CHI:	kiss doll .
+MOT:	and a chair .
+MOT:	what's that ?
+MOT:	do you wanna sing a song with mama ?
+MOT:	thirsty ?
+MOT:	Stuart .
+MOT:	thank you .
+CHI:	cracker .
+CHI:	row boat xxx .
+MOT:	tickle tickle [/?] .
+CHI:	two [/?] .
+MOT:	see the dog ?
+CHI:	cracker .
+MOT:	hello Stuart .
+CHI:	cracker .
+CHI:	baby .
+CHI:	Nonny .
+CHI:	open .
+CHI:	cracker .
+MOT:	what's this ?
+CHI:	picture .
+MOT:	look .
+MOT:	Big_Bird .
+MOT:	Stuart , let's sing .
+CHI:	cracker .
+MOT:	no !
+MOT:	how about we talk to Nonny ?
+CHI:	toy .
+MOT:	Stuart , look here .
+MOT:	you're a good boy .
+MOT:	you're so smart Stuart !
+CHI:	do this .
+MOT:	more crackers .
+MOT:	do this .
+MOT:	good boy .
+MOT:	do this .
+MOT:	Stuart , who's this ?
+CHI:	cracker ?
+MOT:	and what are these ?
+CHI:	row row .
+MOT:	see that ?
+MOT:	you do the car .
+MOT:	what is this ?
+CHI:	xxx .
+MOT:	look at me .
+MOT:	and what's this ?
+MOT:	roll em .
+MOT:	two [/?] .
+MOT:	sit down .
+CHI:	cracker ?
+CHI:	pillow .
+CHI:	cracker .
+CHI:	xxx .
+CHI:	come .
+MOT:	look .
+MOT:	Stuart .
+MOT:	sit down .
+MOT:	let's see who else we can find .
+MOT:	oh , nice !
+MOT:	mama's gonna put your sock on okay ?
+MOT:	Stuart .
+MOT:	Stuart .
+CHI:	music .
+MOT:	Stuart .
+MOT:	did you forget ?
+MOT:	pull it up .
+MOT:	macaroni .
+MOT:	Stuart do this .
+MOT:	I love you .
+CHI:	picture .
+MOT:	this .
+MOT:	Stuart .
+MOT:	those are Stuart's feet .
+MOT:	push the car nice .
+MOT:	mama tickle you ?
+MOT:	dog .
+CHI:	water !
+MOT:	you like crackers ?
+MOT:	open .
+MOT:	do this .
+CHI:	water .
+MOT:	good boy .
+CHI:	cracker .
+MOT:	look .
+MOT:	good boy .
+MOT:	huh [/?] .
+MOT:	do we have monkeys ?
+MOT:	you like it ?
+CHI:	xxx .
+MOT:	no Stuart , look .
+CHI:	xxx .
+MOT:	three [/?] .
+CHI:	hi .
+MOT:	do you want me do more tickles ?
+CHI:	cracker .
+MOT:	do this .
+MOT:	car .
+CHI:	me .
+MOT:	say hi .
+MOT:	good boy .
+CHI:	this .
+MOT:	this is a car , see ?
+CHI:	cracker .
+CHI:	open cracker .
+MOT:	you wanna sing Yankee_Doodle ?
+MOT:	you better chew that .
+MOT:	all done .
+CHI:	Oscar .
+MOT:	okay good boy .
+MOT:	that's nice huh [/?] ?
+MOT:	they're all_gone .
+CHI:	xxx .
+MOT:	look .
+MOT:	Stuart , you eat too much .
+CHI:	hello .
+MOT:	good boy !
+MOT:	look at that .
+MOT:	what do you want ?
+CHI:	cracker .
+MOT:	look here .
+CHI:	do this .
+MOT:	you tell Nonny hello .
+MOT:	here it comes .
+CHI:	arm .
+MOT:	see ?
+MOT:	what's this ?
+CHI:	cracker .
+CHI:	sit up .
+CHI:	count .
+MOT:	what's your name ?
+MOT:	<a@l b@l c@l> [/?] .
+CHI:	car .
+MOT:	you wanna sing ?
+CHI:	sing .
+MOT:	good boy .
+MOT:	Nonny .
+CHI:	this .
+CHI:	do this .
+CHI:	cracker ?
+MOT:	look .
+MOT:	you're gonna get a fat belly , you eat all those crackers .
+CHI:	mama .
+CHI:	phone .
+CHI:	pattycake .
+MOT:	oh , good boy .
+MOT:	you want more tickles ?
+CHI:	no !
+MOT:	you're a good boy .
+MOT:	do this .
+CHI:	cracker .
+MOT:	don't fall .
+CHI:	cracker .
+MOT:	it spilled .
+MOT:	what do you wanna do ?
+CHI:	Ernie .
+MOT:	do this .
+MOT:	oh , you wanna see Bert ?
+MOT:	close the door .
+MOT:	can you sing ?
+CHI:	cracker .
+MOT:	car .
+MOT:	what is this Stuart ?
+MOT:	yay !
+MOT:	okay , good boy .
+MOT:	do this .
+CHI:	cracker .
+MOT:	what is this ?
+CHI:	hair .
+MOT:	what did he call it ?
+CHI:	baby .
+CHI:	no .
+MOT:	say four .
+MOT:	you like bikes .
+MOT:	pillow ?
+MOT:	and I see your feet !
+MOT:	do this .
+CHI:	cracker .
+CHI:	close door .
+MOT:	what are these ?
+CHI:	cracker .
+MOT:	and mama .
+CHI:	cracker ?
+MOT:	bag , good boy .
+CHI:	cracker .
+MOT:	he wants a kiss .
+MOT:	Stuart .
+MOT:	there's only a little bit .
+MOT:	who's that ?
+CHI:	macaroni .
+MOT:	Ernie .
+MOT:	no ?
+CHI:	sing .
+CHI:	cracker .
+MOT:	push it .
+CHI:	do monkey .
+MOT:	<this little piggy went to the market , this little piggy stayed
+MOT:	this .
+CHI:	xxx .
+MOT:	and Oscar .
+MOT:	Stuart , what's that ?
+MOT:	put your hands down .
+CHI:	<a@l b@l> [/?] .
+MOT:	let's count .
+MOT:	do this .
+MOT:	you're a good boy .
+CHI:	nose .
+MOT:	you like to count ?
+MOT:	he says look I love you .
+CHI:	pattycake .
+MOT:	and look at this .
+CHI:	bike .
+MOT:	well , they're all pictures .
+CHI:	Big_Bird .
+MOT:	we played pattycake .
+MOT:	good boy .
+MOT:	Stuart .
+MOT:	you're being good Stuart .
+CHI:	kiss .
+CHI:	<one , two , three , five> [/?] .
+MOT:	clap .
+MOT:	Stuart , you sing .
+MOT:	what is this ?
+MOT:	yay for Stuart .
+CHI:	picture .
+MOT:	oh , !
+CHI:	cracker .
+MOT:	what do you think of that , huh [/?] ?
+MOT:	pattycake .
+MOT:	mama's gonna push it .
+CHI:	cracker .
+MOT:	can you say a@l b@l c@l ?
+MOT:	right here .
+MOT:	blocks .
+CHI:	bird .
+MOT:	taking a bath !
+MOT:	listen .
+MOT:	yay Stuart !
+MOT:	do you wanna to sing ?
+MOT:	you're so smart Stuart .
+MOT:	ready ?
+MOT:	one [/?] .
+MOT:	who's the smart boy ?
+MOT:	oh , !
+CHI:	scissor(s) .
+CHI:	do this .
+MOT:	Stuart .
+CHI:	car .
+CHI:	do this .
+MOT:	tickle <tickle tickle> [/?] .
+MOT:	look down here .
+CHI:	do this .
+MOT:	here it comes .
+MOT:	I love you Stuart .
+MOT:	four [/?] .
+CHI:	thirsty .
+MOT:	oh , look at this !
+MOT:	what about roll em ?
+MOT:	look .
+CHI:	sit down .
+MOT:	ah [/?] !
+MOT:	clap .
+MOT:	let me see .
+MOT:	what's this ?
+CHI:	I like that .
+CHI:	<ti , ti> [/?] .
+MOT:	say phone .
+MOT:	baby .
+CHI:	cracker .
+MOT:	this .
+MOT:	you wanna sing with me ?
+CHI:	xxx .
+CHI:	do this .
+MOT:	Stuart .
+CHI:	want cracker ?
+CHI:	water .
+CHI:	do this .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	who's that ?
+MOT:	Stuart .
+MOT:	oh , !
+MOT:	Stuart , what's this ?
+MOT:	roll it .
+MOT:	sit down .
+MOT:	Stuart .
+MOT:	you want some water ?
+CHI:	three [/?] .
+MOT:	okay .
+CHI:	open .
+CHI:	papa .
+MOT:	you are !
+MOT:	you see that's nice .
+MOT:	what's my name ?
+MOT:	you forgot ?
+CHI:	Ernie .
+MOT:	you are .
+CHI:	Nonny .
+MOT:	five [/?] .
+MOT:	you wanna open it ?
+MOT:	Stuart do this .
+MOT:	say Ernie .
+MOT:	see , the baby's in bed .
+MOT:	sit down .
+MOT:	Stuart .
+MOT:	what's this ?
+CHI:	nose .
+MOT:	do this .
+MOT:	huh [/?] ?
+MOT:	good boy .
+MOT:	you're being quiet .
+MOT:	Stuart .
+MOT:	let me see you do monkeys .
+MOT:	who's a good boy ?
+CHI:	cracker ?
+MOT:	you're a good boy too .
+CHI:	monkey .
+MOT:	Stuart , kiss the doll .
+MOT:	oh , look_it .
+CHI:	clap .
+CHI:	water .
+MOT:	you don't want no more tickles ?
+MOT:	and Grover .
+MOT:	and a house .
+MOT:	good boy .
+MOT:	should we open it ?
+MOT:	sing pattycake .
+MOT:	how about monkeys ?
+CHI:	hello .
+MOT:	here you go .
+MOT:	I see your feet Stuart .
+MOT:	thank you .
+CHI:	sit down .
+MOT:	good boy .
+MOT:	and who's this ?
+MOT:	good boy .
+MOT:	you do .
+MOT:	Stuart .
+CHI:	pattycake .
+MOT:	wanna do Row_Row_Your_Boat ?
+MOT:	dog .
+CHI:	<a@l b@l> [/?] .
+MOT:	give mama a kiss .
+MOT:	be quiet now Stuart .
+CHI:	book .
+MOT:	look at me .
+MOT:	I love you .
+MOT:	I love you Stuart .
+MOT:	yeah .
+CHI:	one [/?] .
+MOT:	huh [/?] ?
+CHI:	bag .
+CHI:	water .
+MOT:	Stuart .
+MOT:	oh , good boy .
+CHI:	ear .
+CHI:	no .
+MOT:	what do you think , huh [/?] ?
+MOT:	chair .
+MOT:	oop [/?] I'm going to take your sock off .
+MOT:	this is a bike .
+MOT:	like this .
+MOT:	what's this Stuart ?
+MOT:	church , good boy .
+CHI:	car .
+MOT:	look at me .
+MOT:	one [/?] .
+CHI:	cracker .
+CHI:	four [/?] .
+MOT:	oh , you're a good boy .
+MOT:	chew it up .
+CHI:	bunny .
+MOT:	now kiss the doll .
+CHI:	Stuart .
+CHI:	tickle .
+CHI:	more cracker .
+MOT:	do this .
+MOT:	open .
+MOT:	Stuart .
+CHI:	do this .
+CHI:	hello Stuart .
+MOT:	that's a good boy .
+CHI:	cracker .
+MOT:	what did he call it ?
+MOT:	good boy !
+MOT:	Stuart .
+MOT:	this .
+CHI:	Bert .
+MOT:	what is that ?
+MOT:	look at that .
+MOT:	what do you want ?
+CHI:	do this .
+MOT:	the baby .
+CHI:	me .
+MOT:	and close the door .
+MOT:	the baby's sleeping .
+MOT:	watch out !
+CHI:	do this .
+MOT:	you wanna sing hello Stuart ?
+MOT:	more crackers .
+CHI:	clap .
+MOT:	what are these Stuart ?
+MOT:	sleeping .
+MOT:	you want more tickles ?
+CHI:	do this .
+MOT:	macaroni , that's what he called it .
+CHI:	more cracker .
+MOT:	say hello .
+CHI:	I like that .
+MOT:	right there .
+MOT:	picture .
+MOT:	you're being good Stuart .
+CHI:	sit up .
+MOT:	Stuart , you wanna count ?
+MOT:	how do we roll em ?
+CHI:	no .
+MOT:	do this .
+CHI:	cracker .
+MOT:	Stuart .
+MOT:	this is that nice book .
+MOT:	you like crackers ?
+MOT:	okay , good boy .
+CHI:	do this .
+MOT:	oh , look at this !
+CHI:	xxx .
+MOT:	you have fat feet .
+CHI:	sit up .
+MOT:	Stuart +/.
+MOT:	more cracker .
+MOT:	clap .
+MOT:	tickle tickle [/?] .
+MOT:	do this .
+CHI:	cracker .
+MOT:	say hello to papa .
+MOT:	you hit it .
+CHI:	sit down .
+CHI:	open .
+MOT:	good boy !
+MOT:	do this .
+MOT:	what is this ?
+MOT:	oh , good .
+MOT:	can I tickle you ?
+CHI:	sit up .
+MOT:	say hello +/.
+MOT:	do this .
+MOT:	more tickles <tickles tickle tickle> [/?] .
+MOT:	what do you +/.
+CHI:	do this .
+MOT:	look .
+CHI:	hello .
+CHI:	hello .
+MOT:	yay Stuart .
+CHI:	book .
+CHI:	Big_Bird .
+CHI:	xxx .
+CHI:	cracker .
+MOT:	you want water ?
+MOT:	the same .
+MOT:	do this .
+MOT:	yeah .
+CHI:	more cracker .
+CHI:	five .
+MOT:	you gotta hit it hard .
+MOT:	look .
+MOT:	okay .
+MOT:	do this .
+CHI:	eye .
+CHI:	water .
+MOT:	you like these ?
+MOT:	good boy .
+MOT:	what do you want Stuart ?
+CHI:	xxx .
+MOT:	you're smart .
+MOT:	what do you wanna to sing ?
+CHI:	cracker .
+MOT:	you're sitting nice .
+MOT:	yeah .
+MOT:	look at that .
+MOT:	Stuart look .
+MOT:	all done book .
+MOT:	do this .
+MOT:	sit up .
+CHI:	do this .
+MOT:	good boy !
+MOT:	let me show you .
+MOT:	pillow and blanket .
+CHI:	no .
+MOT:	huh [/?] ?
+MOT:	Ernie .
+CHI:	pattycake .
+MOT:	blanket ?
+MOT:	you wanna talk to Nonny ?
+MOT:	say bunny .
+MOT:	say music .
+MOT:	Stuart .
+MOT:	look .
+CHI:	papa .
+MOT:	he wants to say hi .

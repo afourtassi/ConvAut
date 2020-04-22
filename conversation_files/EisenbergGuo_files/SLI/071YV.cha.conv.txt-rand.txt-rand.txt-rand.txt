@@ -1,0 +1,261 @@
+participant	content
+INV:	dog what ?
+INV:	now I'll start the story .
+CHI:	0a [^ emorph] dog is in it [^ eu] .
+INV:	the children are taking the donuts from the bag .
+INV:	what else is happening in this picture ?
+CHI:	he got [^ elexical] a birthday .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+CHI:	<he went> [/?] he's in the shoe [^ other] [^ eu] .
+INV:	the man put what ?
+INV:	now I'll start the start the story .
+CHI:	they 0are [^ ev] mad [^ eu] .
+INV:	the dog and the girl have the daddy's shoes and then xxx +...
+INV:	you tell me .
+CHI:	<and the> [/?] and <the> [/?] the water blast [* m:0ed] [^ ev] up
+INV:	just tell me anything else about the picture .
+INV:	okay, now I'll start the story .
+INV:	now I'll start xxx +/.
+CHI:	and <he &s he sip> [/?] he slip [^ ev] in the snow [^ eu] .
+CHI:	look [^ ns] .
+CHI:	he's doing [^ earg] [^ eu] .
+INV:	what else is happening in the picture ?
+INV:	and the bus can't move and then xxx +...
+INV:	what's happening in the picture ?
+CHI:	why <&sh> [/?] she stop [* m:0ed] [^ ev] driving [^ ns] ?
+INV:	and you finish it .
+INV:	and the dog ran away and then xxx +...
+INV:	he's falling .
+INV:	what's happening in the picture ?
+INV:	just tell me anything else about the picture .
+INV:	you tell me .
+INV:	tell me one more thing about the story .
+INV:	what's happening in the picture ?
+INV:	oh_no, the dog ate some of the cake and then xxx +...
+INV:	what else is happening in the picture ?
+CHI:	touch tie [^ ns] .
+CHI:	where's the snowman [^ ns] ?
+INV:	tell me one more thing about the story .
+INV:	what else is happening in the picture ?
+INV:	he's putting some over there ?
+CHI:	0 .
+CHI:	the dog go [^ ev] here [^ eu] .
+INV:	tell me anything else about the picture .
+INV:	tell me .
+INV:	tell me one more thing about the story .
+CHI:	she run [^ ev] [^ eu] .
+INV:	what ?
+CHI:	0 .
+CHI:	<he's> [/?] he 0is [^ ev] putting some over there [^ eu] .
+INV:	she crying ?
+INV:	and here comes the mom and then xxx +...
+INV:	and you finish it .
+INV:	the dog xxx +...
+CHI:	0 .
+INV:	just tell me anything else about the picture .
+INV:	and what else is happening in the picture ?
+CHI:	and she falls .
+CHI:	and she fell in the snow .
+CHI:	<what is that> [x 4] [^ ns] ?
+CHI:	she 0is [^ ev] putting that in here [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	0 .
+CHI:	<and then> [/?] and <he> [/?] she fell .
+INV:	and what else is happening in this picture ?
+CHI:	why [^ ns] ?
+INV:	and tell me one more thing about the story .
+INV:	the children see the cat .
+CHI:	0 .
+CHI:	0 .
+INV:	what else is happening in the picture ?
+CHI:	0 .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+CHI:	bus can't move [^ ns] .
+CHI:	<and the and the> [/?] and the mommy is driving <the> [/?] on the
+CHI:	&um the mom fells [: falls] [*] [^ eu] .
+INV:	she colored .
+INV:	now I'll start the start the story .
+INV:	now I'll start the story .
+INV:	he's putting the what away ?
+INV:	we're almost done .
+INV:	what's happening in the picture ?
+CHI:	the water 0is out [^ eu] .
+CHI:	and the man <&f> [/?] put her this [^ other] on here .
+CHI:	and then the snow is right here .
+CHI:	but he's falling .
+INV:	the boys are fighting .
+INV:	he's sweeping the snow ?
+INV:	just tell me anything else about the picture .
+INV:	now I'll start the start the story .
+INV:	and tell me one more thing about the story .
+CHI:	<&um the man (.) &um the> [/?] and the bread come [^ ev] out [^ eu]
+CHI:	what [* m:0're] they doing [^ ns] ?
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+CHI:	who's that [^ ns] ?
+CHI:	0 .
+INV:	tell me one more thing about the story .
+INV:	tell me .
+CHI:	and then xxx +...
+INV:	tell me one more thing about the story .
+CHI:	where [* m:0's] she going [^ ns] ?
+CHI:	<daddy &h> [/?] he's tie [* m:0ing] [^ emorph] 0the [^ emorph] tie
+INV:	tell me something else about the picture .
+CHI:	and a car come [^ ew:came] [^ ev] [^ eu] .
+CHI:	0 .
+INV:	and what else is happening in this picture ?
+INV:	you tell me .
+CHI:	and she 0is [^ ev] crying [^ eu] .
+CHI:	<&th &um> [/?] the dog [^ ns] .
+CHI:	<he's> [/?] he's sweeping the snow .
+INV:	the kid fell ?
+INV:	look at the picture .
+CHI:	and he fell .
+INV:	and tell me one more thing about the story .
+INV:	just tell me anything else <about the picture> [>] .
+CHI:	what he's doing [^ ns] ?
+INV:	you tell me .
+CHI:	and then and she fell .
+INV:	touching ?
+INV:	and tell me one more thing about the story .
+CHI:	<&sh> [/?] <where she come where> [/?] where [* m:0's] she going
+CHI:	and then she falls .
+INV:	tell me .
+INV:	the water come, okay .
+CHI:	whose hand is that [^ ns] ?
+INV:	and then we're all done .
+CHI:	who's xxx +/.
+INV:	and you finish it .
+INV:	you tell me .
+CHI:	he's crying .
+INV:	now I'll start the start the story .
+INV:	and you finish .
+INV:	what's happening in the picture ?
+CHI:	and then (.) <where> [/?] where's the doggy [^ ns] ?
+CHI:	<and she fell> [<] [^ ns] .
+INV:	what's happening in the picture ?
+INV:	and then what happens ?
+CHI:	he's pulling out <the> [/?] the food .
+INV:	tell me something else about the picture .
+INV:	they're playing with snowman .
+CHI:	touching the tie [^ ns] .
+INV:	what's happening in the picture ?
+INV:	she falls .
+INV:	and you finish it .
+INV:	what's happening in the picture ?
+CHI:	0 .
+INV:	the water is spilling all over the floor and then xxx +...
+INV:	and what else is happening in this picture ?
+CHI:	what he's doing [^ ns] ?
+INV:	oh no, the bubbles spilled and then xxx +...
+CHI:	she 0is [^ ev] no more [^ eu] .
+CHI:	what she's doing [^ ns] ?
+CHI:	she 0is [^ ev] making soup [^ eu] .
+CHI:	<what> [/?] what [* m:0's] she doing [^ ns] ?
+CHI:	and then where he's cleaned it [^ ns] ?
+CHI:	<and> [/?] and she fell [^ ns] .
+CHI:	dog's in it [^ ns] .
+INV:	tell me one more thing about the story .
+CHI:	0 .
+INV:	what were you going to say ?
+CHI:	what he's doing [^ ns] ?
+INV:	now I'll start the story .
+INV:	and you finish it .
+CHI:	0 .
+CHI:	<this> [/?] the dolly there [^ ns] .
+INV:	what's happening in the picture ?
+INV:	tell me .
+INV:	he eats the shoe, okay .
+INV:	and you finish .
+CHI:	she can't blow bubble [* m:0s] [^ emorph] [^ eu] .
+INV:	and you finish it .
+INV:	and tell me one more thing about the story .
+INV:	and you finish it .
+INV:	and tell me one more thing about the story .
+INV:	and you finish it .
+CHI:	<what he's &d> [/] what he's doing [^ ns] ?
+INV:	and tell me one more thing about the story .
+CHI:	<what [^ ns]> [<] ?
+CHI:	and then (.) the bus can't move [^ ns] [^ imitation] .
+INV:	and you finish it .
+CHI:	0is this the &snow [^ ns] ?
+CHI:	he's wearing a hat .
+CHI:	and she's watching it .
+CHI:	yeah [^ ns] .
+INV:	the children are taking the donuts from the bag and then xxx +...
+CHI:	the cake [^ ns] .
+INV:	and you finish it .
+INV:	now I'll start the story .
+INV:	you tell me .
+CHI:	and he put his mouth here <on> [/?] in his mouth [^ other] [^ eu] .
+CHI:	the firetruck 0is [^ ev] in it [^ eu] .
+INV:	what ?
+CHI:	and she's drinking .
+INV:	now I'll start the story .
+INV:	he's crying, okay .
+INV:	just tell me what else is happening in the picture .
+INV:	the dog is in front of the bus .
+INV:	what's happening in the picture ?
+INV:	she can't blow bubbles .
+CHI:	it's a house .
+INV:	you tell me .
+INV:	what else is happening in the picture ?
+INV:	they rake the leaves into a big pile and then xxx +...
+INV:	okay, I'll start the story .
+CHI:	she colored .
+INV:	the boys are throwing snowballs and then xxx +...
+CHI:	what he do [^ ns] ?
+INV:	we have only one more story .
+CHI:	he's gonna go on this .
+CHI:	where [* m:0's] the snowman [^ ns] ?
+INV:	just tell me anything else about the story .
+CHI:	<why he> [/?] why he's xxx +...
+INV:	and what else is happening in this picture ?
+INV:	tell me one more thing about the story .
+INV:	he's what tie ?
+CHI:	0 .
+INV:	the little girl is still in her pajamas and then xxx +...
+CHI:	<and the> [/?] and the water come [^ ev] [^ eu] .
+CHI:	he fall [^ ew] [^ ev] [^ eu] .
+INV:	the daddy is hiding a doll behind his back and then xxx +...
+INV:	what's happening in the picture ?
+INV:	now I'll start the story .
+CHI:	<and then> [/?] and then mom cleaned it .
+CHI:	look, she's xxx +...
+INV:	what else is happening in this picture ?
+CHI:	he fell .
+CHI:	0 .
+CHI:	0 .
+INV:	tell something about the picture .
+INV:	okay good job .
+INV:	the children are trying to wash the dog .
+CHI:	0 .
+CHI:	and then he cries .
+INV:	what else is happening in this picture ?
+CHI:	they're running .
+INV:	just tell me anything else about the picture .
+CHI:	and he eat [^ ev] the shoe [^ eu] .
+INV:	what's happening in the picture ?
+INV:	bus can't move .
+CHI:	what [* m:0's] he getting [^ ns] ?
+INV:	now tell me one more thing about the story .
+CHI:	<&h he's> [/?] she's putting the salt away .
+INV:	the boy knocked the boxes off the shelf and <then> [>] xxx +...
+INV:	the dog and the girl have the daddy's shoes and then xxx +...
+INV:	the boy is taking his grandma's scissors and then xxx +...
+INV:	now I'll start the story and you finish it .
+CHI:	<why he's> [/?] why he's doing [^ ns] ?
+INV:	and you finish it .
+INV:	now I'll start the start the story .
+INV:	the cat is stuck up in the tree and then xxx +...
+INV:	the cake fell, okay .
+INV:	what else is happening in this picture ?
+INV:	tell me one more thing about the story .
+CHI:	what is this [^ ns] ?
+INV:	dog's in it ?
+INV:	what else is happening in the picture ?
+INV:	just tell me anything else about the story .
+CHI:	the cake fell .
+CHI:	they're playing with 0the [^ emorph] snowman [^ eu] .

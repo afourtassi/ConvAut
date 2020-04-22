@@ -1,0 +1,1140 @@
+participant	content
+CHI:	The_Big_Animal_Hunt .
+CHI:	chicken .
+CHI:	pig .
+MOT:	do [/?] how many books do you wanna bring to Aunt Betty's house ?
+CHI:	eat hay !
+CHI:	Kristin .
+MOT:	do birds have fur ?
+MOT:	what else ?
+MOT:	you wore a raincoat .
+MOT:	that is a bull .
+MOT:	are [/?] you gonna talk to me ?
+CHI:	fence .
+MOT:	who lost feathers ?
+MOT:	no that's good .
+MOT:	what is [/?] he , sleeping or standing ?
+CHI:	sunny .
+MOT:	which one ?
+MOT:	where did we go on saturday ?
+MOT:	mommy and daddy , Kristin , Matt , Timmy , and Ryan went for a ride
+MOT:	fence .
+CHI:	yes .
+MOT:	or do they look in the trees ?
+CHI:	yes .
+MOT:	do we have snakes in the grass ?
+MOT:	sit down .
+CHI:	who ?
+MOT:	yeah .
+MOT:	what else ?
+MOT:	a snake .
+CHI:	play in slide .
+MOT:	that's right .
+MOT:	make him crawl .
+MOT:	what other animals do you find on a farm ?
+MOT:	is [/?] this cow sleeping or standing ?
+CHI:	yes .
+MOT:	yeah .
+MOT:	that's right .
+MOT:	and next week you'll go back to +/.
+MOT:	and what does he say ?
+MOT:	no ?
+CHI:	meat .
+MOT:	and mouses [: mice] [*] .
+MOT:	oh , you ride nugget too ?
+MOT:	what did they find , that's sharp needles ?
+MOT:	yes .
+MOT:	try that again .
+MOT:	full sentence .
+MOT:	what was [/?] the weather yesterday ?
+CHI:	no .
+MOT:	did you pick the snake at nana's ?
+MOT:	give me a sentence .
+CHI:	yes , please .
+MOT:	yes it is ?
+MOT:	twelfth , I guess it was [/?] .
+CHI:	bee .
+MOT:	well , they +/.
+CHI:	no .
+CHI:	find animal .
+MOT:	<&-uh &-uh &-uh &-uh> [/?] .
+MOT:	well , yeah we do .
+MOT:	I won't ?
+MOT:	roosters , yeah .
+MOT:	what other things can you make with play+dough ?
+MOT:	does a snake jump up and down ?
+MOT:	the vegetables are i [/?] +/.
+CHI:	xxx .
+MOT:	this is +/.
+MOT:	what was [/?] the weather ?
+CHI:	no Aunt_Betty .
+MOT:	is [/?] Kristin ?
+CHI:	feather .
+MOT:	and your strawberry shake .
+MOT:	you ride fast .
+MOT:	are [/?] they looking to get carrots ?
+MOT:	do they find lions and tigers ?
+MOT:	what is the cow doing ?
+CHI:	ride fast .
+MOT:	what animal stinks ?
+CHI:	animal .
+MOT:	what do you make ?
+MOT:	on the +/.
+MOT:	huh [/?] ?
+CHI:	picture .
+CHI:	Todd .
+MOT:	wh [/?] full sentence .
+MOT:	that's his eyes huh [/?] ?
+CHI:	pants .
+CHI:	yes .
+MOT:	the daddy bear .
+MOT:	do they look in the houses ?
+MOT:	what do horses eat ?
+MOT:	who sneezed ?
+MOT:	they wanna find +/.
+MOT:	open +/.
+MOT:	and +/.
+MOT:	what are they looking for ?
+CHI:	soft .
+MOT:	no .
+MOT:	where did we go this weekend ?
+MOT:	does he go sss@o [/?] ?
+MOT:	okay .
+MOT:	what do horses eat ?
+MOT:	do horses drink milk ?
+MOT:	Matt ?
+MOT:	where did we go ?
+MOT:	where's our fence ?
+MOT:	does he jump up and down ?
+MOT:	full sentence .
+MOT:	where was [/?] baby bear ?
+MOT:	what was [/?] the tiger doing ?
+MOT:	what is that ?
+CHI:	hippo .
+MOT:	what did you play with in the Children's_Museum ?
+CHI:	get meat+loaf .
+CHI:	Aunt_Betty .
+MOT:	hm: [/?] ?
+MOT:	do you have +/.
+MOT:	it was [/?] too +/.
+MOT:	look at me .
+CHI:	moo [/?] .
+MOT:	what do you make ?
+MOT:	what's that ?
+MOT:	yeah .
+MOT:	under the trees , yup .
+MOT:	they found an ostrich ?
+CHI:	not fur .
+CHI:	lion .
+CHI:	not carrot .
+MOT:	Matt ?
+MOT:	is [/?] that okay ?
+MOT:	that's right .
+MOT:	what do horses eat ?
+CHI:	big , little .
+MOT:	yes .
+CHI:	yes .
+CHI:	yes .
+MOT:	yes .
+MOT:	we get milk from the cow , yes .
+MOT:	what do you do ?
+CHI:	french fry .
+CHI:	gonna see mommy .
+MOT:	two books ?
+MOT:	did you get wet ?
+MOT:	a little bit .
+CHI:	fence .
+CHI:	how about +/.
+MOT:	is [/?] that pepper ?
+MOT:	yes .
+MOT:	is [/?] this cow sleeping , or is [/?] he standing ?
+MOT:	vegetable +/.
+MOT:	where did we go in Boston ?
+CHI:	owl .
+CHI:	snake .
+MOT:	full sentence .
+MOT:	full sentence .
+MOT:	salad is +/.
+MOT:	sit down .
+MOT:	Matt ?
+CHI:	Matthew .
+MOT:	they're not looking for fish .
+MOT:	where did we go on saturday ?
+CHI:	the bear .
+MOT:	Timmy likes corn .
+MOT:	yeah .
+MOT:	on sunday what ?
+CHI:	Matthew .
+CHI:	no .
+CHI:	carrot .
+MOT:	yes .
+MOT:	what does he say ?
+MOT:	turn around .
+MOT:	no .
+MOT:	that's right .
+MOT:	we went for another ride .
+CHI:	get meat .
+MOT:	let's change the subject .
+CHI:	Ma [/?] .
+CHI:	go school .
+MOT:	in the trees , yes .
+CHI:	at Mcdonalds .
+MOT:	that's a good one .
+CHI:	salad .
+MOT:	try it again .
+MOT:	that's right .
+MOT:	we're working on the porch today .
+MOT:	he's big .
+MOT:	and cakes ?
+MOT:	did you pick it up ?
+MOT:	no .
+MOT:	does the play+dough smell ?
+MOT:	we went to the +/.
+CHI:	yes .
+MOT:	that's right .
+MOT:	and play wha [/?] +/.
+MOT:	it's a farm .
+MOT:	school , yes .
+MOT:	yes .
+MOT:	what's this , smelling everything ?
+CHI:	no .
+CHI:	cow on farm .
+MOT:	you would like your animals ?
+CHI:	meat .
+MOT:	not Matthew .
+CHI:	sleeping .
+MOT:	how about a full sentence ?
+CHI:	five day .
+MOT:	celery .
+MOT:	Kris ?
+MOT:	where was [/?] the mommy bear ?
+CHI:	the &g [/?] bird lost feather .
+MOT:	and you play with +/.
+MOT:	yes you did .
+CHI:	what this .
+MOT:	did you pick up the snake at nana's ?
+MOT:	no corn .
+CHI:	ride pepper .
+CHI:	not bread .
+CHI:	book .
+MOT:	he's big .
+CHI:	roo [/?] .
+CHI:	skunk .
+MOT:	no you don't .
+MOT:	what do you do with a horse ?
+MOT:	what are [/?] you making now ?
+CHI:	da [/?] mommy bear .
+MOT:	yeah .
+MOT:	that's right .
+CHI:	green .
+MOT:	what does he do ?
+CHI:	no .
+MOT:	huh [/?] ?
+CHI:	strawberry shake .
+MOT:	or do they find animals ?
+CHI:	no .
+MOT:	what else ?
+MOT:	at Mcdonalds , that's right .
+CHI:	honey store .
+MOT:	that's what he says .
+MOT:	cow what ?
+MOT:	&mm [/?] .
+MOT:	who rides nugget ?
+MOT:	make him crawl .
+CHI:	eggs .
+MOT:	what can you make with play+dough ?
+MOT:	was [/?] it sunny out yesterday ?
+MOT:	can you pet the chicken or will he bite your fingers ?
+CHI:	fence .
+MOT:	full sentence .
+MOT:	can you think of other vegetables ?
+MOT:	monday we go +/.
+MOT:	nope .
+CHI:	<o@l , o@l> [/?] ostrich .
+CHI:	cows drink milk .
+CHI:	find +/.
+MOT:	what did you hafta wear ?
+CHI:	pig .
+MOT:	yes .
+CHI:	xxx .
+MOT:	no .
+MOT:	no , we do one animal at a time .
+MOT:	what's the name of it ?
+CHI:	ball .
+CHI:	squirrel .
+MOT:	what's that ?
+MOT:	do we have scarecrows in the garden ?
+CHI:	new teacher .
+MOT:	I wanted you to make up something .
+MOT:	where did we go on saturday ?
+MOT:	say it .
+MOT:	you read it to me .
+MOT:	say it again .
+MOT:	okay .
+MOT:	that's right .
+MOT:	that's right .
+MOT:	where did we go on saturday ?
+MOT:	cow moos ?
+CHI:	sleeping .
+MOT:	yes .
+MOT:	yeah ?
+CHI:	chicken .
+CHI:	brown .
+MOT:	Ryan went with us .
+MOT:	who got the library book ?
+MOT:	who went looking for the honey ?
+MOT:	a bull ?
+MOT:	full sentence .
+MOT:	in the trees ?
+MOT:	they found +/.
+CHI:	zoo .
+CHI:	no .
+MOT:	look at him right now .
+MOT:	the cow is a big animal , yes .
+CHI:	meat+loaf .
+CHI:	yes .
+CHI:	owl .
+MOT:	he bites .
+CHI:	thursday go school .
+MOT:	<it didn't> [/?] it &was [/?] (was)n't clear .
+MOT:	what was [/?] he doing on the ground ?
+MOT:	what kind of birds did they find ?
+MOT:	what other animals have fur ?
+MOT:	Matt ?
+CHI:	cabbages .
+MOT:	huh [/?] ?
+CHI:	no corn .
+MOT:	a snake goes +/.
+CHI:	bird .
+CHI:	no milk .
+CHI:	xxx on the ground .
+CHI:	por [/?] porcupine .
+CHI:	bite [/?] bite .
+MOT:	that's right .
+MOT:	and you'll go swimming ?
+MOT:	what is the name of your horse that you ride ?
+CHI:	xxx .
+MOT:	that's right .
+MOT:	that was [/?] a hard one .
+MOT:	get what ?
+CHI:	nope .
+MOT:	well , he can be [/?] in the water .
+CHI:	gone .
+MOT:	do you know that one ?
+MOT:	wore pants ?
+MOT:	play .
+MOT:	o@l [/?] +/.
+MOT:	what animal is this ?
+MOT:	because it was [/?] raining out ?
+CHI:	snake .
+CHI:	bathing+suit .
+MOT:	M do you feed the horses ?
+MOT:	or is [/?] it +/.
+MOT:	who sneezed ?
+CHI:	no .
+CHI:	no .
+CHI:	tomato .
+MOT:	you're good on worms and snakes .
+CHI:	yes .
+MOT:	he can bite you ?
+MOT:	goats , yeah .
+CHI:	on sunday ?
+MOT:	do horses do tricks ?
+MOT:	on a farm , you have gardens .
+MOT:	that's right .
+MOT:	five days .
+CHI:	Kristin got library book .
+MOT:	we saw bunnys .
+MOT:	that's right .
+MOT:	more chickens ?
+MOT:	did we go the the beach ?
+CHI:	tiger .
+MOT:	Matthew read the book .
+CHI:	lion .
+CHI:	big .
+MOT:	say I +/.
+MOT:	does he have fur or feathers ?
+MOT:	full sentence .
+CHI:	lettuce .
+MOT:	they find animals .
+CHI:	bird .
+CHI:	feather .
+MOT:	yeah .
+MOT:	zoo , yes .
+CHI:	no .
+MOT:	when they found the honey in the tree , what little animal was [/?]
+CHI:	on the ground .
+CHI:	may I have present please .
+MOT:	do we have a fence ?
+CHI:	chicken ?
+MOT:	you escaped !
+MOT:	look at mommy .
+MOT:	do you like to hold them ?
+CHI:	two .
+MOT:	full sentence .
+MOT:	that's right .
+CHI:	okay .
+MOT:	or you just gonna do that ?
+MOT:	which one does Matthew ride ?
+CHI:	wear raincoat .
+MOT:	on tuesday what ?
+MOT:	let's think .
+MOT:	no .
+CHI:	animal .
+CHI:	sss@o [/?] .
+MOT:	where did we go yesterday and get play+dough ?
+MOT:	no .
+CHI:	feathers .
+CHI:	home .
+CHI:	what this ?
+CHI:	on tuesday ?
+MOT:	let me take [/?] take the play+dough and then you can open it .
+MOT:	oh , .
+CHI:	goat .
+MOT:	can you look at me ?
+MOT:	fast , yes .
+MOT:	well sometimes they eat carrots .
+MOT:	what else ?
+MOT:	did Joey go ?
+MOT:	sit down .
+MOT:	okay ?
+CHI:	no .
+CHI:	pepper .
+CHI:	I read it to you .
+MOT:	look at mommy .
+MOT:	say it better ?
+MOT:	do you ride fast or do you ride slow ?
+CHI:	yes .
+CHI:	no .
+MOT:	no .
+MOT:	on July +/.
+CHI:	not Timmy .
+MOT:	full sentence .
+MOT:	do you want it later ?
+MOT:	crawl .
+MOT:	are [/?] you gonna be a good boy for Aunt_Betty ?
+MOT:	Matt ?
+MOT:	what colors are [/?] snakes ?
+CHI:	not Timmy .
+CHI:	get +/.
+MOT:	do they find giraffes in the trees ?
+CHI:	in a farm .
+CHI:	yes .
+MOT:	okay .
+CHI:	jump .
+MOT:	did Timmy get the library book ?
+CHI:	what this ?
+MOT:	what's the name of this horse ?
+MOT:	what else does he do ?
+MOT:	full sentence .
+MOT:	oh , they see a skunk .
+CHI:	school .
+CHI:	crawl .
+CHI:	all .
+MOT:	we go to [/?] and get eggs from chickens .
+CHI:	not on couch .
+MOT:	yeah .
+MOT:	I don't like corn .
+CHI:	skunk .
+MOT:	what else ?
+CHI:	not Matthew .
+MOT:	not Matthew , no .
+MOT:	did you wear bathing suits ?
+CHI:	bird .
+MOT:	did we go to the beach ?
+CHI:	hard .
+MOT:	do you like snakes ?
+MOT:	did you see a snake at nana's ?
+MOT:	right ?
+MOT:	well , I guess I can do that ?
+CHI:	you ride pepper .
+CHI:	honey .
+CHI:	&-um [/?] .
+MOT:	huh [/?] ?
+CHI:	no .
+MOT:	yeah .
+MOT:	yeah .
+MOT:	well , we've had one .
+MOT:	okay .
+MOT:	yes .
+MOT:	does +/.
+MOT:	that's right .
+MOT:	no ?
+MOT:	do you ride horses ?
+MOT:	where did we go ?
+CHI:	library .
+MOT:	what vegetables do you like ?
+MOT:	and the bees did what ?
+MOT:	that's right .
+CHI:	on monday ?
+MOT:	chickens .
+MOT:	what did the bears find in the tree ?
+MOT:	full sentence .
+MOT:	fur .
+MOT:	huh [/?] ?
+MOT:	that's right .
+MOT:	feathers .
+MOT:	get more books to bring to Aunt Betty's house ?
+CHI:	tomato .
+MOT:	and brown .
+CHI:	yes .
+MOT:	see mommy on sunday .
+MOT:	yes .
+CHI:	horse .
+CHI:	no .
+CHI:	pants .
+MOT:	come on .
+CHI:	Lisa .
+MOT:	cabbages .
+MOT:	do we get carrots from chickens .
+MOT:	yeah .
+CHI:	bread .
+MOT:	no .
+MOT:	what +/.
+MOT:	who lost it's feathers ?
+MOT:	you make a b@l [/?] +/.
+CHI:	want it ?
+CHI:	on monday , on wednesday ?
+CHI:	farm .
+MOT:	the cow is sleeping .
+MOT:	that's right .
+MOT:	horses , yeah .
+CHI:	I go on horses .
+MOT:	okay .
+CHI:	nugget .
+MOT:	tomorrow tuesday , go to Aunt_Betty's .
+MOT:	what do you feed the horse ?
+MOT:	huh [/?] ?
+MOT:	do they walk ?
+MOT:	we read it on the porch .
+MOT:	full sentence .
+MOT:	but you find snakes other places besides the water .
+MOT:	how many days are [/?] you going to Aunt_Betty's ?
+CHI:	no , in the water .
+MOT:	sting , yes .
+MOT:	meat+loaf ?
+CHI:	the animal .
+MOT:	mhm [/?] ?
+MOT:	or both ?
+CHI:	read .
+CHI:	bird .
+MOT:	no it's +/.
+MOT:	no , what's his name ?
+MOT:	can you smell the play+dough ?
+MOT:	xxx .
+MOT:	did they +/.
+MOT:	who got the library book ?
+MOT:	Matt ?
+MOT:	honey , yes .
+MOT:	what day do you go riding horses ?
+CHI:	yes , no .
+MOT:	yes .
+MOT:	skunks .
+MOT:	what do horses eat ?
+MOT:	eggs .
+CHI:	yes .
+CHI:	xxx .
+MOT:	does a shark sneeze ?
+MOT:	what animals did we see ?
+CHI:	chicken .
+MOT:	saturday what ?
+MOT:	besides snakes .
+CHI:	friday go school .
+MOT:	did you wear a scarf ?
+CHI:	yes .
+CHI:	may the [/?] open animal please .
+CHI:	mommy bear .
+MOT:	what is in the garden ?
+CHI:	in water .
+MOT:	what else did you wear ?
+MOT:	would you like mommy to open it ?
+MOT:	you might play with play+dough , yeah .
+MOT:	let's look at this picture .
+MOT:	okay .
+MOT:	let's give him another +/.
+MOT:	when we were [/?] at nana's house , what did daddy show you outside
+MOT:	found squirrels , yeah .
+CHI:	fish .
+MOT:	that's interesting .
+MOT:	what are [/?] you making ?
+MOT:	&-um [/?] tomorrow +/.
+CHI:	Kristin going home .
+CHI:	jump .
+MOT:	hm: [/?] ?
+MOT:	did you wanna play with it ?
+CHI:	worm .
+MOT:	<the bear find> [/?] monkeys are in the trees , but did the bears
+MOT:	okay .
+CHI:	lettuce .
+CHI:	yes .
+MOT:	and eat cheese balls , yes .
+MOT:	you wanna +/.
+MOT:	were [/?] going to +/.
+MOT:	you want this one to be nugget ?
+CHI:	yes .
+CHI:	xxx .
+MOT:	what do they find in the trees ?
+MOT:	try it again .
+MOT:	Matt ?
+MOT:	what do +/.
+MOT:	Matt ?
+CHI:	sss@o [/?] .
+MOT:	turn around and look at me .
+CHI:	the chicken .
+MOT:	that's right .
+MOT:	back here .
+MOT:	yeah , he moos , yeah .
+MOT:	they found +/.
+MOT:	you don't wanna be play ?
+CHI:	snake .
+MOT:	and creep .
+MOT:	right .
+MOT:	who's your teacher at school <this week> [/?] this summer ?
+MOT:	well , a little bit .
+MOT:	chickens .
+MOT:	they were [/?] going to &st [/?] +/.
+MOT:	you're telling me storys .
+MOT:	what's that though ?
+MOT:	do chickens have fur or feathers ?
+MOT:	Matt ?
+MOT:	it was [/?] too big .
+MOT:	and climbing in the trees .
+CHI:	cow is sleeping .
+MOT:	what is that ?
+MOT:	no , mommy +/.
+MOT:	huh [/?] ?
+MOT:	come here .
+CHI:	vegetable are garden .
+MOT:	that's a good ball .
+MOT:	and Lisa , yeah .
+MOT:	goat lost feathers ?
+MOT:	hm: [/?] ?
+MOT:	what is the name of your horse that you ride ?
+MOT:	did daddy show you a +/.
+MOT:	he'll bite your fingers .
+MOT:	no .
+MOT:	huh [/?] ?
+MOT:	they eat meat ?
+MOT:	that was [/?] very good .
+CHI:	yes .
+MOT:	can you say a full sentence ?
+MOT:	sometimes bread .
+MOT:	pigs , yeah .
+MOT:	swimming , yes .
+MOT:	they find a [/?] birds , yeah .
+MOT:	what do the bears want ?
+CHI:	Todd .
+CHI:	wednesday go to school .
+CHI:	no .
+MOT:	in fact , your father &was [/?] (was)n't too brave either .
+MOT:	but what do they wanna find ?
+CHI:	mommy .
+MOT:	on that .
+MOT:	a what ?
+MOT:	how about some complete sentences ?
+CHI:	o@l [/?] o@l [/?] .
+MOT:	horse .
+MOT:	you ride pepper , yeah !
+MOT:	Todd , yes .
+MOT:	no , do we get orange juice from the cow ?
+MOT:	and daddy , yes .
+CHI:	owl .
+MOT:	full sentence .
+MOT:	on the porch .
+MOT:	do you like snakes ?
+MOT:	cucumbers .
+CHI:	not a rooster .
+MOT:	ah [/?] full sentence .
+CHI:	&mm [/?] .
+MOT:	a sna [/?] +/.
+CHI:	make a ball .
+MOT:	no Aunt_Betty .
+MOT:	say , yes please .
+CHI:	fe [/?] feather .
+MOT:	did we +/.
+CHI:	feathers .
+MOT:	horse .
+CHI:	snake .
+MOT:	do you find it in the sky ?
+MOT:	that's right .
+MOT:	sss@o [/?] .
+CHI:	brown .
+MOT:	what does a snake go ?
+MOT:	feathers , yes .
+MOT:	mommy does , yeah .
+MOT:	worms , okay .
+CHI:	yes .
+MOT:	that's right .
+MOT:	tigers .
+MOT:	what animals do they find ?
+MOT:	did you wear a towel ?
+MOT:	who went to Mcdonalds ?
+CHI:	sneezed .
+MOT:	you talk to me first .
+MOT:	and what did we do ?
+MOT:	okay .
+MOT:	does he fly in the sky ?
+MOT:	do they find leaves ?
+MOT:	no , it's not jump .
+MOT:	but he says sss@o [/?] .
+MOT:	what else do horses eat ?
+MOT:	full sentence .
+MOT:	can you make cookies ?
+CHI:	mouse .
+CHI:	no .
+CHI:	cucumber .
+MOT:	what is this library book ?
+MOT:	how about +/.
+CHI:	no fish .
+CHI:	bunny .
+MOT:	okay .
+MOT:	who rides nugget ?
+MOT:	was [/?] the tiger jumping up and down ?
+CHI:	cow moo .
+MOT:	he's in a farm .
+MOT:	then who rides pepper ?
+MOT:	you ride nugget ?
+MOT:	the birds lost feathers .
+MOT:	sit down .
+MOT:	that's a little fence .
+MOT:	do they wanna find cabbages ?
+MOT:	yeah .
+CHI:	daddy .
+CHI:	it's bu [/?] bull .
+MOT:	do we have a fence in our yard ?
+MOT:	you ride pepper ?
+CHI:	no .
+MOT:	lettuce .
+MOT:	green .
+CHI:	celery .
+MOT:	and what else ?
+MOT:	this is pepper , be your friendly .
+MOT:	talk clearly .
+CHI:	carrot .
+MOT:	yes .
+CHI:	cucumber .
+MOT:	on wednesday what ?
+MOT:	and what does a snake say ?
+MOT:	Matt ?
+MOT:	do you ride spot ?
+MOT:	and mother &was [/?] (was)n't too pleased .
+MOT:	was [/?] it sunny and beautiful yesterday ?
+MOT:	<cluck , cluck> [/?] .
+MOT:	what are [/?] you gonna do at Aunt_Betty's ?
+CHI:	big .
+CHI:	chickens lay eggs .
+MOT:	where do they look for honey ?
+CHI:	baby .
+CHI:	green .
+MOT:	you make a ball .
+MOT:	yeah .
+MOT:	or in the sky ?
+MOT:	what color is the play+dough ?
+CHI:	yes .
+MOT:	that's right .
+CHI:	squash .
+MOT:	full sentence .
+MOT:	alright .
+MOT:	Matt ?
+CHI:	no .
+CHI:	<cluck , cluck> [/?] .
+MOT:	what animals do they find ?
+CHI:	the cow is standing .
+MOT:	it was [/?] too fast .
+CHI:	pepper .
+MOT:	well , what can you make ?
+CHI:	bird .
+MOT:	can you say that better ?
+MOT:	do you wanna go to the library and get more books ?
+CHI:	bread .
+MOT:	you like cu [/?] +/.
+CHI:	Aunt_Betty .
+MOT:	yeah .
+MOT:	that's a +/.
+MOT:	say +/.
+CHI:	shark .
+MOT:	at home .
+MOT:	are [/?] they looking for carrots ?
+MOT:	Joey rides pepper ?
+CHI:	saturday ?
+MOT:	think about it .
+CHI:	xxx celery .
+CHI:	may I open please ?
+MOT:	feathers .
+CHI:	yes .
+MOT:	full sentence .
+CHI:	soda .
+MOT:	it says <lost all its feathers> [/?] .
+CHI:	on saturday ?
+MOT:	what did you play with at the museum ?
+CHI:	walk .
+CHI:	open it .
+MOT:	those are chickens .
+MOT:	do they walk or jump ?
+MOT:	yeah .
+CHI:	xxx .
+MOT:	a por [/?] +/.
+MOT:	I didn't hear you .
+CHI:	skunk .
+CHI:	Matthew ride nugget .
+CHI:	Uncle_Brad .
+CHI:	more chicken .
+CHI:	on &m [/?] +/.
+MOT:	yeah .
+MOT:	full sentence .
+MOT:	what else ?
+MOT:	some are .
+CHI:	get bread .
+MOT:	okay .
+MOT:	bees .
+MOT:	and you +/.
+CHI:	I don't like corn .
+MOT:	can you sit down ?
+CHI:	not xxx .
+MOT:	what does a chicken say ?
+CHI:	cloud .
+MOT:	no , you come in here right now .
+MOT:	yeah .
+CHI:	not Matthew .
+MOT:	Matt ?
+MOT:	can you give me some sentences ?
+CHI:	mommy , daddy .
+MOT:	remember saturday ?
+MOT:	let's talk about the animals .
+MOT:	what other things do you make ?
+MOT:	what animals are in this book ?
+CHI:	nay [/?] .
+MOT:	no ?
+MOT:	it's a chicken , yeah .
+MOT:	is [/?] it a new teacher or an old teacher ?
+MOT:	yeah .
+MOT:	play .
+MOT:	<nay , nay> [/?] .
+MOT:	that's a tough one .
+CHI:	Joey ride pepper .
+MOT:	what's that ?
+CHI:	sss@o [/?] .
+MOT:	show me the fence in our yard .
+CHI:	worm .
+MOT:	that's right .
+MOT:	right there .
+CHI:	no .
+MOT:	a what ?
+CHI:	with the mommy [/?] daddy .
+MOT:	where did we get this book ?
+MOT:	not really bread .
+CHI:	meat .
+MOT:	where is [/?] it ?
+MOT:	a snake .
+CHI:	no .
+MOT:	celery ?
+MOT:	Matt ?
+CHI:	standing .
+MOT:	Uncle_Brad will be there , yeah .
+CHI:	crawl .
+MOT:	cloudy and +/.
+MOT:	can you show me ?
+MOT:	what does a snake do ?
+MOT:	what kind of vegetables ?
+MOT:	yesterday we got play+dough .
+MOT:	do you eat lettuce for me ?
+MOT:	what did you eat at Mcdonalds ?
+MOT:	do you eat celery for me ?
+CHI:	bird .
+MOT:	mommy bear or daddy bear ?
+MOT:	that's good .
+MOT:	huh [/?] ?
+MOT:	what else ?
+MOT:	what animals has [/?] sharp needles ?
+MOT:	okay .
+MOT:	better .
+MOT:	yeah .
+CHI:	you pet the chicken ?
+CHI:	I like cucumber .
+MOT:	and what did we see in the Children's_Museum ?
+MOT:	okay ?
+MOT:	no .
+MOT:	on saturday , we also went byebye .
+CHI:	nugget .
+CHI:	a snake .
+MOT:	sit down .
+CHI:	see skunk .
+MOT:	was [/?] the baby bear with the daddy or with the mommy ?
+MOT:	will you wear pants or your bathing+suit ?
+MOT:	no .
+CHI:	school .
+CHI:	mom , what that ?
+CHI:	read .
+MOT:	huh [/?] ?
+MOT:	and Todd , yeah .
+MOT:	make him crawl .
+MOT:	not on the couch .
+MOT:	what kind of food do you get from chickens ?
+MOT:	bears .
+MOT:	that's right .
+CHI:	yes .
+MOT:	what do they find in the trees ?
+MOT:	what else ?
+MOT:	what other color ?
+CHI:	no .
+CHI:	<nay , nay> [/?] .
+CHI:	no .
+CHI:	ss@o [/?] .
+MOT:	where else can you find a snake ?
+MOT:	Matthew rides nugget , yes .
+MOT:	did we go to the beach ?
+MOT:	yeah .
+MOT:	what does a snake say ?
+MOT:	what does the play+dough +/.
+MOT:	what does a snake say ?
+MOT:	who's going to Aunt_Betty's with you ?
+CHI:	may I open it please ?
+MOT:	that's right .
+CHI:	Kristin .
+MOT:	farm gardens ?
+CHI:	bird .
+CHI:	vegetable are garden .
+CHI:	five day .
+MOT:	you did .
+CHI:	no .
+CHI:	goat .
+MOT:	no , not a rooster .
+MOT:	what was [/?] the weather ?
+CHI:	sun [/?] on sunday ?
+MOT:	Timmy , yes .
+CHI:	right there .
+MOT:	yes .
+MOT:	okay .
+MOT:	that's what I wanted you to say .
+MOT:	where did they find [/?] get the honey ?
+CHI:	horse .
+MOT:	yes , back to school .
+MOT:	these are baby chicks , yes .
+MOT:	huh [/?] ?
+MOT:	yeah .
+MOT:	who's going down to Aunt_Betty's with you ?
+CHI:	chick +/.
+MOT:	Matthew rides pepper .
+MOT:	what's this thing with meat+loaf ?
+CHI:	on saturday ?
+MOT:	no .
+MOT:	you tell me .
+MOT:	what did you play with ?
+MOT:	is [/?] it soft or is [/?] it hard ?
+MOT:	what is in the garden ?
+MOT:	Matt ?
+MOT:	chickens , yes .
+CHI:	eat cheese ball .
+CHI:	deer .
+CHI:	I do .
+MOT:	yeah .
+MOT:	wait a minute .
+MOT:	he stayed at our house sunday during the day .
+MOT:	Matt ?
+CHI:	cloudy and rainy .
+MOT:	what food does the cow give us ?
+CHI:	big garden corn .
+MOT:	do horses eat carrots ?
+MOT:	what did they find ?
+MOT:	oh , this says sneezed [/?] .
+MOT:	yes , we are gonna go +/.
+MOT:	and fish .
+MOT:	the be [/?] +/.
+CHI:	slide .
+CHI:	on sunday ?
+CHI:	play+dough .
+MOT:	no cr [/?] +/.
+MOT:	is [/?] this cow sleeping or is [/?] he standing ?
+MOT:	no .
+MOT:	not an ostrich .
+MOT:	chickens lay eggs .
+MOT:	that's right .
+CHI:	down .
+MOT:	yes .
+MOT:	and what else ?
+CHI:	fur .
+CHI:	under a tree .
+MOT:	birds have +/.
+MOT:	may I open it please ?
+MOT:	does he say <woof , woof> [/?] ?
+MOT:	eats hay !
+MOT:	Kristin likes corn .
+CHI:	fence .
+MOT:	who went to the museum with us ?
+MOT:	what did we see ?
+MOT:	on saturday what ?
+MOT:	owl , yes .
+MOT:	what is it ?
+MOT:	what else ?
+MOT:	what can you make ?
+CHI:	yes .
+CHI:	on the side .
+CHI:	yes , he was [/?] with the daddy .
+MOT:	and that is +/.
+CHI:	no be [/?] play .
+MOT:	on sunday what ?
+MOT:	and what do they do ?
+MOT:	what kind of vegetables ?
+CHI:	cow .
+MOT:	and Aunt_Betty .
+MOT:	okay .
+MOT:	what colors are [/?] snakes ?
+MOT:	say it clearly .
+CHI:	xxx .
+CHI:	rooster .
+CHI:	farm .
+CHI:	xxx .
+CHI:	bite you .
+MOT:	and we'll see what it is ?
+MOT:	porcupine , yes .
+MOT:	you need a big garden for corn .
+CHI:	hm: [/?] .
+MOT:	and what are they looking for ?
+MOT:	what do you want ?
+CHI:	Timmy .
+MOT:	does Joey ride pepper ?
+MOT:	what are these ?
+MOT:	it was [/?] raining .
+MOT:	you're gonna go +/.
+MOT:	they found monkeys in the trees ?
+CHI:	oh , no I'm not .
+MOT:	cow drinks milk .
+MOT:	yes .
+MOT:	did you read this book to me ?
+MOT:	pretty good .
+CHI:	yes .
+MOT:	okay ?
+MOT:	yes .
+MOT:	sheep , yeah .
+MOT:	where [/?] where did we get the play+dough ?
+MOT:	okay .
+MOT:	where's the fence that we have ?
+MOT:	did they get the honey from a tree or from a honey store ?
+MOT:	can I have the play+dough until you talk to me , and then I'll give
+MOT:	do you like corn ?
+MOT:	that's right .
+MOT:	full sentence .
+MOT:	yeah .
+MOT:	who are you gonna sleep with ?
+MOT:	what's this ?
+MOT:	huh [/?] ?
+MOT:	who went looking for the honey ?
+CHI:	xxx eat squash ?
+CHI:	<cluck , cluck> [/?] .
+MOT:	come on , tell me .
+CHI:	in the garden .
+MOT:	and squash .
+MOT:	who rides nugget ?
+MOT:	is [/?] that all ?
+MOT:	yes , you may have present .
+MOT:	can you say a full sen [/?] +/.
+MOT:	do horses eat worms ?
+MOT:	and what else did they find in the tree ?
+CHI:	horse .
+MOT:	what else grows in gardens ?
+MOT:	what's that ?
+CHI:	jump .
+MOT:	do you eat squash ?
+MOT:	yeah .
+CHI:	run .
+MOT:	not fur .
+MOT:	you play on the slide .
+MOT:	no .
+CHI:	read .
+CHI:	no .
+MOT:	what other things can you make ?
+MOT:	yes .
+CHI:	sunday go Aunt_Betty .
+MOT:	they found an o@l [/?] +/.
+CHI:	bear .
+MOT:	we do indirectly get meat .
+MOT:	feathers , yes .
+CHI:	yes .
+MOT:	you'll wear your bathing+suit in the water , and when it's [% cc]
+CHI:	swimming .
+MOT:	fence .
+MOT:	trees or vegetables ?
+CHI:	daddy bear .
+MOT:	what's that called ?
+MOT:	what do you make with play+dough ?
+MOT:	not in our garden , we don't have corn .
+CHI:	hamburger .
+CHI:	xxx .
+MOT:	what was [/?] the tiger doing ?
+MOT:	yes .
+CHI:	Matthew .
+MOT:	yes .
+MOT:	was [/?] the baby bear with the daddy or with the mommy ?
+MOT:	what does a horse say ?
+MOT:	is [/?] the cow a big or a little animal ?
+MOT:	yeah .
+MOT:	what did the bears find in the tree ?
+CHI:	fence .
+CHI:	yes .
+MOT:	full sentence .
+MOT:	was [/?] it the mommy bear or the daddy bear ?
+CHI:	garden .
+CHI:	no .
+MOT:	they found birds ?
+MOT:	what do chickens say ?
+CHI:	chicken .
+MOT:	is [/?] that another horse ?
+CHI:	&mm [/?] .
+CHI:	a snake .
+CHI:	yeah .
+CHI:	monkey .
+CHI:	bull .
+MOT:	mommy +/.
+CHI:	&-um [/?] Ryan .
+CHI:	monkey .
+MOT:	what does a snake do ?
+MOT:	and too &fa [/?] +/.
+MOT:	or did I read it to you ?
+MOT:	huh [/?] ?
+CHI:	no &co [/?] corn .
+CHI:	fast .
+MOT:	who got the book for you ?
+MOT:	and what are these ?
+CHI:	honey .
+MOT:	Kristin's gonna stay home with mom .
+MOT:	go Aunt_Betty .
+MOT:	who eats corn ?
+MOT:	what do you make with play+dough ?
+MOT:	Matt ?
+MOT:	can I hold it for a minute ?
+MOT:	yes .
+MOT:	does he say meow [/?] ?
+CHI:	yes .
+MOT:	where did we go this saturday ?
+CHI:	skunk .
+CHI:	bear .
+CHI:	children museum .
+MOT:	it's +/.
+CHI:	get +/.
+CHI:	cow .
+CHI:	hm: [/?] .
+MOT:	that's right .
+MOT:	what else ?
+MOT:	Matthew ?
+MOT:	in the porch .
+CHI:	no .
+MOT:	before we got play+dough , mommy and daddy took you into Boston .
+MOT:	right .
+MOT:	the +/.
+CHI:	cow is sleeping .
+MOT:	do you know ?
+CHI:	right there .
+MOT:	tell me .
+CHI:	sting .
+CHI:	look in the tree .
+CHI:	sheep .
+MOT:	the baby chickens .
+MOT:	carrots , yeah .
+MOT:	and then mommy come get you ?
+CHI:	wear pant .
+MOT:	do you go on horses ?
+CHI:	I won't .
+MOT:	tomatos .
+MOT:	no meat+loaf .
+MOT:	listen to me .
+CHI:	vegt [/?] trees .

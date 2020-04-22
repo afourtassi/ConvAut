@@ -1,0 +1,951 @@
+participant	content
+CHI:	xxx .
+CHI:	kiss her too .
+MOT:	I think we must have more people down here , Rick .
+MOT:	can you use it some more ?
+MOT:	come here .
+MOT:	gonna put some more people in ?
+MOT:	whoops [/?] .
+MOT:	Annie .
+CHI:	xxx .
+MOT:	you did a good job .
+MOT:	okay .
+MOT:	over here .
+MOT:	Rick what's this ?
+MOT:	Rick are we building ?
+MOT:	see ?
+MOT:	down your back .
+MOT:	are you watching her ?
+MOT:	yeah .
+MOT:	Rick .
+CHI:	cake .
+MOT:	put the pegs in the jar .
+CHI:	horse .
+MOT:	yeah , the little tire came off it , didn't it yeah ?
+MOT:	Rick .
+MOT:	pound these in .
+MOT:	good boy .
+MOT:	you want some bacon ?
+MOT:	she went down the chimney .
+MOT:	Rick look .
+CHI:	train .
+MOT:	good boy .
+CHI:	two .
+MOT:	look at the cars .
+MOT:	they're falling all over .
+CHI:	open door .
+MOT:	okay , make some hot+cakes .
+MOT:	Rick , who's that ?
+MOT:	oh , nice kitty .
+CHI:	green .
+MOT:	Rick .
+MOT:	yeah , that's right .
+MOT:	Rick look .
+MOT:	do you like Hoodsys ?
+MOT:	Rick , who's this ?
+MOT:	you knocked them all over again .
+MOT:	wanna put her in again ?
+CHI:	that jelly .
+MOT:	wanna put some pegs in ?
+CHI:	candy .
+MOT:	nice and soft Rick .
+CHI:	dog .
+CHI:	xxx .
+MOT:	soft kitty .
+MOT:	oh oh , .
+CHI:	hair .
+MOT:	Rick .
+MOT:	Rick look .
+MOT:	good boy .
+CHI:	want Dan .
+MOT:	put them in .
+MOT:	who's this Rick ?
+CHI:	hot+cake .
+MOT:	what are you cooking ?
+MOT:	come here .
+MOT:	who's that ?
+MOT:	kiss Bert .
+CHI:	xxx .
+MOT:	oh „ it's stuck .
+MOT:	Rick look .
+CHI:	xxx .
+MOT:	Rick look .
+MOT:	now shut the door .
+CHI:	Sesame_Street .
+MOT:	what's this ?
+MOT:	are you gonna give her a ride in there too ?
+MOT:	sit up .
+MOT:	okay .
+MOT:	look .
+MOT:	oh , look .
+MOT:	that's right .
+CHI:	one .
+MOT:	yeah .
+MOT:	good boy .
+MOT:	say hi Grover .
+MOT:	isn't she cute ?
+MOT:	do you like the cars ?
+MOT:	Rick , put these in .
+MOT:	here .
+CHI:	face .
+MOT:	Rick ?
+MOT:	come on over here and see me .
+MOT:	daddy's gonna come too .
+CHI:	lunch .
+CHI:	what this ?
+MOT:	there she comes .
+MOT:	good boy .
+MOT:	drive the cars in .
+MOT:	Rick .
+MOT:	nice kitty+cat .
+MOT:	good boy .
+MOT:	yeah , you wanna take it for a ride ?
+CHI:	want Dan .
+MOT:	oop [/?] , she fell out .
+MOT:	look at this .
+MOT:	there .
+MOT:	she's over here .
+MOT:	good boy .
+CHI:	cow .
+MOT:	that's a fence .
+CHI:	green .
+CHI:	Ernie .
+MOT:	Rick , let's bake something .
+MOT:	what's that ?
+MOT:	Rick .
+MOT:	Rick .
+MOT:	call Ernie .
+CHI:	page .
+MOT:	look at me .
+MOT:	good boy .
+MOT:	open it up .
+CHI:	it cook .
+CHI:	page [/?] page .
+MOT:	make me some bacon for breakfast .
+MOT:	see , she's wearing glasses .
+CHI:	cookies ?
+CHI:	green .
+CHI:	Oscar .
+CHI:	cookies ?
+MOT:	good boy .
+MOT:	good boy .
+MOT:	nana's house , yeah .
+MOT:	that was nice talking .
+MOT:	okay .
+CHI:	tighten .
+MOT:	Rick look .
+CHI:	mama car ?
+MOT:	up the stairs .
+MOT:	that's a fence so the animals won't get out .
+MOT:	Rick look .
+CHI:	byebye .
+MOT:	Rick look .
+MOT:	what are you doing ?
+MOT:	oh , who's that ?
+MOT:	kiss .
+MOT:	spaghetti .
+MOT:	do you like those ?
+MOT:	let's call them up .
+MOT:	you're putting the fence together .
+MOT:	say choo@o choo@o choo@o .
+CHI:	daddy work .
+CHI:	sandwich .
+MOT:	Rick , wanna play with the puzzle ?
+MOT:	oop [/?] she fell off the back .
+MOT:	look at momma .
+MOT:	Rick , look .
+MOT:	Rick .
+MOT:	Rick , you wanna cook ?
+MOT:	oh , Rick what's this ?
+CHI:	I want tv .
+MOT:	say no .
+MOT:	Rick look .
+MOT:	wanna play with the bus ?
+MOT:	no pegs in ?
+MOT:	ride up Rick's back .
+MOT:	Rick who's this ?
+MOT:	what ?
+CHI:	lunch .
+CHI:	belts .
+MOT:	she's going .
+CHI:	these out .
+MOT:	handle so you can carry it .
+MOT:	Rick , look .
+MOT:	Rick what about this ?
+CHI:	want bacon .
+CHI:	Grover .
+MOT:	<oops , crash> [/?] .
+MOT:	Rick look .
+CHI:	mama car .
+MOT:	there's the fence .
+CHI:	wind down .
+MOT:	push him up .
+CHI:	basket ?
+CHI:	hot+cake .
+MOT:	Rick .
+MOT:	Rick , what's this ?
+MOT:	who's a good boy ?
+MOT:	put the nails in .
+MOT:	good boy .
+MOT:	Rick do this .
+MOT:	she's such a good kitty .
+CHI:	it cook .
+MOT:	okay .
+MOT:	Rick look what's this ?
+MOT:	that's the cow right there .
+MOT:	good boy .
+CHI:	xxx it .
+MOT:	whoops [/?] .
+MOT:	there are all your dishes .
+CHI:	that Bert .
+MOT:	Rick look .
+MOT:	you shut the door huh [/?] ?
+MOT:	touch Bert's nose .
+MOT:	what's this Rick ?
+MOT:	put her in here and turn the crank .
+MOT:	plop [/?] .
+CHI:	tummy .
+CHI:	want Dan .
+MOT:	whoops [/?] .
+MOT:	Rick .
+MOT:	Rick look .
+CHI:	cow .
+MOT:	oh , nice hugging the kitty .
+MOT:	put them in .
+CHI:	glasses .
+CHI:	no .
+CHI:	want help .
+MOT:	look .
+CHI:	kiss .
+MOT:	yeah .
+MOT:	do you like it ?
+MOT:	you're looking nice at me .
+MOT:	Rick look .
+MOT:	say choo@o choo@o choo@o .
+MOT:	there he is .
+MOT:	cakes .
+MOT:	what's this ?
+MOT:	no seatbelts on that train Rick .
+CHI:	on bus .
+MOT:	touch your ears .
+CHI:	hi .
+MOT:	oh , they don't have their lunches .
+MOT:	Rick look .
+CHI:	shut door .
+MOT:	we'll go in momma's car .
+MOT:	wanna give him a ride in the elevator ?
+MOT:	no , what's this ?
+CHI:	wind down .
+CHI:	kiss .
+MOT:	she's taking your picture .
+MOT:	something's stuck in here .
+MOT:	let's cook .
+MOT:	good boy .
+MOT:	Rick look at this .
+MOT:	fence .
+MOT:	yeah , we'll go over there .
+MOT:	I don't know , I thought that would fit in there but I guess it
+MOT:	hi .
+MOT:	yeah .
+MOT:	Rick look .
+CHI:	nine .
+MOT:	yeah .
+MOT:	what's this ?
+MOT:	house , yeah .
+MOT:	down Rick's back .
+MOT:	Rick look .
+MOT:	Rick .
+CHI:	hang up phone .
+MOT:	who's this ?
+MOT:	you're turning the crank Rick .
+CHI:	Bert .
+CHI:	bugs .
+CHI:	xxx .
+CHI:	bake it .
+MOT:	up the stairs .
+CHI:	xxx .
+CHI:	face .
+CHI:	hot+cake .
+CHI:	milk .
+MOT:	she's going to fall down the chute .
+MOT:	and see nana and grandpa .
+MOT:	there she goes .
+MOT:	good boy .
+CHI:	five .
+MOT:	where's daddy ?
+MOT:	okay .
+MOT:	Rick come here .
+MOT:	well , you'll hafta open it and see .
+MOT:	there she goes .
+MOT:	that's a fence to keep the animals in .
+CHI:	no .
+MOT:	huh [/?] ?
+MOT:	kitty+cat .
+CHI:	oh , no .
+MOT:	no , it's not a dog .
+MOT:	hm: [/?] ?
+MOT:	pick up the rest .
+MOT:	touch Annie's legs .
+CHI:	mama car ?
+MOT:	remember ?
+CHI:	turn the crank .
+CHI:	me .
+MOT:	yeah .
+CHI:	water .
+MOT:	horse .
+MOT:	you want more candy ?
+MOT:	good boy .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	Rick look .
+MOT:	what are we cooking ?
+MOT:	what ?
+MOT:	Rick look .
+CHI:	Hoodsy .
+CHI:	chick .
+MOT:	touch your tummy , Rick .
+MOT:	he's in the other room .
+CHI:	no .
+MOT:	you're looking at me nice .
+MOT:	look .
+CHI:	want Dan .
+CHI:	tummy .
+MOT:	make her walk up the stairs .
+MOT:	there he goes .
+MOT:	you know what we're having for supper ?
+MOT:	oh , no .
+MOT:	oh , Rick .
+MOT:	we're going to have supper over there .
+MOT:	wanna build something ?
+MOT:	Rick what's this number ?
+MOT:	oh , no .
+MOT:	Rick look what's this ?
+MOT:	good boy .
+MOT:	that's good .
+MOT:	he's sitting in the block .
+CHI:	bake it .
+MOT:	look .
+MOT:	oh oh , .
+CHI:	do it .
+MOT:	what's this ?
+CHI:	picture .
+CHI:	Annie .
+MOT:	put Bert inside the block .
+MOT:	Hoodsys .
+MOT:	point to her glasses .
+MOT:	Rick ?
+CHI:	train .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	Rick .
+CHI:	kiss .
+CHI:	hot+cakes .
+CHI:	no .
+MOT:	there you go .
+MOT:	look .
+MOT:	there's another one , too .
+MOT:	look Rick .
+MOT:	there it is .
+MOT:	hm: [/?] ?
+MOT:	Grover .
+MOT:	Rick look .
+MOT:	here .
+CHI:	more candy ?
+MOT:	kiss raccoon .
+MOT:	look .
+MOT:	we can set it right up in here .
+MOT:	what is this ?
+MOT:	Oscar .
+MOT:	touch your hair .
+MOT:	no , who's that Rick ?
+MOT:	what does a kitty+cat say ?
+MOT:	wait , you'll get some more underneath .
+MOT:	look .
+MOT:	wanna put these back in ?
+MOT:	here's some more people .
+CHI:	nana's .
+MOT:	Rick , put the people in the bus ?
+MOT:	good boy .
+CHI:	xxx .
+CHI:	Bert's nose .
+MOT:	there , you're shutting .
+CHI:	want help .
+MOT:	look at the cars .
+CHI:	want help .
+CHI:	ears .
+CHI:	candy .
+MOT:	who's that ?
+MOT:	need the wrench ?
+CHI:	kitty+cats .
+CHI:	xxx .
+MOT:	yeah , who's this ?
+MOT:	that's a knife .
+CHI:	xxx .
+MOT:	what's these ?
+MOT:	water .
+CHI:	spaghetti .
+MOT:	say how are you .
+CHI:	want Dan .
+MOT:	take the bear .
+CHI:	wind down .
+MOT:	Rick .
+CHI:	oh , no .
+MOT:	come here .
+CHI:	it cook .
+MOT:	no , what's this number ?
+MOT:	come here you .
+CHI:	want Dan .
+MOT:	put them in here .
+CHI:	put back in .
+MOT:	yeah .
+MOT:	he's gonna meet us over there .
+MOT:	making a block .
+MOT:	green , that's right .
+MOT:	Rick look .
+MOT:	who's this ?
+CHI:	tv's on .
+MOT:	Rick look .
+MOT:	pound them down .
+MOT:	crank .
+CHI:	I want tv .
+MOT:	I found her .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	what's he got in his hands ?
+MOT:	oh , .
+CHI:	Hoodsys .
+MOT:	all the shoes .
+CHI:	Grover .
+MOT:	that's nice , huh [/?] ?
+CHI:	all the shoes .
+MOT:	meow [/?] .
+CHI:	green .
+MOT:	Rick come here .
+CHI:	dog .
+MOT:	Rick , what's this ?
+MOT:	what's that ?
+CHI:	pegs ?
+MOT:	good boy .
+MOT:	Rick look .
+MOT:	Grover , he's talking to Rick .
+MOT:	pick them up .
+MOT:	here .
+MOT:	good boy .
+CHI:	bath+tub .
+CHI:	xxx .
+MOT:	huh [/?] ?
+MOT:	good boy .
+MOT:	can I kiss her too ?
+CHI:	hi Grover .
+MOT:	oh , that was nice kissing .
+MOT:	say byebye Grover .
+CHI:	xxx .
+MOT:	well then you cook some bacon .
+CHI:	in the water .
+MOT:	Rick .
+MOT:	dial the phone .
+CHI:	up stairs .
+MOT:	you gonna cook some bacon ?
+MOT:	that's a green screw .
+MOT:	Rick , who's a good boy ?
+MOT:	good boy .
+MOT:	Herry_Monster .
+MOT:	there she goes .
+MOT:	good boy .
+CHI:	lunch .
+MOT:	good boy .
+MOT:	good .
+MOT:	and who's that ?
+MOT:	yeah , put them in the pan .
+MOT:	you're putting it back in .
+CHI:	hi Grover .
+CHI:	chicken .
+MOT:	it's a cow .
+MOT:	who's this ?
+CHI:	those .
+MOT:	do you think she's tired from going down those chutes all that time
+MOT:	look , here's some more .
+MOT:	plop [/?] .
+MOT:	you gonna hang up the phone ?
+MOT:	what's that number ?
+MOT:	Rick come here .
+MOT:	look .
+MOT:	what happened ?
+MOT:	oh , Rick can I kiss the kitty ?
+MOT:	Rick , sit up .
+MOT:	oh , you hug nice .
+CHI:	xxx .
+MOT:	you want Dan ?
+MOT:	good .
+CHI:	knife .
+CHI:	hot+cakes .
+MOT:	Rick say no .
+MOT:	raccoon .
+CHI:	raccoon .
+CHI:	like those ?
+MOT:	yeah .
+MOT:	Rick .
+MOT:	the train .
+MOT:	look .
+CHI:	three .
+CHI:	train .
+CHI:	xxx .
+MOT:	look .
+MOT:	you think that's candy .
+MOT:	Rick , don't touch .
+MOT:	no , that's broken .
+MOT:	what's that ?
+MOT:	what's this ?
+CHI:	bugs .
+MOT:	you're using the wrench .
+CHI:	want candy ?
+MOT:	Rick look .
+MOT:	that's good picking them up .
+MOT:	hi .
+MOT:	you like the train ?
+CHI:	broken .
+MOT:	what's this ?
+MOT:	take out the pegs .
+MOT:	are you tired , Rick ?
+CHI:	shake ?
+MOT:	is she stuck ?
+MOT:	that's Grover talking to you Rick .
+CHI:	train .
+MOT:	come here .
+CHI:	xxx .
+MOT:	at work .
+CHI:	choo@o choo@o choo@o [/?] .
+MOT:	oh , she fell out the other side .
+MOT:	wanna kiss raccoon ?
+MOT:	fish .
+MOT:	no , tummy .
+MOT:	look at mom .
+MOT:	tighten them up .
+MOT:	and she's going in the house .
+CHI:	xxx .
+MOT:	what's that ?
+CHI:	cars .
+MOT:	nice kissing .
+MOT:	what's that number ?
+MOT:	you can do it .
+CHI:	that Grover .
+CHI:	Dan .
+MOT:	we put it together .
+CHI:	xxx .
+CHI:	want Dan .
+CHI:	want help .
+CHI:	want help .
+CHI:	up the stairs .
+MOT:	yeah .
+CHI:	count .
+CHI:	six .
+MOT:	oh , what's in here ?
+MOT:	Rick , what's he holding ?
+MOT:	good boy .
+CHI:	fence .
+MOT:	look .
+MOT:	there's another one .
+CHI:	wind down .
+CHI:	cake .
+MOT:	hi .
+MOT:	oh „ goodness .
+MOT:	look .
+CHI:	cars .
+CHI:	play bus .
+CHI:	<want some ba> [/?] want bacon .
+MOT:	make her walk .
+MOT:	Rick look .
+CHI:	moo [/?] .
+CHI:	cookies .
+MOT:	come here .
+MOT:	did you say byebye ?
+MOT:	look .
+MOT:	whoop [/?] .
+MOT:	twiddle bugs .
+MOT:	yeah , sounds good huh [/?] ?
+MOT:	Rick here's the other house .
+MOT:	and what are these little things in here ?
+MOT:	turn the crank .
+MOT:	good boy .
+MOT:	Rick .
+MOT:	put it down Rick .
+MOT:	good boy .
+MOT:	Rick look .
+MOT:	what do you wanna make ?
+MOT:	here .
+CHI:	I want tv .
+CHI:	down chimney .
+MOT:	there's your hammer .
+MOT:	Ernie , who's that ?
+CHI:	raccoon .
+MOT:	gonna get you .
+MOT:	Rick .
+MOT:	crank it up .
+MOT:	Rick , what's this ?
+MOT:	there goes Mickey .
+MOT:	Rick .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	who's that ?
+MOT:	look .
+MOT:	who's this ?
+MOT:	what's this Rick ?
+MOT:	Rick look !
+MOT:	what's that ?
+CHI:	what this ?
+MOT:	what's this Rick ?
+CHI:	Mickey_Mouse .
+MOT:	Rick .
+CHI:	want Dan .
+CHI:	want cookies ?
+MOT:	do this .
+MOT:	good boy .
+CHI:	cow .
+MOT:	milk .
+CHI:	three .
+MOT:	Rick .
+CHI:	call Ernie .
+MOT:	look at her .
+MOT:	put some bacon in .
+MOT:	good boy .
+MOT:	oh , .
+MOT:	here let mommy show you .
+MOT:	there he is .
+CHI:	Bert .
+CHI:	get page .
+CHI:	get page .
+MOT:	Rick look .
+MOT:	look .
+MOT:	Rick .
+MOT:	Rick look .
+CHI:	want bacon ?
+MOT:	that's good .
+MOT:	say spaghetti .
+MOT:	chickens .
+MOT:	oop [/?] one dropped out .
+MOT:	no .
+MOT:	you put them in the bus .
+MOT:	to nana's .
+MOT:	there it goes .
+MOT:	those are skates .
+MOT:	say how are you .
+MOT:	Rick .
+MOT:	Rick look .
+MOT:	&mm did you see the cars ?
+MOT:	open the door .
+CHI:	out .
+CHI:	xxx .
+MOT:	are you still talking ?
+CHI:	bath+tub .
+MOT:	oh , look at her going around .
+CHI:	girl .
+MOT:	come here .
+CHI:	want bacon ?
+MOT:	Rick .
+CHI:	the seatbelt .
+MOT:	Rick touch your tummy .
+CHI:	pick up cow .
+MOT:	Rick look .
+CHI:	mommy .
+CHI:	hot+cakes .
+MOT:	oh , .
+MOT:	get the cow Rick .
+CHI:	oh , .
+MOT:	Rick .
+MOT:	oh , Danny's not in here Rick .
+CHI:	mama car .
+CHI:	stairs .
+MOT:	monster .
+MOT:	what are those ?
+CHI:	there's the people .
+MOT:	oop [/?] .
+MOT:	look .
+MOT:	are you gonna make something for breakfast ?
+CHI:	house .
+CHI:	tv's on .
+MOT:	put her back in .
+MOT:	whoops [/?] .
+MOT:	nice talking Rick .
+MOT:	watch .
+MOT:	Rick look .
+CHI:	green .
+MOT:	look .
+MOT:	okay , now crank the +/.
+MOT:	look .
+CHI:	nana house .
+CHI:	kisses .
+MOT:	here's the wrench .
+CHI:	raccoon .
+CHI:	wrench .
+CHI:	get on bus .
+MOT:	what's this ?
+MOT:	yeah .
+MOT:	candles .
+CHI:	hi .
+MOT:	do you need this ?
+CHI:	I want tv .
+MOT:	come here .
+MOT:	Rick .
+MOT:	that's for you .
+MOT:	oops [/?] .
+MOT:	what are you doing Rick ?
+CHI:	want tv .
+MOT:	put it in .
+CHI:	all done .
+MOT:	there he is .
+MOT:	okay .
+MOT:	need some help ?
+CHI:	chicken .
+MOT:	how about these ?
+CHI:	train ?
+MOT:	Rick look .
+MOT:	what ?
+MOT:	and what are these ?
+MOT:	Oscar .
+MOT:	there , you're doing it by yourself .
+MOT:	yeah .
+CHI:	Ernie .
+MOT:	we're taking them all out huh [/?] ?
+MOT:	hot+cakes .
+MOT:	oops [/?] we missed one .
+CHI:	the bus .
+MOT:	you gonna call somebody on the phone ?
+MOT:	pick up the cow .
+MOT:	in the basket .
+MOT:	that's nice .
+MOT:	let me kiss her .
+MOT:	good boy .
+MOT:	good boy .
+CHI:	dog .
+MOT:	good boy Rick .
+MOT:	because you're so cute .
+CHI:	all_gone .
+MOT:	ooh [/?] !
+CHI:	leg .
+MOT:	what are these Rick ?
+MOT:	you shut the door on her .
+CHI:	cookie .
+MOT:	Rick .
+MOT:	make her go down here .
+CHI:	fish .
+MOT:	you like that ?
+MOT:	what's that number ?
+CHI:	I want tv .
+CHI:	basket ?
+MOT:	take these out .
+MOT:	put them in the bus .
+MOT:	who's this Rick ?
+CHI:	I want tv .
+MOT:	up the stairs .
+MOT:	Rick .
+MOT:	you do .
+CHI:	fence .
+MOT:	who's a good boy ?
+CHI:	wind down .
+CHI:	need help .
+CHI:	want help .
+CHI:	help you .
+MOT:	whoops [/?] .
+MOT:	are we stuck ?
+CHI:	cow .
+CHI:	lunch .
+CHI:	monster .
+MOT:	if you're a good boy and eat all your supper , you get one .
+CHI:	in his hand ?
+MOT:	you know what we're gonna have for dessert ?
+MOT:	Rick .
+CHI:	the seatbelt .
+MOT:	that's a good man .
+MOT:	that's a riding horse .
+CHI:	hot+cake .
+CHI:	nice .
+CHI:	bye Grover .
+MOT:	Rick look .
+MOT:	here .
+MOT:	Rick what's this ?
+CHI:	trees .
+MOT:	oh , you're looking for seatbelts on that train Rick .
+CHI:	inside block .
+CHI:	ah [/?] .
+MOT:	what ?
+CHI:	I want tv .
+CHI:	hi xxx .
+MOT:	want me to help ?
+MOT:	Rick look .
+MOT:	what's this ?
+MOT:	good boy .
+MOT:	can you put the nails in ?
+MOT:	what ?
+CHI:	wanna kiss .
+CHI:	cookies .
+MOT:	look .
+MOT:	count .
+MOT:	Rick look .
+CHI:	dishes .
+CHI:	give kisses .
+CHI:	xxx .
+MOT:	fish in the water , Rick .
+MOT:	to make the sandwiches .
+MOT:	where's all our dishes ?
+CHI:	wind down .
+MOT:	Rick pick up the cow .
+MOT:	Rick , what's this number ?
+MOT:	how about a kiss ?
+CHI:	xxx .
+MOT:	you're shaking them up ?
+MOT:	okay ?
+MOT:	good boy Rick .
+MOT:	good boy .
+CHI:	lunch .
+MOT:	into the house .
+CHI:	Big_Bird .
+MOT:	Rick , where are we going tonight ?
+MOT:	good boy .
+MOT:	there she comes .
+MOT:	I don't know if we can put that in there or not Rick .
+MOT:	okay .
+MOT:	they're screws .
+MOT:	sandwiches .
+CHI:	want Dan .
+CHI:	four .
+MOT:	ride over in my car .
+CHI:	broken .
+CHI:	tellie .
+CHI:	no .
+CHI:	hang up phone .
+MOT:	oh , look Rick .
+CHI:	glasses .
+CHI:	Bert .
+CHI:	want help .
+CHI:	me .
+CHI:	chickens .
+MOT:	jelly , that's right .
+MOT:	good boy .
+MOT:	the handle .
+MOT:	and what's this number ?
+MOT:	that's nice Rick .
+CHI:	balloon .
+CHI:	count .
+MOT:	here's another one .
+CHI:	meow [/?] .
+MOT:	there she is .
+MOT:	kiss Bert .
+MOT:	yeah .
+MOT:	alright .
+MOT:	who's that ?
+MOT:	hang up the phone .
+MOT:	one , that's right .
+CHI:	lunch .
+MOT:	what are those ?
+MOT:	Rick who's this ?
+MOT:	you're doing a good job Rick .
+MOT:	nice talking .
+MOT:	good boy .
+CHI:	kiss .
+CHI:	xxx .
+CHI:	tellie .
+CHI:	jelly .
+MOT:	where's it going ?
+CHI:	get page .
+MOT:	look .
+MOT:	come on sit up .
+MOT:	wanna kiss raccoon ?
+CHI:	cake .
+CHI:	no ?
+CHI:	xxx .
+CHI:	go to +/.
+CHI:	cooking .
+MOT:	that's a little girl , yeah .
+MOT:	good boy .
+CHI:	twiddle bugs .
+MOT:	Rick let's pick up the pegs .
+MOT:	no , what's this over here , Rick ?
+MOT:	put the cover on .
+MOT:	no , that's a horse .
+CHI:	good .
+CHI:	Oscar .
+CHI:	<one , two> [/?] .
+CHI:	handle .
+CHI:	no .
+CHI:	xxx .
+MOT:	what ?
+CHI:	what this ?
+MOT:	good talking Rick .
+MOT:	that's right .
+CHI:	I want tv .
+MOT:	there .
+MOT:	look .
+MOT:	he fell down again .
+MOT:	can you give him a ride in the elevator ?
+MOT:	there she comes .
+MOT:	Rick look .
+MOT:	whoops [/?] .
+CHI:	more candy ?
+MOT:	touch your tummy .
+MOT:	Rick look .
+CHI:	ooh [/?] .
+MOT:	good boy .
+MOT:	Rick .
+MOT:	yeah , we have bacon for breakfast sometimes , too .
+MOT:	Rick who's that ?
+MOT:	look .
+CHI:	wind down .
+MOT:	that's a cow .
+CHI:	what ?
+MOT:	good boy Rick .
+MOT:	here he comes .
+MOT:	look .
+MOT:	oh „ can you give Bert some kisses ?
+MOT:	what's this ?
+CHI:	hot+cake .
+MOT:	Rick look .
+CHI:	stairs .
+MOT:	can you use this Rick ?
+MOT:	give her a ride .
+MOT:	Sesame_Street .
+CHI:	xxx .
+MOT:	look .
+MOT:	call them up .
+MOT:	yeah , with chocolate and vanilla in them .
+MOT:	look at him .
+MOT:	that's right .
+MOT:	Rick what's this ?
+MOT:	you okay ?
+CHI:	get page .
+MOT:	huh [/?] Rick ?
+MOT:	look at me .
+MOT:	how's that ?
+MOT:	good boy .
+MOT:	good boy .
+MOT:	Rick .
+MOT:	mommy will help .
+MOT:	can you take these out ?
+MOT:	Rick come over here .
+CHI:	xxx .
+MOT:	Rick look .
+MOT:	are you gonna crank him up again ?
+CHI:	go bath+room ?
+CHI:	chick .
+MOT:	tellie , yes , and what are these ?
+MOT:	you look nice .
+MOT:	good boy .
+CHI:	want bacon ?
+MOT:	good boy .
+CHI:	jelly .
+CHI:	green .
+MOT:	good boy .
+MOT:	yes , good boy .
+MOT:	and what are these ?
+MOT:	Rick .
+MOT:	oh , !
+MOT:	and I'll help you .
+MOT:	you're screwing in good .
+CHI:	make sandwich .
+MOT:	what's this ?
+CHI:	xxx .
+CHI:	no .
+MOT:	sit down .
+CHI:	tummy .
+CHI:	okay ?
+MOT:	let's sit up .

@@ -1,0 +1,241 @@
+participant	content
+CHI:	there 0is [^ cop] [^ ev] no cereal in the bowl [^ eu] .
+CHI:	<<they ran out in 0the snow> [/?]> [/?] .
+INV:	very good and what else is happening in this picture ?
+INV:	oh_no, the bubbles spilled and then xxx +...
+CHI:	&uh 0the [^ emorph] cat is [^ aux] <&wa> [/?] trying [^ v] 0to
+INV:	the boys are wrestling in the sandbox .
+INV:	the girl take dad's hat ?
+INV:	very good and tell me one more thing about the story .
+INV:	and you finish it .
+INV:	the little girl is still in her pajamas and then xxx +...
+INV:	and you finish it .
+INV:	and what else is happening in the picture ?
+CHI:	<<to get through the carts> [/?]> [/?] .
+INV:	what is happening in the picture ?
+INV:	very good .
+INV:	now I'll start the start the story .
+CHI:	the chair 0is [^ aux] [^ ev] gonna fall [^ v] down [^ eu] .
+CHI:	they're [^ cop] all gone .
+CHI:	her [^ ew:she] [^ epronoun] was [^ aux] not in the clothes [^ eu] .
+CHI:	the girl just (.) sat [^ v] in it .
+INV:	very good and what else is happening in this picture ?
+INV:	they're all gone .
+INV:	and you finish it .
+CHI:	0the [^ emorph] dog was [^ aux] eating [^ v] daddy's shoes [^ eu] .
+INV:	the girls wanna throw snowballs ?
+CHI:	her's [: she's] [*] trying [^ v] to [^ inf] stop [^ v] [^ xv] them
+INV:	and then he saw the kitty, very good .
+INV:	what ?
+CHI:	this schoolbus is [^ aux] trying [^ v] to [^ inf] vroom@c
+CHI:	the girl is [^ aux] blowing [^ v] bubbles again .
+INV:	the guys are pulling them ?
+INV:	trying to stop them .
+INV:	the schoolbus is trying to vroom ?
+CHI:	he's [^ aux] getting [^ v] in trouble .
+INV:	he walked .
+CHI:	the girl take [^ v] [^ ev] dad's <whole &s> [/?] hat [^ eu] .
+CHI:	[^ earg] is [^ cop] no more bubbles [^ eu] .
+INV:	the man is throwing snowballs ?
+INV:	the cat is trying to go down the tree ?
+INV:	what else is happening in the picture ?
+INV:	the boys are throwing snowballs and then xxx +...
+CHI:	<<the girl> [/?]> [/?] .
+CHI:	the boys are [^ aux] wrestling [^ v] in the sandbox .
+INV:	now I'll start the start the story .
+INV:	very good and tell me one more thing about the story .
+CHI:	the girl is [^ aux] driving [^ v] away .
+CHI:	<<the mom's running and stopping them> [/?]> [/?] .
+INV:	very good .
+INV:	and you finish it .
+INV:	what is happening in the picture ?
+INV:	the dog and the girl have the daddy's shoes and then xxx +...
+INV:	and what else is happening in this picture ?
+CHI:	the girl's [^ aux] blowing [^ v] the bubbles .
+CHI:	<<jumped over the water> [/?]> [/?] .
+INV:	very good and tell me one more thing about the story .
+CHI:	the girl's [^ aux] pushing [^ v] the cart .
+INV:	very good .
+CHI:	<<water in there again> [/?]> [/?] .
+INV:	they throw the wagon out ?
+INV:	very good and tell me one more thing about the story .
+CHI:	the green girls are [^ aux] trying [^ v] to [^ inf] get [^ v]
+CHI:	<<the other girl's trying to see the tv> [/?]> [/?] .
+INV:	good job .
+CHI:	but nobody's [^ aux] eating [^ v] it .
+INV:	very good .
+CHI:	the girl is [^ cop] 0in [^ emorph] 0the [^ emorph] front 0of
+INV:	very good .
+CHI:	it melt [^ v] [^ ev] [^ eu] .
+INV:	what is happening in the picture ?
+INV:	now I'll start the start the story .
+INV:	very good and tell me one more thing about the story .
+INV:	very good and tell me one more thing about the story .
+INV:	the dog is in front of the bus and then xxx +...
+INV:	very good .
+CHI:	the boy is [^ aux] trying [^ v] 0to [^ inf] [^ emorph] put [^ v]
+INV:	the daddy is hiding a doll behind his back and then xxx +...
+CHI:	<the> [/?] the dad is [^ aux] making [^ v] a snowman with the girl
+INV:	okay very good .
+INV:	a lot of people are coming in ?
+INV:	good job .
+INV:	the dog what the water ?
+INV:	tell me one more thing about the story .
+INV:	now I'll start the start the story .
+INV:	the boy is taking his grandma's scissors and then xxx +...
+INV:	what is happening in the picture ?
+INV:	the cake melt, very good .
+INV:	what is happening in the picture ?
+CHI:	he jumped [^ v] out .
+INV:	no cereal in the bowl .
+INV:	now I'll start the start the story .
+INV:	are trying to what ?
+INV:	and here comes the mom and then xxx +...
+INV:	what's happening in the picture ?
+CHI:	the girl's [^ aux] running [^ v] out of the house .
+INV:	get through the carts ?
+CHI:	but the dog's [^ cop] in the way .
+INV:	they raked the leaves into a big pile and then xxx +...
+CHI:	<the moms> [/?] the mom spill [* m:0ed] [^ v] [^ ev] the water
+CHI:	&uh the man is [^ aux] throwing [^ v] snowballs .
+INV:	they what the snow ?
+INV:	the squirrel's climbing down the tree, very good .
+INV:	they're going to drive .
+INV:	the girl just sat in it ?
+INV:	very good and tell me one more thing about the story .
+INV:	the children are taking the donuts from the bag and then xxx +...
+INV:	very good and what else is happening in the picture ?
+INV:	what's happening in the picture ?
+INV:	no more bubbles .
+INV:	now I'll start the start the story .
+INV:	and what else is happening in this picture ?
+INV:	what's happening in the picture ?
+CHI:	they throw [^ v] the wagon out .
+INV:	the dad is trying to look in the mirror .
+INV:	what's happening in the picture ?
+INV:	and you finish it .
+INV:	the children are trying to wash the dog and then xxx +...
+CHI:	<the &sq> [/?] the squirrel's [^ aux] climbing [^ v] down the tree
+CHI:	the boy's [^ aux] trying [^ v] to [^ inf] get [^ v] a scissor .
+CHI:	<h> [/?] he try [^ v] [^ ev] to [^ inf] get [^ v] [^ xv] him down
+INV:	nobody's eating it .
+INV:	very good .
+CHI:	the girl and the dad are pulling [^ v] the dog .
+INV:	it melted .
+INV:	very good and what else is happening in the picture ?
+CHI:	<they> [/?] they ran [^ v] out in 0the [^ emorph] snow [^ eu] .
+INV:	oh_no, the dog ate some of the cake and then xxx +...
+CHI:	the food are [^ ew:is] [^ aux] [^ ev] falling [^ v] off the shelf
+INV:	and you finish it .
+INV:	very good and tell me one more thing about the story .
+INV:	very good .
+INV:	good job and tell me one more thing about the story .
+INV:	dad's there ?
+CHI:	the dog <is> [/?] jumped [^ v] over the water .
+INV:	now I'll start the start the story .
+INV:	now I'll start the start the story .
+INV:	who's helping him ?
+INV:	and what else is happening in this picture ?
+INV:	the girl is running out of the house .
+INV:	the what ?
+INV:	what else is happening in the picture ?
+INV:	good job and tell me one more thing about the story .
+CHI:	the girl put [^ v] shoes in [^ ew:on] [^ emorph] her hands [^ eu] .
+INV:	the mom spilled the water, very good .
+INV:	and you finish it .
+INV:	very good .
+CHI:	&uh the guys are [^ aux] pulling [^ v] them [^ ew:him] [^ epronoun]
+INV:	good job .
+CHI:	the dad 0is [^ aux] [^ ev] trying [^ v] to [^ inf] look [^ v]
+INV:	and tell me one more thing about the story .
+INV:	what's happening in the picture ?
+INV:	and you finish it .
+INV:	the water splashed ?
+CHI:	mom 0is [^ aux] [^ ev] trying [^ v] to [^ inf] run [^ v] [^ xv] and
+CHI:	they walked [^ v] .
+INV:	and what else is happening in this picture ?
+CHI:	the girl is [^ aux] helping [^ v] him .
+INV:	the girl is driving away .
+CHI:	<uhhuh> [/?] .
+INV:	and you finish it .
+INV:	now I'll start the start the story .
+CHI:	there's [^ cop] a boy in 0the [^ emorph] schoolbus [^ eu] .
+INV:	good job .
+INV:	now I'll start the start the story .
+INV:	what is happening in the picture ?
+CHI:	<they're gonna> [/?] they're [^ aux] going [^ v] to [^ inf] drive
+CHI:	0a [^ emorph] lot of people are [^ aux] <&c> [/?] coming [^ v] in
+INV:	the other girl's trying to do the tv ?
+INV:	very good .
+INV:	mom's sweeping it ?
+CHI:	<the> [/?] he's [^ aux] trying [^ v] 0to [^ inf] [^ emorph] put
+CHI:	the mom 0is [^ aux] [^ ev] trying [^ v] 0to [^ inf] [^ emorph] put
+INV:	what's happening in the picture ?
+INV:	the mom's trying to vroom@c the car .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the food are falling off the shelf ?
+INV:	very good and tell me one more thing about the story .
+INV:	and you finish it .
+INV:	getting in trouble ?
+INV:	very good and tell me one more thing about the story .
+INV:	trying to put water what ?
+INV:	jumped over the water .
+INV:	the dad's trying to see the tv .
+CHI:	they're [^ aux] trying [^ v] to [^ inf] rake [^ v] [^ xv] the pile
+CHI:	dad's [^ cop] there .
+CHI:	<the> [/?] the girl wanna [^ ew:wants_to] [^ ev] throw [^ v]
+INV:	very good .
+INV:	he try to get him down ?
+INV:	the boy is trying to get the cookies and then xxx +...
+CHI:	the girl 0is [^ aux] [^ ev] gonna give [^ v] him a hug [^ eu] .
+INV:	the girl from the car ?
+INV:	her was not in the clothes .
+INV:	what else is happening in the picture ?
+CHI:	the (.) water splashed [^ v] .
+INV:	and you finish it .
+INV:	very good .
+INV:	good job .
+CHI:	they <&f> [/?] 0are [^ aux] [^ ev] gonna fall [^ v] [^ eu] .
+CHI:	the girls are [^ aux] always trying [^ v] to [^ inf] see [^ v]
+INV:	now I'll start the start the story .
+CHI:	<<and> [/?]> [/?] then he saw [^ v] the kitty .
+CHI:	the boy is [^ aux] getting [^ v] some cookies .
+INV:	and what else is happening in the picture ?
+CHI:	their dad was [^ aux] putting [^ v] plates [^ earg] 0and
+CHI:	mom's [^ aux] sweeping [^ v] it .
+CHI:	the door is [^ aux] closed [^ v] .
+INV:	what is happening in the picture ?
+INV:	the cat is stuck up in the tree and then xxx +...
+INV:	now I'll start the start the story .
+CHI:	<the> [/?] the cake melt [^ v] [^ ev] [^ eu] .
+INV:	the boy getting some cookies ?
+INV:	the children see the cat .
+INV:	the boy knocked the boxes off the shelf and then xxx +...
+INV:	just tell me anything else about the picture .
+INV:	and what else is happening in the picture ?
+INV:	and you finish it .
+INV:	the boys are fighting .
+INV:	the girl is helping him, very good .
+INV:	and tell me one more thing about the story .
+INV:	went out ?
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	what's happening in the picture ?
+CHI:	the mom's [^ aux] washing [^ v] the dishes .
+INV:	they're trying to rake the pile, very good .
+CHI:	the boy 0is [^ aux] [^ ev] trying [^ v] 0to [^ inf] [^ emorph] get
+INV:	very good .
+INV:	very good .
+INV:	what is happening in the picture ?
+CHI:	<<girl xxx from the car> [/?]> [/?] .
+INV:	and you finish it .
+CHI:	the dad's [^ aux] trying [^ v] to [^ inf] see [^ v] [^ xv] the tv .
+INV:	very good .
+INV:	very good .
+INV:	mom what ?
+INV:	and what else is happening in this picture ?
+CHI:	but the boy's [^ cop] in the way .
+CHI:	the mom's [^ aux] trying [^ v] to [^ inf] vroom@c [^ elexical] the
+INV:	he jumped out .
+INV:	okay, now I'll start the start the story .

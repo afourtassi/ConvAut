@@ -1,0 +1,1401 @@
+participant	content
+CHI:	sad .
+CHI:	no .
+CHI:	xxx peanut+butter jelly .
+MOT:	what's this ?
+MOT:	huh [/?] ?
+MOT:	today at school , did you get five check Marks ?
+MOT:	where's the puppy dog now ?
+MOT:	what did you see at the fire station ?
+MOT:	train and car , that's right .
+MOT:	you wanted Mike_and_Ike ?
+MOT:	uhhuh [/?] .
+CHI:	yes .
+MOT:	you didn't stay in .
+MOT:	what do you do at one thirty ?
+CHI:	no go store .
+MOT:	<do you see> [/?] who do you see in the morning ?
+MOT:	what do you say ?
+CHI:	number watch dream .
+MOT:	and when we get off the plane we'll be in +/.
+CHI:	read book .
+MOT:	a train .
+MOT:	that's right .
+CHI:	in the bed .
+CHI:	go .
+MOT:	Mark ?
+CHI:	on saturday .
+CHI:	buy goldfish .
+MOT:	he watches +/.
+CHI:	yes .
+MOT:	yeah .
+CHI:	stand on table .
+MOT:	and elephants , that's what we see at the circus huh [/?] ?
+CHI:	it gone .
+MOT:	it means be careful .
+MOT:	you need help ?
+MOT:	you wanted to go to the store ?
+MOT:	did they have a fire ha[/?] +/.
+MOT:	<is that , does the puppy dog want> [/?] does he want the puppy dog
+MOT:	yeah .
+MOT:	no , that's +/.
+CHI:	no .
+CHI:	three fifteen .
+CHI:	that's it .
+MOT:	yes .
+MOT:	let me see , under .
+MOT:	no .
+CHI:	one thirty .
+MOT:	what is Mike_and_Ike ?
+MOT:	yes .
+MOT:	that's right .
+MOT:	where did you go at school today ?
+CHI:	not peanut+butter jelly .
+MOT:	yes .
+MOT:	right , Mark ?
+CHI:	station .
+MOT:	yes .
+MOT:	try it again .
+CHI:	yeah .
+CHI:	eat it .
+CHI:	yes .
+CHI:	cake .
+CHI:	no .
+CHI:	what else ?
+MOT:	what did the gorilla do ?
+MOT:	what is that ?
+MOT:	did you do silly stuff at school today ?
+CHI:	go [/?] +/.
+CHI:	one months .
+MOT:	<did you get any> [/?] did you get more than five checks ?
+CHI:	bring bathing suit .
+CHI:	no , one thirty .
+MOT:	sle [/?] +/.
+CHI:	no go train .
+CHI:	cake .
+MOT:	and did you eat it ?
+MOT:	can you talk louder ?
+CHI:	on tuesday ?
+CHI:	yes .
+MOT:	huh [/?] ?
+CHI:	circle .
+MOT:	we might , that's right .
+MOT:	what letter ?
+MOT:	and we'll make a +/.
+MOT:	that's right .
+CHI:	big .
+CHI:	sign .
+MOT:	Mark ?
+MOT:	no ?
+MOT:	yeah , but how are [/?] we gonna go ?
+MOT:	did you go on the ladder ?
+MOT:	does it make the car stop or go ?
+CHI:	no .
+CHI:	yeah .
+MOT:	signs .
+MOT:	not peanut+butter jelly .
+MOT:	do we go to the zoo sometimes ?
+CHI:	monkey .
+CHI:	trip .
+CHI:	wrong .
+MOT:	Liz .
+MOT:	not Grammy's room , no .
+MOT:	what does Ryan do when he comes here ?
+CHI:	no .
+MOT:	can you say full sentences ?
+CHI:	no .
+CHI:	new friend .
+CHI:	butter on the bread .
+CHI:	yes .
+MOT:	who [/?] .
+MOT:	and they're real bi [/?] +/.
+MOT:	<today at school> [/?] we're switching back again .
+MOT:	yes , on tues [/?] +/.
+CHI:	yeah , three hours .
+MOT:	not Joey , no .
+CHI:	what else ?
+MOT:	oh , it goes like this .
+CHI:	station .
+MOT:	but you went to bed in Timmy's room , that was [/?] a good boy .
+MOT:	what else did you have ?
+MOT:	show me how you put them under .
+MOT:	tv , that's right .
+CHI:	yeah .
+MOT:	that means be careful .
+MOT:	yeah , near the train .
+CHI:	Grammy_Mary .
+CHI:	engine .
+MOT:	yes .
+CHI:	<stay in> [/?] stay in bed .
+CHI:	old school .
+MOT:	yes .
+CHI:	the number +/.
+MOT:	<and am> [/?] Amy is one of the children .
+MOT:	what does Ryan do when he comes here ?
+CHI:	yes .
+MOT:	come on , what else ?
+MOT:	well , you went to bed .
+MOT:	what shape will it make ?
+MOT:	what do you think would be in that car ?
+MOT:	m@l [/?] is [/?] for Mo .
+MOT:	she worked with you over at the Osgood school didn't she ?
+MOT:	oh „ the number watch dream .
+CHI:	Fruit_Roll_Up .
+CHI:	rain .
+MOT:	did Timmy come to visit you at school yesterday ?
+MOT:	a green word dream ?
+MOT:	you hafta be very careful .
+MOT:	that's silly .
+MOT:	ta [/?] +/.
+MOT:	yeah .
+CHI:	black wall dream .
+MOT:	what was [/?] the dark clock ?
+CHI:	no .
+MOT:	that's right .
+MOT:	no .
+MOT:	then you'll know what time it is .
+MOT:	no wonder , we're doing it backwards , Timmy .
+MOT:	yes .
+CHI:	wednesday ?
+CHI:	yes .
+MOT:	look at me .
+MOT:	and what else ?
+CHI:	black wall dream .
+MOT:	full sentence .
+MOT:	do cars go under the table ?
+CHI:	yeah .
+CHI:	yeah .
+CHI:	ca [/?] .
+MOT:	right .
+MOT:	Mark , is [/?] it finished yet ?
+CHI:	swimming .
+CHI:	no .
+MOT:	that's right .
+CHI:	yes .
+CHI:	Paula .
+MOT:	no .
+CHI:	car .
+MOT:	coal car .
+MOT:	hm: [/?] .
+CHI:	yeah .
+MOT:	what do you think ?
+MOT:	ah [/?] , where are we going tomorrow ?
+MOT:	one thirty .
+MOT:	no .
+MOT:	you like peanut+butter and jelly for lunch .
+MOT:	do you know ?
+MOT:	you hadta wait ?
+MOT:	well , you're gonna stay at your new school but we'll go visit your
+MOT:	<you do them> [/?] +/.
+MOT:	what ?
+CHI:	no .
+MOT:	Mark .
+MOT:	where's the train going ?
+CHI:	sleep .
+MOT:	did you touch my hair yesterday ?
+CHI:	yeah .
+CHI:	dean .
+MOT:	no , yesterday , on thursday ?
+CHI:	spoon .
+MOT:	are [/?] you gonna put your face in the water ?
+MOT:	how many cars ?
+CHI:	xxx .
+CHI:	Uncle_Mo .
+MOT:	should be yellow , yes .
+MOT:	what's that ?
+CHI:	forks .
+CHI:	the gorilla dream .
+MOT:	you probably could , I honestly don't know .
+MOT:	we went to na [/?] +/.
+CHI:	sle [/?] +/.
+MOT:	in the +/.
+CHI:	xxx house .
+CHI:	he stand on hair .
+MOT:	yes .
+MOT:	is ah [/?] +/.
+CHI:	not under .
+MOT:	you had a rocking chair on the floor dream ?
+CHI:	new school .
+CHI:	what else ?
+MOT:	sort (o)f .
+MOT:	near the what ?
+MOT:	and what did you put on the bread ?
+CHI:	a [/?] +/.
+MOT:	the train needs help or do you need help ?
+MOT:	why were [/?] you sad ?
+MOT:	it is gone , that's right .
+MOT:	yes , but on fridays , it finishes at what time ?
+MOT:	what ?
+MOT:	what did you write ?
+CHI:	fo [/?] .
+MOT:	no .
+MOT:	okay , ahh [/?] .
+MOT:	what [/?] ?
+MOT:	what would you see at a circus show ?
+MOT:	last day ?
+CHI:	a dark clock dream .
+MOT:	yes .
+CHI:	yeah .
+MOT:	yes , you're gonna go to school +/.
+MOT:	and the ladder .
+CHI:	pa [/?] +/.
+CHI:	not Great_Grammy .
+MOT:	when we go to Florida , how are [/?] we gonna go ?
+MOT:	it was [/?] +/.
+MOT:	<did you> [/?] what did you do with the bread ?
+CHI:	spoon .
+MOT:	are [/?] gorillas sposta stand on tables ?
+MOT:	in the pool .
+MOT:	yes , there's a bath+room there , <isn't> [/?] there ?
+MOT:	what do we put on the table ?
+CHI:	tiger .
+MOT:	a bathing cap .
+MOT:	almost looks like a zoo car to me .
+CHI:	xxx .
+CHI:	no , people .
+CHI:	sit on the chair .
+MOT:	when you went to school today , where did you go today ?
+MOT:	you're being a real good boy .
+MOT:	you went to the store with school .
+MOT:	it's a super , right .
+MOT:	was [/?] it good ?
+MOT:	dream +/.
+MOT:	you sit on the chair .
+MOT:	<that's right> [/?] that's right .
+MOT:	are [/?] we going to sleep in Haverill ?
+CHI:	bill [/?] Uncle_Bill .
+MOT:	turn around , don't run away .
+MOT:	we'll take out the track and put the train track together .
+MOT:	cut it , yes .
+MOT:	yeah , who else ?
+MOT:	Folsom .
+MOT:	they gonna take the train to what ?
+MOT:	no .
+MOT:	yes , or are [/?] you playing ?
+MOT:	or by airplane ?
+CHI:	under puppy dog .
+MOT:	no [/?] no , try it the other way , put bu [/?] +/.
+CHI:	color be yellow .
+MOT:	Florida ?
+MOT:	yes .
+CHI:	no .
+CHI:	and mon [/?] +/.
+MOT:	nineteen eighty seven .
+MOT:	<did you> [/?] what else did you see ?
+CHI:	bag , a Uncle_Mo .
+MOT:	oh , you don't needta do that .
+CHI:	xxx dream .
+CHI:	no .
+MOT:	right ?
+MOT:	new school is done .
+CHI:	xxx .
+MOT:	that's right .
+CHI:	xxx .
+MOT:	before you ate it ?
+CHI:	watch dream .
+MOT:	what do you put on tables ?
+MOT:	what do you think is inside the train ?
+CHI:	xxx .
+MOT:	huh [/?] ?
+MOT:	what are [/?] you gonna put gas in ?
+MOT:	these little ones can go on the +/.
+MOT:	no ?
+CHI:	plate on the table .
+MOT:	what are your circus animals ?
+MOT:	yeah .
+MOT:	or did you just get five ?
+MOT:	watches +/.
+CHI:	and light .
+CHI:	yeah .
+CHI:	silly .
+CHI:	read Big_Bird book dream .
+CHI:	mommy .
+MOT:	what animals are in the circus ?
+CHI:	no .
+CHI:	bathing cap .
+MOT:	we'll pretend this is a circus train and its going to have a circus
+MOT:	that's silly .
+MOT:	yeah .
+CHI:	xxx .
+MOT:	yes .
+MOT:	how about on the +/.
+MOT:	did you stay in bed ?
+MOT:	fo [/?] +/.
+MOT:	Alex , yes .
+CHI:	yeah .
+MOT:	no , not orange .
+MOT:	look at it , its almost done .
+CHI:	sad .
+MOT:	that's silly , yes .
+MOT:	you got another Fruit_Roll_Up ?
+MOT:	what else ?
+CHI:	xxx .
+MOT:	<do you> [/?] do cars drive on our floor ?
+MOT:	what do they wear ?
+CHI:	good .
+MOT:	think .
+CHI:	in the morning .
+MOT:	that's silly .
+MOT:	yes .
+MOT:	what shape is that ?
+MOT:	no , what did you eat ?
+CHI:	tree .
+MOT:	Mark ?
+CHI:	yeah .
+MOT:	was [/?] it a picture of a flower or a picture of a tree ?
+CHI:	cold .
+CHI:	train .
+MOT:	what was [/?] the green word ?
+MOT:	you can bring your Sesame_Street pictures .
+MOT:	<isn't> [/?] that silly ?
+MOT:	the cars first ?
+MOT:	engine , right .
+CHI:	what else ?
+MOT:	wanna put it together ?
+MOT:	yeah , its gone .
+MOT:	wanna go see Grampa_Bill ?
+MOT:	what about choo_choo trains ?
+MOT:	yeah .
+CHI:	I have a fire hat .
+MOT:	do you do your work ?
+CHI:	tuesday go to new school .
+MOT:	huh [/?] ?
+MOT:	fire station , yes .
+MOT:	so you weren't silly today ?
+CHI:	yeah .
+MOT:	huh [/?] ?
+MOT:	the +/.
+CHI:	on the table .
+CHI:	ah [/?] mommy .
+CHI:	plate .
+MOT:	yeah , on the sewing card , that's true .
+MOT:	what did you do ?
+MOT:	spoon is not work .
+CHI:	xxx .
+CHI:	on [/?] on sunday +/.
+MOT:	where do we see gorillas ?
+CHI:	the car goes gas .
+MOT:	am [/?] .
+CHI:	xxx on saturday .
+MOT:	that's right .
+MOT:	huh [/?] ?
+CHI:	yeah .
+CHI:	stay in bed .
+MOT:	and who else ?
+CHI:	no oh , .
+MOT:	yes .
+MOT:	do we put animals on the shelfs ?
+MOT:	yes ?
+MOT:	oh , what is that ?
+CHI:	yellow .
+CHI:	yes .
+MOT:	he stood on the table ?
+CHI:	five checks .
+CHI:	November .
+MOT:	you don't needta do that .
+CHI:	butter .
+MOT:	what are [/?] they going to do ?
+MOT:	let's see if the cars can drive on the +/.
+CHI:	xxx .
+MOT:	it's ga [/?] +/.
+MOT:	there you go .
+CHI:	in November .
+CHI:	bro [/?] .
+MOT:	what color should the sun be [/?] ?
+MOT:	Grammy_Mary and who else ?
+MOT:	what goes on top of the hair ?
+MOT:	where are [/?] you going to sleep ?
+CHI:	go .
+MOT:	Alex .
+MOT:	at the zoo , that's right .
+MOT:	gas .
+MOT:	bro [/?] +/.
+MOT:	yeah ?
+MOT:	are [/?] you gonna sit on the airplane like a good boy ?
+CHI:	no .
+CHI:	a dark clock dream .
+MOT:	a what ?
+CHI:	no go store .
+MOT:	what flavor ?
+MOT:	what did mommy say ?
+MOT:	and bring a towel .
+CHI:	yeah .
+MOT:	what do you put them in ?
+CHI:	who else ?
+MOT:	sleep +/.
+MOT:	food , yes .
+MOT:	what did you put on the bread ?
+MOT:	what about your speech teacher ?
+CHI:	no .
+MOT:	not inside , no .
+CHI:	write .
+CHI:	not Joey .
+MOT:	grampa .
+MOT:	no , it's not a ladder , it looks like a ladder , but it's a train
+MOT:	oh , .
+CHI:	yeah .
+MOT:	picture of a tree .
+MOT:	are [/?] we gonna go by car or are [/?] we gonna go by train ?
+MOT:	yeah , what kind of clothes ?
+CHI:	yeah .
+MOT:	what's this ?
+MOT:	that's right .
+MOT:	well , its not finished yet though .
+CHI:	no .
+MOT:	yes .
+CHI:	hot .
+CHI:	yeah .
+CHI:	silly .
+MOT:	in what number ?
+CHI:	right way .
+MOT:	it means be +/.
+CHI:	dream .
+CHI:	schoo [/?] all the old friends ?
+MOT:	yes .
+MOT:	let it turn honey , like this see ?
+MOT:	thursday , right .
+MOT:	you know what Mark ?
+CHI:	wednesday happy .
+CHI:	that's wrong .
+CHI:	shirt , pants .
+MOT:	that's right .
+CHI:	in the pool .
+MOT:	on the floor .
+CHI:	man .
+MOT:	its orange .
+CHI:	train .
+MOT:	name your teachers .
+CHI:	&-um [/?] .
+CHI:	no .
+MOT:	we +/.
+MOT:	what ?
+MOT:	would you like to see them ?
+CHI:	yeah .
+MOT:	Mark ?
+MOT:	you couldn't open it , no .
+CHI:	no go store .
+MOT:	how many days are [/?] we gonna stay ?
+MOT:	Mark ?
+CHI:	train dream .
+MOT:	wanna see Grammy_Terry too ?
+CHI:	no .
+MOT:	no ladders ?
+MOT:	in the morning .
+CHI:	it's a ladder .
+MOT:	okay , push the car .
+CHI:	yellow .
+CHI:	train go gas .
+MOT:	big , yes .
+CHI:	no .
+MOT:	where did you go ?
+CHI:	Natick .
+CHI:	<few people> [/?] a_lot_of people .
+CHI:	xxx don't touch hair .
+MOT:	who else ?
+MOT:	huh [/?] ?
+MOT:	when you came home from +/.
+MOT:	no .
+MOT:	yeah , it would be fun .
+MOT:	yes .
+MOT:	what else ?
+MOT:	it's candy , right .
+MOT:	yeah , you ate it but what else did you do ?
+MOT:	what are [/?] you doing there ?
+CHI:	no .
+MOT:	what time was [/?] on the dark clock ?
+MOT:	do you work with pa [/?] +/.
+MOT:	do cars go on the table ?
+MOT:	did you know Jane_Boomer before ?
+MOT:	do cars go on the train ?
+CHI:	and picture .
+CHI:	hat .
+CHI:	want go store .
+CHI:	m@l [/?] .
+MOT:	were [/?] there a_lot_of people or a few people ?
+CHI:	nine nights .
+MOT:	what did you make for lunch ?
+CHI:	Sesame_Street dream .
+MOT:	Alex .
+CHI:	toy .
+CHI:	no .
+MOT:	you read a Big_Bird book dream ?
+CHI:	giraffe .
+CHI:	silly .
+MOT:	what did you make at school yesterday ?
+MOT:	did you +/.
+MOT:	he stand on hair ?
+CHI:	super shell .
+CHI:	Billy .
+MOT:	is [/?] the puppy dog going to go in the car ?
+MOT:	yes .
+MOT:	do you put gasoline in a train Mark ?
+CHI:	yeah .
+MOT:	huh [/?] ?
+MOT:	no .
+MOT:	what do we do on saturdays ?
+MOT:	who teaches you gym ?
+MOT:	what else ?
+MOT:	do you know ?
+MOT:	&-uh [/?] broken again .
+CHI:	on tuesday go to new school .
+CHI:	danger .
+MOT:	did you read a story today ?
+CHI:	the old friends .
+MOT:	do puppy dogs belong on the table ?
+MOT:	huh [/?] ?
+CHI:	yeah .
+MOT:	broken .
+MOT:	what do you see in Florida ?
+MOT:	the car goes gas .
+CHI:	sad .
+MOT:	in the +/.
+CHI:	number .
+MOT:	what's on the shelf ?
+CHI:	no .
+MOT:	what did you do with the bread ?
+CHI:	orange .
+CHI:	yeah .
+MOT:	no .
+CHI:	bread on the butter .
+MOT:	did you have that dream last night ?
+CHI:	all night , too long .
+MOT:	what did you want ?
+CHI:	the horn .
+MOT:	go see Uncle_Mo ?
+MOT:	who else ?
+MOT:	were [/?] they good or were [/?] they bad ?
+MOT:	what did the gorilla do ?
+MOT:	who comes in the morning ?
+CHI:	go to new school .
+MOT:	who came to visit you ?
+MOT:	huh [/?] ?
+CHI:	track .
+MOT:	what else did you eat ?
+CHI:	yeah .
+MOT:	yeah , we're going to Grammy_Mary's .
+MOT:	you wrote ?
+CHI:	plate .
+CHI:	train , car .
+MOT:	bring your bathing suit , that's right .
+CHI:	new school .
+MOT:	did you do your shapes at school ?
+MOT:	do you know who else we're going to see at Haverill ?
+MOT:	yeah , but you're gonna bri [/?] +/.
+CHI:	Alex .
+CHI:	no .
+CHI:	dean .
+CHI:	air .
+CHI:	yes .
+MOT:	in the cars ?
+MOT:	you put gas in what ?
+CHI:	&-um [/?] .
+MOT:	did you eat the meatballs ?
+MOT:	Paula .
+MOT:	orange is wrong .
+CHI:	inside .
+MOT:	did you &co +/.
+CHI:	broto [/?] .
+CHI:	no .
+MOT:	you went on a field trip .
+MOT:	what about cars ?
+MOT:	well , you're doing good , there you go , you got it .
+MOT:	on the +/.
+MOT:	what shape Mark , what's it gonna look like ?
+MOT:	what do puppy dogs go with ?
+CHI:	giraffe .
+CHI:	Ann .
+MOT:	huh [/?] ?
+MOT:	did we go to the store yesterday ?
+CHI:	macaroni .
+MOT:	Ryan .
+CHI:	not inside .
+MOT:	dream .
+CHI:	an [/?] and mon [/?] +/.
+MOT:	on wednesday you were [/?] sad , yes .
+MOT:	a_lot_of people , yes .
+CHI:	xxx .
+MOT:	do you think they're going to Boston or do you think they're going
+CHI:	yeah .
+CHI:	at the zoo .
+MOT:	full sentence .
+MOT:	a party there .
+MOT:	yeah .
+MOT:	where do big cars go ?
+MOT:	where do you think they're going ?
+MOT:	I can't understand what you're saying .
+CHI:	yes .
+MOT:	how many months ?
+MOT:	what was [/?] on the black wall ?
+MOT:	no go train .
+CHI:	Ryan .
+CHI:	wa [/?] +/.
+MOT:	you got five checks ?
+MOT:	gra [/?] +/.
+MOT:	I put one together and the other one comes apart .
+MOT:	who else ?
+MOT:	how about puppy dogs go with gas ?
+CHI:	the watch dream .
+CHI:	wednesday you were [/?] sad .
+CHI:	a dark clock .
+CHI:	bathing cap .
+MOT:	what are these ?
+MOT:	you put gas in what ?
+CHI:	watch .
+CHI:	Alex .
+MOT:	is [/?] that a &s [/?] +/.
+CHI:	xxx hair gone .
+CHI:	yes .
+MOT:	<let's put> [/?] +/.
+CHI:	green word dream .
+MOT:	yeah , do you visit with Ryan ?
+CHI:	and Diane .
+CHI:	xxx .
+MOT:	you put that near the +/.
+CHI:	xxx .
+CHI:	candy .
+MOT:	what are we gonna make ?
+CHI:	no .
+CHI:	yeah .
+CHI:	no .
+MOT:	school is done , that's right .
+CHI:	yes .
+MOT:	that's right .
+MOT:	yes .
+MOT:	can cars hurt you ?
+CHI:	Liz .
+MOT:	they tasted good .
+MOT:	is [/?] it ?
+CHI:	silly .
+CHI:	gone .
+CHI:	orange is wrong .
+CHI:	not Grammy's room .
+CHI:	go to store .
+MOT:	the train dream ?
+MOT:	did you go to the store with mommy ?
+MOT:	clock +/.
+MOT:	macaroni and what else ?
+CHI:	no .
+MOT:	see what this says .
+MOT:	what couldn't you open ?
+MOT:	that's right .
+CHI:	bring towel .
+MOT:	on this saturday we go where ?
+MOT:	in Uncle_Mo's room .
+MOT:	wanna see Joey ?
+MOT:	no , that's +/.
+MOT:	no , you don't touch hair .
+CHI:	yeah .
+MOT:	can you put the cars under the puppy dog ?
+MOT:	a train is coming .
+MOT:	you hadta be a good boy .
+MOT:	yes ?
+MOT:	well you might have that's true .
+CHI:	Alex .
+CHI:	boom [/?] Jane_Boomer .
+MOT:	and what else ?
+MOT:	yeah , giraffe , say it better .
+MOT:	what kind of meat ?
+MOT:	this is what we're negotiating with , yes .
+CHI:	no .
+MOT:	Mark , what did you say ?
+MOT:	where do cars go ?
+CHI:	yeah .
+MOT:	well , we'll hafta get a car .
+MOT:	I think we're gonna hafta fudge it .
+MOT:	new school .
+MOT:	in the .
+CHI:	monday .
+CHI:	sleep .
+CHI:	in oc [/?] October .
+MOT:	on saturday go where ?
+CHI:	trains .
+CHI:	giraffe .
+MOT:	maybe see gra [/?] +/.
+CHI:	book .
+MOT:	Mark ?
+MOT:	no ?
+MOT:	nope , what ?
+MOT:	Mark ?
+MOT:	why not ?
+CHI:	gram [/?] +/.
+MOT:	for the gas station , that's right .
+CHI:	fol [/?] +/.
+MOT:	yes , and what did we buy yesterday because you were [/?] a good
+MOT:	do we put chairs on the shelfs ?
+CHI:	tv .
+MOT:	what do you think ?
+MOT:	when we get off the plane , we'll be in +/.
+MOT:	you wanna see old friends in October ?
+MOT:	old friends come in the morning .
+MOT:	are [/?] you gonna sleep in Florida ?
+CHI:	and door .
+MOT:	yes .
+MOT:	did you write your letters backwards today ?
+CHI:	bus .
+MOT:	did you eat ham ?
+MOT:	that's silly .
+MOT:	the sleeping +/.
+CHI:	sad .
+MOT:	uhhuh [/?] .
+MOT:	you hadta stay in bed , that's right .
+MOT:	we'll be at Grammy_Mary's .
+CHI:	yeah .
+CHI:	a &-um [/?] +/.
+MOT:	yeah .
+CHI:	yeah .
+MOT:	that's silly .
+MOT:	was [/?] there a picture on the black wall ?
+MOT:	and you want it to be last day ?
+CHI:	yeah .
+CHI:	oh , no .
+MOT:	what is that ?
+MOT:	what kind of work do you do ?
+MOT:	in November .
+MOT:	can you do it ?
+CHI:	xxx gone .
+CHI:	drop out .
+MOT:	yesterday at school , what day was [/?] it ?
+CHI:	thursday new school .
+MOT:	yeah .
+CHI:	&-um [/?] .
+MOT:	what day of the week ?
+CHI:	yeah I did .
+CHI:	circle .
+MOT:	and that's it ?
+MOT:	at school today did you get your checks ?
+CHI:	food .
+MOT:	you wanted to go to the store today ?
+MOT:	what's in the train ?
+CHI:	&-um [/?] .
+MOT:	no .
+MOT:	what are [/?] you looking at ?
+CHI:	I need help .
+CHI:	in the road .
+CHI:	no .
+MOT:	that's right .
+MOT:	hm: [/?] ?
+MOT:	super shell .
+CHI:	a dark clock dream .
+MOT:	no , what do we put on the shelfs , tell me .
+MOT:	okay ?
+MOT:	he's only got a little bit of hair huh [/?] ?
+CHI:	tuesday go to new school .
+MOT:	can you say that ?
+MOT:	next tuesday and you're gonna go swi [/?] +/.
+MOT:	what else goes on tables ?
+MOT:	table , yes .
+CHI:	party .
+CHI:	Jean xxx .
+MOT:	and we'll bring pictures .
+MOT:	I think you're gonna go to school on monday .
+MOT:	what's this ?
+MOT:	yeah .
+MOT:	where are they going ?
+CHI:	yes .
+MOT:	what did Big_Bird do in the dream ?
+CHI:	no .
+MOT:	<what day> [/?] +/.
+CHI:	got five checks .
+MOT:	that's +/.
+MOT:	yeah , what did the gorilla do ?
+CHI:	yeah .
+CHI:	xxx Aunt_Jean .
+MOT:	do you want Joey to come in the morning ?
+CHI:	in [/?] ou [/?] in outside .
+CHI:	saturday new school .
+CHI:	donut .
+CHI:	and cup .
+CHI:	xxx .
+MOT:	what up ?
+MOT:	when are [/?] we going to Florida ?
+CHI:	one thousand nine hundred eighty seven .
+MOT:	yes , but are [/?] you sad or happy today ?
+MOT:	do you work on the table ?
+MOT:	school is finished at +/.
+MOT:	stay in the bed and we'd buy goldfish .
+MOT:	giraffe .
+MOT:	in the middle of the night you came into mommy's room .
+MOT:	wanna put the cars under the puppy dog ?
+MOT:	you didn't make cake and donuts yesterday .
+CHI:	no .
+MOT:	yeah .
+MOT:	next tuesday you're going to school and where are [/?] you going to
+MOT:	is [/?] it gone ?
+MOT:	that's wrong .
+MOT:	what are those cars going to do ?
+CHI:	Mike_and_Ike .
+MOT:	no , you [/?] .
+MOT:	sleep where ?
+MOT:	no , you can go back to school on monday .
+CHI:	wednesday sad .
+MOT:	what was [/?] the picture ?
+CHI:	how many months ?
+MOT:	oh , on wednesday , yes .
+MOT:	yes .
+CHI:	no .
+CHI:	thank you .
+CHI:	xxx go fire .
+MOT:	is [/?] it gonna be a trapezoid ?
+MOT:	xxx you're not talking clearly .
+MOT:	huh [/?] ?
+MOT:	say it better .
+CHI:	yeah .
+MOT:	uhhuh [/?] .
+CHI:	wait .
+MOT:	what does this sign say ?
+CHI:	<coo , coo> [/?] cookies .
+MOT:	he wa [/?] +/.
+MOT:	and what else ?
+MOT:	and lights .
+MOT:	it's a +/.
+CHI:	thursday .
+CHI:	what else ?
+MOT:	hm: [/?] , tell me then we'll be silly .
+MOT:	yeah , mommy , that's right .
+MOT:	hurt , yes .
+MOT:	who else ?
+MOT:	his hair's gone , that's right .
+MOT:	no , paper .
+CHI:	xxx .
+MOT:	is [/?] it driving on the puppy dog ?
+MOT:	do you think there's animals in there ?
+CHI:	today .
+MOT:	that is silly .
+MOT:	did you spell them right ?
+CHI:	yes .
+MOT:	uhhuh [/?] .
+MOT:	do you wanna put it together ?
+MOT:	no .
+CHI:	no .
+MOT:	yes .
+MOT:	no reading .
+MOT:	<&-uh hm:> [/?] .
+MOT:	what did you get ?
+CHI:	xxx .
+MOT:	that's right .
+MOT:	a sign .
+MOT:	a dark +/.
+CHI:	an [/?] an zebra .
+MOT:	did you read a story today ?
+MOT:	are [/?] you gonna sleep on monday ?
+CHI:	need help .
+MOT:	alright [/?] alright [/?] alright .
+MOT:	what did the gorilla do ?
+CHI:	yeah .
+CHI:	an elephant .
+CHI:	<no no> [/?] oh , .
+CHI:	shell .
+MOT:	you hafta be careful .
+MOT:	a super shell , you're right .
+MOT:	the hose .
+MOT:	okay [/?] .
+MOT:	Mark , do you go to the bath+room on the airplane ?
+MOT:	what goes with gas ?
+MOT:	it's always warped .
+MOT:	look at it .
+MOT:	no .
+MOT:	in the right way , yes .
+CHI:	an [/?] and lions ?
+CHI:	no ladder .
+CHI:	it gone .
+MOT:	do you remember ?
+MOT:	you ate cookies , yeah that's what sticks with you .
+CHI:	and Jacqueline .
+CHI:	coal .
+MOT:	yeah .
+MOT:	what did you hafta do wednesday night ?
+MOT:	is [/?] that popcorn or candy ?
+MOT:	you know how to write them properly .
+MOT:	three what ?
+CHI:	under .
+MOT:	so be careful .
+CHI:	grampa .
+MOT:	a train could hu [/?] +/.
+MOT:	can you put the train together , Mark ?
+CHI:	Amy .
+MOT:	big choo_choo trains ?
+CHI:	it's gone .
+MOT:	you couldn't go , could we ?
+MOT:	who else ?
+CHI:	xxx train go gas .
+CHI:	what else ?
+MOT:	you're going to go to new school .
+MOT:	and you're gonna sleep in +/.
+MOT:	what time do you leave school ?
+MOT:	what's the boy's name ?
+MOT:	well , big cars could .
+CHI:	bring [/?] can we bring pictures ?
+MOT:	huh [/?] ?
+CHI:	ca [/?] .
+CHI:	xxx .
+MOT:	is [/?] it gonna be a triangle ?
+MOT:	are [/?] we gonna go swimming ?
+MOT:	Mark .
+MOT:	Mark , what did you say , huh [/?] ?
+CHI:	last day .
+CHI:	no .
+CHI:	<did you> [/?] +/.
+MOT:	yes , she did .
+MOT:	what's his name ?
+CHI:	Gary .
+CHI:	so don't touch that .
+CHI:	xxx last day .
+MOT:	sad .
+CHI:	train on a trip .
+MOT:	sometimes you work on the table .
+MOT:	how many days are [/?] we gonna stay ?
+MOT:	okay .
+MOT:	it was [/?] a picture of a +/.
+MOT:	what's that ?
+MOT:	on sunday what ?
+CHI:	outside .
+MOT:	Mark ?
+CHI:	who else ?
+MOT:	what time is school finished ?
+MOT:	put it here .
+MOT:	let's see what shape it'll make .
+MOT:	Uncle_Mo's room .
+CHI:	Grammy_Mary's .
+CHI:	yeah .
+MOT:	did you go to the store with your teacher on wednesday ?
+CHI:	cup .
+MOT:	pictures , alright .
+MOT:	and who did we see in Natick ?
+MOT:	there you go .
+MOT:	huh [/?] ?
+MOT:	<you want> [/?] when do you see old friends ?
+MOT:	huh [/?] ?
+CHI:	a Mo .
+CHI:	wha [/?] who else ?
+CHI:	and napkin .
+MOT:	who else ?
+MOT:	you had a_lot_of dreams this week .
+CHI:	good .
+MOT:	okay .
+MOT:	tell me .
+CHI:	no .
+MOT:	Aunt_Jean ?
+MOT:	and meatballs .
+MOT:	did you climb the ladder ?
+MOT:	he waits for Miss_Papay to bring him to school .
+MOT:	yeah .
+MOT:	he stands on chairs ?
+MOT:	whose house ?
+MOT:	yes , okay .
+CHI:	xxx plane .
+CHI:	earl .
+MOT:	why don't you put gas +/.
+CHI:	careful .
+MOT:	huh [/?] ?
+MOT:	a Uncle_Mo , that doesn't make sense .
+MOT:	what's this right here ?
+MOT:	you wanted to go to the store , I know .
+MOT:	did you +/.
+MOT:	<we'll see them again> [/?] yes , we'll see them again .
+MOT:	is [/?] it finished ?
+MOT:	<no , no> [/?] no .
+CHI:	bow .
+MOT:	say it .
+MOT:	huh [/?] ?
+CHI:	train .
+MOT:	what did you do that was [/?] silly ?
+MOT:	yeah .
+CHI:	dog .
+MOT:	you were [/?] sad .
+MOT:	if I can put it together .
+CHI:	yeah .
+CHI:	silly .
+MOT:	do cars go inside ?
+MOT:	are [/?] you gonna learn to &sw [/?] +/.
+MOT:	we'll look at the book in a minute .
+MOT:	no , we don't go to school on saturday .
+MOT:	who comes in the morning here ?
+MOT:	Jane_Boomer .
+MOT:	what are [/?] your new friend's name ?
+MOT:	now this might not go .
+MOT:	what's that ?
+CHI:	on monday go to school .
+MOT:	ra [/?] +/.
+MOT:	what was [/?] on it ?
+MOT:	that's right .
+CHI:	nana .
+MOT:	what's your gym teacher's name ?
+CHI:	yeah .
+MOT:	looks like a c [/?] .
+MOT:	yes .
+CHI:	sad .
+CHI:	xxx .
+MOT:	how about Uncle_Mo ?
+CHI:	cook it .
+MOT:	yes , big cars hurt .
+CHI:	gas station .
+MOT:	no .
+CHI:	hair .
+MOT:	you have your nice friends +/.
+MOT:	what else ?
+MOT:	and you were [/?] +/.
+MOT:	is [/?] it ah [/?] +/.
+CHI:	no .
+CHI:	<no , no> [/?] no bathing .
+CHI:	Mark .
+MOT:	yeah and what else ?
+MOT:	the number .
+MOT:	fire [/?] .
+MOT:	and dean ?
+MOT:	yesterday was [/?] +/.
+MOT:	tell me .
+MOT:	what's this ?
+CHI:	go on +/.
+MOT:	no , what would +/.
+CHI:	and Amy .
+MOT:	what time to do you leave school ?
+MOT:	what are [/?] you gonna see in Florida ?
+MOT:	and forks , yeah .
+CHI:	yeah .
+CHI:	new school is done .
+CHI:	not orange .
+CHI:	a dark clock dream .
+CHI:	xxx ladder .
+CHI:	new school .
+CHI:	no [/?] no .
+MOT:	<are > [/?] we gonna drive a car while we're in Florida ?
+CHI:	yes .
+MOT:	nope .
+CHI:	hurt .
+MOT:	<what did we do> [/?] do you remember last week where we went ?
+CHI:	dream .
+MOT:	did you eat steak ?
+MOT:	I told you .
+CHI:	m@l [/?] .
+MOT:	yes , you're going to start swimming .
+CHI:	signs .
+MOT:	the gorilla dream ?
+CHI:	black wall dream .
+CHI:	unc [/?] +/.
+CHI:	no .
+CHI:	Grammy_Terry .
+CHI:	no .
+MOT:	at the +/.
+CHI:	the hair .
+MOT:	now , what shape is it ?
+CHI:	goldfish .
+MOT:	no , teacher .
+MOT:	and it made you +/.
+CHI:	go on it .
+CHI:	clothes .
+CHI:	no .
+MOT:	huh [/?] ?
+CHI:	school is done .
+MOT:	ca [/?] +/.
+CHI:	yes .
+CHI:	train needs help .
+CHI:	yeah .
+MOT:	yes , that's a gas station .
+MOT:	yes .
+MOT:	three fifteen , that's right .
+MOT:	is [/?] that right or is [/?] that wrong ?
+MOT:	you put gas in the what ?
+MOT:	what are [/?] your new friend's names at school ?
+MOT:	and that's the +/.
+MOT:	huh [/?] ?
+MOT:	right .
+MOT:	in October ?
+MOT:	yeah , besides cake .
+CHI:	couldn't open it .
+CHI:	one .
+CHI:	Uncle_Eddie .
+MOT:	who came to visit you yesterday at school ?
+MOT:	no , you +/.
+CHI:	head .
+CHI:	en [/?] +/.
+MOT:	<were you> [/?] what did you do that was [/?] silly ?
+MOT:	and we'll go on it for three hours .
+CHI:	right way .
+MOT:	no , it's a s@l [/?] +/.
+MOT:	you know my table isn't perfectly straight .
+MOT:	were [/?] you silly at school today ?
+MOT:	on a trip ?
+CHI:	green word dream .
+CHI:	picture of tree .
+MOT:	signs , shall we put the track together ?
+MOT:	and you have new +/.
+CHI:	no .
+MOT:	what do we keep on the shelfs m@l what do we put on the shelfs ?
+MOT:	yes .
+MOT:	no .
+MOT:	what shapes did you do ?
+MOT:	no , we're gonna go all year new school .
+MOT:	<did you> [/?] what did you eat at the party ?
+MOT:	yeah , okay .
+MOT:	in the bed .
+CHI:	xxx .
+MOT:	we had a pa [/?] +/.
+CHI:	touch mommy hair xxx .
+MOT:	how about did you put words on the table today ?
+CHI:	table .
+MOT:	we'll hafta take us bye bye with a car .
+MOT:	did you wear the fire hat today ?
+MOT:	on a tr(ip) [/?] +/.
+MOT:	what's the name of your teacher ?
+MOT:	outside , yes .
+MOT:	go where ?
+CHI:	not train .
+CHI:	car .
+MOT:	we bought goldfish , that's right .
+MOT:	track , that's right .
+CHI:	new school .
+MOT:	zebras at the circus ?
+CHI:	lion .
+MOT:	what shape is it gonna be Mark ?
+MOT:	yes .
+MOT:	what does that mean ?
+CHI:	yeah , fun .
+MOT:	<what is> [/?] let's see , what is on the bookshelf ?
+CHI:	yeah .
+MOT:	who do you see in the morning ?
+MOT:	that is silly .
+MOT:	you put gas in ?
+CHI:	who else ?
+CHI:	pictures .
+CHI:	yeah .
+MOT:	wanna do under ?
+CHI:	gas .
+MOT:	where do you see choo_choo trains ?
+MOT:	where is Grampa_Earl's hair ?
+MOT:	no , that's a silly shape , <isn't> [/?] it ?
+MOT:	where ?
+MOT:	last sunday ?
+CHI:	xxx off the plane .
+MOT:	a track ?
+MOT:	yes .
+MOT:	do you wanna wear a watch ?
+CHI:	yeah .
+CHI:	gorilla dream .
+MOT:	I said no store right ?
+CHI:	Florida .
+MOT:	full sentence .
+MOT:	that's a silly gorilla .
+MOT:	look at that , looks like a bridge .
+CHI:	yes .
+CHI:	yeah .
+MOT:	yes ?
+CHI:	yes .
+CHI:	yeah .
+MOT:	if this was [/?] a circus train , what circus animals would be [/?]
+CHI:	no .
+CHI:	cut it .
+MOT:	plates , full sentences .
+CHI:	yes .
+CHI:	on railroad .
+CHI:	no .
+MOT:	no .
+MOT:	well , what goes on the head ?
+CHI:	yeah .
+MOT:	huh [/?] ?
+MOT:	what color is the sun at school that you said was [/?] wrong ?
+CHI:	next tuesday .
+CHI:	one more months ?
+MOT:	Mark ?
+CHI:	xxx .
+MOT:	we pretend .
+MOT:	you're gonna hafta wear a bathing cap .
+CHI:	on the table .
+CHI:	no .
+CHI:	xxx .
+CHI:	not table .
+CHI:	Uncle_Mo .
+MOT:	what's this ?
+MOT:	how many checks did you get today ?
+CHI:	yes .
+MOT:	yes .
+MOT:	that's right .
+CHI:	yes .
+CHI:	and the ladder .
+MOT:	we might see Great_Grammy .
+MOT:	that's right , nine nights .
+MOT:	what do you do at one thirty ?
+MOT:	fo [/?] +/.
+CHI:	yeah .
+CHI:	what shape ?
+CHI:	and meatballs .
+MOT:	what does that car look like ?
+CHI:	no .
+MOT:	Mark ?
+MOT:	name your teachers .
+MOT:	en [/?] +/.
+MOT:	what else do you see in Florida ?
+MOT:	okay .
+MOT:	what was [/?] the picture ?
+MOT:	yeah .
+CHI:	no .
+MOT:	yes .
+MOT:	wanna see the train ?
+CHI:	xxx three fifteen .
+MOT:	maybe .
+MOT:	Ann .
+CHI:	xxx .
+CHI:	Scott .
+CHI:	cake .
+MOT:	it's +/.
+CHI:	yes .
+MOT:	put the cars up here .
+MOT:	yes .
+CHI:	tr(ack) [/?] track .
+MOT:	don't go near there .
+CHI:	sewing card .
+CHI:	at zoo .
+MOT:	on the bread , that's right .
+MOT:	do cars go on the windows ?
+MOT:	<you write> [/?] you do your work that's right .
+MOT:	sad .
+MOT:	you show me .
+MOT:	yeah , hair goes on the head but what else ?
+MOT:	uhhuh [/?] .
+CHI:	who else ?
+MOT:	it's a little tricky , Mark , huh [/?] ?
+MOT:	that's right .
+MOT:	miss +/.
+MOT:	oh „ what is it ?
+MOT:	<did we have a> [/?] what did we do there ?
+CHI:	no .
+CHI:	gone .
+MOT:	people in Florida , yes .
+MOT:	you saw the horn .
+MOT:	let's think of some more things to talk about .
+MOT:	would this have monkeys in here ?
+CHI:	no .
+CHI:	giraffe .
+MOT:	Grammy &te [/?] +/.
+CHI:	on wednesday .
+CHI:	on table .
+MOT:	&-um [/?] did you &cu [/?] +/.
+CHI:	need help .
+MOT:	huh [/?] ?
+MOT:	does Grampa_Earl have hair ?
+MOT:	yes .
+MOT:	now , make it drive on the puppy dog .
+CHI:	yeah .
+MOT:	try it again .
+MOT:	oh , that doesn't seem right , where does this one go ?
+MOT:	what would the animals do ?
+MOT:	what kind of animals ?
+MOT:	did you wear the fire hat today ?
+MOT:	the black wall dream ?
+CHI:	xxx candy .
+MOT:	you put it in puppy dogs ?
+CHI:	car .
+MOT:	who came to visit you at school yesterday ?
+MOT:	who else ?
+MOT:	full sentence .
+CHI:	yes .
+MOT:	&-um [/?] , let's see , on wednesday at school were [/?] you happy
+MOT:	and who else ?
+MOT:	yes .
+MOT:	who comes to visit +/.
+CHI:	no .
+CHI:	strawberry .
+CHI:	car .
+CHI:	what else ?
+CHI:	yes .
+MOT:	what is the name of your teacher ?
+CHI:	on saturday .
+MOT:	yes ?
+CHI:	big cars hurt .
+CHI:	yes .
+CHI:	no .
+MOT:	let's talk a little bit more about school .
+MOT:	in +/.
+CHI:	yes .
+MOT:	hm: [/?] .
+CHI:	long .
+MOT:	huh [/?] ?
+MOT:	yep .
+CHI:	no , circle .
+CHI:	xxx .
+CHI:	rocking chair floor dream .
+CHI:	it's super shell .
+MOT:	I know , yes .
+MOT:	gas makes the car do what ?
+MOT:	Boston or Florida ?
+CHI:	no .
+MOT:	and lions in Florida ?
+MOT:	does the train go with the gas ?
+MOT:	this plastic might not go as smooth putting together as we think .
+CHI:	the hose .
+MOT:	we can't go near the +/.
+MOT:	that would be fun huh [/?] ?
+MOT:	yes .
+CHI:	bill .
+CHI:	no .
+CHI:	no .
+MOT:	that's right , near the cars , that's right .
+CHI:	on monday .
+CHI:	bring pictures .
+MOT:	would you like to go see Great_Grammy ?
+MOT:	broken what ?
+MOT:	Natick .
+MOT:	are [/?] you sad or happy today ?
+MOT:	where are they gonna take the trip to ?
+MOT:	that's right .
+CHI:	giraffe .
+CHI:	no table .
+MOT:	no , what did you eat ?
+CHI:	yes .
+MOT:	talk a little louder .
+MOT:	yes .
+CHI:	triangle .
+MOT:	what else ?
+MOT:	today you're sad ?
+MOT:	the train doesn't need help .
+MOT:	what'd he do ?
+MOT:	outside , yes .
+CHI:	wa [/?] +/.
+MOT:	what else ?
+MOT:	shall we open it and put them together ?
+MOT:	huh [/?] ?
+MOT:	is [/?] it gonna be a square ?
+MOT:	one thirty .
+CHI:	xxx .
+MOT:	no ?
+MOT:	no , today ?
+CHI:	Joey .
+MOT:	what ?
+MOT:	and the door , yeah .
+CHI:	touch Ryan hair .
+MOT:	on the car , see ?
+MOT:	what ?
+MOT:	what's for Mo ?
+MOT:	yes , we've been to the zoo before .
+CHI:	no .
+MOT:	yeah , but Uncle_Mo +/.
+CHI:	friday new school .
+CHI:	knife .
+MOT:	no .
+MOT:	gas for the what ?
+CHI:	Mrs Folsom .
+CHI:	Mike_and_Ike .
+MOT:	yeah .
+MOT:	<what goes , what does gas go> [/?] what do you put gas in ?
+MOT:	that's right .
+MOT:	yeah .
+MOT:	what's this car ?
+MOT:	you hadta +/.
+MOT:	let's see what this says .
+MOT:	wednesday you were [/?] sad .
+CHI:	come in morning .
+CHI:	that wrong .
+MOT:	and you hadta what in_order_to go to the store ?
+MOT:	can you put it together ?
+MOT:	what kind of animals would be [/?] in there ?
+CHI:	yeah .
+CHI:	not last day .
+MOT:	the puppy dog is +/.
+CHI:	broken .
+CHI:	on the car .
+MOT:	why not under ?
+MOT:	you gonna put the other car on the train ?
+MOT:	okay .
+CHI:	paper .
+MOT:	that's the +/.
+CHI:	dream .
+CHI:	by airplane .

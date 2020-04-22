@@ -1,0 +1,970 @@
+participant	content
+CHI:	out xxx ?
+MOT:	okay , Big_Bird help .
+CHI:	wheels .
+MOT:	jump over the ladder ?
+MOT:	what's that ?
+CHI:	Big_Bird ?
+CHI:	oh , !
+CHI:	push .
+CHI:	Big_Bird ?
+MOT:	look , you can make them stand up .
+MOT:	yeah .
+MOT:	what's this ?
+MOT:	here you go , turn around and get ready .
+CHI:	wake .
+MOT:	here , it [/?] it'll do it on the book .
+MOT:	yeah .
+CHI:	oh , !
+CHI:	now .
+CHI:	&-uh [/?] .
+MOT:	yeah .
+MOT:	okay , take them off .
+MOT:	oh , is Big_Bird poking that out ?
+MOT:	what are you gonna do ?
+CHI:	this .
+CHI:	school .
+MOT:	good job Big_Bird !
+MOT:	what ?
+MOT:	you gonna make the fire+engine go ?
+MOT:	Charles ?
+CHI:	xxx these mom .
+CHI:	<jump jump jump> [/?] jump .
+CHI:	a man .
+CHI:	chips .
+MOT:	what ?
+MOT:	good , what about the car ?
+MOT:	driving back to their home hm: [/?] .
+CHI:	ladder .
+CHI:	bus goes .
+MOT:	what's he doing ?
+CHI:	I buy apple juice ?
+CHI:	xxx wake up .
+CHI:	people .
+CHI:	oops [/?] .
+CHI:	boys .
+MOT:	who's that ?
+CHI:	mom , store .
+CHI:	xxx xxx go .
+MOT:	okay , one more .
+MOT:	under us ?
+MOT:	what's that ?
+CHI:	doggy .
+CHI:	people .
+MOT:	step .
+CHI:	daddy ?
+MOT:	close the door .
+CHI:	xxx .
+MOT:	what do you say ?
+MOT:	what's that ?
+MOT:	here .
+CHI:	boat ?
+CHI:	more house .
+MOT:	come here , come and Big_Bird will help you put the blocks away .
+CHI:	gorilla .
+CHI:	<quack quack quack> [/?] !
+MOT:	does Big_Bird wanna push ?
+CHI:	deer ?
+CHI:	door .
+MOT:	home .
+MOT:	that's not a man , that's a lady .
+CHI:	xxx .
+MOT:	hotdogs ?
+MOT:	there .
+CHI:	more .
+CHI:	&-uh [/?] picture .
+MOT:	they're in their car .
+MOT:	put the boat away ?
+CHI:	xxx .
+MOT:	wake up ?
+MOT:	yeah .
+MOT:	elephants ?
+MOT:	good !
+CHI:	round ?
+MOT:	I wanna do a puzzle , do you wanna do a puzzle ?
+MOT:	oh , look we got more trees .
+CHI:	oh , !
+MOT:	fences ?
+CHI:	good job Big_Bird !
+CHI:	stop .
+CHI:	<&-uh &-uh &-uh> [/?] .
+MOT:	is he gonna do that puzzle piece ?
+CHI:	out [/?] out .
+CHI:	Big_Bird ?
+MOT:	you say thank you ?
+CHI:	car .
+CHI:	this ?
+MOT:	yeah , that's a boy !
+CHI:	cage [/?] cage ?
+MOT:	one more Big_Bird .
+MOT:	okay , where's their home ?
+CHI:	this , lion roarrrr [/?] .
+CHI:	oh , sure !
+CHI:	&-uh [/?] wake !
+MOT:	no ?
+MOT:	look , are you finished at the store ?
+MOT:	give Big_Bird a kiss for doing such a good job .
+MOT:	Big_Bird is gonna help you what ?
+MOT:	&-uh [/?] two people .
+CHI:	this .
+MOT:	what ?
+CHI:	whoa [/?] !
+MOT:	are we gonna put it all away and do a puzzle ?
+MOT:	there .
+MOT:	you wanna stand up ?
+CHI:	oops [/?] .
+CHI:	wake kkkk [/?] .
+CHI:	xxx .
+CHI:	Big_Bird .
+MOT:	food , huh [/?] ?
+CHI:	<Big_Bird , Big_Bird> [/?] Big_Bird ?
+MOT:	right here , see here's the ambulance .
+CHI:	big .
+CHI:	<uck , &-uh> [/?] mom !
+MOT:	and come home , right !
+MOT:	yeah , just like there , ambulance .
+MOT:	kangaroos jump , high !
+CHI:	oh , !
+MOT:	a guitar .
+CHI:	door ?
+MOT:	boy .
+CHI:	<oops , oops> [/?] get it &-uh [/?] .
+MOT:	is he climbing the ladder ?
+CHI:	people [/?] people .
+CHI:	mom ?
+CHI:	<jump jump jump jump jump> [/?] jump .
+MOT:	alligator , yeah , see it the book ?
+MOT:	I'll help .
+CHI:	xxx boat .
+CHI:	xxx go .
+MOT:	is that breakfast ?
+CHI:	rhino .
+MOT:	can you make it stop ?
+CHI:	cycle [/?] cycle ?
+MOT:	now what ?
+MOT:	oh , put the alligator in there ?
+MOT:	yeah , it's under .
+CHI:	camel [/?] camel .
+MOT:	that's a big bird called an ostrich .
+CHI:	people .
+MOT:	alright , I'll help .
+CHI:	break .
+CHI:	&-uh [/?] open it .
+CHI:	plant .
+CHI:	<oops , oops , oo , oo> [/?] man ?
+CHI:	sleepy .
+CHI:	moose !
+CHI:	ambulance .
+MOT:	where are they going ?
+CHI:	there !
+MOT:	what's this ?
+MOT:	ah [/?] that's it .
+CHI:	horn .
+MOT:	well , let's put this stuff away , then .
+CHI:	step [/?] step .
+CHI:	kangaroos jump .
+CHI:	oh , !
+CHI:	here , mom .
+CHI:	oops [/?] .
+CHI:	<guitar , guitar> [/?] guitar ?
+MOT:	what is that ?
+CHI:	horse .
+MOT:	here comes the ambulance .
+CHI:	good job Big_Bird !
+MOT:	good job !
+CHI:	oops [/?] .
+CHI:	we rock .
+CHI:	xxx break .
+MOT:	does Big_Bird like animals ?
+MOT:	push , yeah , push .
+MOT:	wheels ?
+CHI:	<Big_Bird Big_Bird> [/?] Big_Bird .
+CHI:	oh , this .
+MOT:	yeah !
+MOT:	cy [/?] you mean motorcycle ?
+CHI:	turn [/?] turn .
+CHI:	boy [/?] boy !
+MOT:	it's not hard , you can do it .
+MOT:	you want +/.
+MOT:	microphone , yeah .
+CHI:	here mom tape .
+CHI:	yum [/?] .
+CHI:	kiss , kiss xxx .
+CHI:	sleep !
+CHI:	there .
+CHI:	xxx .
+MOT:	what's in there ?
+MOT:	okay , enough of the football .
+MOT:	that's an alligator .
+CHI:	trunk .
+MOT:	where are they going ?
+CHI:	<Big_Bird Big_Bird> [/?] Big_Bird .
+CHI:	Big_Bird help ?
+MOT:	should I wave goodbye to them ?
+MOT:	oh , you are gonna do that one .
+MOT:	hm: [/?] here it comes .
+MOT:	oops [/?] .
+CHI:	oops [/?] xxx .
+CHI:	out , dump .
+CHI:	xxx xxx present .
+MOT:	&-uh [/?] okay .
+CHI:	oh , cheese .
+CHI:	store chips .
+MOT:	where's the bus gonna take them ?
+MOT:	are they all gonna jump in the box ?
+MOT:	another one ?
+MOT:	put the block away , good !
+MOT:	it's got a big trunk .
+MOT:	yeah !
+CHI:	xxx .
+MOT:	he doesn't have a horn .
+CHI:	mommy .
+MOT:	oop [/?] the giraffe not gonna stand up .
+MOT:	you want Big_Bird to help you put them away ?
+MOT:	there it goes .
+CHI:	door ?
+CHI:	car ?
+MOT:	wait , Charles .
+MOT:	okay ?
+CHI:	hand ?
+CHI:	xxx .
+MOT:	what is that ?
+CHI:	lion .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	night .
+CHI:	dump mommy !
+CHI:	there ?
+MOT:	okay , well they hafta come back out then , if they're all finished
+CHI:	<poke poke poke> [/?] poke .
+CHI:	there .
+MOT:	tape , yeah .
+MOT:	put this house away .
+CHI:	present .
+MOT:	is it empty ?
+CHI:	mom ?
+CHI:	box .
+MOT:	it's hard , yeah .
+CHI:	Big_Bird [/?] Big_Bird ladder .
+MOT:	here , I have an idea .
+CHI:	home [/?] home .
+CHI:	<oh , oh> [/?] mom xxx .
+MOT:	what is that ?
+CHI:	Big_Bird ?
+CHI:	xxx .
+CHI:	tree .
+MOT:	we hafta find that other red piece , don't we ?
+CHI:	this ?
+MOT:	it's coming to charlestopher@f .
+CHI:	yeah , poke Big_Bird ?
+CHI:	alligator .
+CHI:	xxx door .
+CHI:	oh , open .
+CHI:	door .
+CHI:	Big_Bird ?
+MOT:	yes , what ?
+MOT:	motorcycle ?
+MOT:	back up a little bit .
+MOT:	&-eh [/?] you're ready to catch ?
+MOT:	good !
+MOT:	kangaroos jump .
+CHI:	this ?
+CHI:	home ?
+MOT:	&-uh [/?] good job !
+MOT:	what does he have ?
+MOT:	you know what that is , that's a microphone .
+MOT:	that's a lion , yeah !
+MOT:	what are they buying now ?
+MOT:	it opened , yeah .
+CHI:	oops [/?] .
+CHI:	another tree .
+MOT:	another tree .
+MOT:	you wanna put the monkey on the book ?
+CHI:	jump [/?] jump .
+MOT:	where's it going ?
+MOT:	it's a rhino .
+MOT:	here's another one .
+MOT:	are they going to the store ?
+MOT:	here , here's the store .
+MOT:	does Big_Bird wanna do the puzzle , too ?
+MOT:	that's the store , here's their home , over here .
+MOT:	what else ?
+MOT:	what do you say ?
+MOT:	poke [/?] okay , can you put the car in ?
+MOT:	night , boys .
+MOT:	you wanna put the girl in the car , she can drive it ?
+MOT:	here's a cage .
+CHI:	jump .
+CHI:	hm: [/?] .
+CHI:	<woof woof> [/?] .
+MOT:	where's he going ?
+MOT:	ladder .
+MOT:	yeah , put the house away Big_Bird .
+CHI:	food .
+MOT:	okay .
+MOT:	ready , catch .
+CHI:	people .
+CHI:	hard .
+MOT:	what's that ?
+CHI:	oops [/?] .
+CHI:	say .
+MOT:	dump .
+MOT:	you wanna look at this ?
+CHI:	<oops , &-uh> [/?] !
+CHI:	car .
+MOT:	what's this ?
+CHI:	boy .
+MOT:	and put it in the refrigerator ?
+CHI:	&-uh [/?] dance !
+CHI:	ambulance .
+MOT:	what is it ?
+MOT:	you wanna put a wheel in ?
+CHI:	no .
+MOT:	blocks .
+MOT:	here's the wheel .
+CHI:	tape .
+CHI:	moose .
+CHI:	xxx .
+CHI:	yeah .
+MOT:	should we make something ?
+MOT:	are you gonna open the present ?
+MOT:	what's Big_Bird gonna do with the present ?
+MOT:	open the door and go in the store .
+MOT:	you're gonna buy chips ?
+CHI:	go in .
+MOT:	there .
+MOT:	what's in the box ?
+MOT:	here .
+MOT:	okay .
+MOT:	you wanna put the doggy on the book ?
+CHI:	boat ?
+MOT:	a guitar !
+MOT:	oh , Charles [/?] Charles , what's that ?
+CHI:	ball .
+MOT:	okay .
+MOT:	okay , what about this girl , is she still sleeping ?
+MOT:	okay , tell Big_Bird to push with his finger .
+CHI:	camel .
+CHI:	there [/?] oh , there .
+MOT:	you know who jumps ?
+MOT:	there , good !
+MOT:	where's the water ?
+MOT:	he's had a hard time .
+MOT:	Big_Bird's so little , huh [/?] ?
+CHI:	lion .
+CHI:	out [/?] out ?
+MOT:	yeah .
+CHI:	Big_Bird .
+CHI:	box ?
+CHI:	oops [/?] .
+MOT:	let's see what's in here .
+CHI:	wake !
+MOT:	oh , what's that ?
+CHI:	this ?
+CHI:	dump .
+CHI:	there .
+CHI:	there oh , .
+CHI:	food .
+MOT:	<push that> [/?] push that corner .
+CHI:	mom [/?] mom .
+CHI:	need boy .
+CHI:	toys .
+MOT:	that's right .
+CHI:	xxx .
+MOT:	deer , okay .
+CHI:	jump [/?] jump .
+MOT:	I guess they're all sleepy today , they wanna lie down .
+MOT:	it's a moose .
+MOT:	fire+engine ?
+MOT:	no , this right here .
+MOT:	yeah , he's working hard .
+MOT:	&-uh [/?] .
+CHI:	mom ?
+CHI:	bus .
+MOT:	this is like charlestmas@f , opening presents ?
+CHI:	boys .
+MOT:	is that all ?
+MOT:	you know what that is Charles ?
+CHI:	block , Big_Bird ?
+CHI:	xxx .
+CHI:	hey [/?] mom help .
+MOT:	it's a big cat !
+MOT:	he's dancing ?
+CHI:	<poke poke poke poke> [/?] poke .
+CHI:	Big_Bird xxx ?
+MOT:	oops [/?] put it right there .
+MOT:	wait [/?] wait !
+CHI:	go bus !
+MOT:	there , you got it .
+CHI:	up .
+MOT:	does he know how to do puzzles ?
+MOT:	alright , dump it out .
+CHI:	panther .
+CHI:	gorilla .
+CHI:	lion [/?] tree .
+MOT:	okay , let's see .
+MOT:	you wanna bring all the food home ?
+MOT:	what ?
+MOT:	make a cage , wanna make a cage for him ?
+CHI:	&-uh [/?] hard !
+MOT:	what ?
+MOT:	put the monkey on the book .
+MOT:	who is it ?
+MOT:	ooo [/?] okay .
+CHI:	under ?
+MOT:	a giraffe .
+CHI:	mom .
+CHI:	empty .
+MOT:	hm: [/?] .
+CHI:	Big_Bird help ?
+CHI:	a deer .
+MOT:	I think mommy xxx .
+CHI:	jump [/?] jump .
+MOT:	what's he doing ?
+CHI:	unh [/?] !
+MOT:	can you make him climb the ladder ?
+MOT:	there !
+CHI:	<&-uh &-uh> [/?] .
+MOT:	people are going where ?
+MOT:	does the monkey say <woof woof> [/?] ?
+CHI:	one more .
+MOT:	&-uh [/?] good !
+CHI:	<what is that> [/?] what is that ?
+MOT:	oh , this is just like charlestmas@f , huh [/?] ?
+CHI:	cycle ?
+CHI:	house .
+CHI:	people .
+MOT:	hm: [/?] that's the wheel .
+CHI:	this .
+MOT:	night , boys .
+MOT:	oh , he is jumping .
+CHI:	guitar .
+CHI:	oh , boat mom .
+MOT:	put it away Big_Bird !
+MOT:	you gonna dump them out ?
+MOT:	here is the doggy .
+MOT:	here , they need a carriage to put the food in , don't they ?
+CHI:	off ?
+CHI:	thank you .
+CHI:	lion .
+CHI:	giraffe .
+CHI:	<woof woof woof> [/?] .
+MOT:	yeah .
+MOT:	put it in the box , Big_Bird !
+CHI:	cage ?
+CHI:	this .
+CHI:	this ?
+CHI:	alligator .
+MOT:	what does the fire+engine say ?
+CHI:	xxx .
+MOT:	here .
+CHI:	<dump dump> [/?] dump .
+CHI:	boy ?
+CHI:	wheel [/?] wheel ?
+CHI:	people ?
+CHI:	okay .
+MOT:	now what +/.
+CHI:	mom !
+MOT:	hm: [/?] turn [/?] turn the white thing right here .
+MOT:	she's taking your picture .
+MOT:	asleep ?
+MOT:	wanna do this car puzzle ?
+MOT:	and then they hafta get in their car .
+MOT:	you know what this is ?
+CHI:	blocks .
+MOT:	no , that's an ambulance .
+CHI:	blocks .
+CHI:	door .
+CHI:	food ?
+CHI:	xxx .
+CHI:	oops [/?] under .
+MOT:	more fences .
+MOT:	maybe they'll buy apple juice .
+CHI:	hotdogs .
+MOT:	hotdogs ?
+MOT:	right .
+MOT:	okay .
+MOT:	is he playing the guitar ?
+MOT:	here , I'll hold it , okay .
+CHI:	oh , mom xxx .
+MOT:	oh , looks like a dog .
+CHI:	hard oops [/?] !
+CHI:	help .
+MOT:	what's that ?
+CHI:	Big_Bird .
+MOT:	elephant , yeah .
+CHI:	xxx .
+MOT:	no ?
+MOT:	jump .
+MOT:	all done ?
+MOT:	are they gonna buy some food ?
+CHI:	good job Big_Bird !
+MOT:	what about this ?
+CHI:	oops [/?] .
+CHI:	mom !
+MOT:	oh , it does look like a deer , doesn't it ?
+CHI:	oops [/?] home .
+CHI:	that's .
+MOT:	yeah !
+MOT:	is Big_Bird gonna sit on the fire+engine ?
+MOT:	Charles , you wanna play with those ?
+MOT:	yeah .
+CHI:	step [/?] step .
+CHI:	xxx .
+CHI:	off , Big_Bird , off .
+CHI:	xxx .
+CHI:	moose .
+CHI:	oh , Big_Bird .
+MOT:	good !
+MOT:	there !
+CHI:	hotdogs xxx .
+CHI:	tree .
+CHI:	book ?
+CHI:	xxx .
+CHI:	wake up !
+CHI:	guitar .
+MOT:	they're going on the bus .
+CHI:	night .
+CHI:	xxx ?
+CHI:	boy ?
+MOT:	music ?
+MOT:	you wanna put somebody in the box ?
+MOT:	what's that ?
+CHI:	hard .
+CHI:	<jump , jump> [/?] there jump .
+MOT:	is the moose jumping ?
+MOT:	it's a moose , we can call it a deer though .
+CHI:	xxx ?
+MOT:	we can put the fences together .
+CHI:	let me .
+MOT:	you want me to help ?
+MOT:	and dancing too ?
+CHI:	there ?
+MOT:	yeah , that's a house .
+MOT:	look [/?] look at their face .
+CHI:	store .
+CHI:	a cage .
+CHI:	mom !
+MOT:	come sit down here , let's play with the fire engine .
+MOT:	what's that ?
+CHI:	boys .
+MOT:	oop [/?] you wanna poke it out ?
+CHI:	there yuh [/?] .
+MOT:	let them walk in .
+MOT:	you fit it !
+CHI:	good job Big_Bird !
+CHI:	jump .
+MOT:	woo [/?] we need something to clean that up .
+CHI:	Ernie and Bert .
+MOT:	food ?
+CHI:	phone .
+MOT:	oh , he's such a good help !
+CHI:	wake up .
+MOT:	you want mommy to help ?
+CHI:	oops [/?] xxx .
+CHI:	hard .
+CHI:	mess .
+CHI:	boys .
+MOT:	that's not Ernie and Bert .
+MOT:	is she sleeping ?
+MOT:	what's that ?
+MOT:	what's this ?
+CHI:	<woof woof woof woof woof woof woof woof> [/?] .
+CHI:	out .
+MOT:	and milk .
+MOT:	yeah , you got to turn this thing right here .
+CHI:	breakfast .
+MOT:	push !
+MOT:	where are they going ?
+MOT:	hm: [/?] !
+MOT:	what ?
+MOT:	oh , is Big_Bird gonna do the puzzle ?
+CHI:	ambulance [/?] ambulance ?
+MOT:	oh , okay .
+MOT:	oops [/?] .
+CHI:	Big_Bird ?
+CHI:	under ?
+CHI:	Big_Bird .
+CHI:	xxx .
+CHI:	ducks !
+MOT:	just hotdogs ?
+MOT:	in the cage , there ?
+MOT:	wow [/?] , what are all these things ?
+MOT:	it's a camel .
+MOT:	oh , wait a minute , what's that ?
+CHI:	help dump .
+CHI:	xxx Big_Bird .
+MOT:	no , it's a monkey .
+MOT:	thank you .
+CHI:	mom , fits .
+CHI:	door .
+CHI:	Big_Bird .
+MOT:	does Big_Bird like all these animals ?
+MOT:	where are they going ?
+CHI:	dog .
+CHI:	<oh , Big_Bird> [/?] Big_Bird xxx .
+CHI:	mhm [/?] .
+MOT:	xxx .
+MOT:	what are you gonna do with the present ?
+CHI:	box .
+MOT:	poke out the pieces ?
+MOT:	remember ?
+CHI:	home ?
+MOT:	the doggy says it !
+MOT:	making music ?
+MOT:	Big_Bird is on the fire+engine ?
+MOT:	yeah , not a telephone , a microphone .
+CHI:	charlestmas@f .
+MOT:	jump oops [/?] .
+MOT:	bye , people .
+MOT:	yeah .
+MOT:	are they going home ?
+CHI:	xxx .
+MOT:	here is the store .
+CHI:	apple juice .
+CHI:	there yuh [/?] .
+MOT:	dump it out ?
+CHI:	there .
+MOT:	ball , you wanna catch it ?
+MOT:	I thought we were gonna put it all in and do a puzzle .
+MOT:	we can put all the people inside these little houses and they could
+CHI:	xxx .
+CHI:	<&-uh ooh , ooh , hm:> [/?] goes .
+MOT:	finger , right !
+MOT:	what is that ?
+MOT:	jump over the ladder wee [/?] .
+CHI:	stop .
+MOT:	are they going to school ?
+CHI:	Bert .
+MOT:	okay .
+MOT:	oh , look here's a car .
+MOT:	what is it ?
+MOT:	yeah , you're taking pictures .
+CHI:	mess .
+MOT:	what's that ?
+MOT:	now , where's the wheel , the middle of the wheel ?
+CHI:	Big_Bird .
+MOT:	push it !
+CHI:	oop [/?] fire+engine ?
+CHI:	too ?
+MOT:	are they going in the store now ?
+CHI:	puzzle .
+MOT:	daddy went outside , I think .
+CHI:	going .
+MOT:	juice ?
+MOT:	no , that's a gorilla .
+CHI:	Big_Bird ladder .
+CHI:	dance !
+MOT:	are they gonna buy lots_of food ?
+MOT:	well , it's like a kitty , it's a panther .
+CHI:	steps xxx .
+MOT:	maybe they'll buy cheese .
+MOT:	yeah !
+CHI:	Big_Bird [/?] Big_Bird ?
+MOT:	what ?
+MOT:	how about this piece ?
+CHI:	help ?
+CHI:	no !
+CHI:	sleep .
+MOT:	now look what's in the box ?
+CHI:	mom ?
+CHI:	panther .
+CHI:	Big_Bird .
+CHI:	hm: [/?] goes .
+CHI:	no .
+MOT:	a tree .
+CHI:	Big_Bird [/?] Big_Bird &-uh [/?] hard !
+CHI:	mom , door oh , .
+CHI:	yeah .
+CHI:	sleeping .
+MOT:	big panther , yeah .
+CHI:	boy go in .
+CHI:	stuff .
+CHI:	house .
+CHI:	big panther .
+MOT:	oh , .
+MOT:	put it in his hand , yeah !
+CHI:	oh , broke .
+CHI:	Helen .
+CHI:	&-uh [/?] cycle ?
+MOT:	just push it up a little .
+CHI:	mommy .
+CHI:	thank you mommy .
+MOT:	are they coming home to have juice ?
+CHI:	lion .
+MOT:	what's in there ?
+MOT:	where [/?] are they going in their car ?
+CHI:	step ?
+MOT:	okay , time to get out_of the car , put the food away .
+CHI:	dump .
+MOT:	going on the bus ?
+CHI:	elephant .
+MOT:	see ?
+CHI:	away , Big_Bird !
+CHI:	guitar !
+CHI:	oops [/?] .
+MOT:	stand up horse oop [/?] .
+CHI:	xxx .
+CHI:	Big_Bird ?
+CHI:	trees .
+CHI:	xxx close .
+MOT:	plants , right .
+CHI:	<&-uh oops> [/?] .
+MOT:	it's morning already ?
+CHI:	store .
+MOT:	oh , that's a boy ?
+CHI:	xxx .
+CHI:	oops [/?] .
+CHI:	ball huh [/?] xxx xxx .
+CHI:	hm: [/?] ?
+MOT:	cheese .
+MOT:	there .
+MOT:	block , Big_Bird ?
+CHI:	see the boat ?
+MOT:	oh , you wanna put them on the boat , and they can go in the water
+MOT:	there's the door .
+MOT:	looks like a deer .
+CHI:	<&-uh yeah , &-uh> [/?] hard .
+CHI:	football game .
+MOT:	dump ?
+CHI:	okay k [/?] .
+CHI:	Big_Bird dance .
+MOT:	good !
+MOT:	you don't wanna put them away ?
+CHI:	xxx .
+MOT:	he's not doing a puzzle .
+MOT:	puzzle ?
+MOT:	alright , let's put the stuff in .
+MOT:	step [/?] step .
+MOT:	I think it fits here .
+CHI:	dump [/?] dump .
+CHI:	there .
+CHI:	there .
+MOT:	<quack , quack> [/?] .
+CHI:	&-uh [/?] turkey .
+CHI:	house .
+MOT:	yeah .
+CHI:	hi [/?] bird .
+MOT:	here [/?] here <oh , oh> [/?] .
+MOT:	yeah , break .
+CHI:	here charlestopher@f .
+CHI:	oh , sure .
+CHI:	people .
+MOT:	whoop [/?] .
+CHI:	nice horse .
+CHI:	poke <poke poke poke poke poke poke poke poke poke poke> [/?] .
+MOT:	that's where their home is .
+MOT:	here .
+CHI:	car .
+CHI:	ambulance .
+MOT:	oh , is he gonna push with his finger ?
+MOT:	jump in .
+MOT:	what ?
+MOT:	right there , push .
+CHI:	whee [/?] !
+MOT:	you go to the store and buy chips .
+MOT:	round .
+CHI:	mom ?
+CHI:	mom [/?] mom ?
+MOT:	boy , Big_Bird is working hard .
+CHI:	Big_Bird .
+MOT:	hm: [/?] .
+MOT:	give him a kiss and tell him he did a good job .
+CHI:	under .
+CHI:	that's .
+CHI:	xxx .
+CHI:	yeah &-uh [/?] .
+CHI:	house ?
+MOT:	walk in !
+MOT:	a sheep ?
+CHI:	whoo [/?] .
+CHI:	chips !
+MOT:	alright , throw it again .
+MOT:	you are gonna put a tree in with the alligator ?
+MOT:	what are they gonna buy at the store ?
+MOT:	people .
+MOT:	you wanna take them out ?
+CHI:	go in xxx .
+MOT:	here , Big_Bird , put the blocks away .
+MOT:	what's this ?
+MOT:	rhino .
+CHI:	ambulance ?
+MOT:	you stand up , I'll hold the box , and you put them in .
+MOT:	how about chips ?
+MOT:	what's this ?
+CHI:	doggy .
+MOT:	<oh , yum> [/?] !
+CHI:	hm: [/?] .
+MOT:	should we put these toys away and get another toy ?
+CHI:	&-uh [/?] Big_Bird ?
+CHI:	&-uh [/?] .
+MOT:	is it a tunnel ?
+MOT:	right .
+CHI:	xxx .
+MOT:	an alligator .
+MOT:	look , you gotta push that corner in , right there !
+CHI:	&-uh [/?] .
+CHI:	monkey .
+CHI:	Big_Bird fire+engine ?
+MOT:	you wanna do a puzzle ?
+CHI:	sleep !
+CHI:	water .
+CHI:	Big_Bird poke .
+CHI:	Big_Bird ?
+MOT:	we'll hafta figure this out , huh [/?] ?
+CHI:	microphone .
+MOT:	sorry .
+CHI:	mom .
+CHI:	Big_Bird ?
+CHI:	out ?
+MOT:	night .
+MOT:	good_night .
+MOT:	does the ambulance make a noise too ?
+CHI:	out !
+CHI:	Big_Bird .
+CHI:	xxx .
+CHI:	cage ?
+CHI:	xxx .
+MOT:	oh , now she's awake .
+MOT:	back in the car , huh [/?] ?
+CHI:	toys ?
+CHI:	this .
+MOT:	what's he doing ?
+MOT:	what is that ?
+CHI:	xxx xxx hotdogs .
+MOT:	he's playing with those blocks .
+MOT:	open that ?
+MOT:	yeah , it's empty , all the pieces are right here .
+MOT:	sort of , it's a car , see ?
+MOT:	panther .
+MOT:	huh [/?] ?
+CHI:	jump [/?] jump .
+CHI:	oops [/?] .
+CHI:	boys ?
+CHI:	mom !
+MOT:	here's where they went to sleep .
+MOT:	there it goes .
+MOT:	put these away then .
+MOT:	what's that boy doing ?
+CHI:	big .
+CHI:	oh , !
+CHI:	&-uh [/?] .
+MOT:	can you make her wake up ?
+CHI:	xxx .
+CHI:	yeah !
+CHI:	box .
+CHI:	out ?
+CHI:	a kitty .
+CHI:	mom [/?] mom !
+CHI:	come here , come here .
+CHI:	doggy .
+CHI:	boy .
+CHI:	mom .
+CHI:	whee [/?] horn ?
+MOT:	yeah , Big_Bird's helping .
+MOT:	the boys are going on a motorcycle ?
+CHI:	alligator .
+MOT:	Big_Bird puts the people away ?
+CHI:	night_night Big_Bird .
+CHI:	Big_Bird !
+CHI:	bus goes .
+MOT:	and then we can put them all away .
+CHI:	okay , Big_Bird .
+CHI:	mom !
+MOT:	okay .
+CHI:	break [/?] break .
+MOT:	what about the ambulance ?
+CHI:	people xxx .
+CHI:	<wake up , wake up> [/?] wake up !
+MOT:	like the fire+engine ?
+CHI:	yeah !
+CHI:	refrigerator .
+MOT:	what is that ?
+CHI:	a lion .
+MOT:	do you know what this is ?
+CHI:	xxx .
+CHI:	deer .
+CHI:	&-uh [/?] Big_Bird help ?
+CHI:	oops [/?] .
+CHI:	xxx .
+MOT:	what has trunks ?
+MOT:	no ?
+CHI:	help ?
+MOT:	lady , yeah .
+CHI:	help ?
+CHI:	round ?
+MOT:	do you wanna put them on this book ?
+MOT:	what's Big_Bird doing ?
+MOT:	gorilla .
+MOT:	no , it's not a lion .
+MOT:	it broke , yeah .
+CHI:	up .
+MOT:	can Big_Bird put this block away ?
+MOT:	where's the door ?
+CHI:	<ooo , ooo> [/?] goes .
+MOT:	oh , sure , okay .
+MOT:	okay , now how are you gonna make them go ?
+CHI:	moose .
+CHI:	there .
+MOT:	that's not Bert .
+CHI:	out ?
+CHI:	door .
+MOT:	there !
+CHI:	fire+engine .
+CHI:	goes .
+MOT:	that's not a turkey , what's that ?
+MOT:	what ?
+MOT:	what are you gonna dump ?
+CHI:	good job Big_Bird .
+CHI:	Bert .
+CHI:	xxx .
+MOT:	oh , you did it for him , thanks !
+MOT:	night_night .
+MOT:	you want the kangaroo to jump right <in the> [/?] in this box ?
+CHI:	fire+engine .
+MOT:	oh , that's a hard one to get in , huh [/?] ?
+MOT:	cycle ?
+MOT:	looks like a duck , doesn't it ?
+CHI:	&-uh [/?] .
+CHI:	right .
+CHI:	poke , poke .
+CHI:	house ?
+CHI:	xxx xxx people .
+CHI:	man [/?] man .
+MOT:	is that a boat ?
+CHI:	&-uh [/?] yuck [/?] yuck [/?] .
+MOT:	is Big_Bird gonna watch you ?
+CHI:	good job Big_Bird .
+MOT:	are you_all done at the store ?
+MOT:	you wanna put the boy and the girl on that ?
+CHI:	no .
+CHI:	lady .
+MOT:	go in the store and buy food .
+MOT:	this is hard .
+CHI:	oops [/?] .
+MOT:	Big_Bird put them away ?
+CHI:	sheep .
+CHI:	wake ?
+MOT:	moose .
+CHI:	close ?
+MOT:	no [/?] not thank you mommy .
+MOT:	what kind of food ?
+CHI:	go on ?
+MOT:	that's not a camel .
+CHI:	okay .
+CHI:	fits .
+MOT:	where's Big_Bird going ?
+CHI:	Big_Bird .
+MOT:	where are they going ?
+CHI:	xxx .
+CHI:	door ?
+CHI:	Big_Bird .
+CHI:	bus oo [/?] .
+CHI:	boy ?
+CHI:	boy .
+CHI:	hard !
+MOT:	you have another piece ?
+CHI:	wheel .
+MOT:	Big_Bird gonna push it in ?
+CHI:	man .

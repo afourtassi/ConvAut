@@ -1,0 +1,1155 @@
+participant	content
+CHI:	eat .
+CHI:	Michale's .
+CHI:	oh , .
+CHI:	hello .
+CHI:	xxx .
+CHI:	lets do the cake .
+CHI:	e@l [/?] .
+CHI:	<gobble gobble> [/?] .
+MOT:	are they sposta sink or something ?
+MOT:	it's going .
+CHI:	a car .
+CHI:	I going home .
+MOT:	look at that .
+MOT:	huh [/?] ?
+CHI:	break .
+CHI:	roar [/?] .
+MOT:	yeah .
+MOT:	no it's not green .
+MOT:	are you in the movies over there ?
+CHI:	open it .
+MOT:	four [/?] .
+MOT:	no , what's your teacher's name ?
+CHI:	watch this .
+MOT:	I think you're being silly .
+MOT:	what color's this boat ?
+MOT:	oop [/?] .
+MOT:	you want the orange one ?
+CHI:	Bernie .
+MOT:	but it looks like cake .
+CHI:	Mccaugin .
+MOT:	what does Billy want for christmas ?
+MOT:	hm: [/?] ?
+CHI:	yeah .
+MOT:	say hello ?
+MOT:	xxx .
+CHI:	<two , four> [/?] .
+MOT:	we don't put the plastic paper in the water .
+CHI:	you get the car .
+CHI:	xxx .
+MOT:	are these ones starting to work yet ?
+MOT:	what's that ?
+MOT:	make them do kisses .
+MOT:	wash my face .
+MOT:	yeah , that's the way it goes see .
+MOT:	what's daddy's blue van do ?
+MOT:	how much do we have ?
+MOT:	yeah .
+CHI:	medicine .
+MOT:	hurry up .
+MOT:	you go to school ?
+CHI:	what .
+MOT:	that's a +/.
+CHI:	a light .
+MOT:	what's this one here ?
+CHI:	<the baby on the bus goes> [/?] +/.
+MOT:	what is it ?
+MOT:	a carrot .
+CHI:	put it back .
+CHI:	go !
+MOT:	well who's in here ?
+MOT:	oh , there goes the orange car .
+MOT:	look_it .
+CHI:	<three , four , three , four> [/?] .
+MOT:	here comes the green one .
+MOT:	Robert john .
+MOT:	a snake , huh [/?] ?
+CHI:	here .
+MOT:	another one .
+MOT:	a cow .
+MOT:	<round and round> [/?] .
+MOT:	he doesn't bite .
+MOT:	huh [/?] ?
+CHI:	yeah .
+MOT:	let's count them .
+MOT:	what's that ?
+MOT:	okay .
+CHI:	bath tub .
+MOT:	what color ?
+MOT:	yeah e [/?] .
+MOT:	whoa [/?] .
+CHI:	okay [/?] okay .
+MOT:	<yum , yum , yum , yum , yum> [/?] .
+CHI:	get a horse .
+CHI:	talk daddy .
+MOT:	oh , .
+MOT:	shell .
+CHI:	around .
+CHI:	a truck .
+MOT:	Bob ?
+MOT:	you don't eat plastic .
+CHI:	put another one .
+CHI:	water .
+CHI:	five [/?] .
+MOT:	okay .
+MOT:	oh , machine .
+MOT:	push it in , yeah .
+CHI:	<yum , yum , yum , yum , yum> [/?] .
+MOT:	turkey down Diane's ?
+CHI:	frog .
+MOT:	that's a nice monster .
+MOT:	jump on Billy's head ?
+MOT:	a &ba [/?] ?
+MOT:	oh , this one's good , isn't it ?
+MOT:	oh , your stomach .
+CHI:	food ?
+CHI:	hohoho [/?] .
+MOT:	what's this ?
+CHI:	and what color is it ?
+MOT:	wawawa [/?] .
+MOT:	are you gonna eat a fat piece of cake ?
+MOT:	look_it .
+CHI:	there it goes .
+CHI:	yeah .
+CHI:	blue .
+CHI:	yeah .
+CHI:	momma truck on head .
+MOT:	cookies ?
+CHI:	dissolve .
+CHI:	momma , here it come .
+MOT:	what is it ?
+MOT:	where's the plane ?
+MOT:	say ready +/.
+CHI:	hamburgers .
+MOT:	what's it gonna do ?
+MOT:	hey [/?] Bob ?
+MOT:	whose shoes are these ?
+MOT:	Robby wanna do ?
+MOT:	what is it ?
+MOT:	Michael's .
+MOT:	you can play with them in a while .
+CHI:	chicken .
+MOT:	let's read the spelling .
+MOT:	<oh what fun it is to ride in a one horse open sleigh , hey> [/?] .
+MOT:	there's no medicine .
+CHI:	hohoho [/?] .
+MOT:	what are they ?
+MOT:	do you wanna do another one ?
+CHI:	truck .
+CHI:	break it .
+CHI:	yeah .
+CHI:	cookies .
+MOT:	yup .
+CHI:	ready .
+MOT:	look at that .
+MOT:	only , when you hafta huh [/?] .
+MOT:	hey [/?] , Bob .
+CHI:	put it in .
+CHI:	no .
+MOT:	a plane .
+MOT:	where's the car ?
+MOT:	a light yeah .
+MOT:	sss [/?] yeah .
+MOT:	oh , look_it Bob .
+MOT:	it's gonna work .
+MOT:	yeah .
+CHI:	Grover .
+MOT:	Cheryl ?
+MOT:	I'll be right there .
+MOT:	noney [/?] ?
+MOT:	that's Helen .
+MOT:	shell .
+CHI:	five [/?] .
+MOT:	what's this ?
+MOT:	push ?
+MOT:	Billy ?
+MOT:	Bert .
+MOT:	okay .
+MOT:	<one , two> [/?] .
+MOT:	are they wet ?
+MOT:	whoa [/?] that one worked !
+CHI:	it fall .
+CHI:	xxx .
+MOT:	was a preliminary to go ?
+MOT:	here .
+CHI:	<move back> [/?] .
+MOT:	what's a bird say ?
+MOT:	what do you say ?
+CHI:	wait .
+CHI:	noney [/?] .
+CHI:	yeah .
+MOT:	what is that ?
+MOT:	where ?
+MOT:	okay , you go in the parlor .
+MOT:	yeah , leave it alone .
+MOT:	Billy where's the car ?
+CHI:	what ?
+MOT:	a truck !
+MOT:	big bird ?
+MOT:	hohoho [/?] .
+MOT:	what's a monster say ?
+CHI:	look at that .
+MOT:	let's look at another picture .
+CHI:	xxx .
+MOT:	is that gonna dissolve ?
+MOT:	wanna get some more cars ?
+MOT:	okay .
+CHI:	oh , <one , two , three , four , five> [/?] .
+CHI:	put xxx .
+MOT:	and the baby was crying on the bus huh [/?] ?
+MOT:	what is it ?
+MOT:	what's that say ?
+CHI:	play Big_Bird .
+CHI:	bus .
+MOT:	how many cars do you got over there ?
+MOT:	you wanna watch the yellow one ?
+MOT:	okay .
+MOT:	orange , yeah .
+MOT:	yeah .
+MOT:	what ?
+CHI:	plane .
+MOT:	hot .
+MOT:	no ?
+CHI:	one .
+CHI:	one more .
+CHI:	ow [/?] !
+MOT:	okay we'll put +/.
+MOT:	yeah .
+MOT:	you want mama open ?
+MOT:	the kids +/.
+CHI:	I fix the car .
+CHI:	machine .
+CHI:	momma .
+MOT:	what I was searching the house for .
+CHI:	let's play Big_Bird .
+CHI:	guys .
+CHI:	a truck .
+MOT:	what is it ?
+MOT:	what is it ?
+CHI:	bus .
+MOT:	look at that .
+MOT:	let it go .
+CHI:	be right back .
+MOT:	what does the baby on the bus do ?
+MOT:	hurry up the yellow one's working .
+CHI:	lights .
+MOT:	is that what a truck does ?
+CHI:	oh , .
+MOT:	oh , you got the horse .
+CHI:	eat .
+MOT:	what's is that ?
+CHI:	two .
+CHI:	yeah .
+CHI:	put in the green .
+MOT:	no .
+MOT:	a helicopter .
+CHI:	hoho [/?] Santa_Claus .
+MOT:	a bird .
+CHI:	Ernie .
+MOT:	I'll think I'll do the +/.
+CHI:	xxx .
+MOT:	what's this ?
+CHI:	no !
+MOT:	go get it .
+MOT:	you breaking Helen's present ?
+CHI:	here .
+MOT:	okay .
+MOT:	what is it ?
+MOT:	no , we're still waiting .
+CHI:	car .
+MOT:	where did Donna and Michael go ?
+CHI:	a car .
+MOT:	and where's the plane ?
+MOT:	you're in the way .
+MOT:	let's sit down .
+MOT:	see the yellow one ?
+MOT:	let's get some more pictures .
+MOT:	you always sing it with me .
+MOT:	what ?
+CHI:	be right back .
+MOT:	what does the baby on the bus do ?
+CHI:	look .
+MOT:	make the monsters do kisses .
+MOT:	what's that ?
+MOT:	two [/?] .
+CHI:	french fries .
+CHI:	snake goes .
+MOT:	say hello .
+CHI:	bird say <tweet , tweet> [/?] .
+MOT:	solve [/?] .
+CHI:	horse .
+MOT:	you gonna put another one in ?
+MOT:	what did +/.
+MOT:	Big_Bird .
+MOT:	Billy ?
+MOT:	dinosaur .
+MOT:	say hi daddy .
+MOT:	what's that ?
+CHI:	orange .
+MOT:	one down .
+CHI:	blue .
+MOT:	does a turkey say hohoho [/?] ?
+CHI:	play in tub .
+CHI:	chocolate milk .
+MOT:	it's from your daddy ?
+CHI:	cake .
+MOT:	who's coming next month ?
+CHI:	they fighting .
+MOT:	yup .
+MOT:	monster , yeah .
+CHI:	a green .
+MOT:	<round and round> [/?] .
+CHI:	hurt my stomach .
+MOT:	what color ?
+MOT:	there it goes .
+MOT:	oh , stuck .
+MOT:	I can't find it .
+MOT:	what are you doing ?
+CHI:	black .
+MOT:	here it comes .
+MOT:	it's gonna squish it up .
+CHI:	ohoh [/?] here it comes .
+CHI:	xxx .
+MOT:	what did you have for lunch ?
+CHI:	what ?
+MOT:	two monsters ?
+MOT:	no , what color ?
+MOT:	not yet .
+MOT:	hey [/?] , who says hohoho [/?] ?
+MOT:	what's our kitty's name ?
+CHI:	get it out .
+CHI:	snake .
+MOT:	Billy ?
+MOT:	what ?
+MOT:	okay .
+MOT:	how many ?
+MOT:	a goat ?
+CHI:	hot .
+MOT:	did you eat lunch in school today ?
+MOT:	ready +/.
+MOT:	oh , this one's starting to go .
+MOT:	huh [/?] ?
+MOT:	go get the yellow one .
+MOT:	hey [/?] , Robert .
+MOT:	it's not a moo .
+MOT:	look_it .
+MOT:	tell Helen what a turkey says ?
+MOT:	<the mother on the bus says shut your mouth> [/?] .
+MOT:	the water's still warm .
+CHI:	<two , four> [/?] .
+MOT:	blue ?
+CHI:	count .
+MOT:	we gotta wait .
+CHI:	xxx .
+MOT:	it fall yeah .
+CHI:	a birdie .
+CHI:	h@l [/?] .
+MOT:	I have no idea .
+MOT:	what's that ?
+MOT:	oh , you want it out .
+MOT:	you get it ?
+MOT:	thank you .
+MOT:	these are Billy's socks .
+MOT:	oh , what happened ?
+MOT:	we'll play with the cards .
+MOT:	watch [/?] watch .
+CHI:	broken .
+MOT:	a car .
+CHI:	monster .
+MOT:	it's like a puzzle .
+MOT:	did you have lunch in school today ?
+MOT:	wanna say hello ?
+MOT:	ow [/?] .
+MOT:	I'm gonna do it .
+MOT:	what's this one here ?
+CHI:	cake .
+MOT:	what's that ?
+MOT:	you can hear little noises .
+MOT:	the baby on the bus doesn't go gobble .
+MOT:	what is it ?
+CHI:	find it .
+MOT:	<yap , yap , yap> [/?] .
+MOT:	can I make him jump on Billy's belly ?
+MOT:	I forgot the car .
+MOT:	oh , what's this one here ?
+MOT:	what color ?
+MOT:	isn't this one a boat ?
+CHI:	yeah .
+MOT:	yeah .
+MOT:	come here .
+CHI:	orange .
+MOT:	I don't think .
+CHI:	<mark get> [/?] mark set go .
+MOT:	let's watch .
+MOT:	catch .
+MOT:	well , where is it ?
+CHI:	get a car .
+MOT:	ready +/.
+CHI:	hello .
+CHI:	Santa .
+MOT:	where's the car ?
+CHI:	a xxx .
+CHI:	eat .
+MOT:	the baby's head .
+MOT:	wanna show the kids .
+MOT:	what's the mother on the bus say ?
+MOT:	take one .
+MOT:	on my head .
+CHI:	monsters .
+MOT:	you wanna put another one in ?
+CHI:	xxx .
+MOT:	where did Donna and Michael go ?
+MOT:	how come you don't ever wear Billy's shoes ?
+MOT:	let it go for a second .
+CHI:	Helen .
+MOT:	did you eat lunch in school today ?
+MOT:	you got to let it open .
+MOT:	Mcdonalds huh [/?] .
+MOT:	ready , go .
+MOT:	huh [/?] ?
+MOT:	put your hands out to catch .
+CHI:	mouse .
+CHI:	xxx .
+MOT:	medicine ?
+MOT:	not o@l [/?] .
+CHI:	<gobble gobble gobble> [/?] .
+CHI:	eat .
+MOT:	is that what it says ?
+MOT:	what's in here ?
+MOT:	an army car .
+MOT:	well , who says it ?
+MOT:	horse .
+CHI:	o@l [/?] .
+MOT:	a walrus .
+MOT:	what kind of car is this ?
+MOT:	come to the phone .
+CHI:	four [/?] .
+MOT:	under .
+MOT:	don't eat it .
+CHI:	no .
+MOT:	let's look and see what happens .
+MOT:	what's that ?
+MOT:	now how many ?
+CHI:	boat .
+MOT:	what did you have ?
+MOT:	you want some cake ?
+CHI:	Mcdonalds .
+CHI:	cookies !
+MOT:	head , yeah .
+CHI:	hello daddy .
+MOT:	no , what's this ?
+CHI:	potato chips .
+CHI:	moo [/?] .
+CHI:	Grover .
+MOT:	hey [/?] , you can put these in the tub later .
+MOT:	watch it .
+MOT:	Robert john .
+MOT:	ready +/.
+MOT:	not yet .
+MOT:	Ernie's car .
+MOT:	wouldn't that be nice if there was a blue van ?
+MOT:	you want me to get some water ?
+MOT:	mama get some water , okay ?
+MOT:	look it .
+MOT:	and what's this called ?
+MOT:	what is this picture ?
+MOT:	did you eat lunch in school ?
+MOT:	here I go .
+MOT:	what color's this one ?
+MOT:	you wanna do another one ?
+MOT:	oh , let's watch .
+MOT:	horsie .
+MOT:	and who's this ?
+MOT:	what color ones do you wanna do ?
+CHI:	<shut your mouth> [/?] .
+MOT:	<what do you> [/?] what do you eat at Mcdonalds ?
+MOT:	look at that .
+MOT:	you don't know ?
+CHI:	momma , xxx get them .
+MOT:	pretty good .
+MOT:	rrr [/?] .
+MOT:	no , not yet .
+MOT:	what's a bird say ?
+CHI:	yellow .
+MOT:	behind .
+MOT:	come here .
+MOT:	what color is that one there ?
+MOT:	jump on Billy's nose ?
+MOT:	what happened ?
+CHI:	xxx medicine .
+CHI:	presents .
+MOT:	chips ?
+CHI:	yeah , eat .
+MOT:	<shut your mouth> [/?] .
+MOT:	so , Billy , Billy .
+MOT:	yes you do know .
+MOT:	ahhah [/?] this is where the sponge is .
+MOT:	look at this .
+MOT:	no says <shut your mouth> [/?] .
+MOT:	I can't find your +/.
+CHI:	yeah .
+CHI:	two .
+MOT:	later .
+CHI:	goat .
+MOT:	what is it , though ?
+MOT:	listen .
+MOT:	do you go swimming with john tomorrow ?
+CHI:	break it .
+CHI:	a cow .
+MOT:	let it go .
+MOT:	who's this guy ?
+CHI:	a truck .
+MOT:	let it go .
+CHI:	go !
+MOT:	it's a cherry .
+MOT:	hot .
+CHI:	hohoho [/?] .
+MOT:	what's that ?
+MOT:	one [/?] +/.
+MOT:	should we tell Diane , Cheryl looks like a mouse ?
+CHI:	a bus .
+CHI:	right there .
+MOT:	e@l [/?] .
+CHI:	blue .
+CHI:	yeah .
+CHI:	pictures .
+MOT:	you going home ?
+MOT:	how about if we play with these later in the tub ?
+CHI:	talk daddy .
+MOT:	<the mother on the bus says> [/?] +/.
+MOT:	c@l [/?] .
+CHI:	huh [/?] ?
+MOT:	what kind ?
+MOT:	huh [/?] ?
+CHI:	ohoh [/?] .
+CHI:	xxx .
+CHI:	eat &s [/?] .
+MOT:	oh , I'll go get the car .
+MOT:	you can't eat this .
+MOT:	a snakes goes sss [/?] .
+MOT:	a truck .
+MOT:	daddy's blue van .
+CHI:	orange .
+MOT:	what's this called ?
+CHI:	<gobble gobble> [/?] .
+MOT:	I don't know if there's any +/.
+MOT:	where's your elbow ?
+CHI:	a truck .
+CHI:	Helen .
+MOT:	that's cheese .
+MOT:	<let's> [/?] do you wanna play with the car while we're waiting ?
+CHI:	a cherry .
+MOT:	blue ?
+MOT:	e@l [/?] .
+MOT:	oh , alright I'll get the cake out .
+CHI:	get the chips .
+MOT:	is that a song you sing in school ?
+MOT:	it's a mouse .
+CHI:	yeah xxx .
+MOT:	what's that ?
+MOT:	a mouse .
+CHI:	Grover .
+CHI:	there it goes .
+MOT:	alright , what color ?
+CHI:	<one , two , three> [/?] go .
+MOT:	<the wheels on the bus go> [/?] +/.
+MOT:	yellow .
+MOT:	there it goes .
+MOT:	almost .
+MOT:	make the monster do kisses .
+MOT:	whoa [/?] you missed .
+MOT:	it must be in Kristian's room .
+MOT:	do you wanna play with these in the tub later ?
+MOT:	look .
+CHI:	<yum , yum> [/?] .
+MOT:	okay .
+MOT:	Billy do ?
+MOT:	make him jump .
+MOT:	count .
+MOT:	<jingle bells , jingle bells , jingle> [/?] +/.
+MOT:	no , look at it again .
+MOT:	go get the yellow one over there .
+CHI:	xxx .
+MOT:	to each_other .
+MOT:	okay .
+MOT:	I'll find it .
+CHI:	put it water .
+MOT:	what's it going to do ?
+CHI:	baby .
+MOT:	I didn't hear what you said .
+MOT:	go ahead .
+CHI:	Santa_Claus .
+MOT:	you wanna play with Big_Bird now ?
+CHI:	a what ?
+CHI:	hamburgers .
+MOT:	Billy ?
+MOT:	I don't know what you're saying .
+MOT:	oh , you found that these things break then move in five thousand
+MOT:	you tell me what this is ?
+MOT:	b@l [/?] .
+MOT:	what's this called ?
+MOT:	let me show you how it goes .
+MOT:	oh , look_it .
+MOT:	is that blue ?
+CHI:	it gonna go .
+MOT:	what color's that ?
+CHI:	blue .
+MOT:	what's that ?
+CHI:	wet ?
+MOT:	there's a truck .
+MOT:	<one , two , three , four , five> [/?] go !
+CHI:	hohoho [/?] .
+MOT:	gonna make some supper .
+CHI:	there it goes .
+CHI:	there .
+MOT:	what's that ?
+MOT:	I found it .
+CHI:	there it goes .
+CHI:	ow [/?] !
+CHI:	and Bert [/?] Bernie .
+CHI:	water .
+CHI:	<three , one , three> [/?] .
+MOT:	get the yellow one .
+MOT:	look_it .
+MOT:	what did Miss_Mccaugin have ?
+MOT:	open it ?
+MOT:	how about +/.
+MOT:	yeah .
+MOT:	look what I just found under your feet .
+MOT:	that's a boat yeah .
+MOT:	look at the blue one .
+MOT:	what ?
+CHI:	it a plane .
+CHI:	<jingle all way> [/?] .
+MOT:	we're gonna look at the pictures .
+MOT:	seven [/?] .
+CHI:	a bowl .
+MOT:	which color ?
+MOT:	daddy yeah .
+MOT:	don't put it in your mouth .
+CHI:	truck .
+MOT:	here comes the yellow one .
+MOT:	you wanna make something with the legos when these all finish ?
+CHI:	ready +/.
+MOT:	watch what happens .
+MOT:	you wanna play with these in the tub ?
+CHI:	what is it ?
+MOT:	gonna show Michael and Donna when they come home ?
+MOT:	you're not even paying attention .
+CHI:	xxx .
+CHI:	eat .
+CHI:	I got one more .
+CHI:	jingle bells .
+MOT:	you wanna watch it ?
+CHI:	<three , four , five , three> [/?] .
+CHI:	yeah .
+CHI:	time to go in truck .
+CHI:	<round and round> [/?] .
+CHI:	more .
+MOT:	yeah .
+MOT:	does Cheryl look like a mouse ?
+MOT:	watch .
+CHI:	xxx .
+MOT:	yey .
+MOT:	is he gonna come here and bring you some presents ?
+MOT:	cheese !
+CHI:	there it is .
+MOT:	almost .
+MOT:	let's see .
+MOT:	a birdie ?
+MOT:	wanna go swimming ?
+MOT:	don't stick it in my mouth .
+MOT:	okay .
+MOT:	<five different dinosaurs that grow in hot water> [/?] .
+MOT:	putting it together ?
+CHI:	yeah .
+MOT:	put it in .
+MOT:	what are you doing ?
+MOT:	I'm gonna put it in .
+CHI:	blue .
+MOT:	go into the parlor .
+CHI:	hohoho [/?] .
+CHI:	blue .
+MOT:	where's there an s@l [/?] ?
+MOT:	five [/?] .
+MOT:	who says that ?
+MOT:	do you wanna read the letters ?
+CHI:	I get it .
+MOT:	I know there's some more .
+CHI:	get the cake .
+MOT:	whoa [/?] what a big jump .
+MOT:	Billy ?
+MOT:	what are you doing ?
+MOT:	hot .
+MOT:	don't touch that ?
+MOT:	&-um [/?] a dinosaur .
+CHI:	bus .
+CHI:	&ba [/?] .
+CHI:	no !
+CHI:	yeah .
+MOT:	a what ?
+CHI:	mark +/.
+CHI:	hot .
+MOT:	yeah .
+MOT:	hey [/?] .
+MOT:	what do you eat ?
+MOT:	is he gonna bite my finger ?
+MOT:	orange , yeah .
+MOT:	this is Bernie [/?] Ernie .
+MOT:	but what color is it ?
+CHI:	Helen .
+MOT:	what was that ?
+CHI:	Grover .
+CHI:	yeah .
+MOT:	did you have hamburger today ?
+MOT:	let's count them in here .
+CHI:	good to eat .
+CHI:	Billy's socks .
+CHI:	okay .
+CHI:	there it go .
+CHI:	get a cookie .
+MOT:	jingle bells .
+MOT:	wrong one .
+CHI:	kids .
+MOT:	Bob ?
+MOT:	<what do> [/?] <the kids in the bus go> [/?] +/.
+CHI:	xxx .
+CHI:	it go eee [/?] .
+MOT:	Miss_Mccaugin , yeah .
+CHI:	there it goes again .
+CHI:	noney [/?] .
+CHI:	<shut your mouth> [/?] .
+CHI:	it a monster .
+CHI:	xxx .
+CHI:	cookie .
+CHI:	ho [/?] !
+MOT:	what's that ?
+MOT:	you know how to count , huh [/?] ?
+MOT:	see look at that .
+MOT:	come here .
+CHI:	meow [/?] .
+CHI:	open it ?
+MOT:	find some more pictures .
+MOT:	what ?
+MOT:	three [/?] .
+CHI:	bird .
+MOT:	oh , what's that ?
+MOT:	are you trying to hurry it along ?
+CHI:	bird .
+CHI:	yeah .
+MOT:	<not to me> [/?] not to me .
+MOT:	okay .
+MOT:	you eat food .
+CHI:	nice .
+CHI:	xxx .
+CHI:	look_it !
+MOT:	yeah .
+MOT:	put it together .
+CHI:	letters .
+CHI:	look !
+MOT:	I don't think he'll know what this one is .
+MOT:	hurts ?
+CHI:	I put in water .
+CHI:	walk .
+MOT:	no , what's the kitty's name ?
+MOT:	count .
+CHI:	a light .
+MOT:	red ?
+MOT:	let's count .
+CHI:	xxx .
+MOT:	you're being silly Robert .
+MOT:	you gonna play with that in the bath tub ?
+MOT:	are you comfortable ?
+MOT:	no , you can't eat it that .
+MOT:	I'll go get your car .
+MOT:	a plane , yeah .
+MOT:	oh , Bert .
+MOT:	what is it ?
+CHI:	bird ?
+MOT:	come here .
+CHI:	xxx .
+MOT:	what ?
+MOT:	what [/?] <the mother on the bus says> [/?] +/.
+MOT:	how many ?
+MOT:	the car .
+CHI:	a [/?] a cows .
+MOT:	you don't eat those .
+MOT:	whoa [/?] .
+MOT:	what's this ?
+MOT:	it's not gonna dissolve .
+MOT:	did you have a hamburger or a pizza ?
+MOT:	does Santa +/.
+MOT:	they fighting ?
+MOT:	what's this ?
+MOT:	h@l [/?] .
+CHI:	break .
+MOT:	okay ?
+MOT:	who says hohoho [/?] ?
+MOT:	is it funny ?
+MOT:	di [/?] +/.
+MOT:	you're breaking it .
+MOT:	and what's that called ?
+CHI:	walrus .
+MOT:	yeah .
+CHI:	hohoho [/?] .
+MOT:	one [/?] .
+CHI:	fire engine .
+MOT:	what ?
+MOT:	it dissolves .
+MOT:	look_it .
+CHI:	<one , two> [/?] go .
+MOT:	what ?
+CHI:	go !
+MOT:	but what's it called ?
+MOT:	<wait , wait> [/?] wait .
+MOT:	put them all in ?
+CHI:	&ba [/?] .
+MOT:	what is it ?
+MOT:	oh , on my head ?
+MOT:	what is that ?
+MOT:	what is it ?
+MOT:	say hello ?
+CHI:	a carrot .
+MOT:	<count , count> [/?] count .
+MOT:	you get it yourself .
+CHI:	car .
+CHI:	wawawa [/?] .
+CHI:	big bird .
+MOT:	okay .
+MOT:	it's cold ?
+MOT:	and who's this guy here ?
+CHI:	water .
+MOT:	what's this one her ?
+MOT:	who says that ?
+CHI:	a bowl .
+MOT:	you had french fries ?
+MOT:	nope .
+CHI:	break plane .
+MOT:	no , that monster won't hurt you .
+MOT:	is there a blue van in there ?
+MOT:	where are you going ?
+MOT:	what's this ?
+MOT:	you being a silly kid ?
+CHI:	hot .
+MOT:	okay .
+CHI:	what ?
+MOT:	<Bob , Bob , Bob> [/?] Bob .
+CHI:	orange .
+MOT:	one [/?] .
+CHI:	Bert .
+MOT:	what did you have for lunch ?
+MOT:	come here .
+MOT:	Bob ?
+MOT:	oh , come on .
+MOT:	<two , four> [/?] .
+MOT:	garbage .
+MOT:	is he gonna walk ?
+MOT:	they're all going .
+MOT:	here it goes .
+MOT:	let it finish .
+CHI:	I get a horse .
+MOT:	what's that ?
+MOT:	hohoho [/?] .
+MOT:	come on .
+CHI:	watch him .
+MOT:	that did ?
+MOT:	huh [/?] ?
+MOT:	do the wheels on the bus +/.
+CHI:	open it .
+MOT:	huh [/?] ?
+CHI:	Bert .
+MOT:	is that what it sounds like ?
+MOT:	what color ?
+MOT:	look at it .
+MOT:	blue ?
+MOT:	around , I'm sorry .
+MOT:	what's this ?
+MOT:	you're being silly .
+MOT:	Billy ?
+CHI:	xxx .
+MOT:	did he bite your finger ?
+CHI:	xxx .
+CHI:	e [/?] .
+MOT:	do you wanna do another one ?
+MOT:	it's closed now , yeah .
+CHI:	Big_Bird .
+CHI:	push .
+MOT:	what did you say ?
+CHI:	xxx .
+CHI:	<one , two> [/?] go .
+MOT:	chicken ?
+MOT:	orange , okay .
+MOT:	he's gonna cry !
+CHI:	back .
+MOT:	let's put two .
+MOT:	don't break the plane .
+CHI:	all_gone .
+MOT:	no , you don't eat .
+CHI:	<car , car , car , car> [/?] car .
+MOT:	oh , you wanna do the green ?
+MOT:	sit down .
+MOT:	blast off !
+MOT:	oh , pretty good .
+MOT:	is there two ?
+MOT:	no .
+CHI:	right there .
+MOT:	Billy , what color ?
+MOT:	do you want a new car ?
+MOT:	what's this ?
+MOT:	what is it ?
+MOT:	like hamburgers .
+MOT:	what's this ?
+MOT:	yeah .
+MOT:	they're <starting to> [/?] starting to melt .
+CHI:	I dunno [: don't know] .
+MOT:	squeeze it .
+MOT:	you got one more .
+MOT:	are we gonna have a turkey ?
+CHI:	truck .
+CHI:	light .
+CHI:	xxx say hohoho [/?] .
+MOT:	put it back in .
+MOT:	you hold this .
+CHI:	a bus ?
+MOT:	okay .
+MOT:	two [/?] .
+MOT:	now tell mama .
+CHI:	no .
+CHI:	not yet .
+MOT:	no , what did you have for lunch ?
+MOT:	can I make him .
+MOT:	hohoho [/?] ?
+CHI:	c@l [/?] .
+CHI:	oh , !
+CHI:	dinosaur .
+CHI:	Mcdonalds .
+CHI:	present open .
+MOT:	look at it .
+MOT:	lots_of +/.
+MOT:	what's your teacher's name ?
+MOT:	no <do , do , do , do , do> [/?] .
+MOT:	right here .
+MOT:	you're being silly .
+MOT:	we'll put them together .
+CHI:	blast off !
+MOT:	let me show you .
+MOT:	it's not a Cheryl .
+MOT:	Billy sing .
+CHI:	open this .
+CHI:	eat .
+CHI:	it a car .
+CHI:	<yap , yap , yap> [/?] .
+CHI:	xxx back .
+CHI:	eat .
+MOT:	yeah .
+CHI:	monster bite .
+MOT:	one [/?] .
+CHI:	<e , e , e , e> [/?] .
+CHI:	the head .
+CHI:	Cheryl .
+CHI:	put truck on head .
+MOT:	is there two ?
+CHI:	it Bert .
+MOT:	what are they doing ?
+CHI:	I get a car .
+CHI:	&ba [/?] .
+CHI:	xxx .
+CHI:	a truck .
+CHI:	yeah .
+MOT:	how many ?
+MOT:	no .
+MOT:	what do you want ?
+MOT:	what color is it ?
+MOT:	you wanna do another one ?
+MOT:	there goes the yellow one .
+MOT:	make him jump .
+MOT:	and who's this ?
+MOT:	hohoho [/?] .
+MOT:	let me show you .
+MOT:	<what do you want> [/?] what do you want for christmas ?
+MOT:	a@l [/?] .
+MOT:	you broke it .
+CHI:	a cards .
+MOT:	it's a carrot .
+MOT:	ow [/?] .
+MOT:	Robert john .
+CHI:	xxx .
+MOT:	oh , that's the back of the truck .
+MOT:	and what's this ?
+MOT:	what bird ?
+MOT:	what color ?
+CHI:	three [/?] .
+MOT:	you wanna open it ?
+MOT:	what's that ?
+MOT:	you give commands ?
+MOT:	look .
+MOT:	not a truck .
+MOT:	no <kids on the bus go> [/?] +/.
+MOT:	it's a frog .
+CHI:	army car .
+CHI:	xxx .
+CHI:	a truck .
+MOT:	go !
+MOT:	be nice .
+MOT:	put them all in ?
+CHI:	shell .
+CHI:	I count the car .
+CHI:	di [/?] +/.
+MOT:	Billy , what are they doing ?
+CHI:	cheese !
+MOT:	which one ?
+MOT:	oh , don't break him !
+MOT:	Billy ?
+MOT:	dissolve .
+MOT:	what color truck ?
+MOT:	what comes next ?
+MOT:	a car .
+CHI:	ow [/?] .
+MOT:	what says that ?
+MOT:	baby go wawawa [/?] .
+MOT:	what's this ?
+MOT:	it's starting to go .
+MOT:	I guess it's a truck .
+MOT:	<gobble gobble> [/?] .
+MOT:	he's in here someplace .
+CHI:	hohoho [/?] .
+MOT:	oh , there it goes .
+CHI:	seven [/?] .
+MOT:	can I make him .
+MOT:	no ?
+MOT:	that's what a plane does .
+MOT:	no , pick it up and say hello .
+MOT:	we're back .
+CHI:	that a boat .
+MOT:	Billy ?
+CHI:	sss [/?] .
+MOT:	hey [/?] , Billy look .
+MOT:	went down your elbow ?
+MOT:	<oh , jingle all the way> [/?] .
+CHI:	mom more !
+MOT:	mommy more .
+MOT:	I think that's cookie .
+MOT:	what do you want for supper ?
+CHI:	ball .
+MOT:	what do you eat at Mcdonalds ?
+CHI:	solve [/?] .
+CHI:	Diane .
+CHI:	I got xxx .
+MOT:	let's see if we can find +/.
+MOT:	two [/?] .
+CHI:	turn around .
+CHI:	I got a car .
+CHI:	yeah .
+CHI:	jingle bells .
+MOT:	you are silly today .
+MOT:	yeah ?
+MOT:	there it goes .
+MOT:	you gotta watch it for a few more minutes .
+CHI:	Bernie .
+MOT:	cake .
+MOT:	<jingle bells , jingle bells> [/?] +/.
+CHI:	mark get set .
+MOT:	listen to the noise .
+MOT:	what's that ?
+CHI:	here it come .
+CHI:	hot .
+CHI:	hurt .
+MOT:	well not really .
+CHI:	look at it .
+CHI:	there it goes .
+MOT:	they fit together .
+CHI:	<one , two , three , four> [/?] yeah !
+CHI:	xxx .
+CHI:	be right back .
+CHI:	a goat .
+MOT:	what color's this one ?
+MOT:	if we can find her .
+CHI:	horse .
+CHI:	hohoho [/?] .
+MOT:	push ?
+CHI:	<three , four , xxx> [/?] go !
+CHI:	monster .
+MOT:	and who's this ?
+MOT:	I'm watching this one Bob .
+MOT:	it's not Bernie .
+CHI:	a truck .
+MOT:	what's this ?
+MOT:	not light .
+CHI:	put in more ?
+MOT:	there's a picture of chips here , Billy ?
+MOT:	you dropped it .
+CHI:	yep .
+MOT:	who says hohoho [/?] .
+MOT:	you mean it says hohoho [/?] ?
+MOT:	kids .
+CHI:	okay .
+CHI:	there it goes .
+CHI:	yeah .
+CHI:	up .
+CHI:	turkey .
+MOT:	is it a flower ?
+MOT:	ready .
+MOT:	listen .
+CHI:	talk daddy .
+MOT:	what's your teacher's name ?
+MOT:	okay ?
+CHI:	<round and round> [/?] .
+MOT:	no .
+MOT:	let's pull it out and see what it is .
+CHI:	Santa_Claus .
+CHI:	look .
+MOT:	oops [/?] who's this guy ?
+MOT:	I should have got a bigger bowl .
+CHI:	momma , more .
+CHI:	here it goes .
+CHI:	mommy .
+MOT:	you don't care do you ?
+MOT:	a ball , yeah .
+MOT:	that's not a good picture of a frog .
+MOT:	you want me to get some water ?
+MOT:	there it is .
+MOT:	yeah .
+CHI:	okay .
+MOT:	one [/?] .
+MOT:	watch that ?
+MOT:	are you gonna put the truck on the monster ?
+CHI:	and Bert .
+MOT:	what's a turkey say ?
+MOT:	leave [/?] leave it in there .
+MOT:	all_gone ?
+CHI:	right there chips .
+MOT:	play with these in the tub tonight .
+MOT:	<yap , yap , yap> [/?] .
+MOT:	hohoho [/?] .
+CHI:	xxx turkey .
+CHI:	b@l [/?] .
+MOT:	Billy ?
+MOT:	you're getting everything good and wet .
+CHI:	a monster .
+MOT:	what is this ?
+CHI:	sss [/?] .
+CHI:	yeah .
+MOT:	it's going to go in a minute .
+MOT:	Bob ?
+MOT:	what is that ?
+CHI:	green .
+CHI:	watch this .
+MOT:	whoops [/?] .
+MOT:	oh , you wanna get some hot water and do this ?
+MOT:	no , it's butterfly flower .
+MOT:	stand up like that .
+MOT:	<let it> [/?] let it finish .
+MOT:	you say please .
+MOT:	it's almost .
+MOT:	Robert john .
+MOT:	it's a bus .
+MOT:	it's gonna dissolve .
+MOT:	hot , I know .
+MOT:	what color ?
+CHI:	blue van .
+MOT:	it's a horse .
+MOT:	huh [/?] ?
+MOT:	does Santa_Claus say hohoho [/?] ?
+MOT:	hohoho [/?] .
+MOT:	I know .

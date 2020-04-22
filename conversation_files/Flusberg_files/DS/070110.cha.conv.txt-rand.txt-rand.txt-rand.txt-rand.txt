@@ -1,0 +1,1456 @@
+participant	content
+MOT:	hi .
+CHI:	mama .
+CHI:	go ahead .
+MOT:	Ernie .
+CHI:	hello .
+MOT:	bye .
+CHI:	yeah .
+MOT:	no , that's a lady doctor .
+MOT:	tell me , Billy , what's this ?
+CHI:	fine .
+MOT:	ahaha [/?] <ow ow ow ow ow> [/?] !
+CHI:	wash his hands .
+MOT:	books .
+CHI:	want puppet .
+MOT:	b@l [/?] to b@l [/?] .
+CHI:	<on a sunny day> [/?] .
+CHI:	b@l [/?] for Bob mom .
+CHI:	no .
+CHI:	yeah .
+MOT:	oh , that's pretty .
+MOT:	no , that's the doctor .
+MOT:	hello .
+CHI:	night .
+MOT:	alright , let's say the colors .
+CHI:	o@l [/?] .
+CHI:	mama , almost done .
+MOT:	okay , you are getting a cold , aren't you ?
+MOT:	dada [/?] .
+CHI:	hello .
+MOT:	what do you want me to do , go up and down like this ?
+MOT:	where's the other o@l [/?] ?
+MOT:	a nose .
+MOT:	we're getting a new car .
+MOT:	three , four , five .
+CHI:	b@l [/?] .
+MOT:	he's got a picture .
+CHI:	bye .
+CHI:	where Big_Bird at ?
+MOT:	Billy funny ?
+MOT:	were [/?] you a good boy in school today ?
+MOT:	look at all these .
+MOT:	oh , what do you want ?
+MOT:	okay .
+MOT:	what's the matter ?
+MOT:	want me do ?
+MOT:	okay , what do you wanna make ?
+MOT:	you wanna get a tissue +/.
+CHI:	mama !
+CHI:	no .
+MOT:	here's daddy .
+MOT:	tell Helen ?
+MOT:	you can make another &fa +/.
+MOT:	some soup .
+CHI:	wanna ride , mama .
+CHI:	na@b [/?] !
+CHI:	here's toast .
+CHI:	na@b [/?] .
+CHI:	Grover cry .
+MOT:	<come here , come here> [/?] come here .
+CHI:	<a bababa> [/?] .
+MOT:	this one .
+MOT:	don't spit all over the page .
+MOT:	what happened ?
+MOT:	making it nice and clean +/.
+CHI:	na@b [/?] .
+CHI:	ooo [/?] .
+CHI:	oh , .
+MOT:	&mm [/?] delicious .
+MOT:	yeah .
+MOT:	b@l [/?] ?
+MOT:	in the bag ?
+CHI:	mommy .
+MOT:	where's the other y@l ?
+MOT:	it's a +/.
+MOT:	see you later .
+CHI:	Lisa .
+MOT:	get your jacket ?
+MOT:	can you be serious ?
+MOT:	come on , you know all your colors .
+MOT:	bye .
+MOT:	get up .
+CHI:	look what do you see ?
+CHI:	yes , we did it .
+MOT:	who's on the bus ?
+CHI:	b@l [/?] yes .
+MOT:	Big_Bird's all_gone .
+CHI:	Helen , Helen .
+MOT:	what's Lisa doing ?
+CHI:	xxx Oscar .
+CHI:	okay .
+CHI:	a@l [/?] .
+MOT:	do you have a silly new bus+driver ?
+MOT:	I'll show you how to make a b@l .
+CHI:	yeah .
+CHI:	lady doctor .
+CHI:	drink your milk .
+MOT:	ah [/?] .
+MOT:	seeyounextweek [/?] .
+CHI:	Ma , I gonna color .
+MOT:	<the end of the tour> [/?] .
+CHI:	a go foot .
+MOT:	what's the man doing ?
+MOT:	who's that ?
+MOT:	let's make a b@l [/?] +/.
+MOT:	pretty good .
+MOT:	guess who ?
+MOT:	oh , Bob !
+MOT:	oh , make Diane , okay .
+MOT:	I was gonna say +/.
+CHI:	open it .
+MOT:	see you later , alligator .
+MOT:	oh , don't cry .
+MOT:	here's the little window .
+MOT:	you ripped it .
+MOT:	Grover's crying ?
+MOT:	hi !
+MOT:	okay , we'll make a bag of chips .
+MOT:	okay .
+MOT:	okay , hurry up .
+MOT:	dada [/?] !
+CHI:	the end .
+CHI:	orange one .
+MOT:	oh , you got a loose tooth ?
+CHI:	yeah , turn a page first , yeah .
+CHI:	<Big_Bird xxx> [/?] .
+MOT:	let's make another picture .
+MOT:	you want one ?
+MOT:	crying face , huh [/?] ?
+MOT:	wanna shake hands ?
+MOT:	it tickles ?
+MOT:	okay .
+MOT:	who's this ?
+MOT:	a nurse , that's right .
+MOT:	what are those ?
+MOT:	he goes cry .
+CHI:	xxx eyes .
+MOT:	what does Lisa say ?
+CHI:	get .
+CHI:	d [/?] .
+MOT:	okay , thank you .
+CHI:	yeah .
+CHI:	yeah .
+CHI:	gonna cry .
+CHI:	a big wheels .
+MOT:	let me look at your nose .
+MOT:	hi .
+CHI:	gotta get the television .
+MOT:	yeah , little baby Lisa .
+MOT:	hi .
+CHI:	yeah .
+MOT:	you make the eyes .
+CHI:	alligator .
+MOT:	you_all done ?
+MOT:	oh , you wanna color ?
+MOT:	you want a puppet ?
+MOT:	this is +/.
+MOT:	no , not on my face .
+MOT:	alright .
+CHI:	okay .
+CHI:	orange one .
+CHI:	xxx y@l [/?] .
+CHI:	bye .
+MOT:	don't write on the couch .
+CHI:	please .
+MOT:	christmas , yeah .
+CHI:	there's daddy's blue van .
+CHI:	go ahead .
+CHI:	xxx .
+CHI:	who's this ?
+MOT:	listen , why don't you sit down .
+CHI:	see you later .
+MOT:	what's this right there ?
+CHI:	fire+engine .
+CHI:	a car .
+MOT:	some'll be in the bed next to you .
+MOT:	in school .
+MOT:	what else have I got to make ?
+CHI:	no .
+MOT:	wanna make another picture ?
+MOT:	get it clean .
+MOT:	do nice , you hear me ?
+MOT:	where's the soup ?
+CHI:	welcome .
+MOT:	chips .
+CHI:	transmission .
+MOT:	wanna do another one ?
+MOT:	can he see ?
+MOT:	bye .
+MOT:	<go ahead> [/?] go ahead .
+CHI:	oops [/?] .
+CHI:	hey [/?] hey .
+MOT:	here's the handle .
+MOT:	can you do that ?
+MOT:	did you get happy faces ?
+MOT:	we'll go get them in a little while , okay ?
+MOT:	on this side .
+MOT:	you fell .
+MOT:	well , you show me what you want .
+MOT:	now , you give this to Diane and she'll put it on the refrigerator
+MOT:	wrong way .
+MOT:	what's that ?
+CHI:	yeah .
+MOT:	what's he drawing ?
+MOT:	we go up the stairs , okay ?
+MOT:	I'm making a car .
+CHI:	real hot .
+CHI:	mama .
+MOT:	what are you eating ?
+CHI:	wanna color with the book ?
+CHI:	dance .
+CHI:	it dirty .
+MOT:	<and gover was worried> [/?] .
+MOT:	okay .
+MOT:	yeah ?
+CHI:	xxx .
+MOT:	almost done .
+CHI:	I'll spell it <c@l , h@l , I@l , p@l , s@l> [/?] .
+CHI:	xxx .
+MOT:	yeah .
+MOT:	what's he gonna do ?
+MOT:	what's this right here ?
+CHI:	a [/?] a gas .
+MOT:	okay .
+CHI:	good boy .
+CHI:	hey [/?] .
+CHI:	driving the blue +/.
+MOT:	which one do you want ?
+CHI:	no , b@l [/?] .
+CHI:	go ear ?
+MOT:	I don't know what you want .
+CHI:	it's a nurse .
+CHI:	<b@l , y@l , b@l , o@l , b@l , three , four , five , six> [/?] .
+CHI:	don't cry .
+MOT:	what's a matter ?
+MOT:	&mm [/?] .
+MOT:	make a circle .
+CHI:	yeah .
+MOT:	let me see .
+MOT:	yeah .
+CHI:	xxx .
+MOT:	<here's the> [/?] I'll draw the steering+wheel .
+MOT:	transmission ?
+MOT:	dada@o .
+CHI:	orange .
+CHI:	Ma , you want soup ?
+CHI:	yeah .
+MOT:	hi !
+MOT:	there's another one .
+CHI:	ah [/?] !
+CHI:	yeah .
+CHI:	na@b [/?] .
+MOT:	what's this ?
+CHI:	orange one .
+MOT:	oh , a dash ?
+MOT:	look what we dropped .
+CHI:	tacos .
+MOT:	what's that song ?
+MOT:	you know how you do in school , you draw lines .
+CHI:	who is it ?
+CHI:	open it up .
+CHI:	xxx my mama .
+MOT:	I to one ?
+CHI:	ice+cream !
+MOT:	it's on for life .
+MOT:	you telling secrets ?
+MOT:	Billy didn't go hospital ?
+MOT:	yeah .
+CHI:	have soup .
+CHI:	yeah .
+CHI:	I cooking .
+CHI:	b@l [/?] b@l [/?] .
+MOT:	oh „ got a fever .
+MOT:	gonna put Grover in the hospital ?
+CHI:	hi xxx .
+CHI:	yeah .
+MOT:	go up the stairs .
+CHI:	yep .
+MOT:	markers .
+CHI:	that one .
+CHI:	dada [/?] .
+CHI:	circle .
+MOT:	what a pretty picture !
+MOT:	hi .
+CHI:	<home home> [/?] home !
+CHI:	Lisa .
+CHI:	Helen face .
+CHI:	almost done .
+MOT:	yeah .
+CHI:	yeah xxx floor .
+MOT:	what's he doing with the water ?
+MOT:	what's that ?
+MOT:	hi .
+CHI:	no .
+MOT:	it's a Billy movie .
+MOT:	<come here , come here> [/?] come here .
+MOT:	Oscar .
+MOT:	okay .
+MOT:	dad ?
+MOT:	okay , put the cover on .
+CHI:	don't cry .
+MOT:	hi .
+CHI:	yeah .
+CHI:	<hi , hi , hi , hi , hi , hi , hi> [/?] hi .
+CHI:	mom , want open .
+MOT:	I'll play .
+CHI:	right there .
+MOT:	transition ?
+CHI:	xxx .
+CHI:	na@b [/?] .
+CHI:	want juice ?
+MOT:	okay .
+MOT:	what happened ?
+CHI:	I rip it .
+MOT:	happy face ?
+MOT:	alright .
+MOT:	this is Diane's picture .
+MOT:	y@l [/?] to y@l [/?] .
+MOT:	oh , I'm sorry .
+MOT:	make the mouth .
+MOT:	wanna make a blue van ?
+MOT:	okay , now .
+CHI:	Billy movie .
+CHI:	in .
+CHI:	yeah .
+MOT:	that's pretty good !
+CHI:	thanks .
+MOT:	huh [/?] a foot ?
+MOT:	can I have some milk ?
+MOT:	b@l [/?] you get three <b-s> [/?] in your name .
+MOT:	why ?
+CHI:	okay .
+MOT:	oop [/?] what's the doctor doing ?
+CHI:	a head .
+CHI:	two [/?] .
+MOT:	oh , look what I found .
+CHI:	yeah .
+MOT:	daddy's blue van !
+MOT:	a bracelet ?
+CHI:	yeah .
+CHI:	go with john and Marie .
+MOT:	don't bite .
+CHI:	no .
+MOT:	make a picture of daddy .
+MOT:	alright , do nice .
+MOT:	make the eyes .
+CHI:	yeah .
+MOT:	alright , I'll show you .
+CHI:	I fell .
+MOT:	me write Diane's name on it .
+MOT:	okay .
+CHI:	car .
+MOT:	n@l [/?] .
+CHI:	Helen face .
+CHI:	xxx .
+MOT:	your school+bag's at home ?
+MOT:	okay .
+MOT:	okay ?
+MOT:	and what's that ?
+MOT:	Ernie .
+MOT:	there's Grover , right there .
+CHI:	I got water .
+MOT:	home ?
+MOT:	oh , you can't see ?
+CHI:	ear .
+CHI:	you're welcome .
+CHI:	sick !
+CHI:	you go bag .
+MOT:	you gonna get one ?
+MOT:	and here's all the potato chips sticking out_of it .
+MOT:	<b@l o@l> [/?] +/.
+CHI:	na@b [/?] .
+CHI:	no , crackers .
+CHI:	yeah .
+CHI:	it go wash .
+CHI:	paper .
+MOT:	read the story ?
+MOT:	it's hot ?
+CHI:	hi [/?] hi , bye .
+MOT:	where's the other o@l [/?] ?
+CHI:	Big_Bird .
+CHI:	hi !
+MOT:	bye .
+MOT:	okay .
+MOT:	can you do another one too ?
+MOT:	we don't color on library books .
+MOT:	what ?
+MOT:	it's a balloon .
+MOT:	okay , come here .
+MOT:	those are the wheels .
+CHI:	want toast ?
+MOT:	alright .
+MOT:	yeah .
+MOT:	who's crying ?
+MOT:	push it off .
+CHI:	up the stairs .
+MOT:	the end .
+CHI:	okay .
+MOT:	but I don't know what's in here .
+MOT:	are you +/.
+CHI:	yeah .
+CHI:	chips .
+MOT:	this is the hospital .
+CHI:	doctor .
+CHI:	hi .
+CHI:	gonna bite .
+MOT:	we're gonna have a +/.
+CHI:	hello .
+MOT:	they're all cleaned up , okay ?
+MOT:	oh , you ripped it ?
+MOT:	no , don't put it on your fingers , because you get all dirty .
+MOT:	yeah .
+CHI:	they fell out .
+CHI:	hit .
+CHI:	yeah .
+CHI:	okay .
+MOT:	Billy ?
+MOT:	<now Grover's doctor looks in Grover's throat and says , gotta get
+MOT:	we don't have much stuff left .
+MOT:	I see blocks .
+MOT:	let me fix it .
+MOT:	what are you doing ?
+CHI:	yeah .
+MOT:	let me read you the book about Grover_goes_to_hostpital .
+CHI:	it really tickles .
+CHI:	ah [/?] .
+MOT:	you make a loud +/.
+MOT:	wanna make another picture ?
+CHI:	mommy !
+MOT:	no , that's a record player .
+MOT:	a hospital bracelet ?
+MOT:	yey [/?] !
+CHI:	no head .
+MOT:	are you gonna have a toy room when you go ?
+MOT:	wanna make a picture of Lisa ?
+CHI:	okay .
+MOT:	don't want it ?
+CHI:	what ?
+MOT:	like that ?
+MOT:	wanna go golf +/.
+CHI:	who is that ?
+MOT:	I don't understand .
+MOT:	a movie .
+MOT:	what ?
+MOT:	no ?
+MOT:	you gotta be serious .
+MOT:	how are you ?
+MOT:	okay , is she waking up ?
+CHI:	did you hear me ?
+MOT:	okay , come here .
+MOT:	okay .
+CHI:	orange one .
+MOT:	huh [/?] ?
+MOT:	mommy .
+MOT:	that's beautiful !
+MOT:	<b@l , o@l , b@l> [/?] +/.
+MOT:	do you feel the breeze ?
+MOT:	well , you show me b@l [/?] b@l [/?] .
+CHI:	Grover .
+CHI:	Helen .
+MOT:	here I come .
+MOT:	but I wanna see my little guy !
+CHI:	the lights .
+CHI:	bye .
+MOT:	what's the magic word ?
+CHI:	s@l [/?] .
+MOT:	some soup ?
+CHI:	yeah .
+CHI:	bucket .
+MOT:	what ?
+MOT:	now b@l [/?] to +/.
+CHI:	I +/.
+MOT:	don't rip the pictures .
+MOT:	okay [/?] okay .
+CHI:	yeah .
+MOT:	no , I'm not crazy .
+MOT:	one two ready set go .
+MOT:	bye .
+MOT:	okay .
+MOT:	huh [/?] ?
+CHI:	I know +/.
+CHI:	get blue van .
+CHI:	here you go toast .
+CHI:	Helen watch .
+CHI:	hospital .
+MOT:	you gonna go get it ?
+CHI:	right here .
+MOT:	want me to do it ?
+MOT:	turn the page .
+MOT:	does that look like little baby Lisa ?
+MOT:	there's the lights .
+MOT:	we can buy a new one ?
+MOT:	yeah .
+CHI:	daddy !
+MOT:	want me to go get the Grover book ?
+CHI:	happy face .
+CHI:	ah [/?] .
+CHI:	kiss it .
+CHI:	no .
+CHI:	boo_boo face .
+MOT:	what's for breakfast ?
+MOT:	did Diane take it ?
+MOT:	wanna go up the stairs again ?
+MOT:	okay .
+MOT:	we got hardly anything left of this .
+MOT:	this is +/.
+MOT:	Billy , I'm talking to you .
+MOT:	nice and clean .
+MOT:	thank you for the bologna and cheese .
+CHI:	orange one .
+CHI:	okay .
+CHI:	breakfast is all_gone .
+MOT:	hi !
+MOT:	a fire+engine .
+CHI:	make cry .
+MOT:	what's so funny ?
+MOT:	good boy , yeah .
+MOT:	you wanna do one ?
+CHI:	na@b [/?] .
+MOT:	come on .
+MOT:	what do you want for supper ?
+CHI:	a stuck .
+MOT:	listen , let's make it on the paper .
+MOT:	paper , yeah .
+MOT:	what's that ?
+CHI:	you shut the door .
+MOT:	okay .
+MOT:	Grover_goes_to_the_hospital ?
+CHI:	no .
+MOT:	<Grover's sick> [/?] .
+MOT:	oh , put some shoes on him ?
+MOT:	good_night .
+MOT:	okay .
+CHI:	good [/?] good color .
+CHI:	no .
+MOT:	no [/?] no , that's a library book .
+CHI:	pink .
+MOT:	ready set go .
+CHI:	yes .
+CHI:	yeah .
+MOT:	oh , almost out !
+CHI:	that's a nurse .
+MOT:	how are you ?
+MOT:	any more ?
+MOT:	do you say , good morning , Mrs_Lynch ?
+MOT:	who's this ?
+CHI:	no .
+MOT:	no [/?] no .
+MOT:	don't hit me .
+MOT:	draw the face .
+MOT:	what ?
+CHI:	xxx .
+CHI:	little baby Lisa .
+MOT:	there they are .
+MOT:	let's put the covers back on .
+MOT:	he's ticklish .
+CHI:	go .
+MOT:	I know it .
+CHI:	chip .
+MOT:	this is getting old here .
+MOT:	come here and sit on my lap .
+MOT:	am [/?] I crazy ?
+MOT:	okay , you take it off ?
+MOT:	and here's the little bag .
+CHI:	orange one .
+MOT:	<beep , beep> [/?] .
+MOT:	coke's all_gone ?
+MOT:	okay [/?] alright [/?] let me get the blue .
+MOT:	it's stuck ?
+CHI:	yeah , turn a page .
+MOT:	well , the blue van's broken .
+MOT:	how about o@l [/?] ?
+MOT:	you alright ?
+MOT:	okay .
+CHI:	you're cry .
+MOT:	that's a doctor .
+MOT:	oh , <he , he , he> [/?] .
+MOT:	you kill me , kid .
+CHI:	christmas .
+CHI:	Helen xxx .
+MOT:	that's a very good ear .
+MOT:	hi , dad !
+CHI:	yeah .
+MOT:	you know what I'll do ?
+CHI:	make a transmission .
+MOT:	what do you wanna make ?
+MOT:	very good .
+CHI:	my finger .
+CHI:	go ahead .
+CHI:	thank you .
+MOT:	dirty .
+MOT:	oh , Diane's crying ?
+CHI:	yeah .
+CHI:	mom .
+CHI:	I can't .
+CHI:	paper .
+MOT:	ooo [/?] little squares .
+CHI:	eggs .
+MOT:	thank you .
+MOT:	Chad's in the kitchen ?
+MOT:	<b@l , b@l> [/?] .
+MOT:	a feet +/.
+CHI:	b@l [/?] .
+MOT:	and guess what you get to eat afterwards ?
+MOT:	what do you want for supper ?
+MOT:	make a happy face ?
+CHI:	potato chips .
+MOT:	what ?
+MOT:	your bus+driver is getting you silly ?
+MOT:	what are those ?
+CHI:	bye .
+MOT:	did you go golfing ?
+MOT:	wanna turn the page ?
+MOT:	what happened ?
+CHI:	yeah .
+CHI:	got a fever .
+CHI:	na@b [/?] .
+CHI:	yeah , read story .
+MOT:	she's crying ?
+CHI:	yes .
+CHI:	wanna play .
+MOT:	okay .
+MOT:	get a new one .
+MOT:	three , four , five , six .
+CHI:	Helen .
+MOT:	purple .
+MOT:	who's that ?
+CHI:	waves .
+MOT:	can I have some pizza ?
+CHI:	no , cry .
+CHI:	seeyounextweek [/?] .
+MOT:	what else ?
+CHI:	what ?
+CHI:	a nurse .
+MOT:	you wanna make some eyes ?
+CHI:	Ernie ?
+MOT:	want me to ?
+CHI:	mama .
+MOT:	thank you .
+MOT:	delicious .
+CHI:	a go .
+MOT:	he can bring it to work .
+CHI:	yeah .
+CHI:	eyes .
+CHI:	out !
+MOT:	what's that ?
+MOT:	who's that ?
+CHI:	no , Ma .
+MOT:	he's taking +/.
+MOT:	did you get happy faces today ?
+MOT:	oh , Diane's crying ?
+MOT:	what's the doctor doing ?
+MOT:	dance ?
+MOT:	what are you doing ?
+CHI:	put the cover on .
+CHI:	ahead .
+MOT:	Lisa .
+MOT:	I'll make a picture of daddy .
+MOT:	what's his name ?
+CHI:	Helen face .
+CHI:	yeah .
+MOT:	you gonna make a happy face on my +/.
+MOT:	yeah ?
+MOT:	okay .
+MOT:	please .
+MOT:	you okay ?
+CHI:	home !
+CHI:	na@b [/?] !
+MOT:	do you say that ?
+CHI:	with feet .
+CHI:	orange one .
+CHI:	here [/?] here .
+CHI:	no , a nurse .
+MOT:	who's that ?
+CHI:	open .
+MOT:	happy face means a good boy , that's right .
+CHI:	mama !
+MOT:	want me to do ?
+CHI:	yeah , refrigerator .
+MOT:	what's so funny ?
+CHI:	yep .
+CHI:	yeah .
+CHI:	mom , <beep , beep> [/?] .
+MOT:	what ?
+CHI:	yeah .
+MOT:	ice+cream !
+CHI:	Grover .
+CHI:	draw a line .
+MOT:	it's Ernie .
+MOT:	his eyes .
+CHI:	his hair .
+MOT:	thank you .
+CHI:	take tonsils out .
+MOT:	wanna spell Billy ?
+CHI:	a gas .
+MOT:	those books and what's this again ?
+MOT:	what if I do it to you ?
+MOT:	his tonsils out .
+MOT:	you feel the breeze ?
+CHI:	yep .
+CHI:	close .
+CHI:	where xxx ?
+MOT:	turn the page ?
+MOT:	let's make a face .
+CHI:	no .
+CHI:	no , home !
+MOT:	oh , make a lines going this way ?
+CHI:	yeah .
+MOT:	you're gonna xxx in a big xxx +/.
+CHI:	&ba [/?] !
+MOT:	yeah , I'll have orange .
+MOT:	&mm [/?] wait , we gotta say ooo [/?] .
+MOT:	hi !
+CHI:	no gas .
+MOT:	do you wanna play with this ?
+MOT:	he's sleeping .
+CHI:	hospital bracelet .
+MOT:	let's give hugs .
+MOT:	no , look at it .
+MOT:	a nurse .
+CHI:	another line .
+CHI:	good .
+CHI:	Ma , turn a page .
+MOT:	don't do that .
+CHI:	yeah .
+MOT:	no that's +/.
+MOT:	and here's daddy .
+CHI:	Diane gonna cry .
+MOT:	hello .
+MOT:	wanna do another one ?
+MOT:	ready set go .
+CHI:	what's those ?
+MOT:	hello .
+CHI:	nose .
+CHI:	home !
+CHI:	okay .
+CHI:	like this .
+MOT:	now make some hair .
+MOT:	Ernie .
+MOT:	thank you .
+CHI:	yeah .
+MOT:	yey [/?] we did it !
+CHI:	<no , no , no> [/?] no .
+MOT:	hello .
+CHI:	I get it .
+MOT:	blow on it .
+MOT:	a mouth .
+CHI:	I dance .
+CHI:	<&ba &ba bum> [/?] .
+MOT:	don't tickle me .
+MOT:	<you'll be in the hospital for a few days , the doctor said> [/?] .
+CHI:	hey [/?] .
+CHI:	bologna cheese ?
+MOT:	do nice .
+MOT:	Robert_John .
+CHI:	no .
+MOT:	what happened ?
+MOT:	all_gone ?
+MOT:	wanna do another +/.
+CHI:	d@l [/?] .
+CHI:	no , don't .
+MOT:	one , two .
+MOT:	very good .
+MOT:	yeah .
+CHI:	mama .
+MOT:	Billy .
+CHI:	yes .
+CHI:	na@b [/?] !
+CHI:	I don't wanna eye .
+MOT:	yeah .
+MOT:	there's daddy's blue van .
+CHI:	Ma , look at happy face .
+CHI:	movie .
+MOT:	okay .
+MOT:	I think she's sleeping right now .
+MOT:	you want me to go get Grover_book ?
+CHI:	a gas .
+CHI:	Grover .
+MOT:	wanna look at the picture ?
+MOT:	we'll just throw it over there for now , okay ?
+CHI:	gonna cry .
+CHI:	make a lines .
+MOT:	<a line> [/?] put a line down +/.
+CHI:	orange one .
+MOT:	oh , that is excellent .
+CHI:	xxx .
+MOT:	yeah .
+MOT:	okay .
+MOT:	we haven't been able to find Big_Bird for a while , Billy .
+MOT:	got a story .
+MOT:	hi .
+MOT:	is it hot ?
+CHI:	no .
+MOT:	oh , who's going out with john tomorrow ?
+MOT:	let's make a blue +/.
+CHI:	look what he drawing .
+MOT:	wow [/?] who's that ?
+CHI:	xxx .
+MOT:	look_it , what's that ?
+CHI:	chips .
+CHI:	wanna go with daddy .
+CHI:	another picture .
+CHI:	home .
+MOT:	Ernie .
+MOT:	what's the man doing ?
+CHI:	crackers .
+MOT:	hurry up .
+MOT:	where's his eyes ?
+MOT:	you're silly .
+CHI:	here .
+CHI:	book !
+MOT:	no john ?
+MOT:	a foot sticking out_of his head ?
+MOT:	good , make a b@l [/?] .
+MOT:	n@l [/?] .
+MOT:	right ?
+CHI:	do it some more .
+CHI:	I rip it .
+CHI:	no .
+MOT:	let's go up the stairs again .
+CHI:	car .
+MOT:	okay .
+MOT:	do one on this side .
+MOT:	what else ?
+MOT:	b@l [/?] to +/.
+MOT:	all over .
+MOT:	no , where's the y@l ?
+CHI:	I can't .
+MOT:	okay .
+MOT:	like Billy got new blocks .
+CHI:	don't wanna .
+MOT:	wanna make another picture ?
+MOT:	what ?
+CHI:	yeah .
+MOT:	Grover's crying ?
+MOT:	I@l [/?] .
+MOT:	there's yours right there .
+CHI:	here's daddy .
+CHI:	momma where's mine ?
+MOT:	right there .
+MOT:	you want me to wash it ?
+MOT:	that means you &were [/?] weren't such a good boy .
+CHI:	watch out !
+CHI:	welcome .
+MOT:	hold up the pen .
+MOT:	can I have some breakfast ?
+CHI:	I@l [/?] .
+MOT:	what's that ?
+CHI:	want puppet .
+MOT:	no crumbs .
+CHI:	yeah .
+CHI:	yeah .
+CHI:	bologna and cheese .
+CHI:	wait a minute .
+CHI:	operating room .
+MOT:	you wait right here , okay ?
+MOT:	it was pretty good , huh [/?] ?
+MOT:	what ?
+CHI:	yeah .
+MOT:	let's put them back in the bag , okay ?
+MOT:	and she takes Grover's +/.
+CHI:	sick .
+CHI:	y@l [/?] .
+CHI:	yeah .
+CHI:	yeah .
+MOT:	let me make a blue van .
+CHI:	go put a xxx xxx foot .
+CHI:	another line .
+MOT:	Christopher's keys .
+CHI:	coke all_gone .
+MOT:	no .
+MOT:	what's this called ?
+CHI:	yes .
+MOT:	you wanna go with john and Marie ?
+CHI:	yeah .
+MOT:	oh , what do you say ?
+CHI:	gonna go to bed .
+MOT:	bye .
+MOT:	okay ?
+CHI:	get now .
+MOT:	you want the orange one ?
+CHI:	a window .
+MOT:	what's that ?
+MOT:	oh , you silly .
+CHI:	gonna go to bed .
+MOT:	want mama do ?
+MOT:	okay , now watch .
+CHI:	please .
+MOT:	look , one ear there +/.
+MOT:	and , where's the happy face ?
+MOT:	what's that ?
+CHI:	Grover [/?] Grover .
+MOT:	mmmm [/?] .
+MOT:	daddy's better than I am [/?] .
+MOT:	can you make a picture of daddy ?
+CHI:	here you go .
+MOT:	your book !
+MOT:	what's this ?
+MOT:	take it off .
+MOT:	Bob .
+CHI:	yeah .
+CHI:	door .
+CHI:	here , Helen .
+CHI:	I hate Grover doctor .
+MOT:	what do you say when you see Mrs_Lynch ?
+MOT:	a@l [/?] .
+MOT:	who's that ?
+CHI:	yeah , orange .
+MOT:	don't punch me .
+CHI:	right there !
+CHI:	up the stairs .
+CHI:	b@l [/?] .
+MOT:	let me fix it for you .
+MOT:	okay , that's a y@l [/?] .
+MOT:	hi .
+CHI:	where Big_Bird ?
+MOT:	o@l [/?] .
+MOT:	a number one ?
+MOT:	do we have a Billy movie ?
+MOT:	not a sick .
+MOT:	listen we gotta be serious .
+MOT:	okay .
+MOT:	ah [/?] what is the thing on his arm ?
+MOT:	okay .
+CHI:	mom , do it some more .
+MOT:	thank you .
+CHI:	no .
+MOT:	they had a toy room .
+MOT:	want me to give it a kiss ?
+MOT:	thank you .
+MOT:	I'm Oscar .
+MOT:	is he washing the floor ?
+MOT:	all better .
+MOT:	okay , what do you wanna make ?
+MOT:	<one , two> [/?] .
+MOT:	I want some coke .
+MOT:	what's for breakfast ?
+CHI:	good windows .
+CHI:	fine .
+MOT:	come here .
+MOT:	<tickle , tickle , tickle> [/?] .
+MOT:	very good .
+MOT:	oh , you're a nut .
+MOT:	I'll make the circle .
+CHI:	yeah .
+CHI:	yeah .
+CHI:	I go get a jacket , okay ?
+MOT:	okay .
+MOT:	see ?
+MOT:	okay , make some eyes ?
+CHI:	good boy .
+CHI:	Ernie .
+MOT:	okay .
+CHI:	Grover .
+CHI:	mama , I wanna make a mama !
+MOT:	why ?
+MOT:	what's the kid doing ?
+MOT:	okay , here's his arms , okay ?
+MOT:	it's Helen's face ?
+CHI:	watch .
+MOT:	fine ?
+MOT:	I want bologna and cheese .
+MOT:	go get it .
+MOT:	the happy face to the happy face .
+MOT:	draw a circle .
+CHI:	I got happy face .
+CHI:	here , mom .
+MOT:	hi !
+CHI:	do it again .
+MOT:	okay .
+MOT:	yeah .
+MOT:	on your head ?
+MOT:	byebye .
+CHI:	a@l [/?] .
+MOT:	you show me , I don't know what you want me to do .
+MOT:	there's the window .
+CHI:	handle .
+CHI:	&mm [/?] byebye .
+CHI:	a nurse .
+MOT:	what's the matter ?
+MOT:	okay .
+MOT:	make some ears .
+MOT:	b@l [/?] !
+CHI:	read story .
+CHI:	what ?
+CHI:	another line .
+MOT:	yes it is .
+CHI:	do you have a Billy movie ?
+MOT:	&mm [/?] are they good ?
+MOT:	hospital , yeah .
+CHI:	no .
+CHI:	what do you see ?
+CHI:	yeah .
+CHI:	you want orange ?
+CHI:	I want some juice .
+MOT:	yes .
+CHI:	golf .
+CHI:	Diane cry .
+CHI:	get you toast .
+MOT:	this is what you're gonna be in , a bed with all the kids , huh
+MOT:	make an ear .
+CHI:	nah [/?] .
+CHI:	what ?
+CHI:	where Big_Bird ?
+CHI:	wait a minute .
+CHI:	<sick sick> [/?] sick .
+MOT:	Big_Bird's all_gone .
+MOT:	what do you eat for breakfast ?
+MOT:	oh , it's a nurse .
+MOT:	ooo [/?] .
+MOT:	I messed that up .
+MOT:	oh , Billy's rough+housing .
+MOT:	<this is the gift shop> [/?] .
+CHI:	hospital .
+CHI:	no , go Billy too .
+MOT:	ears , okay .
+CHI:	Ma , kiss this .
+MOT:	another one .
+MOT:	shall we turn the page ?
+MOT:	&-um [/?] a car ?
+MOT:	and they're saying , bye .
+CHI:	yes , sleeping blue van .
+MOT:	you sleeping on the blue van ?
+CHI:	all over .
+CHI:	yeah .
+MOT:	what color ?
+MOT:	yeah , a nurse .
+CHI:	no .
+MOT:	<sunny days> [/?] .
+CHI:	bye .
+MOT:	want me to go get your puppet in your room ?
+MOT:	my finger .
+MOT:	good boy ?
+CHI:	get xxx door .
+MOT:	and Diane ?
+CHI:	look .
+MOT:	ready , set +/.
+CHI:	Dada .
+MOT:	we're running out_of stuff here , huh [/?] ?
+MOT:	what are those called ?
+MOT:	hurry up .
+MOT:	honey , I don't know what you want .
+CHI:	I'll be right back .
+CHI:	bucket .
+MOT:	what are you doing ?
+CHI:	bye .
+CHI:	I'm almost done , mama .
+MOT:	I'm gonna knock on the door again .
+MOT:	I don't even know what that is .
+MOT:	Grover , yeah .
+MOT:	go ahead .
+CHI:	I got it .
+MOT:	let me kiss it .
+CHI:	yeah .
+MOT:	she's watching the kids .
+CHI:	it's hot .
+MOT:	the book's all over .
+MOT:	we'll hafta go look for it to see if you got happy faces today .
+MOT:	and I'll make a red one +/.
+CHI:	Oscar .
+MOT:	we'll give this to Diane , okay ?
+MOT:	oh , now wait a minute +/.
+CHI:	a sick .
+MOT:	what goes right there ?
+MOT:	almost done ?
+MOT:	okay .
+CHI:	gotta go get jacket .
+CHI:	three , four , five .
+MOT:	it goes in the bucket .
+MOT:	he's got tonsils .
+CHI:	okay .
+MOT:	I'll make an orange one +/.
+CHI:	toy room .
+MOT:	are you getting aggravated ?
+CHI:	orange one .
+MOT:	good boy .
+MOT:	okay , now , put it in .
+MOT:	wait a minute ?
+MOT:	two nurses .
+MOT:	oh , I got an idea .
+MOT:	let's make +/.
+MOT:	where ?
+MOT:	washing his hands ?
+MOT:	you want the orange one ?
+MOT:	is he sad ?
+CHI:	no !
+CHI:	yeah .
+MOT:	whole bunch .
+CHI:	get out .
+MOT:	open ?
+MOT:	<you're funny you're funny> [/?] you're funny .
+MOT:	when you're a good boy , you get a happy face , huh [/?] ?
+MOT:	chips .
+MOT:	what ?
+MOT:	looks like waves .
+MOT:	they fall out ?
+MOT:	the back of it's on the back there .
+MOT:	oh , what's this ?
+CHI:	it hurt .
+CHI:	na@b [/?] .
+MOT:	can we be serious ?
+MOT:	&mm [/?] daddy's eating chips ?
+CHI:	right there .
+MOT:	sick , no what's that ?
+CHI:	hi .
+MOT:	spell Diane d [/?] .
+CHI:	that .
+MOT:	oh , Diane .
+CHI:	hi .
+MOT:	okay .
+CHI:	yes .
+MOT:	and what's the man doing ?
+CHI:	train .
+MOT:	we make a happy face ?
+CHI:	bye .
+MOT:	shh [/?] .
+MOT:	dadadada@o .
+CHI:	Helen watch .
+MOT:	what's this ?
+MOT:	okay , open .
+CHI:	yeah .
+CHI:	no , Diane .
+CHI:	yeah .
+MOT:	can I have some +/.
+CHI:	serious .
+CHI:	where Diane ?
+CHI:	no john .
+MOT:	what's she doing ?
+CHI:	orange one .
+CHI:	picture .
+MOT:	here I come .
+CHI:	yeah .
+MOT:	oh , you don't wanna go out with john ?
+MOT:	you understand me ?
+MOT:	where's Mrs_Lynch ?
+MOT:	because we did good .
+CHI:	na@b [/?] !
+MOT:	okay .
+MOT:	again ?
+MOT:	I've got an idea .
+MOT:	you getting mad ?
+CHI:	hi !
+CHI:	nice and clean [/?] clean .
+MOT:	you gonna cry ?
+CHI:	coke .
+MOT:	fine .
+CHI:	hey [/?] Helen .
+MOT:	y@l [/?] .
+MOT:	that her feet ?
+CHI:	yes .
+CHI:	hi .
+MOT:	hello .
+CHI:	yeah .
+MOT:	draw a circle .
+CHI:	a good car .
+MOT:	where's the other b@l [/?] ?
+CHI:	thank you .
+CHI:	yeah .
+CHI:	yeah .
+CHI:	another line .
+CHI:	where's a mouth ?
+CHI:	he eating chip .
+MOT:	look at your nose +/.
+CHI:	who is it ?
+MOT:	you make an orange one .
+MOT:	listen , what do you want for supper ?
+CHI:	happy face .
+MOT:	you got it ?
+CHI:	Diane cry .
+MOT:	oh , put it in the bucket ?
+MOT:	that's a train .
+CHI:	Grover .
+MOT:	make an ear right there .
+MOT:	with john ?
+CHI:	Grover_book , where is it ?
+MOT:	who is that ?
+CHI:	hey [/?] Helen .
+MOT:	this stuff does come out_of clothes .
+MOT:	are you crazy ?
+CHI:	markers .
+MOT:	I to arm ?
+MOT:	wanna help ?
+MOT:	what do you want ?
+MOT:	is that why you're getting so silly ?
+CHI:	orange one .
+MOT:	but where is it ?
+MOT:	yes , you can .
+MOT:	oh , I know what you want .
+CHI:	here you go .
+MOT:	put them in .
+CHI:	Grover .
+MOT:	in +/.
+CHI:	christmas !
+MOT:	<beep beep beep beep> [/?] .
+CHI:	I wanna draw .
+MOT:	okay .
+MOT:	like this , see .
+CHI:	bye .
+MOT:	what's that ?
+CHI:	oh , rip it .
+CHI:	yeah .
+MOT:	listen , I'm talking to you .
+MOT:	it's an x-ray .
+MOT:	what are you making ?
+MOT:	oh , let's go turn the page .
+MOT:	can I have some more milk ?
+MOT:	okay , let's get up .
+MOT:	what sort of ride ?
+CHI:	no ahead .
+MOT:	did you go golfing last week ?
+MOT:	can you make a circle ?
+MOT:	this is +/.
+MOT:	what do you see ?
+MOT:	wanna make another color ?
+CHI:	good boy .
+MOT:	what's the magic word ?
+CHI:	b@l [/?] .
+CHI:	what do you see ?
+MOT:	draw her face .
+MOT:	eye .
+CHI:	where's your xxx ?
+MOT:	you watching television ?
+CHI:	you got crumbs .
+MOT:	and what's this right there ?
+MOT:	bye .
+CHI:	a head .
+CHI:	yeah [/?] yeah .
+CHI:	I gotta get it .
+CHI:	yeah .
+MOT:	pick out the green one .
+CHI:	go .
+CHI:	keys .
+MOT:	come on .
+CHI:	no , go on .
+CHI:	yeah .
+MOT:	okay , you make a +/.
+CHI:	hair .
+MOT:	gonna give Diane her picture ?
+CHI:	I gotta go wash up .
+MOT:	yep .
+MOT:	and one more .
+CHI:	Ernie ?
+CHI:	home .
+MOT:	put the cover on .
+MOT:	yeah , you wanna play ?
+CHI:	get back in door , Ernie .
+CHI:	yeah .
+MOT:	after Helen leaves .
+MOT:	did you get happy faces today or sad ?
+MOT:	can we look at the book together ?
+MOT:	okay , I'm not very good at this .
+CHI:	happy face , I got +/.
+CHI:	what happened ?
+CHI:	where's you xxx ?
+MOT:	huh [/?] ?
+CHI:	it tickles .
+MOT:	of course not .
+MOT:	what's this on your shirt ?
+MOT:	can I help you ?
+MOT:	okay , I'll take pink .
+CHI:	xxx get up .
+CHI:	what you want ?
+MOT:	like that ?
+MOT:	you watching television ?
+MOT:	okay , make two eyes .
+CHI:	xxx .
+MOT:	oh , that's the operating room .
+MOT:	okay .
+CHI:	hi !
+CHI:	here .
+CHI:	look head .
+CHI:	yeah , it's just wrong way .
+MOT:	you got boo_boos on your face .
+MOT:	whoa [/?] .
+CHI:	<&ba &ba bum> [/?] .
+MOT:	markers !
+CHI:	green .
+MOT:	can I have some juice ?
+CHI:	paper .
+CHI:	there's a book .
+MOT:	that one .
+MOT:	can you do it ?
+CHI:	xxx .
+MOT:	can I have some toast ?
+CHI:	yeah .
+MOT:	just like you .
+MOT:	what happens to Grover ?
+MOT:	that's it .
+CHI:	b@l [/?] .
+MOT:	I'm Oscar .
+MOT:	and where's David ?
+MOT:	oh , it fell .
+CHI:	they gonna cry .
+MOT:	look_it , what's that ?
+MOT:	here's the windows .
+CHI:	orange one .
+MOT:	what color's that ?
+CHI:	yeah .
+MOT:	I don't even know what's <in here> [/?] left anymore +/.
+MOT:	a car .
+MOT:	two ears .
+MOT:	look at this .
+CHI:	gas .
+MOT:	what's the matter ?
+MOT:	look at this .
+MOT:	one more +/.
+CHI:	<make a> [/?] make a lines .
+MOT:	wanna finish reading the story ?
+CHI:	a baba .
+MOT:	what else do I gotta make ?
+MOT:	do you wanna do a line like they do in school +/.
+CHI:	color .
+MOT:	how are you ?
+CHI:	it hurt .
+MOT:	your jacket ?
+CHI:	no !
+MOT:	a chair .
+MOT:	<let's> [/?] wanna turn the page ?
+MOT:	hi .
+CHI:	a transmission .
+MOT:	we'll draw it on the paper .
+MOT:	golf .
+CHI:	na@b [/?] !
+MOT:	he's driving the blue van .
+CHI:	<&ba &ba bum> [/?] .
+CHI:	yeah .
+MOT:	he's missing .
+CHI:	little window .
+CHI:	xxx Helen .
+MOT:	what do you wanna make ?
+MOT:	make an orange one .
+CHI:	I gonna get a blue van .
+CHI:	no .
+MOT:	thank you for the milk .
+MOT:	I know .
+CHI:	yeah .
+MOT:	<where's your paper> [/?] where's your school+bag from today ?
+MOT:	make a picture .
+MOT:	b@l [/?] where's the other b@l [/?] ?
+MOT:	how do you spell Billy ?
+MOT:	now make a red one .
+CHI:	car .
+MOT:	can we read the story ?
+CHI:	a b@l [/?] !
+MOT:	are you getting mad ?
+MOT:	kisses .
+MOT:	pick it up .
+MOT:	who's that ?
+MOT:	okay , guess what +/.
+CHI:	mama go pull .
+CHI:	happy face happy face .
+MOT:	<a visit to the Sesame_Street hospital> [/?] .
+MOT:	oh , you wanna go out with daddy ?
+CHI:	no .
+MOT:	thank you .
+MOT:	yeah , your color's brighter than mine .
+MOT:	where's Stacy ?
+MOT:	and there's the other nurse .
+CHI:	I [/?] I rip it .
+CHI:	look [/?] look .
+MOT:	another one ?
+MOT:	and make the ears .
+MOT:	crackers .
+MOT:	yeah .
+CHI:	eat your bowl of soup .
+CHI:	bye .
+CHI:	look .
+CHI:	yeah .
+MOT:	what's the man doing ?
+MOT:	can you make it ?
+MOT:	Grover's mommy , that's right .
+CHI:	bye .
+CHI:	watch [/?] watch Jackson ?
+MOT:	is that the hospital ?
+MOT:	peekaboo !
+MOT:	let me show you .
+CHI:	hi , dad !
+CHI:	no .
+CHI:	look right here .
+MOT:	thank you .
+MOT:	oh , he's eating chips ?
+MOT:	daddy coming home ?
+MOT:	chips .
+MOT:	what ?
+CHI:	yeah .
+MOT:	hello .
+MOT:	how about if I make a blue van ?
+CHI:	Ma !
+MOT:	they're all dressed up like doctors .
+MOT:	you're just being silly .
+MOT:	like you do at school .
+MOT:	whoa [/?] !
+CHI:	yeah , some pizza , yeah .
+MOT:	daddy home .
+MOT:	ooo [/?] look at this paper .
+MOT:	when you get those in school , huh [/?] ?
+MOT:	can you draw a line ?
+CHI:	mama .
+MOT:	are you funny ?
+MOT:	you did it very good .
+CHI:	Big_Bird .
+MOT:	his hair .
+CHI:	Ma , look .
+MOT:	want mama to go get it ?
+CHI:	ah [/?] !
+CHI:	I want Diane .
+MOT:	some more waves ?
+CHI:	no .
+CHI:	here's bologna and cheese .
+MOT:	here's the door .
+MOT:	go to bed ?
+MOT:	mama told you .
+MOT:	where's Diana ?
+CHI:	yeah .
+CHI:	the book's +/.
+MOT:	what do you got ?
+CHI:	come on up .
+MOT:	bye .
+CHI:	go !
+MOT:	come on , go get your Ernie_house .
+MOT:	don't write on your hands because the stuff never comes off your
+CHI:	here you go .
+CHI:	<oh no , oh> [/?] no .
+CHI:	no , go head .
+MOT:	hold it up .
+CHI:	yeah .
+MOT:	make a red one .
+MOT:	oh , what happened ?
+MOT:	a Billy movie ?
+CHI:	Big_Bird .
+MOT:	oh , that's not nice .
+CHI:	who is that ?
+CHI:	hi .
+CHI:	goodbye .
+MOT:	a chess ?
+MOT:	b@l [/?] to , this one ?
+CHI:	gas .
+CHI:	yeah .
+CHI:	my ride .
+CHI:	Diane .
+MOT:	the windows .
+MOT:	Dada .
+CHI:	no .
+MOT:	yes you do +/.
+MOT:	what's next ?
+CHI:	x-ray .
+CHI:	oop [/?] it fell .
+CHI:	it hurt .
+MOT:	what's that ?
+MOT:	what color you want ?
+MOT:	oh , you make it .
+MOT:	that's right .
+MOT:	mine's kinda +/.
+MOT:	one .
+CHI:	eye .
+MOT:	what's he say ?

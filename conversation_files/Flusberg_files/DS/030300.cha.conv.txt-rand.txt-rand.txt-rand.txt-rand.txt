@@ -1,0 +1,852 @@
+participant	content
+CHI:	dog .
+CHI:	six [/?] .
+CHI:	car .
+CHI:	geese .
+CHI:	there .
+MOT:	bike .
+MOT:	does that fit there ?
+CHI:	baby .
+CHI:	pot ?
+MOT:	I don't know what you're saying .
+CHI:	pot .
+MOT:	what is that ?
+MOT:	what is it ?
+CHI:	six [/?] .
+MOT:	right .
+CHI:	truck .
+CHI:	trees .
+MOT:	look at all those cars .
+MOT:	okay , okay .
+CHI:	bus .
+MOT:	do you wanna go to sleep charlestopher@f ?
+CHI:	oh , xxx pots .
+MOT:	what's this ?
+CHI:	house .
+CHI:	door .
+MOT:	what do you want ?
+MOT:	what's this charlestopher@f ?
+MOT:	what's that ?
+CHI:	house .
+MOT:	yeah , duck .
+CHI:	house !
+MOT:	okay , what's this ?
+MOT:	there's the pot .
+MOT:	do the people go in the doors ?
+MOT:	up +/.
+CHI:	this ?
+MOT:	oh , .
+MOT:	what ?
+MOT:	fence .
+MOT:	<&-um huh> [/?] .
+CHI:	okay .
+CHI:	bear .
+MOT:	are those geese ?
+MOT:	okay .
+CHI:	clock .
+MOT:	where's the clock ?
+CHI:	b@l [/?] .
+MOT:	chickens .
+MOT:	who's with the daddy ?
+MOT:	is that a bear ?
+MOT:	out .
+CHI:	house ?
+MOT:	better , right .
+CHI:	one [/?] .
+MOT:	house .
+CHI:	Ma .
+CHI:	me .
+MOT:	tent for sleeping .
+CHI:	puz [/?] .
+CHI:	pot .
+MOT:	all better .
+CHI:	crib .
+CHI:	bike ?
+MOT:	put the pot in the puzzle .
+MOT:	what does the driver on the bus say ?
+CHI:	tail .
+MOT:	is this a car or a truck ?
+MOT:	can he ?
+MOT:	this one ?
+CHI:	a bus .
+MOT:	all done .
+CHI:	<huh oo> [/?] .
+CHI:	pot .
+MOT:	<&-um huh> [/?] .
+CHI:	bike .
+MOT:	tent .
+MOT:	line them up all over here and then we'll play with something else
+CHI:	oh , .
+MOT:	what is it ?
+CHI:	fit .
+CHI:	out .
+MOT:	where does the dog go ?
+MOT:	what ?
+MOT:	good job .
+MOT:	oh , shall we put the pieces back ?
+MOT:	maybe there's a kitty inside the tent hiding .
+MOT:	is that a chicken coop ?
+CHI:	baby .
+MOT:	some cars under here ?
+CHI:	good job .
+CHI:	oh , .
+CHI:	xxx .
+MOT:	where's the clock ?
+MOT:	<&-um huh> [/?] .
+CHI:	crib .
+CHI:	truck .
+MOT:	wanna count the cars ?
+MOT:	what's that ?
+MOT:	oh , do you like your present ?
+MOT:	dog .
+CHI:	bike .
+MOT:	yeah .
+MOT:	that's the door .
+CHI:	&-um [/?] fit ?
+CHI:	oh , .
+CHI:	xxx .
+CHI:	houses ?
+MOT:	oh , well , you crashed all the houses .
+MOT:	where ?
+CHI:	xxx .
+CHI:	one .
+MOT:	there [/?] you wanna do puzzles ?
+MOT:	bus .
+CHI:	car ?
+CHI:	tree .
+MOT:	what is that ?
+CHI:	this ?
+MOT:	teddy bear .
+CHI:	a crib .
+MOT:	right .
+MOT:	what's that ?
+CHI:	out .
+CHI:	pot ?
+CHI:	xxx .
+MOT:	chicken .
+MOT:	what's that ?
+MOT:	what do you want me to do with it ?
+MOT:	okay , we'll keep playing with the cars .
+MOT:	what else ?
+MOT:	yup .
+CHI:	duckie .
+CHI:	car .
+CHI:	doggie .
+MOT:	where's the kitty ?
+CHI:	out .
+CHI:	out ?
+MOT:	should we put the houses away ?
+MOT:	what does the boat sail on ?
+MOT:	bear .
+MOT:	come on .
+MOT:	is this a car or a truck ?
+MOT:	man ?
+CHI:	xxx .
+CHI:	bike .
+CHI:	car .
+MOT:	six cars .
+CHI:	xxx .
+MOT:	is that a car ?
+CHI:	ow [/?] .
+MOT:	where is the bus ?
+MOT:	do you have a yellow truck ?
+MOT:	look , what's this ?
+CHI:	bike .
+CHI:	a box .
+CHI:	there's daddy .
+MOT:	oh , there .
+MOT:	I don't see a kitty .
+CHI:	chick .
+MOT:	push the car over beside the house .
+MOT:	look .
+CHI:	no .
+MOT:	sit right here .
+MOT:	who's that ?
+CHI:	xxx .
+MOT:	what ?
+CHI:	this ?
+CHI:	<k , kit> [/?] kitty .
+MOT:	where does the dog go ?
+MOT:	oh , cars !
+MOT:	what this ?
+CHI:	car .
+CHI:	here .
+CHI:	doggie .
+MOT:	wanna do another puzzle ?
+CHI:	okay .
+CHI:	house .
+CHI:	orange .
+MOT:	good job .
+MOT:	put it down .
+MOT:	oh , yeah .
+CHI:	car .
+MOT:	there .
+CHI:	pot .
+MOT:	car .
+MOT:	where's the wheels ?
+MOT:	it's for you .
+CHI:	oh , crib .
+CHI:	this .
+MOT:	six [/?] .
+CHI:	duckie .
+MOT:	it's +/.
+CHI:	crib .
+CHI:	that ?
+MOT:	one more .
+CHI:	car ?
+CHI:	one [/?] .
+CHI:	car !
+CHI:	xxx .
+MOT:	<&-um huh> [/?] .
+MOT:	does the bike have wheels ?
+MOT:	three [/?] +/.
+MOT:	water .
+MOT:	oh , you wanna get them out ?
+CHI:	this .
+MOT:	oh , don't knock over the houses .
+MOT:	you wanna put the cars in here ?
+MOT:	that's not a truck .
+CHI:	bus !
+MOT:	oh , that's black .
+MOT:	let's go change your pants and then you'll feel better .
+MOT:	four [/?] .
+CHI:	duck .
+MOT:	just turn them over .
+CHI:	this ?
+MOT:	can mommy have the clock ?
+MOT:	that's right .
+MOT:	okay .
+MOT:	what else is in the puzzle ?
+MOT:	oh , !
+CHI:	round .
+CHI:	doggie !
+MOT:	ah [/?] !
+CHI:	bike ?
+CHI:	daddy .
+CHI:	xxx .
+MOT:	can you put the house back ?
+MOT:	wanna drive the cars to the houses ?
+MOT:	oh , .
+MOT:	what else though ?
+CHI:	coop .
+CHI:	three [/?] .
+CHI:	green .
+MOT:	right , the baby sleeps in the crib .
+CHI:	hi .
+MOT:	what [/?] look at this .
+MOT:	what is that ?
+CHI:	horse .
+MOT:	you see something else ?
+MOT:	take a couple of puzzles down here .
+MOT:	drive the truck to the house .
+CHI:	car .
+MOT:	where's the dog fit in here ?
+CHI:	house .
+CHI:	a car .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	you think there's a kitty inside the tent ?
+MOT:	what does the duck say ?
+MOT:	is this a car or a truck ?
+CHI:	car .
+MOT:	right .
+CHI:	cars ?
+CHI:	yah [/?] .
+CHI:	truck .
+CHI:	this ?
+MOT:	that's yellow .
+CHI:	box .
+MOT:	good job .
+MOT:	round .
+MOT:	what else ?
+MOT:	we're through .
+MOT:	what's this ?
+MOT:	black roof .
+CHI:	this ?
+CHI:	tent .
+MOT:	what is it ?
+CHI:	kitty .
+CHI:	oh , this .
+MOT:	yeah here .
+CHI:	this .
+CHI:	truck .
+MOT:	and down , right .
+MOT:	round and round .
+CHI:	orange .
+MOT:	there .
+MOT:	tree .
+CHI:	piece ?
+CHI:	yellow .
+CHI:	park .
+MOT:	horse .
+MOT:	what is that ?
+MOT:	let's do the puzzles .
+MOT:	thank you .
+CHI:	xxx .
+CHI:	trees .
+MOT:	what else do you have in this puzzle ?
+CHI:	daddy .
+MOT:	line the cars up .
+MOT:	right .
+CHI:	mom .
+MOT:	<&-um huh> [/?] .
+MOT:	what's this right here ?
+MOT:	what's that ?
+CHI:	look .
+MOT:	now where does the crib go ?
+CHI:	a bike .
+CHI:	truck .
+MOT:	pot .
+CHI:	yeah .
+CHI:	truck .
+CHI:	up .
+CHI:	t@l [/?] .
+CHI:	truck .
+CHI:	xxx .
+MOT:	does that fit ?
+MOT:	there .
+MOT:	come on .
+CHI:	six mama .
+MOT:	duck swimming , yeah .
+CHI:	this ?
+MOT:	what is this ?
+MOT:	chick .
+CHI:	baby .
+CHI:	horse .
+MOT:	there .
+CHI:	xxx .
+MOT:	right there ?
+MOT:	duck .
+MOT:	what's that ?
+MOT:	yeah !
+CHI:	good job .
+MOT:	tree ?
+MOT:	where are the wheels on the car ?
+CHI:	this ?
+MOT:	is the doggie gonna ride the bike ?
+CHI:	<roar boom> [/?] !
+MOT:	tail ?
+CHI:	clock .
+MOT:	tent .
+CHI:	that .
+CHI:	bike ?
+MOT:	right .
+MOT:	and what's this ?
+MOT:	let's put the blue car in front of the blue house .
+CHI:	mommy ?
+MOT:	pull .
+MOT:	boat .
+MOT:	where is charlestopher@f ?
+MOT:	<the wheels on the bus go> [/?] +/.
+MOT:	round and round .
+MOT:	oh , good .
+MOT:	wanna park the cars ?
+CHI:	okay .
+CHI:	this ?
+MOT:	truck .
+MOT:	what else +/.
+CHI:	this .
+MOT:	four [/?] +/.
+MOT:	line the people up too , okay ?
+MOT:	talking to the television man .
+CHI:	xxx .
+MOT:	want another one ?
+CHI:	bike .
+MOT:	see ?
+CHI:	crib .
+CHI:	kitty .
+CHI:	man .
+MOT:	what does it say ?
+CHI:	ee [/?] doggie .
+MOT:	one more .
+CHI:	put [/?] put .
+MOT:	bike [/?] bike , yup .
+CHI:	this .
+MOT:	beep , right .
+MOT:	two [/?] .
+CHI:	truck .
+MOT:	no .
+MOT:	what's this ?
+MOT:	four [/?] .
+CHI:	doggie .
+MOT:	present .
+CHI:	car .
+MOT:	clock .
+CHI:	oh , .
+MOT:	oh , does he fit ?
+CHI:	tree ?
+CHI:	clock .
+MOT:	is that yellow ?
+CHI:	this ?
+MOT:	look .
+CHI:	up .
+MOT:	yeah .
+MOT:	it .
+MOT:	come look at these .
+MOT:	where does the chick go ?
+CHI:	daddy .
+CHI:	thank you !
+MOT:	car .
+CHI:	crib .
+CHI:	daddy ?
+MOT:	what are you sitting on ?
+MOT:	shall we ?
+MOT:	shall we park all the cars over here ?
+MOT:	one goes here , and one goes there .
+CHI:	out .
+CHI:	this ?
+MOT:	right there .
+CHI:	house .
+MOT:	look .
+MOT:	does it fit there ?
+CHI:	box .
+MOT:	yeah , where is the dog ?
+MOT:	what is this ?
+CHI:	there .
+MOT:	<round and round , round and round> [/?] +/.
+MOT:	oh , look at all the cars .
+MOT:	put the pot in the puzzle okay ?
+MOT:	what is it ?
+CHI:	door ?
+MOT:	yeah .
+MOT:	Charles , what's this ?
+CHI:	door .
+MOT:	does the car go in that door ?
+MOT:	tree ?
+MOT:	here .
+CHI:	&-uh [/?] .
+MOT:	clock .
+MOT:	no , those are chickens ?
+CHI:	round [/?] round .
+CHI:	boat .
+MOT:	they fit right in here .
+MOT:	open ?
+CHI:	three [/?] .
+CHI:	doggie .
+CHI:	horse ?
+MOT:	one more .
+MOT:	what's this ?
+MOT:	right , yes .
+MOT:	turn it around .
+MOT:	hm: [/?] ?
+CHI:	beep .
+MOT:	what are you looking for ?
+CHI:	truck .
+MOT:	where's the house ?
+MOT:	orange .
+MOT:	it fits here .
+CHI:	doggie !
+CHI:	man .
+CHI:	bike ?
+MOT:	come on back .
+CHI:	better .
+CHI:	truck .
+MOT:	what's this ?
+MOT:	one more ?
+MOT:	what kind of a house is that ?
+MOT:	what are you looking for ?
+MOT:	yes .
+MOT:	yup , where's the dog go ?
+MOT:	should we put the houses away ?
+CHI:	what ?
+MOT:	what's that ?
+MOT:	we could put all the cars inside this .
+MOT:	crib .
+CHI:	pot .
+MOT:	there's the pot .
+CHI:	house .
+CHI:	houses .
+CHI:	out .
+MOT:	does the dog have a tail ?
+MOT:	okay , come on .
+MOT:	you wanna sing that song ?
+MOT:	it's a crib .
+CHI:	and down .
+CHI:	six [/?] .
+CHI:	doggie !
+MOT:	that's right .
+CHI:	roar [/?] .
+MOT:	what do you say ?
+MOT:	no .
+CHI:	truck .
+CHI:	this ?
+MOT:	what ?
+MOT:	the pot goes there , yeah .
+CHI:	kitty [x 2] .
+MOT:	the fence ?
+CHI:	four [/?] +/.
+MOT:	what is it ?
+CHI:	fence .
+MOT:	what ?
+MOT:	<does the> [/?] can the doggie ride the bike ?
+MOT:	alright , mommy will give you the pieces , okay ?
+CHI:	yellow .
+CHI:	fence .
+MOT:	here .
+MOT:	no [/?] that's enough for now .
+MOT:	what's that ?
+MOT:	now you can see all the wheels .
+CHI:	no .
+CHI:	a kitty !
+CHI:	tree .
+MOT:	yup .
+CHI:	xxx .
+CHI:	here .
+MOT:	crib .
+CHI:	what ?
+MOT:	where is charlestopher@f ?
+MOT:	<oh one> [/?] one at a time .
+MOT:	what [/?] what's over there ?
+MOT:	<the horn on the bus goes> [/?] +/.
+CHI:	truck .
+CHI:	bus .
+CHI:	doggie .
+MOT:	a truck .
+MOT:	that's right .
+CHI:	tree .
+MOT:	<come look> [/?] come sit right here .
+MOT:	two trees .
+MOT:	put it in .
+MOT:	okay ?
+MOT:	oh , that's right .
+MOT:	does the car have wheels ?
+MOT:	man .
+MOT:	is that what you wanna do ?
+CHI:	this ?
+MOT:	what ?
+MOT:	turn it over .
+MOT:	horse .
+MOT:	here [/?] here's the pot .
+MOT:	there , fit .
+MOT:	five [/?] .
+MOT:	car .
+MOT:	line them up beside the bus .
+MOT:	does he live in this house ?
+MOT:	girl .
+CHI:	car .
+CHI:	pot .
+MOT:	fence .
+MOT:	right .
+CHI:	oh , crib .
+CHI:	tree .
+MOT:	come on .
+CHI:	ball .
+MOT:	see ?
+MOT:	three [/?] .
+MOT:	look_it .
+MOT:	water .
+MOT:	there .
+CHI:	ball .
+MOT:	yeah , that's an ambulance .
+CHI:	this .
+MOT:	yeah .
+MOT:	what is that right there ?
+MOT:	coop , right .
+CHI:	doggie .
+MOT:	tree .
+MOT:	get some more cars .
+MOT:	fence .
+MOT:	tree .
+MOT:	come sit here .
+MOT:	Charles what do you say ?
+MOT:	what's this ?
+CHI:	kit [/?] +/.
+MOT:	look they're all upside down .
+MOT:	where are the wheels ?
+MOT:	here are the houses .
+MOT:	night_night .
+MOT:	chick .
+MOT:	let's line them up , okay ?
+CHI:	bike ?
+CHI:	pig .
+CHI:	car .
+MOT:	pull .
+MOT:	bear .
+MOT:	open ?
+MOT:	that's a crib , right .
+CHI:	six [/?] +/.
+MOT:	that's right .
+CHI:	boat .
+MOT:	crib .
+MOT:	get that man , okay ?
+CHI:	out .
+MOT:	oh , they gonna lie down ?
+MOT:	no .
+CHI:	horse !
+MOT:	daddy and mommy .
+MOT:	coop , right .
+CHI:	right there .
+MOT:	can [/?] can the doggie ride the bike ?
+CHI:	mommy .
+CHI:	th [/?] this .
+CHI:	clock .
+MOT:	is this orange truck ?
+CHI:	truck .
+MOT:	orange truck .
+MOT:	yeah .
+MOT:	turn it around until it fits .
+MOT:	that's it .
+MOT:	all the pieces are here .
+CHI:	go knock knock .
+MOT:	gonna start with the +/.
+MOT:	pig .
+CHI:	job .
+MOT:	is that a car or a truck ?
+MOT:	where are the wheels ?
+MOT:	what else do we have in this puzzle ?
+CHI:	cars .
+MOT:	does this match ?
+CHI:	chicken .
+CHI:	xxx .
+CHI:	<round round> [/?] round go ?
+MOT:	around .
+MOT:	let's change your pants first , okay ?
+MOT:	horse , right .
+MOT:	oh , .
+CHI:	fence .
+CHI:	kitty .
+MOT:	for a baby .
+CHI:	daddy .
+CHI:	piece .
+CHI:	truck .
+MOT:	what does the boat sail on ?
+CHI:	one [/?] .
+MOT:	where is the pot ?
+MOT:	<&-um huh> [/?] .
+MOT:	do you say thank you ?
+MOT:	car , right .
+MOT:	dogs don't ride bikes , do they ?
+MOT:	what is it ?
+MOT:	wanna count them ?
+MOT:	oop [/?] there it is .
+MOT:	what's that ?
+MOT:	are you tired ?
+MOT:	put the chicken in .
+MOT:	what is it ?
+MOT:	keep opening it .
+CHI:	bus ?
+MOT:	what else ?
+MOT:	charlestopher@f , look .
+MOT:	two [/?] .
+CHI:	bus .
+MOT:	I don't know why you keep saying kitty [x 2] for the tent .
+CHI:	roof .
+CHI:	water .
+MOT:	wanna count them ?
+MOT:	right .
+MOT:	can I have the clock ?
+CHI:	xxx .
+MOT:	how about the people ?
+MOT:	I think it's a car .
+CHI:	match ?
+CHI:	car .
+MOT:	no .
+MOT:	three [/?] .
+CHI:	baby .
+CHI:	bike .
+MOT:	is this the daddy here ?
+MOT:	what's that ?
+CHI:	xxx .
+CHI:	that .
+MOT:	six [/?] .
+MOT:	know what this is ?
+MOT:	wanna drive the cars over to the houses ?
+CHI:	clock .
+MOT:	let's count them as we put them in .
+MOT:	what else ?
+MOT:	we do this one first ?
+MOT:	tree .
+MOT:	what is it ?
+MOT:	no , wrong tree .
+MOT:	can you go get one more man over there ?
+CHI:	this ?
+MOT:	turn it around .
+MOT:	<the driver on the bus says> [/?] +/.
+MOT:	turn it around .
+CHI:	baby crib .
+CHI:	house .
+MOT:	water , right .
+MOT:	what's this ?
+CHI:	fit .
+MOT:	what else do you have ?
+MOT:	pot , yeah .
+CHI:	clock .
+MOT:	wanna pick up the garbage at the house ?
+MOT:	yup , all done !
+MOT:	what's this ?
+MOT:	pull some more .
+CHI:	door .
+MOT:	five [/?] .
+MOT:	get that one .
+MOT:	doesn't fit there , does it ?
+MOT:	ohoh [/?] .
+MOT:	doggie .
+MOT:	yeah , this is orange .
+MOT:	see ?
+CHI:	round .
+CHI:	git [/?] .
+CHI:	tree .
+MOT:	what is +/.
+MOT:	<beep , beep> [/?] beep .
+MOT:	yeah .
+MOT:	duckie , yeah .
+MOT:	look , that matches the roof .
+MOT:	what about this ?
+MOT:	no , it's not a kitty .
+CHI:	coop .
+MOT:	<does this> [/?] is this yellow ?
+MOT:	what's this ?
+MOT:	five [/?] +/.
+MOT:	<one two> [/?] +/.
+MOT:	is he in his house ?
+MOT:	one [/?] .
+MOT:	<&-um huh> [/?] .
+MOT:	okay .
+CHI:	water .
+MOT:	dog .
+MOT:	what is it ?
+CHI:	kitty .
+MOT:	fence .
+MOT:	<&-uh huh> [/?] .
+MOT:	yeah !
+MOT:	ball .
+MOT:	is that there a yellow car and a yellow house ?
+CHI:	tree .
+CHI:	man .
+CHI:	more .
+MOT:	okay .
+CHI:	this .
+CHI:	gg [/?] geese .
+MOT:	oop [/?] .
+CHI:	car .
+CHI:	&ba [/?] bike .
+MOT:	right here .
+MOT:	there are two trees .
+CHI:	big .
+MOT:	what's this ?
+MOT:	tree .
+CHI:	ducky .
+MOT:	alright that's enough .
+MOT:	you wanna do that ?
+MOT:	where does it go ?
+CHI:	man ?
+CHI:	six [/?] +/.
+CHI:	round .
+MOT:	one [/?] +/.
+CHI:	n [/?] nine [/?] .
+CHI:	out ?
+MOT:	where are the wheels ?
+MOT:	what is it ?
+MOT:	puzzle ?
+CHI:	tree .
+CHI:	bike ?
+CHI:	three [/?] +/.
+MOT:	one more .
+MOT:	six [/?] !
+MOT:	pull the paper off .
+MOT:	daddy's busy .
+MOT:	right there ?
+MOT:	cars .
+CHI:	&-eh [/?] .
+CHI:	xxx .
+MOT:	alright .
+MOT:	horse .
+CHI:	this .
+MOT:	this is what ?
+MOT:	are you sitting on it ?
+MOT:	wanna do something else ?
+CHI:	<house house house> [/?] house .
+CHI:	fence .
+CHI:	boat .
+MOT:	shall we go change your pants ?
+CHI:	here .
+MOT:	and the bike has wheels that go round and round .
+CHI:	this .
+MOT:	here's a green car for the green house .
+CHI:	pig .
+CHI:	doggie .
+MOT:	what goes here ?
+CHI:	crib .
+MOT:	one more .
+MOT:	teddy+bear ?
+MOT:	there you go !
+MOT:	what's that ?
+CHI:	door .
+MOT:	where are the wheels on the bus ?
+MOT:	five [/?] .
+MOT:	good .
+CHI:	bike .
+CHI:	truck .
+MOT:	you playing peekaboo ?
+MOT:	put the chicken in the puzzle .
+MOT:	no .
+CHI:	car .
+MOT:	where is the dog ?
+MOT:	show me what you wanted to play with .
+CHI:	a tent .
+MOT:	good job !
+CHI:	this .
+CHI:	it .
+CHI:	clock .
+CHI:	baby ?
+MOT:	right !
+CHI:	this .
+CHI:	this ?
+MOT:	six cars .
+MOT:	night_night baby .
+CHI:	fence .
+CHI:	down .
+MOT:	wow [/?] !
+MOT:	fence .
+CHI:	that .
+CHI:	car .
+CHI:	man [/?] man .
+MOT:	it's a tent .
+CHI:	baby ?
+MOT:	what's that ?
+CHI:	house .
+CHI:	t@l [/?] .
+MOT:	what's that ?
+CHI:	daddy .
+MOT:	good .
+MOT:	one [/?] +/.
+MOT:	pigs .
+MOT:	shall we play with some of those things ?
+MOT:	okay , another one ?
+MOT:	round and round ?
+MOT:	<the people on the bus go> [/?] +/.
+MOT:	fence .
+MOT:	no , it's too big .
+MOT:	knock knock on the door .
+CHI:	car .
+MOT:	doggie .
+MOT:	yeah .
+MOT:	what about this ?
+MOT:	that's a tent .
+MOT:	where's the house ?
+CHI:	what ?
+MOT:	who goes in the door ?
+MOT:	get another car .
+MOT:	do you sleep in the crib ?
+CHI:	truck .
+CHI:	bus ?
+MOT:	yeah .
+MOT:	like here's the mommy .
+MOT:	<&-uh huh> [/?] .
+MOT:	boat .
+MOT:	shall we stop the film for a minute ?
+CHI:	blue .
+CHI:	kitty .
+MOT:	let's line them all up .
+MOT:	drive the yellow truck up to the yellow house .
+MOT:	bike .
+MOT:	she's waiting at the house .
+CHI:	girl .
+MOT:	car .
+MOT:	what's this ?
+MOT:	the wheels on the bus go round and round ?
+MOT:	what's this ?
+MOT:	pot .
+MOT:	okay , where does the bear go ?
+CHI:	no .
+MOT:	<oh wow> [/?] .

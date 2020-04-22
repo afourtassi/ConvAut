@@ -1,0 +1,785 @@
+participant	content
+MOT:	oop [/?] say +/.
+MOT:	nope .
+MOT:	no , Laura_Lee .
+CHI:	make something .
+CHI:	stuck .
+MOT:	does Ann take you swimming ?
+CHI:	do you want cup of coffee ?
+CHI:	tower .
+MOT:	roger , what are you doing ?
+CHI:	<i'm> [/?] I'm eating .
+MOT:	what's this ?
+MOT:	sit up .
+CHI:	&g [/?] give me .
+MOT:	sit down .
+MOT:	fold your hands .
+CHI:	yellow car .
+CHI:	oh , diamond .
+MOT:	point to the yellow car .
+CHI:	<a ten> [/?] .
+MOT:	are you gonna color the rectangle ?
+MOT:	you put the chair on the stove .
+CHI:	look .
+CHI:	down .
+CHI:	a Laurie_School .
+MOT:	get the color forms , and then you can go outside .
+CHI:	green .
+MOT:	what's he doing ?
+CHI:	daddy outside .
+CHI:	hi .
+CHI:	<a nine> [/?] .
+MOT:	wait .
+MOT:	no , wanna play with the puzzle ?
+CHI:	I'm eating ice+cream .
+CHI:	do want color afternoon .
+MOT:	what are you doing ?
+CHI:	I wanna ah [/?] , make a triangle , please .
+CHI:	<one , two , three , four , five , six> [/?] .
+CHI:	do you want a fixed ?
+CHI:	fork .
+MOT:	you needta ask me .
+MOT:	well , you needta work first , and then you can go outside .
+CHI:	&mm [/?] .
+MOT:	give that to me .
+MOT:	do you wanna do some counting ?
+CHI:	<on the> [/?] on the table .
+MOT:	what do you wanna do ?
+CHI:	taking picture .
+MOT:	what are you doing ?
+MOT:	what's it say ?
+CHI:	it color a rectangle !
+CHI:	no .
+MOT:	and you were +/.
+CHI:	get a go doctor's .
+CHI:	roger .
+MOT:	roger count the bicycles .
+CHI:	number +/.
+MOT:	get a puzzle .
+CHI:	Melissa's went to the school .
+MOT:	and point to three .
+CHI:	I'm make a marble .
+MOT:	and what's that ?
+MOT:	play with the Sesame_Street color forms ?
+MOT:	what city ?
+MOT:	say +/.
+MOT:	let's play with the marble .
+CHI:	oh , it spilt !
+MOT:	start again .
+MOT:	how old are you ?
+CHI:	I'm want [/?] hafta +/.
+MOT:	what are you gonna make ?
+CHI:	<i'm going> [/?] I'm make a tower .
+CHI:	I'm looking a picture .
+CHI:	I want need help please .
+MOT:	put it beside the table .
+CHI:	wanna look ?
+MOT:	say , I play color forms .
+MOT:	what do you want ?
+MOT:	good boy !
+MOT:	what are you doing ?
+CHI:	<oh oh> [/?] .
+MOT:	roger , are you lazy ?
+MOT:	oh , okay .
+MOT:	what do you say to Helen for the present ?
+CHI:	sticky .
+MOT:	roger , do you wanna do some counting ?
+MOT:	what else ?
+MOT:	no , what's daddy doing ?
+CHI:	gonna get it .
+MOT:	look .
+MOT:	the lau [/?] +/.
+MOT:	that's right .
+CHI:	&ss [/?] wednesday .
+MOT:	no , you needta look at Helen .
+MOT:	this is really crazy .
+MOT:	and give me the fork and the cup .
+MOT:	roger , where's daddy ?
+CHI:	one [/?] .
+CHI:	don't do that mom .
+MOT:	okay .
+CHI:	and paper .
+CHI:	hold .
+MOT:	no .
+MOT:	sit down .
+MOT:	what am I doing ?
+MOT:	what's that ?
+CHI:	go up .
+MOT:	are you gonna do the puzzle ?
+MOT:	what do you say ?
+MOT:	good boy .
+MOT:	Roger's not going outside .
+MOT:	oh , you did .
+CHI:	Helen and the +/.
+MOT:	oop [/?] .
+CHI:	ow [/?] !
+MOT:	<what are you gon> [/?] are you gonna make something ?
+CHI:	where ?
+MOT:	the fruit is +/.
+CHI:	look .
+MOT:	let's play with the teddy+bear counters .
+CHI:	you eat .
+CHI:	a spoon .
+CHI:	get a go with doctor airplane .
+CHI:	yellow .
+MOT:	you're a bad boy today .
+CHI:	roger .
+MOT:	you +/.
+CHI:	I wanna sing microphone .
+CHI:	I am doing .
+CHI:	<i'm making> [/?] I am eating cookies .
+CHI:	bed go in the room .
+MOT:	okay , pick them up and give them to me .
+CHI:	I'm taking all m [/?] +/.
+MOT:	that's right .
+MOT:	ask me .
+MOT:	here .
+CHI:	I don't wanna , play with table .
+CHI:	Cookie_Monster .
+MOT:	look .
+CHI:	I'm going , a General_Hospital .
+MOT:	good boy .
+CHI:	diamonds .
+CHI:	no .
+MOT:	tell Helen .
+CHI:	yep .
+MOT:	what's she doing ?
+MOT:	we're taking a picture of you roger .
+MOT:	what's the matter with you ?
+CHI:	how was swimming at the Boys_Club ?
+CHI:	<a eight> [/?] .
+CHI:	&-uh [/?] .
+MOT:	are you lazy ?
+MOT:	roger +/.
+MOT:	what does Melissa do in school ?
+CHI:	I want crayon please .
+MOT:	you're bad boy roger .
+MOT:	come over here .
+CHI:	I'm eat pancakes .
+MOT:	thank you Helen .
+CHI:	I'm fell !
+MOT:	count them .
+MOT:	roger , what's that ?
+MOT:	here .
+MOT:	what do you do at the Boys_Club ?
+MOT:	what are you doing ?
+MOT:	what are you doing ?
+MOT:	wh [/?] what do you wanna do ?
+CHI:	get [/?] get a fixed .
+CHI:	school .
+MOT:	put it right there .
+MOT:	you needta put the chair beside the +/.
+MOT:	look .
+MOT:	give me the box , please .
+MOT:	that's right .
+MOT:	that's wrong .
+CHI:	color I yellow .
+MOT:	no , you can't sing in the microphone .
+MOT:	alright , come in here .
+CHI:	knife time .
+MOT:	come here .
+CHI:	do you want a fix ?
+CHI:	swal(low) +/.
+CHI:	give me a crayon .
+MOT:	no , what are you doing ?
+CHI:	I'm looking .
+CHI:	boy .
+CHI:	I did it .
+MOT:	they're coming .
+MOT:	and what's that ?
+MOT:	what do you wanna do ?
+CHI:	purple , green , red .
+MOT:	ah [/?] !
+MOT:	how many ?
+MOT:	can you sing the song ?
+MOT:	look at Helen .
+CHI:	nine .
+MOT:	roger come here .
+MOT:	what are you doing ?
+MOT:	okay here's your crayon .
+CHI:	&mm [/?] .
+CHI:	<oh , green> [/?] green .
+MOT:	what ?
+MOT:	no , it's not gonna come through roger .
+MOT:	bring the whole box roger .
+CHI:	<and a boy> [/?] .
+MOT:	say , give the crayon .
+MOT:	what do you want the doctor for ?
+MOT:	what is it ?
+CHI:	ah [/?] .
+MOT:	say , I need help mama .
+CHI:	&n [/?] nice playing .
+MOT:	say , I'm building .
+CHI:	want a get a green ?
+CHI:	I'm doing !
+MOT:	that's right .
+MOT:	come here .
+MOT:	what do you want ?
+CHI:	Lee_School .
+CHI:	give me .
+MOT:	do you wanna get the color forms ?
+MOT:	do it fast !
+MOT:	roger , let's make the pattern .
+MOT:	what school ?
+CHI:	thank you Helen .
+CHI:	<i see> [/?] +/.
+MOT:	you're gonna go where ?
+MOT:	where do you live ?
+MOT:	leave them alone .
+MOT:	ah [/?] be careful .
+MOT:	no , Ann .
+CHI:	I'm doing !
+MOT:	count the dolls .
+CHI:	five years old .
+CHI:	look quick .
+CHI:	<one , two , three , four , five> [/?] .
+MOT:	to Helen .
+MOT:	okay .
+CHI:	Helen and the present .
+MOT:	what are you doing ?
+MOT:	you're being silly today .
+MOT:	that's better .
+MOT:	what does roger do in school ?
+MOT:	count the trucks .
+MOT:	okay .
+MOT:	roger , get the teddy+bears .
+CHI:	diamonds [/?] diamonds .
+MOT:	put them away .
+MOT:	roger , how old are you ?
+CHI:	I'm doing .
+CHI:	<n@l n@l n@l> [/?] .
+MOT:	it's a knife .
+MOT:	whose light ?
+CHI:	General_Hospital .
+MOT:	no , put it on your desk .
+MOT:	say , yes I do .
+CHI:	I'm want +/.
+MOT:	where do you live ?
+CHI:	no !
+CHI:	I wanna go outside please .
+CHI:	it lost the chairs .
+CHI:	circle .
+MOT:	no , that's wrong .
+MOT:	oh , that's right .
+MOT:	mommy doesn't know how to do this too good , huh [/?] ?
+CHI:	it dropped .
+MOT:	where are you going ?
+MOT:	sit , and I'll open it .
+CHI:	I'm do the puzzle .
+MOT:	that's right .
+CHI:	I want color please .
+CHI:	monday .
+CHI:	I want play truck please .
+MOT:	no ?
+CHI:	yes or no .
+MOT:	in the bed+room .
+MOT:	get the airplane and come back here .
+MOT:	stay right here .
+MOT:	okay .
+CHI:	let's play go .
+CHI:	<oh ouch> [/?] .
+MOT:	put it right here .
+MOT:	give me the box !
+MOT:	you dropped it .
+MOT:	what's this ?
+CHI:	<one , two , three , four> [/?] +/.
+MOT:	okay .
+CHI:	xxx .
+CHI:	yes you are .
+CHI:	nh [/?] .
+CHI:	Laurie_School .
+MOT:	you needta wait .
+CHI:	do a pattern .
+CHI:	gonna go to General_Hospital .
+MOT:	what color is that ?
+MOT:	come on .
+MOT:	what is today ?
+MOT:	and you can color on the paper .
+CHI:	eat ice+cream .
+CHI:	spilt .
+MOT:	what's tomorrow ?
+CHI:	I'm putting color forms away .
+MOT:	that says snack time .
+MOT:	I want crayon please .
+CHI:	see ?
+MOT:	roger , look .
+MOT:	say I need help please .
+MOT:	Laura .
+MOT:	okay .
+MOT:	you wanna play with the airplane ?
+CHI:	here .
+CHI:	right .
+MOT:	what do you do at the Boys_Club ?
+MOT:	no , what's joy doing ?
+CHI:	make a block .
+CHI:	Ann take you swim +/.
+MOT:	very good .
+CHI:	i [/?] +/.
+MOT:	no , I'm not gonna give it to you .
+MOT:	find the eight .
+MOT:	what's he doing ?
+CHI:	yeah .
+MOT:	what goes in here ?
+CHI:	sit .
+MOT:	look at that .
+MOT:	say , I play with cup .
+CHI:	light .
+MOT:	what ?
+CHI:	leave those .
+MOT:	you're not going outside .
+CHI:	four hundred Beacon_Street .
+MOT:	stand up .
+CHI:	do wanna a play with +/.
+MOT:	ask me .
+MOT:	say , I go swimming .
+MOT:	you eat .
+MOT:	okay .
+MOT:	what happened ?
+MOT:	no , who's that ?
+MOT:	no , you needta play on the floor , so we can see Helen .
+MOT:	what are you doing roger ?
+MOT:	roger !
+MOT:	make a triangle .
+MOT:	ooo [/?] no , you did it all by yourself .
+CHI:	I'm put those +/.
+CHI:	<snack time> [/?] .
+MOT:	thank you .
+MOT:	get the color forms .
+CHI:	school .
+MOT:	and what's that ?
+CHI:	I wanna a play with airplane .
+MOT:	and the +/.
+CHI:	where's the marbles , mamma ?
+MOT:	<ah oh> [/?] it's snack time .
+MOT:	do you wanna play with the puzzle ?
+MOT:	what are you doing ?
+MOT:	no , Cookie_Monster's eating ice+cream .
+CHI:	tables .
+MOT:	come here .
+CHI:	<a three> [/?] .
+CHI:	I'm playing marble .
+CHI:	do you wanna look at a picture ?
+CHI:	I want a [/?] a swing please .
+MOT:	what do you wanna work with ?
+MOT:	no , no .
+MOT:	no , Ann's gone .
+MOT:	where is it ?
+MOT:	roger , you made a mess .
+MOT:	put your hands down please .
+MOT:	go ahead .
+CHI:	Laura_Lee_School .
+MOT:	okay , there you go .
+MOT:	do you wanna go on a swing ?
+CHI:	I am singing .
+MOT:	that's right .
+MOT:	oh , let's see if we can +/.
+MOT:	that's right .
+MOT:	okay .
+MOT:	no .
+CHI:	circle .
+MOT:	get the teddy+bear box .
+CHI:	no .
+MOT:	what's this ?
+MOT:	for what ?
+CHI:	do wanna stick a microphone ?
+MOT:	are you being a bad boy ?
+MOT:	that's right .
+CHI:	I go swimming .
+MOT:	the marbles are coming .
+CHI:	it squeaking .
+MOT:	this is the bed+room .
+MOT:	<you're> [/?] are you being a bad boy ?
+MOT:	say +/.
+CHI:	I making circle .
+MOT:	that's wrong .
+MOT:	point to the yellow horse .
+CHI:	spoon .
+CHI:	I'm eat .
+MOT:	put the chair +/.
+MOT:	who's this ?
+MOT:	put the puzzle away and get your crayons .
+MOT:	oh , look what Helen has .
+CHI:	with Ann .
+MOT:	roger , get the color forms .
+MOT:	it doesn't go there .
+MOT:	you do it .
+MOT:	okay roger .
+CHI:	do the pattern .
+MOT:	come here .
+MOT:	that's right .
+MOT:	don't rip them .
+MOT:	what do you wanna do ?
+CHI:	June first .
+CHI:	a [/?] <a three> [/?] .
+CHI:	yeah .
+MOT:	you needta stay right here though .
+MOT:	what do you want ?
+MOT:	come here .
+CHI:	I'm opening the present .
+CHI:	yes or no .
+MOT:	the chair's beside the what ?
+MOT:	okay .
+MOT:	no , you needta come in here with the airplane .
+MOT:	okay , there it is .
+MOT:	and do what ?
+MOT:	alright , give me the plate .
+MOT:	when's your birthday ?
+CHI:	hm: [/?] .
+MOT:	good reading .
+CHI:	yeah !
+MOT:	roger .
+CHI:	let me in .
+MOT:	fold your legs .
+MOT:	<are you> [/?] are you sick roger ?
+MOT:	roger look .
+CHI:	I'm spoon .
+MOT:	no , joy is taking the picture .
+MOT:	roger , what am I doing ?
+CHI:	do wanna a play ?
+MOT:	<ah oh> [/?] want a cup of coffee ?
+MOT:	say , don't do that mama .
+MOT:	what are you doing ?
+MOT:	roger , who's that ?
+MOT:	that's right .
+CHI:	it's stucky .
+MOT:	where's the bed go ?
+CHI:	can you get this xxx ?
+MOT:	okay .
+CHI:	a number four .
+MOT:	no .
+CHI:	<one , two , one , two> [/?] .
+MOT:	say , yes .
+MOT:	we can play a game roger .
+MOT:	good boy .
+CHI:	fruit bar .
+MOT:	get the Sesame_Street color forms and we can play .
+MOT:	say <i want> [/?] I want +/.
+CHI:	get +/.
+MOT:	you wanna make it bigger ?
+CHI:	Lowel_Mass .
+CHI:	marble .
+MOT:	you're being silly .
+MOT:	what are you doing ?
+MOT:	where's all the pieces roger ?
+CHI:	where ?
+MOT:	what's joy doing ?
+CHI:	pool .
+CHI:	nineteen eighty one .
+CHI:	come here .
+MOT:	okay , let go .
+MOT:	no that's wrong .
+CHI:	yeah .
+CHI:	at school .
+MOT:	where'd it go ?
+CHI:	<a five> [/?] .
+MOT:	do the puzzle .
+MOT:	what do you want ?
+MOT:	let me see .
+MOT:	<let's make the> [/?] do the pattern .
+MOT:	in the desk .
+MOT:	get your crayons .
+MOT:	numbers .
+MOT:	roger get the color forms and give them to mama .
+CHI:	six [/?] .
+CHI:	you don't be silly .
+CHI:	no [/?] give me !
+MOT:	wanna play with your color forms ?
+MOT:	okay , get your crayons .
+CHI:	alright .
+MOT:	no .
+MOT:	roger , put it in here .
+CHI:	go .
+MOT:	do you wanna do some reading ?
+MOT:	what are you doing ?
+MOT:	say hi to joy .
+CHI:	Laura l [/?] +/.
+MOT:	roger , what do you wanna do ?
+CHI:	look up .
+MOT:	we needta stay in the house roger .
+MOT:	no , that's wrong .
+MOT:	ah [/?] what did you do ?
+MOT:	sing like this .
+MOT:	you needta be a good boy .
+CHI:	no !
+CHI:	I am play color forms .
+MOT:	do you wanna read ?
+CHI:	give me that .
+CHI:	I'm opening the present .
+MOT:	why , what's the matter ?
+MOT:	what's that ?
+MOT:	he's a bad boy .
+MOT:	oh , .
+MOT:	who's taking the picture ?
+MOT:	it fell .
+MOT:	no , that's wrong .
+MOT:	what do you wanna do ?
+CHI:	out school .
+MOT:	okay , put the color forms on .
+CHI:	<one , two , three> [/?] +/.
+MOT:	no , right here .
+CHI:	oh , yes or no .
+MOT:	roger you needta be quiet .
+MOT:	look at me .
+MOT:	what's it doing ?
+MOT:	right there .
+CHI:	<i see a fish and a yellow ball> [/?] .
+CHI:	a [/?] +/.
+MOT:	come here .
+MOT:	let's see if we can do this .
+CHI:	I am play color forms .
+MOT:	okay , put the puzzle away and get the color forms .
+CHI:	oh , !
+CHI:	don't do that !
+CHI:	after school tomorrow .
+CHI:	and name of boys , girl .
+CHI:	look up .
+MOT:	Melissa goes to school , that's right .
+CHI:	I want color please .
+CHI:	do you like a spoon ?
+MOT:	you can set the table on your desk .
+MOT:	what are you doing ?
+CHI:	eight .
+MOT:	no , say wh [/?] +/.
+MOT:	good boy !
+MOT:	no , do you wanna play with a puzzle ?
+CHI:	<play play play play> [/?] play .
+MOT:	give me the red book .
+CHI:	joy .
+MOT:	sit down please .
+MOT:	say +/.
+MOT:	wow [/?] .
+CHI:	roger .
+MOT:	look .
+MOT:	oop [/?] what are you doing ?
+CHI:	yeah .
+MOT:	roger .
+CHI:	a pig .
+CHI:	Laurie_School .
+MOT:	nope , what's this ?
+MOT:	sit up .
+MOT:	no .
+CHI:	she .
+MOT:	sit down .
+MOT:	<and it> [/?] and it's on the table .
+MOT:	what am I doing ?
+MOT:	what are you doing ?
+MOT:	that's right .
+CHI:	let me +/.
+CHI:	it's swimming .
+MOT:	no , ask me .
+MOT:	roger , what are you doing ?
+MOT:	no that's wrong .
+CHI:	in the bed+room .
+MOT:	count the dolls .
+CHI:	color .
+CHI:	xxx .
+MOT:	point to the boy .
+MOT:	roger , look at me .
+CHI:	gonna go to General_Hospital ?
+MOT:	let's do some counting .
+MOT:	do it easy .
+MOT:	in the desk .
+CHI:	fix those chairs .
+MOT:	what's this ?
+CHI:	a light .
+MOT:	we can play house .
+MOT:	no , she +/.
+CHI:	yellow horse .
+MOT:	oop [/?] that's wrong .
+MOT:	nice reading .
+CHI:	setting +/.
+MOT:	alright , sit back .
+CHI:	Helen .
+CHI:	I did +/.
+MOT:	you needta get the color forms first .
+CHI:	yellow , blue , green , blue , yellow .
+CHI:	I'm coloring .
+MOT:	get the color forms for mama .
+MOT:	momma's not sure , but +/.
+MOT:	roger , are you gonna do the puzzle ?
+CHI:	<&mm hm:> [/?] .
+CHI:	hm: [/?] .
+MOT:	get me the red book on you desk .
+MOT:	hold this .
+MOT:	okay , but you hafta stay in this room with the airplane .
+MOT:	sit down .
+CHI:	I'm play with cup .
+MOT:	count them .
+CHI:	<one , two , three , four , five , six , seven> [/?] .
+MOT:	what's he doing ?
+CHI:	three .
+MOT:	what do you say to Helen for the present ?
+CHI:	<i see a yellow car and a boy> [/?] .
+CHI:	wanna <&-um wawa> [/?] +/.
+CHI:	I want go outside .
+CHI:	Laurie_School .
+MOT:	good , okay .
+MOT:	get the +/.
+CHI:	mamma .
+CHI:	have some .
+MOT:	number +/.
+CHI:	make it bigger ?
+MOT:	say I'm setting the table .
+MOT:	count the dolls .
+MOT:	roger , put the fruit on the table .
+CHI:	<i see a yellow horse> [/?] +/.
+CHI:	xxx .
+CHI:	blue .
+CHI:	a present !
+MOT:	oh , you can have some later .
+MOT:	are you a bad boy ?
+CHI:	it's +/.
+MOT:	look .
+CHI:	I'm got chair .
+MOT:	do you wanna go outside and play ?
+CHI:	do wanna color ?
+CHI:	quick .
+CHI:	it doctor .
+MOT:	point to the yellow horse .
+MOT:	put it right here .
+CHI:	I am building .
+CHI:	yes .
+CHI:	and the cup .
+MOT:	no who's that ?
+MOT:	look .
+MOT:	where's daddy ?
+MOT:	roger look .
+MOT:	you are .
+MOT:	do you wanna color ?
+MOT:	get Cookie_Monster ?
+MOT:	are you gonna be a good boy ?
+MOT:	no .
+CHI:	tuesday .
+MOT:	what are you doing ?
+MOT:	yes , you needta put +/.
+MOT:	no you're not .
+MOT:	that's right .
+CHI:	I need help please .
+MOT:	no , what's daddy doing outside ?
+CHI:	there .
+MOT:	now say it .
+MOT:	swallow that .
+CHI:	green feet .
+MOT:	okay , let go of the marble .
+MOT:	come over here now roger .
+CHI:	Ann .
+CHI:	get [/?] get I go to doctor ?
+CHI:	spoon time .
+CHI:	i [/?] +/.
+CHI:	saturday .
+MOT:	okay , bring your crayons and sit down .
+CHI:	no .
+MOT:	roger .
+MOT:	roger , put the chair +/.
+MOT:	okay , go to the hospital .
+CHI:	red .
+CHI:	sunday , tuesdays , wed +/.
+CHI:	<one , two , three , four , five , six , seven , eight> [/?] .
+CHI:	hi joy .
+MOT:	what do you wanna play with ?
+MOT:	don't +/.
+MOT:	turn around .
+MOT:	what are you doing roger ?
+MOT:	what are you gonna do there ?
+MOT:	nice building !
+MOT:	today is +/.
+MOT:	get the color forms .
+MOT:	I don't know .
+MOT:	oop [/?] what are you doing ?
+MOT:	he's fixing the +/.
+CHI:	mom xxx .
+CHI:	do you wanna look out to the picture ?
+CHI:	do want some fruit bar ?
+MOT:	no , you needta read .
+MOT:	listen .
+MOT:	I did it .
+CHI:	leave them a &m [/?] lone .
+CHI:	and triangle pentagon .
+CHI:	yeah .
+MOT:	boy , what are you doing roger ?
+CHI:	<one , two , three , four , five , six> [/?] .
+CHI:	can I hafta make a triangle please ?
+MOT:	roger , what's today ?
+CHI:	<a four> [/?] .
+CHI:	I set the table .
+MOT:	no , you put the microphone down .
+CHI:	do you wanna make a triangle ?
+CHI:	school .
+CHI:	no !
+MOT:	can you count them ?
+CHI:	alright .
+MOT:	ah [/?] roger what's this ?
+MOT:	do you wanna color later ?
+MOT:	<monday , tuesday> [/?] +/.
+MOT:	and what's this ?
+CHI:	tree .
+MOT:	put the other ones away .
+CHI:	I'm doing puzzle .
+MOT:	get the color forms .
+CHI:	do a Laurie_School .
+CHI:	General_Hospital .
+MOT:	I think it's stuck .
+MOT:	alright , put the color forms away .
+MOT:	read the words .
+CHI:	I am fixeding@n .
+CHI:	you are lazy .
+MOT:	you are .
+MOT:	no , say I'm opening the present .
+MOT:	who's taking pictures ?
+CHI:	&mm [/?] .
+MOT:	get the color forms .
+CHI:	circle .
+MOT:	say it right .
+MOT:	good job .
+MOT:	look at me .
+MOT:	Laura +/.
+CHI:	leave them a &m [/?] lone .
+CHI:	doll .
+MOT:	five .
+CHI:	Ma [/?] marbles are coming .
+MOT:	play with mommy ?
+CHI:	mamma .
+MOT:	roger what are you doing ?
+CHI:	do you wanna make a triangle ?
+MOT:	no , he's fixing the p@l [/?] +/.
+MOT:	what comes after tuesday ?
+MOT:	sit down .
+CHI:	do I need help ?
+CHI:	stairs .
+CHI:	yeah .
+CHI:	yep .
+CHI:	I need help mama .
+CHI:	you are lazy .
+MOT:	ask me for the +/.
+MOT:	that's nice sitting .
+CHI:	I making cross .
+CHI:	taking the picture .
+MOT:	do you wanna play , Sesame_Street color forms ?
+MOT:	let's do it all over again .
+MOT:	how many ?
+CHI:	I'm put my shirt on .
+MOT:	okay , color .
+CHI:	fell .
+MOT:	what school do you go to ?
+CHI:	do you like a knife ?
+MOT:	put it down on the floor .
+CHI:	thank you .
+MOT:	oh , it's fixed .
+CHI:	<one , two , three> [/?] .
+MOT:	oop [/?] .
+MOT:	no , what am I doing ?
+MOT:	roger , do you wanna play with the color forms ?
+MOT:	who do you go swimming at the Boys_Club with ?
+MOT:	where does the chair go ?
+MOT:	okay .
+CHI:	I make +/.
+MOT:	look at me .
+MOT:	that's right .
+MOT:	&t [/?] turn around .
+CHI:	do I need help ?
+MOT:	sit down roger .
+CHI:	look up .
+CHI:	yes .
+MOT:	no roger , you hafta put them on +/.
+MOT:	no , put your feet down .
+MOT:	yes , you are .

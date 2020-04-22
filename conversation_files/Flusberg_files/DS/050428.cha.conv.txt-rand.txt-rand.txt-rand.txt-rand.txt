@@ -1,0 +1,589 @@
+participant	content
+CHI:	count .
+MOT:	okay now .
+CHI:	<jingle bells> [/?] .
+MOT:	okay , put it in .
+MOT:	where you going ?
+MOT:	do you know that song ?
+MOT:	one [/?] .
+CHI:	hey [/?] Gail .
+MOT:	come here Bob .
+CHI:	<up and down> [/?] .
+MOT:	Helen .
+CHI:	Ernie , Grover .
+CHI:	thank you .
+MOT:	what do you say ?
+MOT:	you wanna sing a song ?
+MOT:	all fixed .
+MOT:	come here .
+MOT:	what's this ?
+MOT:	Billy do .
+MOT:	what you +/.
+CHI:	<huh &-uh> [/?] !
+MOT:	<run away> [/?] .
+MOT:	<the wheels on the bus go> [/?] +/.
+CHI:	okay .
+CHI:	momma .
+CHI:	<jingle bells> [/?] .
+CHI:	okay .
+MOT:	a bed .
+MOT:	what's this look like ?
+CHI:	ah [/?] .
+CHI:	go bye .
+CHI:	two [/?] .
+CHI:	<hello dawn> [/?] .
+MOT:	come here honey .
+MOT:	what is it ?
+CHI:	put back .
+MOT:	that's Billy's book .
+MOT:	<where is pinkie> [/?] ?
+MOT:	the wheels on the bus +/.
+MOT:	okay <let's> [/?] let's play what's inside here ?
+MOT:	let me open .
+MOT:	and see what's in here .
+MOT:	a well .
+MOT:	you gonna be a good boy ?
+MOT:	who's this ?
+MOT:	what Billy ?
+MOT:	what do you say ?
+CHI:	oh , broke it .
+CHI:	I did .
+CHI:	okay .
+MOT:	<how are you today sir> [/?] ?
+CHI:	yeah .
+MOT:	very good .
+MOT:	wanna count ?
+CHI:	<hello dawn> [/?] .
+CHI:	no !
+MOT:	<here I am> [/?] .
+MOT:	no , stay here .
+CHI:	xxx .
+MOT:	okay .
+MOT:	no .
+MOT:	let's do the wheels on the bus .
+MOT:	ah [/?] .
+MOT:	ready .
+MOT:	now what do you wanna do ?
+MOT:	that's a book .
+CHI:	yeah .
+MOT:	<how are you today sir> [/?] ?
+MOT:	wanna sing “baby on the bus” ?
+MOT:	how about the baby on the bus ?
+CHI:	it's a tree .
+CHI:	xxx .
+MOT:	here sit down .
+CHI:	where car ?
+CHI:	baba [/?] house .
+CHI:	oh , .
+CHI:	I putting it in .
+MOT:	come on .
+CHI:	hey [/?] .
+MOT:	what's that ?
+MOT:	good .
+MOT:	thank you .
+MOT:	Cheryl's gonna get your record player .
+MOT:	what ?
+MOT:	<mother hubbard down in the cellar> [/?] .
+MOT:	what's +/.
+CHI:	what's that ?
+MOT:	let's open .
+MOT:	<cinderella on the stairs> [/?] .
+CHI:	ah [/?] .
+MOT:	open it up .
+MOT:	wanna open ?
+MOT:	<I spy baby bunting> [/?] .
+MOT:	use Billy's fingers .
+MOT:	come on .
+MOT:	that's what you think of .
+MOT:	come here .
+MOT:	what's this ?
+MOT:	no .
+MOT:	you need help ?
+CHI:	where colors ?
+CHI:	ah [/?] .
+MOT:	<three bears out hunting> [/?] .
+MOT:	say thank you .
+MOT:	Christopher isn't napping I gather .
+CHI:	xxx I put it up .
+CHI:	I put open door .
+MOT:	turn it on .
+MOT:	sing a song .
+MOT:	<I spy cinderella> [/?] .
+MOT:	where's dawn ?
+CHI:	no !
+MOT:	<very fine today sir> [/?] .
+MOT:	I help you .
+MOT:	where's your book ?
+CHI:	all done .
+CHI:	ah [/?] .
+MOT:	okay , let's do this one .
+MOT:	hang it up .
+CHI:	ah [/?] .
+MOT:	bless you .
+MOT:	okay , you wanna look at the book ?
+MOT:	you wanna do pinkie ?
+MOT:	wanna do farmer in the dell ?
+CHI:	no !
+CHI:	<up and down> [/?] .
+MOT:	look at Cheryl .
+MOT:	what is it ?
+MOT:	you like this one , huh [/?] ?
+MOT:	who's that right there ?
+MOT:	Cheryl's not going to hurt it .
+CHI:	all done .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	what ?
+MOT:	ah [/?] .
+MOT:	not Grover , Cookie_Monster .
+CHI:	<up and down> [/?] .
+CHI:	oh , .
+MOT:	that helps .
+MOT:	hi Billy .
+MOT:	in .
+MOT:	very good .
+CHI:	<hello dawn> [/?] .
+MOT:	open the car right here .
+MOT:	you know which record is which .
+MOT:	<that's the way the xxx goes> [/?] .
+MOT:	yeah .
+MOT:	<big bird hou> [/?] Big_Bird house ?
+CHI:	&mm [/?] yeah .
+MOT:	all done .
+CHI:	xxx .
+MOT:	what's this ?
+CHI:	arms up .
+CHI:	xxx .
+CHI:	bye xxx .
+CHI:	put back .
+CHI:	pinkie .
+MOT:	good_night Ernie .
+MOT:	oh , does he wanna go night_night ?
+MOT:	three bears .
+MOT:	look it .
+CHI:	yeah .
+CHI:	xxx pump .
+MOT:	dawn gonna come home on the bus ?
+CHI:	oh , .
+CHI:	alright .
+CHI:	okay .
+CHI:	yeah .
+CHI:	lap .
+CHI:	<sh sh> [/?] .
+MOT:	you do .
+CHI:	turn .
+MOT:	can you fix it ?
+MOT:	thank you .
+CHI:	all done .
+MOT:	let's look at the pictures .
+MOT:	because that's Ernie .
+CHI:	<oh oh> [/?] .
+MOT:	here , hang this up Bob .
+MOT:	I think we gotta wind it up again , though .
+MOT:	no , yeah , why don't you put the tea bag in the cup and let it sit
+MOT:	does Ernie wanna go night_night ?
+MOT:	oh , .
+CHI:	<hello dawn> [/?] .
+CHI:	in bag .
+CHI:	hey [/?] .
+MOT:	hello Billy .
+MOT:	<no no no no no> [/?] no .
+CHI:	put back .
+CHI:	hello .
+MOT:	I help .
+CHI:	hello [/?] .
+MOT:	look .
+MOT:	you wanna read ?
+MOT:	go look it .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	good_night ern [/?] Bert .
+MOT:	<here I am> [/?] .
+MOT:	I help .
+CHI:	xxx Billy's cars .
+CHI:	I put it up .
+MOT:	what's this ?
+MOT:	okay , in there .
+MOT:	what are they doing ?
+MOT:	what's that ?
+MOT:	yeah fine .
+CHI:	three bears .
+MOT:	let's play with this stuff over here .
+MOT:	you don't wanna play with the book no more ?
+CHI:	<hey , hey> [/?] Christopher .
+CHI:	it [/?] it pinkie .
+MOT:	<the wheels on the bus> [/?] +/.
+CHI:	ah [/?] .
+CHI:	<toys toys> [/?] toys .
+MOT:	you need help ?
+MOT:	where's dawn ?
+MOT:	gonna do clean up ?
+CHI:	I want pinkie .
+MOT:	don't cry .
+CHI:	hey [/?] momma .
+CHI:	<oh oh oh> [/?] .
+MOT:	three bears .
+CHI:	dododo [/?] .
+MOT:	<here I am> [/?] .
+MOT:	come here .
+CHI:	xxx .
+MOT:	<the monkey chased the weasel> [/?] .
+MOT:	what are they doing ?
+CHI:	what's that ?
+MOT:	wanna do the baby on the bus goes round and round ?
+MOT:	Billy do .
+MOT:	hey [/?] .
+CHI:	hey [/?] .
+MOT:	last summer .
+CHI:	ha[/?] .
+CHI:	xxx .
+CHI:	hey [/?] .
+CHI:	okay .
+MOT:	gonna give Cheryl one ?
+MOT:	yeah .
+MOT:	oop [/?] I think it opens this way , huh [/?] ?
+CHI:	okay .
+CHI:	<more , more> [/?] more .
+CHI:	ah [/?] one .
+MOT:	you gotta wind it up .
+MOT:	<baby on the bus> [/?] +/.
+MOT:	how are you ?
+MOT:	ooh [/?] .
+MOT:	you did it the other day .
+MOT:	Bob .
+MOT:	yeah , the doll's sposta go in there .
+MOT:	boy , that was tough , huh [/?] ?
+MOT:	you gonna cry ?
+CHI:	xxx car .
+CHI:	mmmmm [/?] .
+MOT:	listen .
+MOT:	wanna play ?
+CHI:	xxx .
+MOT:	here it comes .
+CHI:	okay .
+MOT:	open , yeah .
+CHI:	hi .
+MOT:	it's just gonna run out anyway .
+MOT:	watch .
+MOT:	oh , good boy .
+MOT:	see the eyes ?
+CHI:	there .
+MOT:	good .
+MOT:	no .
+MOT:	<the wheels on the bus go round and round> [/?] .
+CHI:	ah [/?] .
+CHI:	Billy sing .
+MOT:	<here I am> [/?] .
+CHI:	no !
+CHI:	xxx .
+MOT:	<pop goes the weasel> [/?] .
+MOT:	two [/?] .
+MOT:	<here I am> [/?] .
+CHI:	no .
+CHI:	okay .
+CHI:	xxx .
+CHI:	<sh sh> [/?] .
+MOT:	okay .
+MOT:	let's fix .
+MOT:	no you close the door .
+MOT:	okay , gotta hang it up .
+MOT:	<run away> [/?] .
+MOT:	wanna go play with the garage ?
+MOT:	<the baby on the bus> [/?] +/.
+CHI:	<oh oh oh> [/?] .
+CHI:	xxx my mine .
+CHI:	wow [/?] .
+MOT:	wanna sit in my lap ?
+MOT:	oh , .
+CHI:	okay , here you go .
+MOT:	go .
+MOT:	pointy .
+MOT:	blue .
+CHI:	<up and down> [/?] .
+MOT:	stay here .
+MOT:	hang it +/.
+CHI:	xxx bye .
+CHI:	mama .
+MOT:	push it down .
+MOT:	now we can do where is pointy .
+MOT:	here , let me wind it up first .
+CHI:	xxx .
+MOT:	oh „ Cheryl's gonna do it again .
+MOT:	<up and down> [/?] .
+MOT:	okay .
+MOT:	sing .
+CHI:	set .
+MOT:	what's this ?
+MOT:	what color ?
+CHI:	byebye .
+CHI:	<jingle bells> [/?] .
+MOT:	Cheryl .
+MOT:	you wanna put it back ?
+CHI:	xxx .
+MOT:	oh , .
+CHI:	xxx .
+CHI:	<jingle bells> [/?] .
+CHI:	ah [/?] .
+MOT:	what happened ?
+CHI:	xxx .
+CHI:	Billy .
+CHI:	no .
+CHI:	put back .
+MOT:	Bob , did you do it ?
+CHI:	hey [/?] Christopher .
+MOT:	let's open .
+MOT:	want me help ?
+MOT:	here .
+MOT:	dawn's in school .
+CHI:	xxx .
+MOT:	I think Ernie xxx .
+CHI:	hey [/?] .
+CHI:	xxx .
+CHI:	three bears .
+MOT:	you're at day camp .
+CHI:	<wheels on the bus go round and round> [/?] .
+CHI:	yeah .
+MOT:	that's Billy's book .
+MOT:	here look .
+MOT:	it's a tree , yeah .
+CHI:	<do do do do do> [/?] do .
+CHI:	xxx .
+MOT:	you gotta wind up .
+CHI:	three .
+CHI:	oh , no .
+MOT:	wrong way , turn it around .
+CHI:	byebye .
+MOT:	<here I am> [/?] .
+MOT:	lap , yeah .
+MOT:	<here I am> [/?] .
+CHI:	got my toys .
+CHI:	oh , .
+CHI:	owow [/?] .
+MOT:	<round and round> [/?] .
+CHI:	open .
+MOT:	wanna make a new face ?
+CHI:	xxx .
+CHI:	hand .
+MOT:	did you fix that ?
+MOT:	Billy do .
+CHI:	<jingle bells> [/?] .
+CHI:	oh , .
+CHI:	oh , .
+MOT:	is that a noisy toy ?
+CHI:	xxx .
+MOT:	okay .
+CHI:	I did it !
+MOT:	okay .
+CHI:	oh , .
+MOT:	what do you got ?
+CHI:	xxx fix .
+CHI:	xxx .
+MOT:	sing a song .
+CHI:	xxx mama .
+CHI:	okay .
+MOT:	thank you .
+CHI:	out it back up .
+CHI:	xxx Cheryl .
+MOT:	how many bowls ?
+MOT:	you angry ?
+CHI:	xxx .
+MOT:	<can I> [/?] can we look at the book again ?
+CHI:	<jingle bells> [/?] .
+MOT:	you sorry ?
+MOT:	<where is pointy> [/?] ?
+MOT:	you want me to gas Ernie up ?
+CHI:	xxx .
+MOT:	what do you say ?
+MOT:	who else is here ?
+MOT:	wanna do where is pointy ?
+CHI:	oh , .
+MOT:	arms up .
+MOT:	oh , who's this ?
+CHI:	xxx .
+CHI:	one [/?] .
+MOT:	what ?
+CHI:	<hello dawn> [/?] .
+CHI:	ready .
+CHI:	where car ?
+CHI:	xxx .
+MOT:	<run away> [/?] .
+MOT:	all done ?
+CHI:	do on .
+MOT:	here it is .
+CHI:	no .
+MOT:	wow [/?] .
+MOT:	let's do where is pointy .
+CHI:	xxx .
+CHI:	<hello dawn> [/?] .
+MOT:	you alright ?
+MOT:	stay here .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	<up and down> [/?] .
+MOT:	who's that up there ?
+MOT:	let's open .
+MOT:	count them .
+CHI:	oh , .
+CHI:	&-uh [/?] .
+MOT:	toys ?
+MOT:	what's this ?
+MOT:	Bob .
+CHI:	<hello dawn> [/?] .
+CHI:	bye .
+MOT:	where's Billy's book ?
+MOT:	what's this ?
+CHI:	no [/?] no .
+MOT:	where's dawn ?
+CHI:	<jingle bells> [/?] .
+CHI:	bear bears .
+MOT:	what's this ?
+MOT:	she gonna cry .
+CHI:	<&ba &ba> [/?] pinkie .
+CHI:	xxx back .
+MOT:	all done ?
+MOT:	bye ?
+MOT:	you did it .
+MOT:	yeah .
+MOT:	<round and round> [/?] .
+MOT:	you need some more gas .
+CHI:	I want bye .
+CHI:	I xxx .
+MOT:	wanna go play with your garage ?
+MOT:	look it .
+CHI:	xxx .
+CHI:	<ah ee> [/?] .
+CHI:	no close .
+MOT:	listen .
+CHI:	open open .
+MOT:	what's this ?
+MOT:	<I spy the three bears> [/?] .
+MOT:	what's this ?
+MOT:	yeah .
+MOT:	<how are you today sir> [/?] ?
+CHI:	xxx .
+CHI:	here .
+CHI:	hey [/?] .
+CHI:	<hello dawn> [/?] .
+CHI:	xxx xxx .
+MOT:	hang it up .
+MOT:	good boy .
+CHI:	okay look_it mom .
+CHI:	I want xxx pinkie .
+CHI:	oh , .
+MOT:	you covering it up ?
+MOT:	I think he's tired .
+MOT:	all fixed .
+CHI:	xxx color .
+MOT:	look_it .
+CHI:	no .
+MOT:	wanna look at the book ?
+CHI:	xxx .
+CHI:	xxx .
+CHI:	a xxx .
+MOT:	no , not yet .
+MOT:	<come here , come here , come here , come here> [/?] come here .
+MOT:	Billy .
+MOT:	Frere_Jaques .
+CHI:	the bears .
+MOT:	why ?
+CHI:	I play those .
+CHI:	no .
+CHI:	<round and round> [/?] .
+CHI:	hey [/?] .
+CHI:	the farmer in the dell .
+MOT:	Billy what's over there ?
+CHI:	okay .
+MOT:	<where is pointy> [/?] ?
+MOT:	what ?
+CHI:	xxx back .
+CHI:	no .
+CHI:	<jingle bells> [/?] .
+CHI:	<hello dawn> [/?] .
+CHI:	hey [/?] momma .
+MOT:	let's take his nose off .
+CHI:	okay .
+MOT:	what happened ?
+MOT:	alright .
+MOT:	<one , two , three> [/?] .
+MOT:	what's this ?
+CHI:	go .
+CHI:	xxx .
+MOT:	turn it around .
+MOT:	come here .
+MOT:	Bob .
+MOT:	what's that ?
+CHI:	pinkie .
+CHI:	where pinkie .
+MOT:	<up and down> [/?] .
+MOT:	let's put him to sleep .
+MOT:	what's this ?
+CHI:	xxx byebye .
+CHI:	okay .
+MOT:	say thank you .
+CHI:	pinkie .
+CHI:	look_it .
+CHI:	xxx .
+CHI:	<sh sh> [/?] .
+MOT:	Bob .
+CHI:	why ?
+CHI:	three [/?] .
+CHI:	xxx .
+MOT:	that's not dawn .
+MOT:	did I hurt your foot ?
+MOT:	oh , good .
+CHI:	put bag .
+MOT:	blue .
+CHI:	<round and round> [/?] .
+CHI:	no !
+MOT:	hi Christopher .
+MOT:	put it right back in there .
+MOT:	let me help you wind it up .
+MOT:	yeah , the water's already boiled .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	that's what they did at day camp , huh [/?] ?
+CHI:	Ernie , Grover .
+MOT:	go ahead .
+MOT:	thank you .
+CHI:	<oh oh oh oh oh oh> [/?] .
+CHI:	a xxx .
+MOT:	three [/?] .
+MOT:	let's turn it around so you can see what you're doing here .
+MOT:	okay .
+MOT:	Billy sing .
+CHI:	color .
+MOT:	who is it ?
+CHI:	byebye .
+CHI:	xxx .
+MOT:	is Billy being Santa_Clause ?
+MOT:	arms up .
+CHI:	xxx .
+MOT:	what's this ?
+MOT:	it's for you .
+CHI:	no !
+CHI:	there .
+CHI:	open xxx up .
+CHI:	pinkie .
+CHI:	xxx put back .
+MOT:	Cheryl took all those out on you .
+MOT:	<where is pointy> [/?] ?
+MOT:	<run away> [/?] .
+MOT:	Billy .
+CHI:	day [/?] day camp .
+MOT:	it all done ?
+MOT:	can we +/.
+CHI:	yeah .
+MOT:	bye .
+MOT:	you doing clean+up .
+CHI:	okay .
+MOT:	oh , .
+MOT:	set .
+MOT:	I don't think we have all the figures in here .
+CHI:	<la la la la la la la> [/?] .
+MOT:	watch .
+MOT:	yay [/?] .
+CHI:	here .
+MOT:	<where is pointy> [/?] ?
+MOT:	pinkie .
+MOT:	<wheels on the bus go round and round> [/?] .
+MOT:	whoa [/?] .

@@ -1,0 +1,174 @@
+participant	content
+INV:	tell me one more thing about the picture .
+INV:	the boys are fighting .
+INV:	tell me one more thing about the picture .
+CHI:	<him xxx> [/?] him [^ ew:he] [^ epronoun] 0is [^ ev] getting the
+INV:	the boy is trying to get the cookies .
+INV:	what's happening in the picture ?
+INV:	what else is happening in this <picture> [>] ?
+INV:	tell me one more thing about the picture .
+INV:	the dog is in front of the bus .
+CHI:	they got boo_boos [^ ns] .
+CHI:	the dog <splash> [/?] splash [^ ev] [^ earg] [^ eu] .
+CHI:	hands [^ ns] .
+INV:	and what's going to happen next ?
+CHI:	the girl get [^ ev] daddy's hat [^ eu] .
+CHI:	the girl is running .
+INV:	tell me one more thing about the picture .
+CHI:	him wagging the tail [^ ns] .
+INV:	and what's going to happen next ?
+CHI:	the girl 0is [^ ev] looking at the dad [^ eu] .
+INV:	her xxx +...
+INV:	sorry ?
+INV:	the boy is taking his grandma's scissors .
+CHI:	and the dad 0is [^ ev] putting toast in [^ ew:on] [^ emorph] the
+CHI:	get the oranges [^ ns] .
+CHI:	<&h him pull> [/?] him [^ ew:he] [^ epronoun] pull [^ ev] the
+CHI:	0 .
+CHI:	the mom is so angry .
+CHI:	<her> [/?] her [^ ew:she] [^ epronoun] 0is [^ ev] looking at her
+INV:	say that again .
+INV:	the dog splashed what ?
+INV:	tell me one more thing about the picture .
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+CHI:	[^ earg] <got> [<] boo_boos [^ eu] .
+CHI:	he got dad's belt .
+CHI:	the dad bought a new present .
+CHI:	<m> [/?] they're throwing snowballs .
+CHI:	<her> [/?] her [^ ew:she] [^ epronoun] 0is [^ ev] looking at the
+INV:	what else is happening in this picture ?
+CHI:	<her> [/?] the brother get [^ ev] also [^ other] wet [^ eu] .
+INV:	tell me one more thing about the picture .
+INV:	what else do you see in the picture ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	tell me one more thing about the picture .
+CHI:	the mom 0is [^ ev] washing dishes [^ eu] .
+CHI:	&um the daddy [^ frag] [^ eu] .
+CHI:	<he> [/?] her [^ ew:she] [^ epronoun] 0is [^ ev] running [^ eu] .
+INV:	the children are taking the donuts from the bag .
+CHI:	<the> [/?] him [^ ew:he] [^ epronoun] 0is [^ ev] wagging 0his
+CHI:	him [^ ew:he] [^ epronoun] 0is [^ ev] trying to drive the bus
+CHI:	<he spilled> [/?] her [^ ew:she] [^ epronoun] knock [^ ev] all over
+CHI:	&um him [^ ew:he] [^ epronoun] 0is [^ ev] wagging 0his [^ emorph]
+INV:	what ?
+CHI:	&um [^ earg] say no [^ eu] .
+INV:	her looking at her hands, right ?
+CHI:	&uh [^ earg] taking the dog [^ eu] .
+INV:	oh, splashed the girl .
+CHI:	&um her [^ ew:she] [^ epronoun] 0is [^ ev] hugging her daddy [^ eu]
+INV:	and here comes the mom .
+INV:	what else is happening in this picture ?
+INV:	oh_no, the bubbles spilled .
+CHI:	the mom's running .
+CHI:	&um him [^ ew:he] [^ epronoun] 0is [^ ev] <raking> [/?] raking the
+INV:	say that again .
+INV:	the daddy is hiding a doll behind his back .
+INV:	tell me one more thing about the picture .
+INV:	say that again .
+INV:	the children see the cat .
+INV:	just tell me anything else about the picture .
+INV:	what's happening in the picture ?
+INV:	hands ?
+INV:	what's happening in the picture ?
+INV:	just tell me anything else about the picture .
+CHI:	her [^ ew:she] [^ epronoun] got her shoes on her hands [^ eu] .
+CHI:	they 0are [^ ev] building a snowman [^ eu] .
+INV:	what is going to happen next ?
+INV:	what's going to happen next ?
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+INV:	what's going to happen next ?
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] driving [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	her [^ ew:she] [^ epronoun] have [^ ew:has] [^ ev] to change [^ eu]
+INV:	and what's going to happen next ?
+CHI:	they're trying to put the leafs in .
+CHI:	&um her [^ ew:she] [^ epronoun] 0is [^ ev] pushing 0the [^ emorph]
+CHI:	0the [^ emorph] kids <xxx> [/?] want <some more> [/?] some more
+CHI:	[^ earg] putting the bucket away [^ eu] .
+INV:	tell me one more thing about the story .
+INV:	and the bus can't move .
+INV:	and the dog ran away .
+INV:	what else is happening in this picture ?
+INV:	they raked the leaves into a big pile .
+CHI:	there's a hose .
+INV:	what's going to happen next ?
+INV:	what's going to happen next ?
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+CHI:	[^ earg] putting <in> [/?] [^ earg] in the garbage [^ eu] .
+CHI:	her [^ ew:she] [^ epronoun] spilled the bubbles [^ eu] .
+CHI:	the girl [^ ns] .
+CHI:	her hands [^ ns] .
+CHI:	he go [^ ev] under the couch [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	&um her [^ ew:she] [^ epronoun] 0is [^ ev] yawning [^ eu] .
+CHI:	him [^ ew:he] [^ epronoun] knock [^ ev] <down> [/?] down [^ earg]
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+CHI:	the dad says ssh .
+INV:	and what's going to happen next ?
+INV:	her driving, good job .
+CHI:	<him taking> [/?] her [^ ew:she] [^ epronoun] give [^ ev] a donut
+INV:	the children are trying to wash the dog .
+CHI:	<him gon> [/?] him [^ ew:he] [^ epronoun] 0is [^ ev] gonna give it
+INV:	what else is happening in this picture ?
+CHI:	him [^ ew:he] [^ epronoun] 0is [^ ev] getting new [^ ?] cookies
+INV:	what else is happening in this picture ?
+CHI:	<him> [/?] he had the [^ ew:a] blue nose .
+CHI:	the cat's stuck in the tree .
+INV:	what's going to happen next ?
+CHI:	<&h him> [/?] him [^ ew:he] [^ epronoun] 0is [^ ev] looking at the
+INV:	the boys are throwing snowballs .
+INV:	what's going to happen next ?
+CHI:	daddy xxx +...
+INV:	what's happening in the picture ?
+CHI:	<pulling> [/?] them [^ ew:they] [^ epronoun] 0are [^ ev] pulling
+INV:	what's going to happen next ?
+INV:	the boy knocked the boxes off the shelf .
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	the boy what ?
+INV:	the girl what ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] wiping the plate [^ eu] .
+INV:	and the cat is stuck up in the tree .
+CHI:	<ask him> [/?] the momma ask [^ ew:tell] [^ ev] [^ elexical] the
+INV:	tell me one more thing about the picture .
+INV:	the little girl is still in her pajamas .
+INV:	her what ?
+INV:	what's happening in the picture ?
+INV:	and what's going to happen next ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] blowing bubbles [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] looking at the boy [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	get also wet [^ ns] .
+INV:	tell me one more thing about the picture .
+CHI:	him [^ ew:he] [^ epronoun] 0is [^ ev] sad [^ eu] .
+CHI:	&um the girl said (.) xxx doing that .
+INV:	say that again .
+CHI:	<the> [/?] the boy hold [^ ev] his dad's tie [^ eu] .
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+CHI:	[^ earg] washed the hands [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	tell me one more thing about the picture .
+CHI:	&um they're patting [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	there's a hose [^ ns] .
+CHI:	the water's &um gonna spill on the floor .
+CHI:	<&um the dad> [/?] the mom 0is [^ ev] pouring juicie [^ ew:juice]
+CHI:	[^ earg] make footprints [^ eu] .
+CHI:	<&um mom> [/?] the mom 0is [^ ev] digging [^ eu] .
+INV:	just tell me anything else in the picture .
+INV:	the dog ate some of the cake .
+CHI:	the girl [^ ns] .
+CHI:	[^ earg] being quiet [^ eu] .
+CHI:	&um him [^ ew:he] [^ epronoun] knock [^ ev] over [^ earg] [^ eu] .
+INV:	tell me one more thing about the picture .
+INV:	the dog and the girl have the daddy's shoes .

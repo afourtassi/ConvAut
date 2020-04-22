@@ -1,0 +1,555 @@
+participant	content
+MOT:	good boy .
+MOT:	doll ?
+MOT:	huh ?
+CHI:	xxx .
+MOT:	wanna sing ?
+MOT:	pull it .
+MOT:	oh , squeeze them .
+MOT:	okay .
+CHI:	xxx .
+MOT:	you needta say excuse me .
+MOT:	is [/?] that what was [/?] the matter with you ?
+CHI:	like it .
+CHI:	xxx .
+MOT:	you sing for me .
+CHI:	hi Stuart .
+MOT:	what do you want Stuart ?
+MOT:	look at me .
+CHI:	mama I want squeeze .
+CHI:	momma .
+MOT:	Stuart .
+MOT:	Stuart , look .
+MOT:	huh ?
+MOT:	I think he doesn't work Stuart .
+CHI:	momma .
+MOT:	you sitting down with mommy ?
+CHI:	socks .
+MOT:	yeah .
+MOT:	right ?
+MOT:	use two hands .
+MOT:	Stuart ?
+MOT:	you wanna kiss him ?
+MOT:	sing Rock_A_Bye_Baby .
+CHI:	<wheel on bus> [/?] .
+MOT:	huh ?
+MOT:	that's nice writing .
+CHI:	mama I want water , please .
+CHI:	socks .
+MOT:	what is [/?] it ?
+MOT:	open ?
+MOT:	and what else do they have in school ?
+MOT:	hold this .
+MOT:	help me .
+MOT:	<the wheels on the bus go> [/?] +/.
+MOT:	no ?
+MOT:	here's a toy for you .
+CHI:	mama get it .
+MOT:	oh , you love that paper .
+CHI:	xxx .
+MOT:	wow [/?] a nice circle you made .
+MOT:	what do you say ?
+MOT:	you_all done ?
+MOT:	and what's that ?
+MOT:	look at me .
+MOT:	and dots and circles .
+MOT:	and put them on .
+CHI:	Stuart .
+MOT:	no , you needta say hi Big_Bird .
+MOT:	nice .
+MOT:	want help ?
+MOT:	you are a good boy .
+CHI:	need go .
+CHI:	<woof , woof> [/?] .
+MOT:	you wanna call papa ?
+MOT:	and Pam .
+MOT:	hurry up .
+MOT:	what do you say ?
+CHI:	look .
+MOT:	Mickey_Mouse .
+CHI:	squeeze .
+MOT:	you erase it .
+MOT:	call daddy .
+MOT:	call papa ?
+MOT:	do you like that song ?
+CHI:	rock_a_(bye)_baby .
+MOT:	wait a minute .
+MOT:	is [/?] he gonna dance ?
+MOT:	here you go .
+MOT:	oh , good boy .
+CHI:	squeeze .
+MOT:	hey .
+CHI:	xxx .
+MOT:	and do you know what this is [% uc] ?
+MOT:	you needta sit up .
+MOT:	yeah .
+MOT:	good boy .
+CHI:	all done .
+MOT:	you wanna go see +/.
+MOT:	ready ?
+CHI:	thank you .
+MOT:	that's nice .
+MOT:	Stuart's a good boy .
+MOT:	shoes .
+MOT:	that's nice .
+CHI:	need .
+MOT:	here that's right .
+MOT:	Stuart , can you tell me what the duck says ?
+MOT:	you wanna erase ?
+MOT:	Stuart do you see the rainbow in school ?
+CHI:	excuse me .
+CHI:	daddy .
+MOT:	like this .
+MOT:	hi .
+MOT:	put your hands down .
+MOT:	you're smart .
+MOT:	that's nice asking .
+MOT:	eyes .
+MOT:	what do you want ?
+MOT:	Stuart , look .
+MOT:	do you wanna play with it ?
+MOT:	huh ?
+MOT:	book .
+MOT:	you write with the chalk .
+CHI:	Mickey_Mouse .
+MOT:	okay .
+MOT:	what does a doggy do ?
+CHI:	fine .
+MOT:	it's a present .
+CHI:	da [/?] .
+CHI:	<gonna roll> [/?] .
+MOT:	that's nice asking , let's go .
+MOT:	that's right .
+MOT:	good boy .
+MOT:	<oop , oop> [/?] .
+MOT:	how about the school song ?
+MOT:	write .
+MOT:	yep , Big_Bird .
+MOT:	see all the blocks .
+MOT:	that's right .
+CHI:	<rock a baby top> [/?] .
+MOT:	doggy .
+CHI:	M [/?] +/.
+CHI:	Stuart_Vicari .
+CHI:	row .
+MOT:	good boy .
+MOT:	what do you want Stuart ?
+MOT:	look .
+CHI:	Mickey_Mouse .
+MOT:	good boy .
+CHI:	hi papa .
+MOT:	Stuart's a good boy .
+MOT:	there's your name .
+MOT:	erase ?
+CHI:	<round and round> [/?] .
+MOT:	circle .
+CHI:	book .
+MOT:	right ?
+MOT:	alright .
+MOT:	pictures .
+MOT:	socks ?
+MOT:	yeah , good boy .
+MOT:	oh , good .
+MOT:	what do you want ?
+MOT:	you wanna sing Row_Row_Your_Boat .
+MOT:	<and the mommy's on the bus say , sh@si sh@si sh@si > [/?] .
+CHI:	Mickey_Mouse .
+MOT:	look .
+MOT:	come here .
+MOT:	Tricia .
+MOT:	good .
+CHI:	doll .
+MOT:	this is your book .
+MOT:	toy .
+MOT:	what do they do ?
+MOT:	here .
+MOT:	it says Stuart .
+MOT:	you wanna go to school ?
+CHI:	row .
+MOT:	I think I'll put that away .
+CHI:	water .
+MOT:	look at this .
+MOT:	blocks .
+CHI:	squeeze .
+MOT:	oh , good boy .
+MOT:	hi .
+MOT:	come on .
+MOT:	do you need help ?
+MOT:	that's right .
+CHI:	balloon .
+MOT:	you wanna sing ?
+MOT:	oh , good boy .
+MOT:	you make him dance .
+MOT:	where are [/?] you going ?
+MOT:	you can write .
+CHI:	help .
+MOT:	and his feet .
+CHI:	fine .
+MOT:	we're gonna do beep .
+MOT:	and how are [/?] you ?
+MOT:	hey Stuart , can you count for me ?
+MOT:	you're a good boy .
+MOT:	and they use the scissors .
+CHI:	momma I want xxx +/.
+MOT:	Stuart look .
+MOT:	where are [/?] you going ?
+MOT:	what do you have Stuart ?
+MOT:	what's this ?
+MOT:	hi .
+MOT:	how about <abcs> [/?] ?
+MOT:	let's see what I have .
+MOT:	eyes .
+MOT:	see his eyes ?
+MOT:	look at that .
+MOT:	here .
+MOT:	this is buddy .
+MOT:	are [/?] you ready Stuart ?
+MOT:	yeah , beautiful .
+MOT:	two legs .
+CHI:	block .
+MOT:	they go +/.
+CHI:	hi .
+MOT:	look .
+MOT:	mama .
+MOT:	do you want mama to help you write your name ?
+MOT:	huh ?
+MOT:	what's the matter ?
+MOT:	what's your name ?
+MOT:	you're a good boy .
+MOT:	that's a block .
+MOT:	mama get it .
+MOT:	Big_Bird .
+MOT:	what do I have for you ?
+MOT:	get it .
+MOT:	you like it ?
+CHI:	momma , I want erase .
+MOT:	<beep , beep> [/?] beep .
+MOT:	make them go over ?
+MOT:	are [/?] you somewhere else today ?
+MOT:	yeah .
+CHI:	need .
+MOT:	that's his feet .
+MOT:	oh , you're opening them ?
+MOT:	oh , chalk .
+MOT:	look at me .
+MOT:	you wanna write ?
+MOT:	do you wanna erase ?
+MOT:	yeah .
+MOT:	say mama get it .
+CHI:	xxx .
+MOT:	huh ?
+MOT:	Stuart ?
+MOT:	you wanna write ?
+CHI:	leg .
+MOT:	huh ?
+MOT:	one , two .
+MOT:	hey , hi .
+MOT:	help .
+MOT:	you wanna call daddy ?
+MOT:	say bye .
+MOT:	wanna squeeze ?
+MOT:	hey .
+CHI:	I want water .
+CHI:	hi bird .
+MOT:	row boat .
+MOT:	hi Big_Bird .
+CHI:	I want squeeze .
+MOT:	what are [/?] you talking about ?
+MOT:	circle .
+MOT:	you say .
+MOT:	doll .
+MOT:	here .
+MOT:	dance and dance .
+MOT:	look it's a present .
+MOT:	one , two legs .
+MOT:	look .
+MOT:	do you like it ?
+MOT:	what a good job writing .
+MOT:	oh , .
+MOT:	alright .
+CHI:	Big_Bird .
+CHI:	need toilet .
+CHI:	ready , get .
+MOT:	erase it .
+MOT:	look at me .
+MOT:	Stuart ?
+MOT:	lalalala [/?] .
+CHI:	xxx .
+MOT:	no .
+MOT:	he says hi .
+MOT:	you wanna sing some more with momma ?
+CHI:	doggy .
+CHI:	xxx .
+CHI:	Big_Bird .
+MOT:	you gonna go to school today ?
+CHI:	Stuart_Vicari .
+MOT:	legs .
+MOT:	Mickey_Mouse .
+MOT:	and what else do they have ?
+MOT:	after school .
+MOT:	Stuart's toy .
+MOT:	yeah , good boy .
+MOT:	these are pants .
+MOT:	it's a toy .
+MOT:	legs .
+MOT:	look what I have .
+CHI:	Tricia .
+MOT:	oh , look at that Stuart .
+MOT:	one minute .
+MOT:	look .
+MOT:	you wanna sing wheels on the bus ?
+CHI:	Mickey_Mouse .
+MOT:	squeeze .
+MOT:	good boy .
+MOT:	little legs .
+MOT:	ready ?
+MOT:	no , <that's> [/?] your teacher's name is Tricia .
+MOT:	good boy Stuart .
+MOT:	huh ?
+MOT:	what's that ?
+MOT:	what ?
+MOT:	good boy .
+MOT:	how about we sing rock_a_bye_baby ?
+CHI:	squeeze .
+MOT:	and mama's putting them on .
+MOT:	tickle [/?] tickle .
+MOT:	Stuart , you gonna stay with me ?
+MOT:	oh , Stuart nice .
+MOT:	and who do you see in school ?
+MOT:	do you do all that in school ?
+MOT:	here's an eraser .
+CHI:	sock .
+MOT:	mama's eyes .
+MOT:	you can make something else .
+MOT:	where are [/?] you going ?
+MOT:	that's right .
+MOT:	hey Stuart .
+MOT:	huh ?
+MOT:	Stuart ?
+MOT:	four [/?] .
+MOT:	sit down near mama .
+MOT:	what is [/?] it ?
+MOT:	Stuart ?
+MOT:	look at me .
+MOT:	playing with the doll ?
+MOT:	they have the big rainbow .
+MOT:	they paint .
+MOT:	turn it over and we'll erase the other side .
+MOT:	what are [/?] these ?
+MOT:	and you color .
+CHI:	up .
+MOT:	you needta sit up .
+MOT:	needta go again ?
+MOT:	doll ?
+MOT:	tickle .
+CHI:	momma , I want balloon .
+MOT:	say hi papa .
+MOT:	you like rainbows .
+MOT:	yeah .
+CHI:	Stuart go .
+CHI:	row row .
+MOT:	we have a book .
+CHI:	squeeze .
+MOT:	you wanna count ?
+CHI:	<the cradle will rock> [/?] .
+MOT:	say bye .
+MOT:	you want Row_Row_Your_Boat ?
+MOT:	hi .
+MOT:	good boy Stuart_Vicari .
+CHI:	pants .
+MOT:	you need help ?
+CHI:	leg .
+MOT:	see my eyes ?
+MOT:	oh , yeah .
+MOT:	it's a chalk+board .
+MOT:	huh ?
+MOT:	you gonna stay with mama ?
+MOT:	you sing for me pattycake .
+MOT:	yes ?
+MOT:	bring it over here .
+MOT:	you write .
+CHI:	I want row .
+MOT:	good boy .
+CHI:	pattycake .
+MOT:	go around .
+MOT:	feet .
+MOT:	good boy .
+MOT:	that's right .
+MOT:	squeeze .
+MOT:	<rock a bye baby on the tree top> [/?] ?
+MOT:	one [/?] .
+MOT:	you needta sit up .
+MOT:	good boy .
+MOT:	you needta look at me .
+MOT:	huh ?
+CHI:	book .
+MOT:	what are [/?] you talking about ?
+CHI:	fine .
+MOT:	right ?
+MOT:	you're quiet today .
+MOT:	look .
+MOT:	good boy .
+MOT:	oh , .
+MOT:	okay .
+CHI:	school .
+MOT:	oh , who's that ?
+MOT:	yeah .
+MOT:	alright Stuart .
+MOT:	rainbow ?
+MOT:	look .
+MOT:	Ma [/?] look say mama .
+CHI:	Tricia .
+MOT:	that's good .
+MOT:	you wanna make a circle ?
+MOT:	nice .
+CHI:	xxx .
+CHI:	<four , five> [/?] .
+MOT:	and what's this ?
+MOT:	come on .
+MOT:	Mickey_Mouse .
+MOT:	erase .
+MOT:	good boy .
+MOT:	look at me .
+MOT:	you like that ?
+MOT:	it's a shirt ?
+MOT:	good boy .
+MOT:	look at me .
+MOT:	right ?
+CHI:	sing song .
+CHI:	hi .
+MOT:	you wanna do pattycake ?
+MOT:	what's that ?
+CHI:	hi .
+MOT:	yeah .
+MOT:	huh ?
+CHI:	thank you .
+CHI:	Big_Bird .
+MOT:	you wanna write ?
+MOT:	you do .
+MOT:	that's right .
+MOT:	what's the matter Stuart ?
+MOT:	you erased .
+MOT:	sing a song ?
+MOT:	the chalk .
+CHI:	<&-eh &-eh &-eh> [/?] .
+CHI:	wheel .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	what ?
+MOT:	what ?
+CHI:	bye .
+MOT:	hi .
+MOT:	good boy .
+MOT:	you wanna erase ?
+MOT:	see that ?
+MOT:	it's a big dog .
+MOT:	that's the doll's legs .
+MOT:	what do you want ?
+CHI:	balloon .
+MOT:	<a@l b@l c@l d@l> [/?] .
+MOT:	you a good boy ?
+MOT:	feet .
+MOT:	Stuart ?
+MOT:	ready ?
+MOT:	okay .
+CHI:	quack [x 2] .
+MOT:	<the wheels on the bus> [/?] .
+MOT:	Stuart .
+MOT:	Stuart .
+MOT:	here write .
+MOT:	look .
+CHI:	shirts .
+MOT:	yeah , it's nice .
+MOT:	look .
+MOT:	you have two legs .
+MOT:	what's that ?
+MOT:	where are [/?] you going ?
+MOT:	no , we're not going in the bath+tub now .
+MOT:	who's this ?
+CHI:	<one , two , three , three> [/?] .
+CHI:	mama .
+MOT:	<what's> [/?] what's your teacher's name ?
+MOT:	<go round and round> [/?] .
+MOT:	you squeeze them .
+MOT:	<and the driver on the bus says> [/?] +/.
+MOT:	Mickey_Mouse .
+CHI:	socks .
+MOT:	huh ?
+MOT:	you write with [/?] with chalk .
+MOT:	say book .
+MOT:	look at this .
+MOT:	byebye .
+MOT:	huh ?
+MOT:	do you wanna clap ?
+MOT:	he says hi , Stuart .
+MOT:	<the wheels on the bus> [/?] .
+CHI:	<a@l b@l c@l> [/?] .
+MOT:	rain [/?] rainbows .
+CHI:	Pam .
+MOT:	this way .
+MOT:	how does it go ?
+CHI:	row boat .
+MOT:	push .
+MOT:	that's right .
+MOT:	huh ?
+MOT:	what's that ?
+MOT:	let's get it .
+MOT:	yeah .
+MOT:	what's that ?
+MOT:	tickle [/?] tickle .
+MOT:	huh ?
+MOT:	oh , how about squeeze .
+MOT:	yeah .
+MOT:	and what's this ?
+CHI:	help me .
+MOT:	huh ?
+CHI:	<wheel on a bus> [/?] .
+CHI:	school .
+MOT:	what's that ?
+CHI:	<sit right down> [/?] .
+MOT:	Ma [/?] +/.
+MOT:	thank you .
+MOT:	you like that , here ?
+CHI:	row row boat .
+MOT:	good boy .
+MOT:	nice counting Stuart .
+CHI:	bath+tub .
+MOT:	this is socks .
+MOT:	good boy .
+CHI:	I want balloon , please .
+MOT:	you like that ?
+CHI:	bath+tub .
+MOT:	hit it ?
+MOT:	no , look .
+MOT:	huh ?
+MOT:	squeeze .
+MOT:	is [/?] he gonna dance ?
+MOT:	here you go .
+MOT:	good .
+CHI:	count .
+CHI:	open it .
+MOT:	that's right .
+MOT:	count .
+MOT:	<sit right down> [/?] .
+CHI:	xxx .
+MOT:	<quack , quack> [/?] .
+MOT:	do you want mama squeeze you ?
+CHI:	Stuart good boy .
+MOT:	go [/?] they go this way .
+MOT:	what are [/?] you doing ?
+CHI:	clap .
+MOT:	this is your shirt .
+MOT:	what do you want ?
+MOT:	let's go .
+MOT:	<abcs> [/?] .
+MOT:	look at that .
+MOT:	you're a good boy Stuart .
+CHI:	thank you .
+MOT:	shirt .
+CHI:	papa .
+CHI:	mama I want +/.
+MOT:	yay .
+CHI:	block .
+MOT:	okay .
+MOT:	circle .
+MOT:	you needta go over here and sit down .

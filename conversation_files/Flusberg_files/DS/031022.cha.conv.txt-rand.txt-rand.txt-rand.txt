@@ -1,0 +1,655 @@
+participant	content
+CHI:	need help .
+MOT:	okay , show me how .
+CHI:	I go up to see my room .
+CHI:	me color man .
+CHI:	what this ?
+MOT:	what's this ?
+CHI:	how about bus in ?
+MOT:	right there .
+CHI:	I take this out .
+CHI:	christmas book .
+MOT:	good job !
+MOT:	alright , what if we do this .
+CHI:	this one .
+CHI:	I get another one .
+MOT:	which one ?
+CHI:	my [/?] my party .
+CHI:	over here .
+CHI:	right here .
+CHI:	how about this .
+MOT:	where ?
+MOT:	you would like to take this off ?
+CHI:	sleeping .
+CHI:	no .
+CHI:	I take this out .
+MOT:	what are you gonna do now ?
+MOT:	okay .
+MOT:	no sir .
+MOT:	the flowers .
+MOT:	gotta put her legs through the hole huh [/?] .
+MOT:	well , who's gonna make him feel better ?
+MOT:	the duck's face ?
+CHI:	yeah .
+CHI:	whoa [/?] !
+CHI:	how about this mama .
+MOT:	Kate , listen to Helen .
+CHI:	talk in here .
+CHI:	upstairs .
+MOT:	I think we'll open it up first , okay .
+MOT:	oh , I don't think you're shy .
+MOT:	good girl .
+MOT:	which one looks like the airplane ?
+MOT:	you can't push ?
+CHI:	right here .
+MOT:	you needta get another what ?
+MOT:	go ahead .
+CHI:	how about +/.
+MOT:	you're not gonna touch the camera .
+MOT:	very good .
+CHI:	yeah .
+MOT:	no , it's not upsidedown .
+CHI:	there .
+MOT:	that one's the boat .
+CHI:	how about flowers ?
+MOT:	no , you talk into it .
+MOT:	that's one of the cars on the train .
+MOT:	okay , oh , careful with the microphone .
+CHI:	why ?
+MOT:	<how about> [/?] how about Betty_bear's birthday ?
+MOT:	which piece are you gonna put [/?] put back in ?
+MOT:	that's a shirt .
+CHI:	look .
+MOT:	in the swing ?
+MOT:	all the kids are in there .
+CHI:	no .
+MOT:	he's tired .
+CHI:	duck face .
+MOT:	I don't know where he is .
+MOT:	yeah , you can't see anything now .
+MOT:	alright , I'll tell you which one that one is .
+MOT:	you just talk .
+CHI:	yeah .
+MOT:	how about the shirt one ?
+MOT:	no , no , we gotta go in the other room , hon .
+MOT:	you needta go see you ?
+MOT:	that's +/.
+MOT:	<oh whee> [/?] .
+CHI:	yeah .
+MOT:	well , what do we hafta do if they wanna eat ?
+CHI:	Kathy .
+MOT:	okay , let's turn them .
+MOT:	at the bottom of the picture .
+MOT:	can you see me through there ?
+MOT:	where's little Kate ?
+MOT:	you needta go to the bath+room ?
+MOT:	what's she gonna do ?
+MOT:	you see there's plastic paper on it .
+CHI:	no .
+MOT:	we don't have the christmas book down here , hon .
+MOT:	no , I don't think they're upstairs .
+CHI:	you upsidedown .
+MOT:	open the roof .
+MOT:	what would you like to play with next ?
+CHI:	I don't know .
+CHI:	yeah .
+MOT:	the camera's just gonna sit there for awhile , okay .
+MOT:	what one is that ?
+MOT:	would you like me to open it ?
+MOT:	wanna play with your +/.
+MOT:	little Jeffrey , yeah .
+MOT:	little Jeffrey ?
+MOT:	those are the neighborhood puzzles huh [/?] .
+CHI:	go on swing .
+MOT:	well <you know> [/?] you know what we do ?
+CHI:	no , let me fix this camera .
+MOT:	you need that slide .
+MOT:	that's right .
+CHI:	something .
+CHI:	I need that slide .
+MOT:	this is the microphone .
+MOT:	I think Kathy wants it over here .
+MOT:	okay , you wanted a clean piece .
+MOT:	you didn't do Miss_Piggy yet .
+MOT:	yeah .
+MOT:	with all kinds of things .
+MOT:	what do you like to watch on tv ?
+MOT:	very good Kate .
+MOT:	oh boy [/?] .
+CHI:	a car right here .
+MOT:	xxx shirt .
+MOT:	these are the neighborhood puzzles .
+MOT:	the doll house .
+MOT:	okay , let's go sit back over here .
+MOT:	I don't think you have your thing +/.
+MOT:	that's right .
+MOT:	who's gonna make him feel better ?
+MOT:	Kate .
+MOT:	okay , what happened ?
+CHI:	toys .
+MOT:	what did she do ?
+MOT:	you get two legs now , huh [/?] .
+MOT:	that's right .
+MOT:	well , it's not really a party .
+MOT:	Kate .
+MOT:	no , that doesn't look the same .
+MOT:	the camera's gonna take our picture and then when it's all done
+MOT:	yeah .
+MOT:	there , see .
+MOT:	oh , I know .
+MOT:	okay , now .
+MOT:	did Jeffrey fall out_of the swing ?
+CHI:	yes .
+CHI:	need go doctor's .
+CHI:	no .
+MOT:	you did that whole puzzle by yourself when I wasn't even looking .
+CHI:	car .
+MOT:	you hafta put him [/?] his legs through the hole .
+CHI:	how about that .
+CHI:	how about +/.
+MOT:	<take that> [/?] that [/?] that's the car to the train .
+MOT:	well , I don't think that's a bus .
+CHI:	how about this one .
+MOT:	that's right .
+CHI:	face .
+CHI:	puzzle .
+MOT:	see , look_it .
+MOT:	bring it over here , hon .
+MOT:	now should we make the duck's body ?
+CHI:	I need plug this in .
+CHI:	down .
+MOT:	listen to me for a minute .
+CHI:	how about this piece .
+MOT:	oh , a face ?
+CHI:	puzzle .
+MOT:	like your baby+sitter .
+CHI:	right here .
+MOT:	oh , I don't even know if we have that one out still .
+MOT:	let's do some of puzzles in the neighborhood .
+MOT:	what ?
+MOT:	I don't think the car goes right there .
+CHI:	bicycle .
+MOT:	he might be showing Kathy his room .
+MOT:	what's that piece you're putting in .
+MOT:	the nurse .
+CHI:	xxx I need help .
+MOT:	okay , back up a little .
+MOT:	it's upstairs .
+MOT:	hi .
+MOT:	well , that looks a little bit like a duck , not really .
+CHI:	little Jeffrey .
+CHI:	skating .
+MOT:	okay .
+MOT:	that's right .
+MOT:	no .
+MOT:	how about the bus .
+MOT:	this isn't to fix anything with .
+CHI:	this .
+MOT:	you have a baby+sitter named Kathy , don't you .
+MOT:	oh , you wanna do Garfield .
+MOT:	Kate .
+MOT:	that's with his friends hat huh [/?] .
+CHI:	yeah .
+MOT:	honey , bring it over here .
+MOT:	how about this airplane ?
+MOT:	we don't wanna leave Helen in there all by herself , do we .
+MOT:	okay , here Kate .
+CHI:	yeah .
+MOT:	that's not a tool honey .
+MOT:	oh , alright , you can make the duck's face .
+CHI:	no , don't want it .
+CHI:	no .
+CHI:	talking my hands .
+MOT:	how about the face .
+MOT:	you didn't push that piece in right there .
+MOT:	in the house , right .
+MOT:	it's Kathy , not taffy .
+MOT:	whee [/?] he did a somersault .
+CHI:	right here .
+MOT:	listen to mama .
+MOT:	you took the paper off .
+CHI:	xxx .
+MOT:	no ?
+MOT:	alright .
+MOT:	the nurse is taking care of him .
+MOT:	okay .
+MOT:	whippie is your favorite .
+MOT:	now which one do you wanna do ?
+MOT:	you know something .
+MOT:	that's a skateboard .
+CHI:	I do +/.
+MOT:	no ?
+MOT:	oh , that's plastic .
+CHI:	here .
+CHI:	Kathy upstairs ?
+MOT:	that's +/.
+MOT:	there .
+CHI:	dump .
+CHI:	how about this ?
+CHI:	need go doctor's .
+CHI:	push .
+MOT:	come on over here Kate .
+MOT:	look at it real +/.
+MOT:	table and chair .
+MOT:	we didn't show Helen .
+MOT:	yes you can .
+MOT:	yeah .
+CHI:	I need kleenex .
+CHI:	yeah .
+MOT:	I'll get Garfield .
+CHI:	yeah .
+MOT:	yea [/?] Kate , good job .
+MOT:	what is that ?
+MOT:	that's a microphone to talk in .
+MOT:	I don't think he's upstairs .
+MOT:	that's dangerous .
+CHI:	how about this one ?
+CHI:	he fix the camera .
+CHI:	I need see camera .
+MOT:	can you see me waving ?
+MOT:	we hafta look at the pictures first .
+CHI:	yeah .
+MOT:	you know what we can do next ?
+CHI:	what this ?
+MOT:	look , doesn't that look the same ?
+MOT:	a wooden puzzle .
+MOT:	okay .
+MOT:	okay , put them all +/.
+MOT:	okay , Kate , that's a microphone .
+CHI:	I wanna sit here .
+MOT:	we hafta take the paper .
+CHI:	me xxx that .
+MOT:	yeah .
+CHI:	xxx .
+CHI:	I can't .
+MOT:	what do you think it could be ?
+CHI:	I do this one .
+CHI:	right there .
+MOT:	how about this ?
+MOT:	you have a bad cold , don't you .
+MOT:	yeah , yes you can .
+CHI:	yeah .
+MOT:	you wanna get another one ?
+MOT:	no , do you want me to get Garfield ?
+MOT:	you didn't do that .
+CHI:	can't fit .
+CHI:	yeah .
+CHI:	yeah .
+MOT:	alright , let's go .
+MOT:	okay ?
+MOT:	okay , you get little Jeffrey and make little Jeffrey go down the
+CHI:	no , pick me up .
+CHI:	whee [/?] !
+CHI:	whippie .
+MOT:	okay , go ahead .
+CHI:	I needta see camera .
+CHI:	go upstairs .
+MOT:	oh , Kate , I know what we have .
+CHI:	no .
+MOT:	what hon ?
+MOT:	see , there's a space right here .
+MOT:	oh , you started a picture right there .
+MOT:	oh , what does she wanna do ?
+MOT:	what ?
+MOT:	okay , let's get one piece of paper .
+CHI:	I can't do it .
+MOT:	where you gonna go ?
+MOT:	what goes down here that's green ?
+MOT:	all the people in the neighborhood ?
+CHI:	okay .
+MOT:	come on .
+MOT:	what's she doing Kate ?
+CHI:	I get another one .
+CHI:	make duck like a face .
+MOT:	you sleep at night , don't you .
+MOT:	let's see which ones we can do .
+CHI:	goes like that .
+MOT:	whoops [/?] what have you got on your nose ?
+CHI:	Kate have picture taken .
+MOT:	no [/?] no , that's not to plug in honey .
+MOT:	you can sing a song in it if you want .
+MOT:	oh , you know what we hafta do ?
+MOT:	very good .
+MOT:	okay .
+CHI:	wheel .
+CHI:	I need that .
+CHI:	xxx this .
+MOT:	Kate , Kate .
+MOT:	the car isn't right .
+MOT:	which one looks the same ?
+CHI:	another piece .
+MOT:	that's a helicopter .
+CHI:	yeah .
+MOT:	yeah , it's probably night time and the man's sleeping .
+CHI:	xxx .
+CHI:	go in the swing ?
+MOT:	that's to talk in .
+MOT:	Jeffrey's talking to Kathy .
+MOT:	okay .
+MOT:	I don't know where they are though .
+CHI:	how about face .
+MOT:	come on over here so Kathy can look at Kate in the camera .
+MOT:	I think that's just a nice surprise .
+MOT:	after we do puzzles we will .
+MOT:	what do you want Jeff to say ?
+MOT:	make a circle ?
+CHI:	I like +/.
+MOT:	hi Kate .
+CHI:	how about this piece .
+CHI:	yeah , what this one ?
+MOT:	would you like to make a big tower with the blocks ?
+MOT:	would you like to do something else ?
+MOT:	you can talk in it .
+MOT:	there .
+CHI:	and this one .
+CHI:	bug right there .
+MOT:	do you know what that is ?
+MOT:	let's see what it is .
+MOT:	what is this picture right here ?
+MOT:	oh , I have a good idea what we could do .
+MOT:	would you like to have them eat ?
+CHI:	yeah .
+MOT:	which book ?
+MOT:	okay , I'll go get one for you .
+CHI:	I get another one with .
+MOT:	that's not nice to do .
+MOT:	she's never seen it before .
+MOT:	you needta fix the camera ?
+CHI:	toys !
+MOT:	what's that ?
+MOT:	hi Kate .
+MOT:	it was the right way .
+CHI:	what's this ?
+CHI:	how about this airplane .
+CHI:	walking in there .
+CHI:	I have christmas book .
+MOT:	k [/?] Kathy .
+CHI:	whee [/?] !
+CHI:	how about shirt one .
+MOT:	maybe he is .
+CHI:	here mama .
+MOT:	would you ?
+MOT:	now what should we do first to make the duck's face ?
+MOT:	he might be upstairs .
+MOT:	it'll take two minutes .
+MOT:	there .
+MOT:	and whippie .
+MOT:	good job .
+MOT:	that's to talk .
+MOT:	the mommy just went down the slide .
+MOT:	no , you shouldn't do that .
+CHI:	right here .
+CHI:	duck .
+MOT:	another leg .
+MOT:	alright , how about these .
+MOT:	oh , no , it's right here .
+CHI:	xxx .
+MOT:	okay .
+MOT:	well , don't throw all the furniture on the floor .
+MOT:	are you shy ?
+MOT:	is he gonna jump on the man's head ?
+MOT:	how about this ?
+MOT:	oh , I know .
+CHI:	whoop [/?] !
+CHI:	what Jeffrey doing ?
+MOT:	what , those puzzles ?
+CHI:	right back there .
+MOT:	okay .
+MOT:	he fell on his head .
+CHI:	whoop [/?] !
+MOT:	that's not the airplane though .
+MOT:	oh boy [/?] Kate .
+MOT:	very good .
+CHI:	I go bath+room .
+MOT:	come on .
+CHI:	I sit down do these .
+MOT:	okay ?
+MOT:	oop [/?] you hold the swing for me , okay , and I'll put him in .
+MOT:	what would he like to do ?
+CHI:	me see .
+MOT:	oh , you need help ?
+MOT:	we'll come back and make a tower after , okay .
+MOT:	Helen's just going over there for a minute .
+MOT:	you don't wanna do this anymore ?
+MOT:	look at the airplane .
+MOT:	another present ?
+MOT:	a bicycle , right .
+MOT:	what's the one that looks the same ?
+CHI:	legs in .
+CHI:	Kathy .
+CHI:	right here ?
+MOT:	what's that ?
+MOT:	yeah , have our pictures taken .
+CHI:	yeah .
+MOT:	huh [/?] ?
+CHI:	put back .
+MOT:	one piece left .
+MOT:	okay xxx .
+CHI:	oh , .
+MOT:	okay .
+MOT:	let me see .
+MOT:	<you have> [/?] no , we've gotta sit <in the , in the> [/?] in the
+CHI:	no .
+MOT:	there .
+MOT:	do you wanna draw Kathy and Helen a nice picture ?
+MOT:	you need help doing what ?
+MOT:	there , okay .
+MOT:	okay , taking all the pieces out first .
+MOT:	watch .
+MOT:	sometimes .
+MOT:	you don't wanna sing a song ?
+MOT:	yes , if you hafta go to the bath+room , we're gonna go .
+MOT:	do you wanna see mama again in the camera ?
+MOT:	what's that over there ?
+CHI:	yes .
+MOT:	turn it over .
+CHI:	yes .
+MOT:	now , how about Miss_Piggy .
+CHI:	I need get another [/?] another one .
+MOT:	yeah .
+MOT:	how about that .
+MOT:	there's a lot more on there .
+CHI:	go upstairs .
+MOT:	which one +/.
+CHI:	how about this one ?
+MOT:	okay , why don't +/.
+CHI:	xxx .
+CHI:	I take this puzzle off .
+MOT:	no , hold it away from your mouth .
+CHI:	how about this one .
+CHI:	thank you .
+CHI:	talk .
+MOT:	right .
+CHI:	xxx missing mama .
+CHI:	what Jeffrey doing ?
+MOT:	Jeffrey fell on his head .
+MOT:	Helen doesn't know how to do this puzzle .
+MOT:	how about if we played with +/.
+CHI:	oh , .
+MOT:	skating .
+MOT:	are you gonna take them all out first ?
+CHI:	I don't want take xxx see my xxx .
+MOT:	huh [/?] Kermit_the_frog ?
+CHI:	yeah .
+CHI:	go upstairs .
+CHI:	face .
+CHI:	no .
+MOT:	which one are you gonna do first ?
+CHI:	right there .
+MOT:	which one would you like ?
+CHI:	yes .
+CHI:	doll house .
+MOT:	that's with his friend's hat huh [/?] ?
+MOT:	would you like to get one of your puzzles ?
+MOT:	I'm waving hi to you .
+CHI:	move .
+CHI:	<I'm gonna> [/?] I needta go [/?] go see me .
+MOT:	it will just take a minute and then we'll come right back , alright
+MOT:	there .
+MOT:	what do we hafta do first before we put the puzzles together ?
+MOT:	well , what is that ?
+CHI:	how about that ?
+MOT:	would you like to look at a book ?
+CHI:	say .
+MOT:	you don't wanna do Miss_Piggy ?
+MOT:	why don't you just dump them out .
+CHI:	yes [/?] no .
+MOT:	you what ?
+MOT:	while we do some puzzles .
+MOT:	there .
+CHI:	no Jeff .
+MOT:	okay .
+CHI:	where's that camera ?
+MOT:	what's that one ?
+MOT:	you wanna help me peel it ?
+CHI:	I need fix a camera .
+MOT:	oh , you know why ?
+CHI:	put Jeffrey in there .
+MOT:	I don't think +/.
+MOT:	go sit down and open it up .
+CHI:	say .
+MOT:	okay .
+MOT:	<what would you> [/?] what do we usually put down here ?
+CHI:	how about this .
+MOT:	put her legs in ?
+MOT:	okay .
+MOT:	give him a push ?
+MOT:	don't put it in your eye .
+MOT:	get another one ?
+MOT:	her face ?
+CHI:	I do it .
+MOT:	put Jeffrey in there ?
+MOT:	okay , now look for the airplane .
+CHI:	yeah .
+MOT:	wave hi .
+CHI:	right there !
+MOT:	we're gonna show how [/?] Helen how to do it .
+CHI:	yeah .
+CHI:	upstairs .
+MOT:	no , you hafta look .
+MOT:	what piece is that ?
+CHI:	I get another one now .
+CHI:	yeah .
+MOT:	what's Garfield doing to the man ?
+MOT:	which one would you like ?
+CHI:	a broken leg .
+MOT:	wanna play with some of the furniture here ?
+MOT:	well , we have this present right here .
+MOT:	what [/?] what goes down here , right here .
+MOT:	can you see me through that hole ?
+CHI:	this .
+MOT:	the man's sleeping .
+MOT:	that's a microphone .
+MOT:	what piece is that ?
+MOT:	look at the car and look at one that looks the same .
+MOT:	so , which one is this ?
+MOT:	oh , I have one right here <in my pocketbook> [/?] in my pocket .
+MOT:	look at the car .
+MOT:	you love puzzles , don't you ?
+CHI:	yeah .
+CHI:	I get another one .
+CHI:	yeah , another one .
+MOT:	the camera's right there .
+CHI:	I do Garfield .
+MOT:	the christmas book ?
+CHI:	want that xxx .
+CHI:	xxx .
+MOT:	go in the swing .
+MOT:	we don't wanna leave Helen in there all by herself .
+MOT:	okay .
+MOT:	we haven't done these puzzles in a long time .
+CHI:	yeah .
+MOT:	that means you needta push it over .
+MOT:	what is that ?
+MOT:	okay .
+MOT:	look .
+MOT:	alright .
+CHI:	no Jeffrey , move .
+CHI:	yeah .
+MOT:	a puzzle .
+CHI:	wave hi .
+CHI:	and this needs <a broke> [/?] a broken +/.
+CHI:	and this .
+MOT:	oh , don't put your finger on it .
+MOT:	tugboat .
+MOT:	no , don't put it into your mouth .
+MOT:	we leave it on the floor .
+MOT:	what do you have Kate ?
+MOT:	who's this right here ?
+MOT:	wow [/?] what happened ?
+MOT:	bug right there ?
+MOT:	no , mommy's gonna hold this , okay ?
+MOT:	you don't want Miss_Piggy ?
+MOT:	you hafta fix the car first .
+CHI:	need help .
+CHI:	yeah .
+CHI:	a picture taken .
+MOT:	what's the matter ?
+MOT:	bug .
+MOT:	what piece is that , Kate ?
+MOT:	you get another one .
+CHI:	no .
+CHI:	duck face .
+CHI:	I can't push .
+MOT:	what do you do first ?
+MOT:	let's see .
+CHI:	take paper off .
+CHI:	yeah .
+MOT:	what usually goes at the bottom of the paper ?
+CHI:	bug's face in here .
+MOT:	he's gonna go to the doctor's and the doctor'll make him feel
+MOT:	we'll show Kathy and Helen all the people in the neighborhood .
+CHI:	present .
+MOT:	oh , that's the microphone .
+MOT:	oh , a puzzle .
+CHI:	I do whippie .
+CHI:	yeah .
+MOT:	I don't know what Jeffrey's doing .
+MOT:	while the man's sleeping huh [/?] .
+CHI:	me color this man yellow .
+CHI:	right here .
+MOT:	no .
+MOT:	a man riding a bike .
+MOT:	Kathy's with Jeffrey .
+CHI:	where going ?
+CHI:	in our house .
+CHI:	here .
+CHI:	here's pillow .
+MOT:	that's why you couldn't get it out huh [/?] .
+CHI:	nurse .
+MOT:	you don't wanna put that in your mouth .
+MOT:	she brought you a present .
+MOT:	that's a nice wooden puzzle , huh [/?] .
+MOT:	give him a little push .
+CHI:	night time .
+CHI:	me want this up .
+MOT:	I'll put him that way .
+MOT:	okay .
+CHI:	a bug .
+MOT:	okay , I'll get you some more over here .
+MOT:	oh , that's a hard one .
+CHI:	yeah .
+MOT:	what is that ?
+MOT:	okay , now you can put it in .
+MOT:	you colored the man ?
+MOT:	what are they ?
+CHI:	don't want Miss_Piggy .
+CHI:	Kermit_frog .
+MOT:	mommy's gonna hold it so it won't get broken .
+MOT:	that's where you take pictures a_lot of times .
+MOT:	alright .
+MOT:	she went up and down .
+MOT:	okay , we will in a little while , okay .
+MOT:	okay , what piece do you wanna put in first ?
+CHI:	Jeffrey .
+CHI:	yeah .
+MOT:	oh , here , bring it over here honey .
+MOT:	gee [/?] it's not even your birthday , is it .
+MOT:	that's the same one , hon .
+MOT:	what do you wanna say ?
+MOT:	how about that one ?
+MOT:	how do you do it ?
+CHI:	right there .
+MOT:	how about Grover sleeps over .
+MOT:	very good .
+MOT:	what would you like to do ?

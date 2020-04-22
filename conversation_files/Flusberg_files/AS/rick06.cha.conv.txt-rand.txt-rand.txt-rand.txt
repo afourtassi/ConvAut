@@ -1,0 +1,813 @@
+participant	content
+MOT:	good boy .
+MOT:	okay .
+MOT:	okay .
+CHI:	xxx .
+CHI:	big .
+MOT:	finish picking them up .
+CHI:	I need more help please .
+MOT:	you fixing his legs ?
+MOT:	good boy .
+MOT:	d@l [/?] good boy .
+CHI:	put him the farm .
+CHI:	I gonna play the stove xxx .
+MOT:	yeah , there goes another one in .
+CHI:	I want need help please .
+MOT:	g@l [/?] good job , Rick .
+CHI:	put it in make believe .
+MOT:	it's not broken .
+CHI:	there's some more .
+MOT:	what do you wanna do ?
+MOT:	good boy , Rick .
+MOT:	see the food ?
+MOT:	nice job .
+CHI:	making xxx .
+MOT:	okay , let's set up the fence .
+CHI:	a cup .
+MOT:	did they fall ?
+MOT:	you're setting the people up nice Rick .
+MOT:	eggs Rick ?
+CHI:	I playing house .
+MOT:	what other letter ?
+CHI:	I want need help please .
+MOT:	well , it looks like a silo to me Rick .
+CHI:	do that one .
+CHI:	drink a milk .
+MOT:	yeah .
+CHI:	put the tub in .
+MOT:	no , count them again .
+CHI:	b@l [/?] .
+MOT:	they're eating .
+MOT:	<close the house> [/?] .
+CHI:	I use them xxx .
+CHI:	<i put> [/?] I got this refrigerator .
+MOT:	oh , look at the people !
+MOT:	a lion head .
+MOT:	Rick .
+MOT:	look at her hair Rick .
+MOT:	he's drinking the milk .
+MOT:	what's this Rick ?
+CHI:	for around the table .
+CHI:	mommy .
+MOT:	they're gonna have their breakfast .
+MOT:	okay , good boy .
+MOT:	okay , I'll fix it .
+MOT:	look at mommy .
+MOT:	that's where you keep all the food huh [/?] ?
+CHI:	yes .
+MOT:	he's going in the house .
+MOT:	yeah , you cook the food .
+MOT:	<here's daddy and here's mommy> [/?] .
+MOT:	okay , looks good Rick .
+CHI:	it's a car .
+CHI:	I want these out .
+MOT:	oh , there goes the car .
+MOT:	what other letters ?
+MOT:	make I@l .
+CHI:	breakfast fall .
+MOT:	put the refrigerator in there .
+MOT:	good , here we go .
+CHI:	play the chairs away ?
+MOT:	you're gonna close the house ?
+MOT:	milk for the horse to drink .
+CHI:	yes .
+MOT:	look .
+CHI:	refrigerator fall .
+CHI:	all_gone .
+CHI:	mommy .
+CHI:	I want help please .
+MOT:	good boy .
+MOT:	what other letters ?
+MOT:	that's right .
+MOT:	there goes the chicken .
+MOT:	do you see it ?
+MOT:	yes , we could use that in the house , we could .
+MOT:	hm: [/?] ?
+MOT:	elephant .
+MOT:	good boy .
+CHI:	<i need> [/?] I want help please .
+MOT:	refrigerator out ?
+CHI:	do that tomorrow ?
+MOT:	what are they having for breakfast ?
+MOT:	what about this one ?
+CHI:	play put the toys away .
+MOT:	okay .
+MOT:	<okay , all finished until later> [/?] .
+MOT:	there goes the dog .
+MOT:	that's alright .
+MOT:	that's beautiful .
+MOT:	you did pretty good though Rick .
+MOT:	where does the car go ?
+CHI:	xxx out .
+MOT:	good job .
+CHI:	taking the people out_of here .
+CHI:	thank you .
+CHI:	make +/.
+MOT:	what do you call this ?
+MOT:	woops [/?] .
+MOT:	I guess this looks like dad huh [/?] ?
+MOT:	look at mama .
+MOT:	t@l [/?] .
+MOT:	alright .
+MOT:	good boy .
+MOT:	okay .
+CHI:	I put the house in .
+MOT:	<time for sleeping , good> [/?] .
+MOT:	yeah .
+MOT:	can you set this up Rick ?
+MOT:	that's right .
+CHI:	<one , two , three , four> [/?] .
+CHI:	you put the sink .
+MOT:	okay , mommy will help .
+CHI:	no .
+MOT:	do you need help ?
+MOT:	let's do this .
+CHI:	it's a table .
+MOT:	well , I think it's just the sink Rick and that's the kitchen sink
+CHI:	yes .
+MOT:	that says tree .
+MOT:	Rick , look .
+CHI:	I putting the animals .
+MOT:	there , fence goes around the barn , huh [/?] ?
+CHI:	g@l [/?] .
+MOT:	wanna try tree ?
+CHI:	no snow .
+MOT:	he can eat in there too .
+MOT:	look .
+CHI:	cups .
+MOT:	<put legos in , put legos in> [/?] .
+MOT:	Rick .
+MOT:	where's the chair ?
+CHI:	a daddy .
+MOT:	what do we cook in the stove , Rick ?
+MOT:	but you can still play with it .
+CHI:	a rooster .
+MOT:	you taking the fence apart .
+MOT:	what does the horse do ?
+MOT:	where all the letters belong ?
+CHI:	just pretending .
+MOT:	put them in the table .
+CHI:	no fit .
+MOT:	it's gonna fall .
+CHI:	I want eggs .
+MOT:	what do you do on the stove ?
+MOT:	Rick , give this to mommy .
+MOT:	yeah , looks nice .
+MOT:	what letter Rick ?
+MOT:	a refrigerator .
+MOT:	where does the cow go ?
+MOT:	see the letters over here ?
+MOT:	what do you wanna do ?
+MOT:	you spelled some words .
+CHI:	pretending .
+CHI:	one more e@l .
+MOT:	oh , those horses like milk , Rick ?
+MOT:	look at mommy .
+MOT:	Rick , look at mama .
+MOT:	okay .
+CHI:	in [/?] in the house .
+CHI:	no playing in refrigerator .
+CHI:	refrigerator fall .
+MOT:	<mommy and daddy and Ben and Rick are sleeping> [/?] .
+CHI:	drink some milk .
+CHI:	wanna use some more .
+MOT:	good boy .
+MOT:	wanna put the table in there ?
+MOT:	Rick , look .
+MOT:	it's hard to get everything in here .
+MOT:	are they having eggs ?
+CHI:	y@l bed .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	there .
+MOT:	you can make a lion man .
+CHI:	I +/.
+MOT:	okay , say thank you Helen .
+CHI:	elephant .
+MOT:	what about them ?
+MOT:	set it up Rick .
+MOT:	what happened to the car Rick ?
+CHI:	eating .
+MOT:	you forgot one .
+CHI:	<one , two> [/?] .
+MOT:	I think you did a good job .
+MOT:	which card do you wanna do ?
+MOT:	where'd it go ?
+MOT:	there .
+CHI:	a stove .
+MOT:	and there are the kids .
+MOT:	yeah , make believe .
+CHI:	I put the house in .
+MOT:	good boy , three horses .
+CHI:	trick+or+treat .
+MOT:	look .
+MOT:	<Rick , what goes in the bag> [/?] ?
+CHI:	refrigerator .
+CHI:	a giraffe .
+MOT:	there he is .
+CHI:	i [/?] look at my eyes .
+MOT:	that looks good Rick .
+CHI:	wanna r@l a@l bed .
+MOT:	let's see here .
+MOT:	<yeah , time to put the toys away> [/?] .
+MOT:	is the horse thirsty ?
+CHI:	xxx .
+MOT:	he's up in the hayloft .
+MOT:	putting the refrigerator in .
+MOT:	Rick , where's the sheep ?
+MOT:	here it is .
+MOT:	Rick , how about the cowboys ?
+MOT:	what do we need ?
+MOT:	good boy .
+CHI:	xxx .
+CHI:	a egg .
+MOT:	nice asking .
+MOT:	what's this ?
+CHI:	making .
+MOT:	looks good Rick .
+MOT:	where's the daddy ?
+MOT:	good boy .
+MOT:	are they good kids ?
+MOT:	you're setting the people nice .
+MOT:	you did a nice job setting that up , Rick .
+MOT:	<what goes in the bag> [/?] ?
+MOT:	<who is this> [/?] ?
+MOT:	here they go .
+MOT:	let's find d@l .
+MOT:	woops [/?] I don't know where that must be .
+CHI:	i [/?] , a swing .
+MOT:	Rick .
+CHI:	big tomorrow .
+MOT:	okay .
+CHI:	snow go ?
+CHI:	it's a bed .
+MOT:	yeah , it fell down huh [/?] ?
+MOT:	Rick , look .
+MOT:	a horse .
+CHI:	i [/?] I playing .
+MOT:	Rick , woops [/?] move your bum up .
+CHI:	are you opening <the door> [/?] the door ?
+MOT:	what do you say ?
+MOT:	what are they doing ?
+CHI:	<one , one> [/?] .
+MOT:	look .
+CHI:	this is fall .
+MOT:	Rick , use the eraser please .
+CHI:	tree [/?] .
+CHI:	I want Arnold .
+MOT:	Rick , what are they eating ?
+CHI:	xxx .
+MOT:	Rick .
+MOT:	alright .
+CHI:	auntie [/?] auntie .
+MOT:	Rick .
+MOT:	three horses and two cowboys .
+MOT:	o@l [/?] .
+MOT:	it looks good .
+MOT:	a rocket ?
+CHI:	I want help , please .
+CHI:	put the bag in .
+MOT:	cups yeah .
+MOT:	sausage , and what else ?
+CHI:	b@l [/?] .
+CHI:	no .
+CHI:	trace it xxx .
+MOT:	put your hands down .
+MOT:	what does that say Rick ?
+CHI:	a washer .
+MOT:	Rick , look .
+CHI:	movie today .
+MOT:	what other letter ?
+CHI:	want tv .
+MOT:	let's see .
+MOT:	good boy .
+MOT:	that's nice talking .
+MOT:	what's on their plate ?
+CHI:	are you going +/.
+CHI:	auntie .
+CHI:	lego .
+MOT:	how about this one ?
+MOT:	they're eating shells ?
+MOT:	alright .
+MOT:	try g@l .
+MOT:	wanna do this one ?
+MOT:	Rick , what are they doing ?
+MOT:	now you can't shut the door .
+MOT:	Rick , look .
+CHI:	put the rocket in ?
+MOT:	Rick , what's this ?
+CHI:	I want a t@l .
+MOT:	oh , you're putting it in .
+MOT:	they're eating everything up .
+MOT:	what ?
+MOT:	yeah , tell her be good .
+MOT:	that's nice hey [/?] ?
+MOT:	what's this Rick ?
+MOT:	it's just a make believe one Rick .
+MOT:	dump them out .
+MOT:	yes , a table .
+CHI:	make .
+CHI:	purple .
+MOT:	what's the horse doing Rick ?
+CHI:	hi .
+MOT:	what are you doing Rick ?
+CHI:	daddy .
+MOT:	yeah .
+CHI:	people sleeping .
+MOT:	you're putting the people in the chair .
+MOT:	the people are eating their breakfast , see ?
+CHI:	yes .
+MOT:	that's nice .
+CHI:	where's a bed ?
+MOT:	what do you wanna make ?
+CHI:	eating .
+MOT:	here you go .
+MOT:	how many horses now Rick ?
+MOT:	one more e@l .
+MOT:	what's on the table Rick ?
+MOT:	you did a nice job .
+CHI:	a rocket .
+MOT:	where do they go ?
+CHI:	you put the stove in .
+MOT:	and what else ?
+MOT:	yes , we cook supper in the stove .
+CHI:	time +/.
+MOT:	do [/?] .
+MOT:	let's find the letters .
+MOT:	okay , wanna do another one ?
+MOT:	looks nice , good boy .
+MOT:	what's this Rick ?
+CHI:	egg fall .
+MOT:	good job .
+MOT:	you need help , okay .
+MOT:	what's that for ?
+MOT:	you're doing a good job .
+MOT:	what do you wanna make ?
+MOT:	looks like they're having eggs and sausage .
+MOT:	oh , that's nice .
+CHI:	I got egg fall .
+MOT:	there .
+MOT:	Rick look .
+CHI:	look .
+CHI:	away [/?] away .
+MOT:	I'll help you .
+MOT:	must be xxx .
+MOT:	good , we're in the movies later .
+MOT:	write t@l r@l .
+CHI:	<a chair> [/?] a chair .
+MOT:	here .
+CHI:	drinking a milk .
+MOT:	and who's this ?
+MOT:	alright , that's better .
+MOT:	the stove in .
+MOT:	there you go .
+CHI:	I want help please .
+MOT:	good boy .
+CHI:	do b@l [/?] .
+MOT:	<here's a bed> [/?] .
+CHI:	I put stove .
+MOT:	<mommy and daddy and Ben and Rick are finished sleeping> [/?] .
+MOT:	in the farm , good boy .
+MOT:	let go .
+CHI:	a kitchen .
+MOT:	you taking the animals out ?
+MOT:	what are they having ?
+CHI:	make r@l .
+MOT:	good job .
+MOT:	what are you doing ?
+CHI:	<one , two , three , four> [/?] .
+MOT:	Rick , look .
+MOT:	what's he eating ?
+CHI:	people .
+MOT:	look at this .
+CHI:	Mister_Rogers .
+MOT:	here's one .
+MOT:	Rick , look .
+CHI:	ohno [/?] oh , no !
+CHI:	ate it all xxx .
+CHI:	sausage .
+CHI:	refrigerator .
+MOT:	I don't know .
+MOT:	where does he belong ?
+CHI:	fence .
+MOT:	<the snow is all_gone , today it's warm outside> [/?] .
+CHI:	o@l [/?] .
+CHI:	open it .
+MOT:	you counted four people .
+MOT:	do you need help ?
+CHI:	a bridge .
+MOT:	do you know what that says ?
+MOT:	good boy .
+CHI:	e@l [/?] .
+MOT:	here we go .
+MOT:	he's in the house and the +/.
+MOT:	you closed the doors , good boy .
+MOT:	there we go .
+CHI:	making a y@l bed .
+CHI:	wanna do that .
+MOT:	what's this Rick ?
+CHI:	I put the refrigerator .
+MOT:	and what's that ?
+CHI:	y@l bed .
+MOT:	that's good .
+MOT:	Rick , fit it right here .
+MOT:	yeah .
+MOT:	it's pink on the end of his nose .
+MOT:	that looks nice Rick .
+CHI:	I want these out .
+MOT:	fit it right there .
+MOT:	g@l [/?] that's right .
+CHI:	through the door .
+MOT:	Rick , what's he doing ?
+MOT:	what do we need ?
+MOT:	the sink .
+CHI:	e@l [/?] .
+MOT:	Rick , make g@l .
+MOT:	Rick , look .
+CHI:	no .
+MOT:	there's the kitchen .
+MOT:	you're taking it apart .
+MOT:	he's walking over .
+MOT:	is it in here ?
+MOT:	what other letters ?
+MOT:	<you're gonna> [/?] with the ladder ?
+CHI:	eggs ?
+MOT:	good boy .
+MOT:	no fooling around at the table , huh [/?] ?
+MOT:	no , that's no +/.
+MOT:	Rick , what's this ?
+MOT:	good boy .
+MOT:	woops [/?] .
+MOT:	that's nice Rick .
+MOT:	big [/?] .
+MOT:	Rick , look .
+CHI:	xxx .
+MOT:	see the people Rick ?
+MOT:	is it all clean now ?
+MOT:	what else ?
+MOT:	good boy .
+CHI:	open the refrigerator .
+CHI:	nose got hurt .
+CHI:	are you b@l bed ?
+MOT:	little boy .
+MOT:	make e@l over here .
+MOT:	he's walking over with the cow .
+MOT:	how many people Rick ?
+CHI:	say no [/?] no .
+MOT:	okay .
+CHI:	<one , two , three , four> [/?] .
+MOT:	that's a lion .
+CHI:	building a bridge .
+MOT:	well , that one doesn't open .
+CHI:	<one , two three> [/?] .
+MOT:	good boy .
+MOT:	<Rick , it's time for you to go on the bus> [/?] .
+MOT:	okay , can you write it up here ?
+MOT:	that's real nice .
+MOT:	that's nice talking .
+CHI:	put supper a stove .
+MOT:	good boy , you're doing a good job .
+CHI:	d@l [/?] .
+CHI:	on the refrigerator .
+MOT:	Rick , look at mama .
+MOT:	put the letters in the hole .
+CHI:	a dog .
+MOT:	find b@l .
+CHI:	pull .
+CHI:	have a daddy .
+CHI:	xxx i [/?] .
+CHI:	dump it out .
+MOT:	there's another horse .
+MOT:	what else ?
+CHI:	you putting the chair in .
+MOT:	honey , that looks nice .
+CHI:	be good .
+CHI:	xxx out .
+CHI:	I want movie .
+MOT:	you were listening , huh [/?] ?
+CHI:	apart .
+MOT:	count them .
+MOT:	what does it say ?
+MOT:	that's a make believe one .
+MOT:	good boy .
+MOT:	you had an egg this morning huh [/?] ?
+CHI:	I fence pull apart .
+MOT:	that's nice .
+MOT:	yeah , the piece came apart .
+MOT:	you wanna put the boy in there too ?
+CHI:	I playing farm .
+MOT:	oh , the rooster too .
+MOT:	what do you need ?
+MOT:	Rick , what's this ?
+CHI:	a cow .
+MOT:	Rick , what are the people doing ?
+CHI:	the chair is gone .
+CHI:	big [/?] .
+MOT:	Rick , what's this ?
+MOT:	Rick ?
+MOT:	good boy .
+MOT:	looks good Rick .
+CHI:	mommy .
+MOT:	Rick , look .
+MOT:	there's a swing on there , huh [/?] ?
+MOT:	where will we keep the food if you take it out ?
+MOT:	woops [/?] , what happened ?
+CHI:	i [/?] I work on the house .
+MOT:	what Rick ?
+CHI:	refrigerator fall .
+MOT:	that's nice talking buddy .
+MOT:	let's build .
+MOT:	what are you doing Rick ?
+MOT:	they're eating their breakfast .
+MOT:	yeah .
+MOT:	I don't see the b@l Rick .
+MOT:	what do you put in the tub ?
+CHI:	foods .
+CHI:	wanna erase it .
+MOT:	<Kathy and Helen are making a movie> [/?] .
+MOT:	there they go .
+MOT:	that looks good .
+MOT:	<did you put the stove in> [/?] ?
+MOT:	what else ?
+MOT:	what letters do we need ?
+CHI:	xxx .
+CHI:	table fall .
+MOT:	<who is this> [/?] ?
+MOT:	put the chairs around .
+MOT:	that's good .
+MOT:	write d@l up here .
+MOT:	you're playing with the farm .
+CHI:	I want this xxx +/.
+CHI:	where's a [/?] beds ?
+MOT:	take your hand out .
+MOT:	woops [/?] she fell down .
+CHI:	tomorrow .
+MOT:	what ?
+CHI:	refrigerator .
+CHI:	<one , two , three , four , five , six , seven , eight , nine ,
+MOT:	good boy .
+MOT:	no , we need d@l Rick .
+CHI:	people breakfast .
+MOT:	she has braids .
+MOT:	what do you say Rick ?
+MOT:	taking the people out .
+MOT:	that's okay .
+MOT:	oh , the tub .
+CHI:	I gonna put it on .
+MOT:	that's nice .
+MOT:	Rick , how about the legos ?
+MOT:	Rick , look .
+CHI:	yes .
+MOT:	Rick , that looks beautiful .
+MOT:	Rick , what's this ?
+MOT:	there , okay .
+MOT:	there he is .
+CHI:	are you open it ?
+CHI:	no fit .
+MOT:	Rick , that's beautiful .
+MOT:	look .
+CHI:	<one , two , three> [/?] .
+MOT:	put it away .
+MOT:	where are they gonna ride ?
+CHI:	in the car wash .
+MOT:	look Rick .
+CHI:	are you going farm ?
+MOT:	look .
+MOT:	<what are you> [/?] where are you putting them ?
+CHI:	daddy .
+MOT:	make b@l .
+MOT:	what else ?
+MOT:	dog , okay .
+CHI:	xxx .
+MOT:	let's say +/.
+MOT:	good boy .
+CHI:	no .
+MOT:	that's right .
+CHI:	b@l [/?] .
+CHI:	no fit in .
+MOT:	what letters do we need Rick ?
+CHI:	I want +/.
+CHI:	are you go the farm ?
+MOT:	you can put them in there .
+MOT:	Rick , look .
+MOT:	Rick , what are they having for breakfast ?
+CHI:	eggs .
+MOT:	that's right .
+MOT:	yeah , okay .
+MOT:	okay , what letters do we need Rick ?
+CHI:	her okay .
+CHI:	rooster .
+MOT:	remember this we did yesterday ?
+MOT:	there's daddy .
+MOT:	there .
+CHI:	table .
+MOT:	it's a little e@l [/?] huh [/?] Rick ?
+MOT:	can you fit it over here ?
+CHI:	are you going on the movies ?
+CHI:	put on tv .
+MOT:	here .
+MOT:	as a cup , yeah .
+CHI:	piece apart .
+MOT:	good boy .
+MOT:	putting all the animals up in the hayloft .
+MOT:	look , good boy .
+CHI:	fence , take apart .
+MOT:	where's he going ?
+MOT:	he's riding over .
+MOT:	see the hay ?
+MOT:	count the people Rick .
+MOT:	you wanna open the house and put it in there ?
+CHI:	xxx .
+CHI:	xxx .
+CHI:	please .
+MOT:	can you make g@l ?
+MOT:	he's gonna walk over to the fence .
+CHI:	right here .
+MOT:	it doesn't hurt him .
+MOT:	let's pick out one of the cards .
+MOT:	write d@l .
+MOT:	a cow .
+MOT:	put the table in .
+MOT:	and here's the refrigerator .
+MOT:	look at my eyes .
+MOT:	what else ?
+CHI:	put a table .
+MOT:	yes [/?] .
+MOT:	<use some more , okay> [/?] .
+MOT:	count them .
+MOT:	nice erasing Rick .
+CHI:	eating .
+CHI:	xxx .
+CHI:	having .
+CHI:	tomorrow .
+MOT:	we'll put the people in here .
+CHI:	are you +/.
+CHI:	refrigerator .
+MOT:	Rick , look .
+CHI:	cook stuff .
+MOT:	put him in the farm .
+MOT:	a giraffe , good boy .
+MOT:	can you write big Rick ?
+MOT:	auntie [/?] .
+CHI:	bear .
+CHI:	are you opening ?
+MOT:	good boy , Rick .
+CHI:	xxx the farm .
+MOT:	oh , isn't this nice ?
+MOT:	there's the refrigerator Rick .
+CHI:	<one , two> [/?] .
+MOT:	there goes the door .
+MOT:	there .
+MOT:	woops [/?] .
+CHI:	need this .
+MOT:	d@l [/?] okay .
+MOT:	they all fell down , Rick .
+MOT:	do some cards ?
+CHI:	eating shells .
+MOT:	all in the hayloft .
+CHI:	<I want> [/?] I want r@l .
+CHI:	no .
+MOT:	they're on the swing .
+CHI:	make believe drawers .
+MOT:	what about these animals Rick ?
+MOT:	yeah , that's the refrigerator .
+MOT:	there's another horse .
+MOT:	wanna do them ?
+MOT:	you pulled it apart .
+MOT:	Rick , I'm gonna set up this fence .
+MOT:	where do these belong Rick ?
+MOT:	oh , look at this Rick .
+MOT:	look , you're putting him on .
+CHI:	almost .
+CHI:	movie today ?
+MOT:	a stove .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	be good .
+MOT:	you wanna do some more tomorrow ?
+CHI:	where's snow go ?
+MOT:	Rick , what are you making ?
+MOT:	what are you making ?
+MOT:	you put the ladder in the house ?
+MOT:	see ?
+CHI:	I close it .
+MOT:	<this is the daddy> [/?] .
+MOT:	they're gonna ride .
+MOT:	okay [/?] .
+MOT:	Rick , what are you doing ?
+MOT:	what's this Rick ?
+MOT:	you did a good job .
+MOT:	in the car wash .
+MOT:	where are you gonna put him ?
+CHI:	eggs .
+CHI:	no .
+MOT:	good boy .
+CHI:	I want help , please .
+MOT:	good boy .
+CHI:	oh , no !
+MOT:	now you're fixing it .
+MOT:	<let's make a bed , here's a bed> [/?] .
+MOT:	he's eating .
+CHI:	a bath+room .
+MOT:	you put it in the door .
+CHI:	<no , no> [/?] no .
+CHI:	eating .
+MOT:	Rick , what else ?
+CHI:	broke it .
+MOT:	they're eating their breakfast .
+MOT:	<Rick , what goes in the bag> [/?] ?
+MOT:	Rick , what letter ?
+CHI:	making .
+CHI:	put the fence in .
+MOT:	no .
+MOT:	there , that's nice .
+MOT:	good boy .
+MOT:	and that looks like mommy .
+MOT:	good boy .
+CHI:	xxx the house out .
+CHI:	apart .
+CHI:	the sheep can not go in the house .
+MOT:	Rick , let's do this .
+CHI:	I need take out refrigerator out .
+MOT:	Rick , let's set up the fence .
+MOT:	<where , the chairs can go in the house> [/?] .
+CHI:	are you +/.
+CHI:	I play the house .
+MOT:	what else ?
+MOT:	what are you doing Rick ?
+MOT:	no , write d@l .
+MOT:	you can just put it right next to it .
+MOT:	look , there's more .
+MOT:	good boy .
+CHI:	do b@l .
+MOT:	what does this say ?
+MOT:	good boy .
+MOT:	Rick , don't move it .
+CHI:	fence .
+CHI:	make a bed .
+MOT:	that's his nose .
+CHI:	and you xxx ate it .
+CHI:	mommy , gonna try again ?
+MOT:	you shut the doors .
+MOT:	Rick .
+MOT:	it's the stove .
+MOT:	huh [/?] Rick .
+MOT:	good boy .
+MOT:	what does that say Rick ?
+MOT:	okay .
+MOT:	woops [/?] .
+MOT:	good job .
+MOT:	do you like eggs Rick ?
+CHI:	that , put a house .
+CHI:	I put in the farm .
+MOT:	let's pick up the game .
+CHI:	no [/?] no .
+MOT:	over to the fence .
+MOT:	<what about> [/?] wanna put the table in there ?
+MOT:	did we lose it ?
+MOT:	Rick , look .
+MOT:	here .
+MOT:	two horses and two cowboys .
+MOT:	e@l [/?] .
+CHI:	wanna find b@l .
+MOT:	<this is the mommy> [/?] .
+MOT:	we make supper in the stove .
+MOT:	Rick , that's a nice b@l .
+MOT:	what are you doing Rick ?
+MOT:	what's the doggie doing ?
+CHI:	refrigerator's broke .
+CHI:	<one , two> [/?] .
+CHI:	eating breakfast .
+MOT:	see ?
+MOT:	come on .
+MOT:	Rick , if you're all done , put the letters in there .
+CHI:	a table .
+CHI:	a table .
+CHI:	you open the refrigerator ?
+MOT:	Rick look .
+MOT:	look , set the farm up .
+CHI:	it's a car .
+MOT:	how many horses Rick ?
+MOT:	can you write it ?
+MOT:	Rick , you wrote big .
+CHI:	I want stuck .
+CHI:	i [/?] I want refrigerator finish [/?] finish .
+CHI:	I need help please .
+MOT:	are they having toast ?
+CHI:	no .
+CHI:	I want help please .
+CHI:	oh no [/?] oh , no !
+MOT:	what are you gonna make ?
+CHI:	a bed .
+MOT:	Rick look , what do you need ?
+CHI:	I play the house .
+CHI:	<a hor> [/?] a horse .
+MOT:	here's the farm .
+CHI:	making .
+MOT:	mommy will help .
+MOT:	okay .
+CHI:	a horse .
+MOT:	<Rick , hi> [/?] .
+CHI:	I got it .
+CHI:	say doggie .
+MOT:	ah [/?] the car's gone .

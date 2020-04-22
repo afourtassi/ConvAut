@@ -1,0 +1,967 @@
+participant	content
+MOT:	are you okay ?
+CHI:	pants .
+MOT:	can you put Garfield chasing the little mouse in the room ?
+CHI:	are [/?] you grabbing ?
+MOT:	no , <it's> [/?] we'll read this early .
+CHI:	good_night .
+MOT:	no , <the adventures of a little pig> [/?] .
+MOT:	what's that ?
+MOT:	Jack .
+MOT:	Jack ?
+MOT:	does a chair go up in the window ?
+MOT:	you don't hafta say goodbye .
+CHI:	xxx .
+MOT:	look Jack .
+CHI:	no tunnel today [/?] today .
+MOT:	next week ?
+MOT:	see Garfield chasing the mouse ?
+CHI:	once [/?] .
+CHI:	xxx .
+MOT:	I think Jack had a nice day .
+CHI:	xxx .
+CHI:	fish .
+CHI:	xxx .
+MOT:	you wanna build with the cars ?
+MOT:	come here .
+CHI:	<diff , diff , a diff> [/?] different .
+MOT:	an ice+cream cone .
+MOT:	we'll read a story .
+MOT:	and what's that ?
+CHI:	we laugh .
+MOT:	a nice hug .
+MOT:	do you know what that is ?
+CHI:	Mary .
+CHI:	get in the seat .
+CHI:	Garfield .
+MOT:	do you wanna put the tennis racquet in Garfield's hand ?
+CHI:	bo [/?] boat .
+MOT:	and his bike .
+CHI:	r@l [/?] .
+MOT:	okay ?
+MOT:	okay , you wanna lay down with joy ?
+MOT:	who did we go down and visit a little while ago ?
+MOT:	what are those ?
+CHI:	ah [/?] in the hand .
+MOT:	can you say vest ?
+MOT:	Jack .
+CHI:	xxx .
+CHI:	vest .
+MOT:	f [/?] is for Fred , like Uncle_Fred .
+MOT:	who else did you see today ?
+CHI:	lay down xxx .
+CHI:	orange .
+MOT:	look at mama .
+MOT:	say it again .
+MOT:	do you wanna sing Hush_little_baby ?
+MOT:	what's that right there ?
+MOT:	what's that a picture of there ?
+MOT:	see ?
+CHI:	blanket [/?] .
+MOT:	Paul's toes , that's right .
+MOT:	I'm staying right here .
+MOT:	did you say you were just going to sing ?
+MOT:	no ?
+MOT:	you want some help ?
+CHI:	hi mama mama [/?] .
+MOT:	do you know what this is ?
+MOT:	this is a +/.
+CHI:	mama lay down .
+MOT:	you don't wanna ?
+CHI:	yeah .
+CHI:	no .
+MOT:	wanna play with Tonka ?
+MOT:	and what do you do with a ladder ?
+CHI:	ice .
+MOT:	that's the letter g@l [/?] that's right .
+CHI:	argh .
+MOT:	good .
+MOT:	what's Nanny_Bartlane hafta do with this ?
+CHI:	<a r@l> [/?] .
+MOT:	a ladder .
+CHI:	are [/?] you grabbing ?
+MOT:	Jack what's this ?
+MOT:	look at the word .
+CHI:	a different day .
+MOT:	that's good .
+CHI:	ladder .
+MOT:	Scooby Scooby_Doo [/?] .
+CHI:	sing a song .
+MOT:	you're gonna sing a little song for us ?
+MOT:	look_it , it's still light out .
+MOT:	mama .
+CHI:	horn .
+MOT:	what's that ?
+CHI:	<one , two , three , four , five , six , seven> [/?] .
+MOT:	wanna pick the dog up and put him over here and the rug ?
+MOT:	did you say goodbye to Auntie_Mary and grandma ?
+CHI:	goodbye .
+CHI:	I wanna say bye .
+MOT:	I have nails , Jack .
+MOT:	another hug ?
+MOT:	we'll go visit on a different day that's right .
+MOT:	a nice hug .
+MOT:	say it again .
+MOT:	does Jack know what this is ?
+MOT:	and you're lying on your back ?
+MOT:	Jack .
+MOT:	that's right .
+MOT:	do you know what this is up here ?
+MOT:	I know you're a little sad because they left but they'll be back up
+CHI:	don't be [/?] a baby .
+MOT:	we'll play with Garfield some more .
+MOT:	we don't hit , right ?
+MOT:	goodbye .
+MOT:	that's an r@l [/?] , and what's that picture of ?
+CHI:	bye Mary .
+MOT:	let's see what else we have in here .
+MOT:	look at mama .
+MOT:	what's that ?
+MOT:	say that again .
+MOT:	no , right there .
+MOT:	I'm sure you are .
+MOT:	see how Garfield's chasing that little mouse .
+MOT:	okay ?
+MOT:	what is that ?
+MOT:	are you real tired ?
+CHI:	gramps .
+CHI:	xxx .
+MOT:	a little bit ?
+MOT:	who you saying goodbye to ?
+MOT:	are you getting bored ?
+MOT:	do you wanna sing Hush_little_baby ?
+CHI:	Nanny_Bartlane .
+CHI:	oh , .
+MOT:	is Jack a little sad ?
+CHI:	see you in the morning .
+MOT:	ooo [/?] a big hug , okay ?
+MOT:	and then you can smile .
+CHI:	a ball of string .
+CHI:	xxx .
+CHI:	cream .
+CHI:	lay down .
+CHI:	six years old .
+CHI:	green [/?] .
+MOT:	say hi Helen .
+MOT:	sing me a song .
+CHI:	she said bye .
+MOT:	can you get up and give me a little hug ?
+MOT:	sit down .
+MOT:	yeah .
+CHI:	Dena .
+MOT:	it looks a little bit like a spider .
+MOT:	is Jack getting tired ?
+MOT:	do you wanna sing Going_On_A_Bear_Hunt ?
+MOT:	let me see your eyes .
+MOT:	did you have fun with them ?
+MOT:	Jack .
+CHI:	nightmared@n .
+MOT:	no , I think she hurt herself on the swing .
+CHI:	thank you Helen .
+MOT:	and you'll like that .
+MOT:	that's good .
+MOT:	what's that a picture of ?
+CHI:	Garfield .
+CHI:	we said bye .
+MOT:	that's good .
+MOT:	good .
+MOT:	that's the letter v@l [/?] .
+MOT:	easy with that sweetheart .
+CHI:	v@l [/?] .
+MOT:	good .
+MOT:	you wanna read a story ?
+MOT:	say it again .
+MOT:	do you know what that is ?
+MOT:	what does that say ?
+CHI:	bee .
+MOT:	ohboy [/?] , what does that say , Jack ?
+MOT:	well , it goes on the floor .
+MOT:	Jack , can you talk to mama ?
+MOT:	what is that a picture of ?
+CHI:	okay .
+MOT:	what do you wanna do ?
+MOT:	Jack .
+MOT:	come on .
+CHI:	giraffe .
+CHI:	hi mama mamama [/?] .
+MOT:	she got a little ouch then she was all better .
+MOT:	does he look like Daniel_Tiger ?
+MOT:	can you say scarf ?
+CHI:	rug .
+CHI:	xxx .
+MOT:	Garfield .
+CHI:	xxx .
+MOT:	there was a man ?
+MOT:	count them .
+MOT:	what's that right there ?
+MOT:	what do you wanna sing ?
+MOT:	no , you don't hafta .
+MOT:	what does that say ?
+CHI:	listen up .
+MOT:	are you really sad ?
+MOT:	can you say feet ?
+MOT:	we went to nana and +/.
+CHI:	xxx [/?] .
+MOT:	no you can put this down .
+MOT:	yeah .
+MOT:	you might be right , I don't know .
+MOT:	that's right .
+CHI:	whiskers .
+MOT:	that's right .
+MOT:	yeah , a little booboo .
+CHI:	no .
+MOT:	okay , yeah , we will .
+MOT:	does Jack like ice+cream cones ?
+CHI:	picture [x 2] nightmare .
+MOT:	come on .
+CHI:	scarf .
+MOT:	do you wanna do something Jack ?
+MOT:	do you know what that's a picture of Jack ?
+MOT:	that's good .
+MOT:	snuggle in .
+CHI:	mama mamama [/?] .
+MOT:	yeah ?
+MOT:	we said goodbye to Auntie_Mary just a little while ago huh [/?] ?
+MOT:	you know what this is right here ?
+MOT:	Jack likes to sing Scooby_Doo .
+CHI:	yes .
+MOT:	we're gonna go visiting on a different day .
+MOT:	Jack listen .
+CHI:	did we say bye ?
+MOT:	right .
+MOT:	that's a tiger .
+MOT:	and who just had their birthday ?
+MOT:	what is it ?
+MOT:	you wanna lay down ?
+MOT:	how old are you Jack ?
+MOT:	in this right here .
+MOT:	Jack just had his birthday .
+MOT:	yeah .
+MOT:	yeah .
+MOT:	Jack , what's right here ?
+MOT:	put the tennis racquet and put it right in his hand .
+CHI:	no .
+MOT:	that's good .
+CHI:	grass [/?] .
+MOT:	do you wanna read that ?
+MOT:	yeah !
+MOT:	a what ?
+MOT:	no ?
+MOT:	who said goodbye ?
+MOT:	do you like Garfield ?
+MOT:	and the next one is +/.
+CHI:	r@l [/?] .
+CHI:	one .
+MOT:	who just had their birthday ?
+MOT:	and what does this say up here ?
+MOT:	do you wanna do the numbers ?
+CHI:	I'm gonna lay down with baby joy .
+MOT:	what's the next one ?
+MOT:	nope .
+MOT:	are these too tight ?
+MOT:	maybe on a saturday .
+CHI:	get up to bed .
+MOT:	you wanna read a story ?
+MOT:	right .
+MOT:	right .
+MOT:	no ?
+MOT:	you are ?
+MOT:	vest .
+MOT:	that's a birthday cake , that's right .
+MOT:	you wanna take a nap ?
+MOT:	do you want +/.
+MOT:	you want a hug .
+MOT:	mama's not going to lay down now .
+MOT:	Jack what ?
+MOT:	right , an ice+cream .
+MOT:	what does a bee say ?
+MOT:	Jack .
+CHI:	tennis .
+MOT:	no , what's that right there ?
+CHI:	dog .
+MOT:	and be happy .
+MOT:	what's this ?
+CHI:	Nanny_Bartlane .
+CHI:	<no no no> [/?] no .
+CHI:	Paul's toes .
+MOT:	put that on there .
+MOT:	that's <a r@l> [/?] .
+MOT:	what is it ?
+MOT:	what's this right here ?
+MOT:	look .
+MOT:	you said goodbye .
+CHI:	gonna go to her house .
+MOT:	Jack .
+MOT:	and what's this right here ?
+MOT:	Jack .
+MOT:	no talking to yourself , right ?
+MOT:	right here there's a little mouse right there .
+MOT:	that's the letter f [/?] , and what's that a picture of ?
+MOT:	there's He_Man over here .
+MOT:	do you want a hug ?
+CHI:	get up to bed .
+MOT:	right there ?
+CHI:	no .
+MOT:	are your eyes itchy ?
+MOT:	mama's talking .
+MOT:	and talk to me , don't talk to yourself .
+MOT:	an owl goes <hoot hoot> [/?] that's right .
+CHI:	they said +/.
+CHI:	sunny [/?] .
+MOT:	okay .
+MOT:	Jack .
+MOT:	come on .
+MOT:	do you wanna sing that ?
+CHI:	xxx .
+MOT:	that's good and what's that a picture of right there .
+MOT:	good !
+MOT:	come on over here .
+MOT:	is that his name ?
+MOT:	did you say goodbye to them ?
+MOT:	what's that a picture of ?
+MOT:	just like joy's laying down taking her nap .
+CHI:	good_night .
+MOT:	very [/?] very good .
+MOT:	you wanna lay down on the couch ?
+MOT:	<one , two , three> [/?] ?
+MOT:	what's that ?
+MOT:	do you wanna sing mama a song ?
+MOT:	Jack come on back .
+MOT:	and you wanna play on the Big_Wheels when they come up ?
+MOT:	no , that's +/.
+CHI:	okay .
+MOT:	did you have fun with cousin Ricky ?
+CHI:	tennis .
+MOT:	oh , you don't .
+MOT:	Jack .
+MOT:	no ?
+MOT:	and what's this a picture of ?
+CHI:	don't be [/?] a baby .
+MOT:	good_night .
+MOT:	and Jack we can call them .
+CHI:	huggie .
+CHI:	grapes .
+MOT:	they came up here this time and we'll go down to their house next
+CHI:	yeah .
+MOT:	what is it ?
+MOT:	what's this ?
+CHI:	spider .
+MOT:	no .
+MOT:	go ahead .
+CHI:	good_night .
+CHI:	gingerbread .
+MOT:	that's &-um [/?] a ball of string .
+MOT:	what's this right there ?
+MOT:	that's a dress .
+MOT:	&-um [/?] what's a song that you like ?
+MOT:	what's that ?
+MOT:	is Jack tired ?
+CHI:	Nikes .
+MOT:	well this is only afternoon .
+MOT:	do you want a hug to make you feel better ?
+MOT:	that's string ?
+MOT:	are you feeling sad ?
+MOT:	say I'm just feeling a little bit sad .
+CHI:	my card son .
+CHI:	four .
+MOT:	and Skeletor .
+MOT:	that's right .
+CHI:	kite .
+MOT:	what are these Jack ?
+CHI:	she's being a baby .
+MOT:	auntie +/.
+MOT:	you wanna play with He_Man ?
+CHI:	I told you .
+MOT:	no , you just turned +/.
+MOT:	stand up .
+MOT:	two Garfields .
+CHI:	later .
+MOT:	no talking to yourself .
+MOT:	Jack .
+MOT:	you wanna go down and visit Mary maybe +/.
+MOT:	Jack .
+MOT:	what's that ?
+MOT:	Jack , come on over here with mama .
+MOT:	you tired ?
+MOT:	goodbye .
+MOT:	yeah , the sun is still out .
+MOT:	what a nice boy huh [/?] ?
+MOT:	that's right .
+CHI:	okay .
+MOT:	we can go down and visit Ricky and Nicole and play with all their
+CHI:	don't cry .
+MOT:	mama said goodbye ?
+MOT:	wanna read a story ?
+MOT:	and that's a tennis ball , good .
+CHI:	the adventures of a small pig .
+MOT:	listen .
+MOT:	what do you wanna do ?
+MOT:	what's that a picture of there ?
+MOT:	Scooby or not Scooby .
+MOT:	do you know what this is right here ?
+MOT:	come on over here .
+CHI:	good_night .
+CHI:	<sleepy time tales> [/?] .
+CHI:	I'm just feeling a little sad .
+CHI:	I'll be out .
+MOT:	okay ?
+MOT:	today ?
+CHI:	dog .
+CHI:	I did it .
+MOT:	okay ?
+MOT:	would you sing me a song ?
+MOT:	have a nice nap .
+MOT:	can you read that ?
+MOT:	Jack , do you like Garfield ?
+MOT:	like we useta sing to joy ?
+MOT:	or are you just tired ?
+CHI:	<big fat hairy deal> [/?] .
+CHI:	boy !
+MOT:	come over here and give me a hug .
+MOT:	are you missing the kids ?
+MOT:	ball , that's right .
+MOT:	do you know what that is ?
+CHI:	and Fred xxx .
+MOT:	and what's that a picture of ?
+MOT:	are you feeling sad ?
+CHI:	<sing &s sing song> [/?] .
+CHI:	ten .
+CHI:	xxx .
+MOT:	Nanny_Bartlane .
+CHI:	ouch .
+CHI:	kite .
+MOT:	oh , what a nice hug .
+CHI:	r@l [/?] .
+MOT:	<h@l o@l r@l n@l > [/?] see ?
+CHI:	birthday .
+CHI:	xxx .
+MOT:	you what ?
+MOT:	okay .
+CHI:	r@l [/?] .
+MOT:	a tiger .
+CHI:	toe [/?] toes .
+MOT:	that's a whistle .
+MOT:	and maybe +/.
+MOT:	we're gonna go to Ricky's house .
+MOT:	what does a +/.
+CHI:	skirt .
+MOT:	very good .
+CHI:	okay .
+CHI:	no tunnel today .
+CHI:	scarf .
+MOT:	he stayed up last night .
+MOT:	what's that ?
+CHI:	bye Ricky .
+MOT:	you might not +/.
+MOT:	huh ?
+MOT:	you really can't touch that .
+MOT:	what's the matter ?
+MOT:	are you tired ?
+MOT:	that's right .
+MOT:	are you really sad .
+CHI:	Dena .
+MOT:	and what's that ?
+MOT:	these are +/.
+CHI:	xxx me .
+CHI:	Paul's toe .
+MOT:	Jack .
+MOT:	what's that a picture of ?
+MOT:	what's this right here ?
+MOT:	what's that ?
+MOT:	you can make a +/.
+MOT:	not tomorrow , but we'll go another day .
+CHI:	laugh .
+CHI:	you stay .
+MOT:	we'll go down and use Ricky's Big_Wheel .
+MOT:	we don't hit .
+CHI:	barn .
+MOT:	do you wanna have Garfield chase the little mouse like this right
+MOT:	we can build .
+MOT:	you wanna play with Garfield again ?
+CHI:	lion .
+MOT:	that's a barn .
+MOT:	you talk to mama , okay ?
+MOT:	Jack , what does daddy do with the ladder ?
+MOT:	well there's an ar [/?] in Bartlane , so +/.
+CHI:	xxx .
+MOT:	no , look at mama .
+CHI:	doll .
+CHI:	okay .
+MOT:	that's what we're gonna do .
+MOT:	not tonight , no .
+MOT:	am I ?
+CHI:	ah [/?] !
+MOT:	that's right and that's his dinner .
+CHI:	I wanna sing +/.
+MOT:	and what's this here ?
+CHI:	they'll be back .
+MOT:	look at me .
+MOT:	Scooby_Doo , you watch that on tv .
+MOT:	what's that ?
+MOT:	Jack .
+MOT:	are you crying ?
+CHI:	xxx .
+CHI:	on .
+CHI:	Scooby_Doo .
+MOT:	she did say goodbye ?
+MOT:	maybe on a wednesday afternoon .
+MOT:	you don't hafta go to bed after this .
+MOT:	Jack .
+MOT:	whose house ?
+MOT:	you say words and you talk to mommy and you talk +/.
+MOT:	I know , I know .
+MOT:	right .
+MOT:	where did we go ?
+MOT:	<one sunny day> [/?] +/.
+MOT:	you missing ?
+MOT:	Jack .
+MOT:	easy with the camera honey .
+CHI:	scarf .
+MOT:	what do you wanna do ?
+MOT:	right .
+CHI:	yes .
+MOT:	that's the number +/.
+MOT:	a doll .
+CHI:	it's a bug .
+MOT:	what's the name of that ?
+MOT:	and what's that say right there ?
+MOT:	these are +/.
+MOT:	<the adventure of a little pig> [/?] .
+MOT:	come on Jack .
+MOT:	sit up .
+MOT:	that looks like a turkey leg .
+CHI:	xxx .
+CHI:	mama .
+MOT:	are you feeling sad ?
+MOT:	are you gonna lay down with joy Jack ?
+MOT:	it looks like a doll but it's a gingerbread [/?] gingerbread man .
+CHI:	no .
+MOT:	what's that a picture of ?
+MOT:	that's a picture of a +/.
+MOT:	do you wanna +/.
+CHI:	nightmared@n .
+MOT:	Jack .
+MOT:	can you sing me +/.
+MOT:	are you tired ?
+CHI:	Jack don't want xxx .
+CHI:	xxx .
+MOT:	barn ?
+MOT:	vest , right , that's good .
+MOT:	yeah , bye Ricky and bye Nicole .
+MOT:	down in Halifax .
+MOT:	no , I was fixing your sock .
+MOT:	hi Jack .
+CHI:	&a:h [/?] .
+MOT:	oh , for Fred .
+CHI:	no , cry .
+MOT:	Jack , did you say thank you to Helen ?
+MOT:	Nanny_Bartlane .
+MOT:	but we'll see the kids real soon .
+MOT:	oh , don't cry .
+MOT:	are you gonna take a nap ?
+MOT:	what's that a picture of ?
+MOT:	that's good .
+CHI:	bye .
+MOT:	do you know what this is up here ?
+MOT:	Jack , you wanna come over here and play with Tonka ?
+CHI:	you know the story .
+MOT:	gonna put some little mice in the room .
+CHI:	gonna go to her house .
+CHI:	I'll be out in a minute .
+MOT:	you wanna lay down ?
+CHI:	u [/?] .
+MOT:	good .
+MOT:	they're gonna come back real soon .
+CHI:	scarf .
+CHI:	<the adventure> [/?] !
+MOT:	so you have a nice nap .
+MOT:	does Jack like ice+cream cones ?
+MOT:	who just had their birthday ?
+MOT:	with Garfield ?
+CHI:	wheel .
+MOT:	are you tired ?
+MOT:	no , it's just early afternoon but you can take a nap if you want .
+MOT:	that's the letter u [/?] .
+MOT:	and what's this , Jack ?
+MOT:	am I grabbing your sock ?
+MOT:	what does that say right there hon ?
+MOT:	can you say flowers ?
+CHI:	they'll be back .
+CHI:	dolly .
+CHI:	hi .
+CHI:	calm down .
+MOT:	very good .
+MOT:	what's this up here ?
+MOT:	come on over here Jack .
+MOT:	do you know what +/.
+MOT:	can you say flowers ?
+MOT:	and bye Aunt_Mary .
+MOT:	you're sposta talk to mama .
+MOT:	it's a bug .
+MOT:	see the dog sitting over there in the corner over there ?
+CHI:	on a wednesday .
+MOT:	come over here .
+CHI:	Scooby not Scooby .
+MOT:	and what do you want me +/.
+MOT:	Jack .
+MOT:	what's this over here ?
+MOT:	okay .
+MOT:	there are toes there , yeah .
+CHI:	huggie .
+MOT:	that's a picture of a +/.
+MOT:	look at mama .
+CHI:	lay down .
+CHI:	nighty night .
+MOT:	that's a wheel .
+MOT:	that's very good .
+MOT:	well , that's a skirt .
+MOT:	no , what's that a picture of ?
+MOT:	and +/.
+MOT:	look at me .
+MOT:	and I think +/.
+MOT:	and what's down here ?
+MOT:	Laura and who else ?
+MOT:	what's this right here ?
+CHI:	have a nice nap .
+MOT:	you do ?
+MOT:	what's the matter ?
+CHI:	gonna go get into bed .
+MOT:	right .
+MOT:	what's mama doing ?
+MOT:	you had lots_of fun .
+MOT:	you what ?
+MOT:	go ahead .
+CHI:	one [/?] .
+CHI:	they'll be back .
+CHI:	birthday .
+MOT:	what's that ?
+MOT:	what's that ?
+MOT:	like joy .
+CHI:	r@l [/?] .
+MOT:	that's right .
+MOT:	that's a horn .
+MOT:	and everyone sat around and wished Jack a happy birthday .
+MOT:	no hitting .
+MOT:	did you have fun with them Jack ?
+MOT:	you wanna put the tennis ball in his other hand so then he's has
+MOT:	Jack ?
+CHI:	no , huggie .
+MOT:	Jack , what's this right here ?
+MOT:	you got into bed last night and you went sound asleep .
+CHI:	no tunnel .
+MOT:	a whistle .
+MOT:	no , it's still daytime .
+MOT:	Jack .
+MOT:	Jack .
+CHI:	you climb .
+CHI:	boot .
+MOT:	what does this look like Jack ?
+MOT:	okay ?
+MOT:	and a little teddy+bear right there .
+MOT:	a dog .
+MOT:	no ?
+MOT:	and you're sleeping .
+MOT:	can you say that ?
+MOT:	that's right .
+CHI:	she did .
+MOT:	good .
+CHI:	good_night .
+CHI:	okay .
+CHI:	huggie .
+MOT:	and v@l [/?] is for +/.
+CHI:	toes .
+MOT:	we drove down .
+MOT:	and what's that a picture of ?
+CHI:	<different , different> [/?] different .
+CHI:	nannybarn [/?] Nanny_Bartlane .
+MOT:	lay down .
+MOT:	that's a picture of a +/.
+MOT:	can you talk to me ?
+MOT:	and what's that ?
+CHI:	whistle .
+MOT:	what does that say ?
+MOT:	Jack , look .
+MOT:	you listen .
+CHI:	Garfield .
+MOT:	good .
+MOT:	you wanna go down to Ricky's house ?
+MOT:	say it again .
+CHI:	yeah .
+MOT:	Jack .
+MOT:	what's this a picture of ?
+MOT:	look at mama .
+MOT:	Jack come on over here .
+CHI:	ice+cream .
+CHI:	argh [/?] .
+MOT:	what is it ?
+MOT:	what does that say ?
+MOT:	Jack .
+MOT:	say yes .
+CHI:	dog .
+MOT:	do you wanna do these anymore ?
+MOT:	no , mama is pulling up your sock .
+MOT:	that's right .
+CHI:	xxx .
+MOT:	you like +/.
+MOT:	do you want me to say good_night ?
+MOT:	right .
+MOT:	mama's talking to Jack .
+CHI:	ball .
+CHI:	seat .
+MOT:	whose [/?] whose house did we go down to ?
+MOT:	no hitting mama .
+MOT:	Jack , what's this right here ?
+MOT:	and a hug .
+MOT:	that's right .
+CHI:	different [/?] different day .
+MOT:	are you really sad ?
+MOT:	Jack look at me .
+MOT:	then we can play something with some toys .
+MOT:	a bird and what does a bird do ?
+MOT:	Paul had a booboo on his toes didn't he ?
+MOT:	what's this ?
+MOT:	Jack .
+CHI:	no .
+MOT:	say it again .
+MOT:	that was good .
+CHI:	hi Helen .
+CHI:	no .
+MOT:	oh , yeah !
+MOT:	that's good .
+MOT:	what is that ?
+MOT:	go ahead .
+CHI:	Garfield .
+MOT:	Jack .
+CHI:	grab [/?] grab .
+MOT:	that isn't <o@l r@l> [/?] but what's +/.
+MOT:	sit up here with me .
+CHI:	no .
+MOT:	how about He_Man , look_it and castle gray skull .
+MOT:	right , violin .
+CHI:	see you in the morning .
+CHI:	huggie .
+MOT:	wanna sit up here with me ?
+MOT:	you wanna take a nap ?
+MOT:	do you wanna read a story ?
+MOT:	see the stripes ?
+MOT:	what's that Jack ?
+CHI:	I'm staying here .
+MOT:	look at that .
+MOT:	I mean what do you do with the ladder ?
+CHI:	different day .
+CHI:	n@l [/?] .
+MOT:	Jack .
+MOT:	and what are these right here ?
+MOT:	are you ah [/?] making a screaming noise ?
+MOT:	Jack , tell Helen what's that up there ?
+CHI:	okay .
+MOT:	you talk to momma .
+MOT:	and they slept over last night .
+CHI:	different .
+MOT:	not in cartoon talk either .
+CHI:	no .
+CHI:	Nicole is crying .
+CHI:	listen up .
+CHI:	the adventures of Scooby_Doo .
+MOT:	she was crying a little bit but then +/.
+CHI:	a bird .
+MOT:	no , you don't hafta get up to bed .
+MOT:	no hitting mama .
+MOT:	do you know what this is right here ?
+MOT:	do you know what this is ?
+MOT:	Jack .
+MOT:	a bee .
+MOT:	are you alright ?
+CHI:	fire .
+CHI:	ball .
+MOT:	do you know what that is Jack ?
+MOT:	do you wanna do that ?
+CHI:	Fred .
+MOT:	can you say feet ?
+MOT:	okay , come on over here .
+CHI:	fork .
+MOT:	can Jack say are you okay ?
+MOT:	what do you want ?
+CHI:	I wanna sing .
+CHI:	toe [/?] toes .
+MOT:	that's a scarf .
+MOT:	what a nice boy .
+MOT:	oh , we said goodbye to everybody .
+MOT:	what are these right here ?
+CHI:	argh is argh .
+MOT:	you wanna read a story ?
+MOT:	you wanna stay up and play for a little while ?
+CHI:	ball .
+CHI:	he sing .
+MOT:	you can put it on the rug there if you want .
+MOT:	are you getting tired ?
+CHI:	Nicole .
+CHI:	&a:h [/?] .
+MOT:	and you can put the ball [/?] the tennis ball in his other hand .
+MOT:	that's right .
+MOT:	and that goes in the refrigerator .
+CHI:	off to bed .
+MOT:	yeah , I think so .
+MOT:	how about the goat song ?
+MOT:	Jack .
+CHI:	say it again .
+CHI:	v@l [/?] .
+MOT:	right Jack !
+MOT:	a fish .
+CHI:	bus .
+MOT:	a giraffe , that's right .
+CHI:	f [/?] .
+MOT:	a different day that's right .
+MOT:	what's that ?
+MOT:	well , what's this a picture of ?
+MOT:	can you read that for me ?
+MOT:	that's a chair .
+MOT:	can you say a +/.
+MOT:	say feet .
+MOT:	or we may go down there and visit .
+MOT:	Jack is tired huh [/?] ?
+MOT:	good_night .
+MOT:	okay I'll see you in a little while when you wake up .
+MOT:	do you wanna &-um [/?] play with some other toys Jack ?
+MOT:	because you don't grab , right ?
+MOT:	there's a little mouse right there .
+CHI:	mama mamamama [/?] .
+MOT:	look <look look look> [/?] .
+MOT:	no talking to yourself .
+CHI:	now get into bed .
+MOT:	Jack .
+MOT:	v@l [/?] is for +/.
+CHI:	block [/?] .
+CHI:	Fred .
+MOT:	I know you can say this .
+MOT:	boot .
+MOT:	that's right , those are ice+cubes .
+MOT:	do you wanna play with Tonka ?
+MOT:	we'll go and visit later .
+MOT:	that's right , you're seven years old , and you just had a birthday
+CHI:	g@l [/?] .
+MOT:	are you tired ?
+MOT:	yeah .
+MOT:	good_night .
+MOT:	that's right .
+MOT:	say mama .
+MOT:	we're gonna go down and visit Ricky and Nicole , okay ?
+MOT:	good_night Jack .
+MOT:	but then she was okay .
+MOT:	wanna read a little story ?
+CHI:	see you in the morning .
+MOT:	right .
+CHI:	listen up .
+CHI:	violin .
+CHI:	Ricky's gonna get into bed .
+MOT:	what's that ?
+MOT:	yeah , and that's what it says , argh .
+MOT:	you and Ricky drove with mama .
+MOT:	let's read this .
+MOT:	wanna put the tennis ball in his other hand ?
+CHI:	<the adventure , the adventures of a little pig> [/?] .
+MOT:	and how old were you ?
+MOT:	see look_it , horn .
+MOT:	you laughed at the show .
+MOT:	those are feet .
+CHI:	xxx .
+MOT:	what does Paul have on his leg ?
+CHI:	today .
+MOT:	fire , that's right .
+MOT:	that's a scarf .
+MOT:	no , you don't hafta get into bed now , it's early .
+MOT:	we can play with some cars .
+CHI:	argh [/?] .
+MOT:	Tonka .
+CHI:	I'll be out .
+CHI:	balls .
+CHI:	nightmared@n .
+MOT:	Nicole , who else ?
+MOT:	look .
+CHI:	no .
+CHI:	they'll be back .
+MOT:	I'm gonna stay right here .
+MOT:	Jack .
+MOT:	Jack let's do these .
+MOT:	xxx .
+MOT:	and we said we'll see you real soon , we'll come down and visit .
+MOT:	Jack , you know what that is right there ?
+CHI:	have a nice nap .
+MOT:	you saying goodbye ?
+CHI:	goodbye .
+MOT:	that's right .
+MOT:	in his little hand right there ?
+CHI:	Fred .
+MOT:	we have blocks .
+MOT:	and what does Paul have on his leg Jack ?
+MOT:	later , that's right .
+CHI:	<one , two , three> [/?] .
+MOT:	you wanna do something ?
+MOT:	the chair goes on the +/.
+MOT:	you don't hafta go to bed .
+CHI:	vest .
+CHI:	xxx .
+MOT:	right .
+MOT:	that's good !
+MOT:	huh [/?] ?
+CHI:	goodbye .
+CHI:	yes .
+CHI:	see you .
+MOT:	what's that say right there ?
+CHI:	goodbye .
+CHI:	<not by the hair of your chinnychinchin> [/?] .
+MOT:	what's this a picture of ?
+MOT:	Jack .
+MOT:	wanna do flash+cards ?
+CHI:	gonna lay down .
+MOT:	and what's this down here ?
+CHI:	grabbing .
+CHI:	on the road .
+MOT:	there she is in all her glory .
+MOT:	are you tired ?
+MOT:	Jack .
+CHI:	Helen .
+CHI:	see you later .
+MOT:	say it again .
+CHI:	whistle .
+CHI:	a giraffe .
+CHI:	boot .
+MOT:	because we're not talking about tunnels .
+MOT:	Jack , I have a good idea .
+MOT:	are you getting tired ?
+CHI:	look like Daniel_Tiger .
+MOT:	what's this a picture of Jack ?
+CHI:	we're gonna go to her house .
+MOT:	what do you feel like doing ?
+CHI:	xxx .
+MOT:	and what's that a picture of right there ?
+MOT:	we're gonna go visit another day .
+MOT:	Jack is +/.
+MOT:	do you know what that is right there ?
+CHI:	bye .
+CHI:	xxx .
+CHI:	<o@l r@l> [/?] .
+CHI:	not tonight .
+CHI:	not tomorrow .
+MOT:	right !
+CHI:	blocks .
+MOT:	and what's that a picture of ?
+CHI:	no tunnel .
+CHI:	lay down .
+MOT:	yup , they'll be back .
+MOT:	and what's this ?
+MOT:	and what does this say down here ?
+CHI:	listen up .
+MOT:	you can sit down and play .
+CHI:	Ricky .
+MOT:	come on .
+CHI:	Bartlane .
+CHI:	Helen .
+CHI:	have a nice nap .
+CHI:	bye Mary .
+MOT:	Jack was +/.
+MOT:	we'll visit them real soon .
+MOT:	Jack look look [/?] .
+MOT:	time to talk to mama .
+MOT:	from Mister_Rogers_Neighborhood .
+CHI:	I did it .

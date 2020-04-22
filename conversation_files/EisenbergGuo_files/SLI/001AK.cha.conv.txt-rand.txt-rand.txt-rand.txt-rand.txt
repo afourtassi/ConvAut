@@ -1,0 +1,175 @@
+participant	content
+INV:	tell me one more thing about the picture .
+CHI:	she's gonna give [^ earg] a donut [^ eu] .
+INV:	tell me about what else you see in the picture .
+CHI:	she's crying [^ ns] .
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	what's going to happen next ?
+CHI:	she want [* m:03s] the bucket [^ ns] .
+INV:	and what's going to happen next ?
+INV:	so the cake's gonna fall down .
+INV:	what is happening in this picture ?
+INV:	tell me one more thing about the picture .
+INV:	what's happening in the picture ?
+CHI:	the juice fall [^ ev] down [^ eu] .
+INV:	and then what else would happen in the story ?
+CHI:	I need 0a tissue [^ ns] .
+CHI:	xxx I don't wanna be xxx .
+INV:	and then what else would happen in the story ?
+INV:	tell me about what else you see in the picture .
+INV:	what else is gonna happen in the story ?
+INV:	and then what else would happen in the story ?
+CHI:	she's going on the road [^ ns] .
+CHI:	xxx shoes .
+INV:	and what's going to happen next ?
+CHI:	he's putting [^ earg] [^ earg] [^ eu] .
+INV:	what's going to happen next ?
+INV:	just tell me what you see in the picture .
+INV:	okay, and then what else would happen in the story ?
+CHI:	big snowman [^ frag] [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	and then what else would happen in the story ?
+INV:	what else is happening in this picture ?
+INV:	and the puppy's splashing water you said into her hands .
+CHI:	he put the water on her arms .
+INV:	what's happening in the picture ?
+INV:	and what else would happen in the story ?
+CHI:	it's raining [^ ns] .
+CHI:	the rest fall down .
+CHI:	a doggy, mommy and daddy [^ ns] .
+INV:	tell me one more thing about the picture .
+CHI:	she's [^ ew:he] [^ epronoun] gon(na) put it on her plate [^ eu] .
+INV:	and what's going to happen next ?
+INV:	and what's going to happen next ?
+INV:	what's happening in the picture ?
+INV:	what else would happen in the story ?
+CHI:	she's crying [^ ns] .
+CHI:	a house [^ ns] .
+CHI:	he's running .
+CHI:	she's going on the road .
+INV:	tell me one more thing about the picture .
+INV:	tell me what you see in the picture .
+CHI:	he fall [^ elexical] [^ ev] all the water on his hands
+CHI:	[^ earg] fall down [^ eu] .
+INV:	so we have a man .
+INV:	tell me one more thing about the picture .
+INV:	so there's a boy and a girl .
+INV:	what's gonna happen next ?
+INV:	and what's going to happen next ?
+INV:	what is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	and there's a puppy barking .
+INV:	tell me one more thing about the picture .
+INV:	what else is happening in this picture ?
+INV:	what else is happening in this picture ?
+INV:	tell me one more thing about the picture .
+CHI:	<he> [/?] he put the water on his hands
+INV:	and what else would happen in the story ?
+INV:	what else is happening in this picture ?
+CHI:	I need 0a tissue [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	xxx falling down .
+CHI:	she want [* m:03s] the bucket [^ ns] .
+CHI:	he's eating .
+CHI:	I need 0a tissue [^ ns] .
+INV:	what will happen in just a little while ?
+INV:	and what else would happen in the story ?
+INV:	and he's putting scissors into the yarn basket .
+INV:	tell me one thing about the picture .
+CHI:	I need 0a tissue [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	he [^ ew:she] [^ epronoun] got wet on her shoe [^ eu] .
+CHI:	he's running .
+INV:	tell me one more thing about the picture .
+CHI:	she 0is [^ ev] hurt [^ eu] .
+CHI:	he's gonna fall down .
+INV:	these kids are playing in the leaves .
+INV:	so we have a little boy .
+CHI:	he's gonna fall down .
+INV:	what's happening in the picture ?
+INV:	and what's going to happen next ?
+INV:	the man's taking his hat off .
+INV:	what's happening in the picture ?
+INV:	tell me what you see in the picture .
+CHI:	she's gonna fall down .
+INV:	what's happening in the picture ?
+INV:	okay, so we have a doggie, a mommy and daddy .
+CHI:	he's brushing to the water on her arms [^ other] [^ eu] .
+CHI:	he's getting bread out of the toaster .
+CHI:	she's crying [^ ns] .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+INV:	what will happen in just a little while ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+INV:	tell me what else you see in the picture .
+CHI:	she's gonna put the arm on top of 0the [^ emorph] snowman [^ eu] .
+INV:	the boxes are falling down .
+INV:	what's going to happen next ?
+INV:	and the mom is waving goodbye .
+INV:	tell me about what else you see in the picture .
+CHI:	&um the cake is gonna get a mess [^ ns] .
+CHI:	the cake is gonna get a mess [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	she's crying .
+INV:	just tell me what you see in the picture .
+INV:	and what else would happen in the story ?
+CHI:	they take their hat [* m:0s] [^ emorph] off [^ eu] .
+INV:	and then what else would happen in the story ?
+CHI:	this juice is spilling .
+CHI:	the cake to falling [^ other] down [^ eu] .
+INV:	and he has a present for her .
+CHI:	she's giving [^ earg] 0a [^ emorph] donut [^ eu] .
+INV:	what is happening in this picture ?
+INV:	tell me one more thing about the picture .
+CHI:	a tree [^ ns] .
+CHI:	he [^ ew:she] [^ epronoun] got wet [^ eu] .
+CHI:	it's gonna fall down .
+INV:	what's happening in the picture ?
+INV:	and then what else would happen in the story ?
+INV:	what else is happening in this picture ?
+INV:	and then what else would happen in the story ?
+INV:	what else is happening in this picture ?
+CHI:	<xxx> [/?] he don't [^ ew:doesn't] [^ ev] get hurt [^ eu] .
+CHI:	she want [* m:03s] [^ ev] the bucket [^ eu] .
+INV:	tell me what else you see in the picture .
+CHI:	the cake is gonna get a big mess [^ eu] .
+INV:	and what's going to happen next ?
+INV:	it looks like he's gonna cut the yarn .
+INV:	what else is happening in this picture ?
+CHI:	he's raking [^ earg] [^ eu] .
+INV:	tell me about what else you see in the picture .
+INV:	what's going to happen next in the story ?
+CHI:	I need 0a tissue [^ ns] .
+CHI:	<he found the &uh> [/?] he found the cookies .
+INV:	tell me one more thing about the picture .
+CHI:	it's raining .
+CHI:	[^ earg] is 0a [^ emorph] cat on 0the [^ emorph] tree [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+INV:	what's happening in the picture ?
+CHI:	I need 0a tissue [^ ns] .
+INV:	and what's going to happen next ?
+CHI:	the juice fall [^ ev] down [^ eu] .
+CHI:	[^ earg] fall down [^ eu] .
+CHI:	he [^ ew:she] [^ epronoun] found the shoe in the water [^ eu] .
+INV:	he's about to hug his daughter .
+INV:	tell me one more thing about the picture .
+INV:	what will happen in just a little while ?
+INV:	what's going to happen in a little while ?
+INV:	just tell me what you see in the picture .
+INV:	and what's going to happen next ?
+INV:	what's going to happen next ?
+INV:	just tell me what you see in the picture .
+CHI:	she's going on the road [^ ns] .
+CHI:	I need 0a tissue [^ ns] .
+CHI:	she's gonna give a donut [^ ns] .
+CHI:	he's putting xxx +...
+INV:	what will happen in just a little while ?
+CHI:	they 0are [^ ev] wearing hats [^ eu] .
+CHI:	she's crying [^ ns] .
+CHI:	they hurt me .
+CHI:	water [^ ns] .
+INV:	tell me what you see in the picture .
+INV:	and then what else would happen in the story ?

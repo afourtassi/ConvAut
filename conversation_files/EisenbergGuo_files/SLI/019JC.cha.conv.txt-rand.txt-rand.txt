@@ -1,0 +1,225 @@
+participant	content
+CHI:	[^ earg] running [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	he [^ ew:she] [^ epronoun] has a shoe and her dad [* MOT:0's]
+MOT:	her try to break it ?
+INV:	oh, her has a hat on, okay .
+INV:	tell me one more thing about the picture .
+CHI:	he try [^ ev] 0to [^ emorph] catch them [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	that guy put a mask on [^ ns] .
+INV:	they try what ?
+INV:	say that again .
+CHI:	her [^ ew:she] [^ epronoun] has a doll [^ eu] .
+INV:	just tell me anything you see in the picture .
+CHI:	0 .
+INV:	the children see the cat .
+INV:	what else is happening in this picture ?
+CHI:	scared [^ ns] .
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] doing this [^ eu] .
+INV:	throwing them, okay .
+INV:	tell me one more thing about the picture .
+INV:	the daddy is hiding a doll behind is back .
+CHI:	they have the seatbelt on [^ ns] .
+CHI:	he is driving .
+INV:	tell me one more thing about the picture .
+INV:	a cat in what ?
+INV:	what's happening in the picture ?
+CHI:	he has a present and her .
+INV:	what else is happening in this picture ?
+CHI:	<it's> [/?] it's scared .
+CHI:	<a a> [/?] a cat 0is [^ ev] in trouble [^ eu] .
+INV:	and what's going to happen next ?
+CHI:	and her [^ ew:she] [^ epronoun] is driving [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+INV:	they raked the leaves into a big pile .
+INV:	what ?
+INV:	her what ?
+INV:	what will happen in just a little bit while ?
+INV:	tell me one more thing about the picture .
+CHI:	it's gonna go way <up> [/?] up to the ceiling .
+INV:	they try xxx +...
+INV:	what's happening in the picture ?
+INV:	they are fighting .
+CHI:	her [^ ew:she] has a hat on [^ ns] .
+CHI:	to get them [^ ns] .
+CHI:	they 0are gonna get hurt [^ ns] .
+CHI:	they are smiling .
+INV:	the water is coming out of the sink .
+INV:	tell me one more thing about the picture .
+CHI:	<it's> [/?] it's running .
+CHI:	a [^ ew:the] [^ emorph] bubbles are spilling [^ eu] .
+CHI:	they're do [^ ev] fighting [^ eu] .
+INV:	and here comes their mom .
+CHI:	a firefighter 0is [^ ev] gonna come [^ eu] .
+INV:	and what's going to happen next ?
+INV:	what's happening in the picture ?
+CHI:	and it's try [* MOT:0ing] [^ emorph] 0to [^ emorph] get 0the
+INV:	tell me one more thing about the picture .
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] tired [^ eu] .
+CHI:	that guy put a mask on [% whispered] .
+INV:	what's happening in the picture ?
+INV:	it's what ?
+CHI:	a car [^ ns] .
+INV:	the children are taking the donuts out of the bag .
+INV:	what else is happening in this picture ?
+INV:	what's going to happen next ?
+CHI:	<her has> [/?] he has a cake [^ ns] .
+CHI:	I put this down [^ ns] .
+CHI:	they are crawling .
+INV:	and what's going to happen next ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] putting leafs in the garbage
+INV:	her driving, okay .
+INV:	what ?
+INV:	what else is happening in this picture ?
+INV:	tell me one more thing about the picture .
+INV:	what's happening in the picture ?
+CHI:	a doggy 0is [^ ev] gonna get hurt [^ eu] .
+INV:	what's happening in the picture ?
+INV:	oh_no, the dog ate some of the cake .
+CHI:	<they> [/?] her [^ ew:she] 0is putting leafs in the garbage [^ ns]
+CHI:	her [^ ew:she] [^ epronoun] try [^ ev] [^ emorph] 0to [^ emorph]
+INV:	what ?
+CHI:	they 0are [^ ev] throwing snowballs [^ eu] .
+CHI:	her [^ ew:she] try a [^ ew:to] break it [^ ns] .
+CHI:	they are making 0a [^ emorph] snowman and making snowballs [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	a [^ ew:the] [^ emorph] water 0is [^ ev] coming out of 0the
+INV:	they what snowballs ?
+INV:	what ?
+MOT:	a little girl hat on ?
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+CHI:	they 0are [^ ev] gonna eat [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	and the floor 0is [^ ev] gonna break [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+INV:	say that again .
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] washing dishes [^ eu] .
+CHI:	and that's they [^ ew:their] [^ epronoun] home [^ eu] .
+CHI:	it's snowing .
+INV:	the children are trying to wash the dog .
+CHI:	<her gonna> [/?] he 0is gonna hug her [^ ns] .
+INV:	what's happening in the picture ?
+INV:	the dog is in front of the bus .
+INV:	and what's going to happen next ?
+INV:	say that again .
+CHI:	he's digging .
+CHI:	running [^ ns] .
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] gonna see [^ earg] [^ eu] .
+MOT:	the little girl has a hat on ?
+CHI:	her [^ ew:she] [^ epronoun] has her dad's hat on, that girl [^ eu]
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+MOT:	is that what you're saying ?
+CHI:	a [^ ew:the] [^ emorph] water <is> [/?] is coming out [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	and the steps are <&g go> [/?] gonna fall down [^ other] [^ eu] .
+INV:	they what ?
+INV:	say that again .
+CHI:	they're falling down .
+INV:	what else is happening in this picture ?
+INV:	the boys are fighting .
+INV:	tell me one more thing about the picture .
+INV:	just tell me anything else about the picture .
+CHI:	her [^ ew:she] 0is doing this [^ ns] .
+CHI:	<a &g> [/?] a little girl [^ frag] [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	what's going to happen next ?
+INV:	the little girl is still in her pajamas .
+INV:	what's happening in the picture ?
+CHI:	<&h> [/?] he has a cake .
+INV:	and the bus can't move .
+CHI:	her [^ ew:she] 0is driving [^ ns] .
+CHI:	it's try [* MOT:0ing] 0to get 0the dog [^ ns] .
+INV:	the boy is taking the grandma's scissors .
+CHI:	a doggy [^ frag] [^ eu] .
+CHI:	<they got> [/?] he's got scissors .
+INV:	say that again .
+CHI:	they are fighting .
+MOT:	okay .
+INV:	and what's going to happen next ?
+INV:	what else is happening in this picture ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] happy [^ eu] .
+MOT:	throwing them .
+INV:	what's happening in the picture ?
+CHI:	they throwing them [^ ns] .
+CHI:	<they have a her has a he have a him and her him her> [/?] him
+INV:	what ?
+INV:	what's happening in the picture ?
+INV:	oh_no, the bubbles spilled .
+MOT:	okay .
+INV:	just tell me one more thing about the picture .
+CHI:	a girl 0is [^ ev] blowing bubbles [^ eu] .
+CHI:	it make [^ ev] footprints [^ eu] .
+CHI:	they are fighting [^ ns] .
+INV:	the boy knocked the boxes off the shelf .
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] looking at a [^ ew:the]
+CHI:	her [^ ew:she] [^ epronoun] try [^ ev] a [^ ew:to] [^ emorph] break
+CHI:	<that water> [/?] that water 0is [^ ev] coming out [^ eu] .
+INV:	say that again .
+INV:	tell me one more thing about the picture .
+INV:	say that again .
+INV:	what's happening in the picture ?
+INV:	what ?
+CHI:	they has [^ ew:have] [^ ev] a house [^ eu] .
+CHI:	and her [^ ew:she] [^ epronoun] has a box [^ eu] .
+CHI:	&um they have safetybelt [* MOT:0s] [^ emorph] on [^ eu] .
+INV:	throwing them ?
+INV:	and what's going to happen next ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] shopping [^ eu] .
+CHI:	in trouble [^ ns] .
+INV:	tell me one more thing about the picture .
+INV:	her saying stop .
+CHI:	a birthday cake is breaking [^ elexical] [^ eu] .
+CHI:	her [^ ew:she] 0is doing this [^ ns] .
+CHI:	<they try they &uh> [/?] they xxx .
+INV:	and what's going to happen next ?
+INV:	I'm sorry .
+INV:	the dog and the girl have the daddy's shoes .
+CHI:	a fire dog [^ frag] [^ eu] .
+INV:	the cat is stuck up in a tree .
+INV:	what else is happening in this picture ?
+INV:	what else is happening in this picture ?
+INV:	what's happening in the picture ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] saying stop [^ eu] .
+INV:	just tell me anything you see in the picture .
+INV:	what else is happening in this picture ?
+INV:	say it again .
+INV:	tell me one more thing about the picture .
+CHI:	[^ earg] [^ nosubj] waves hello [^ eu] .
+INV:	say that again .
+CHI:	and he's xxx one .
+CHI:	a little boy [^ frag] [^ eu] .
+CHI:	her [^ ew:she] 0is doing this [^ ns] .
+CHI:	<&h> [/?] her [^ ew:she] [^ epronoun] pour [^ ev] a [^ ew:the]
+INV:	the boys are throwing snowballs .
+CHI:	a [^ ew:the] [^ emorph] water is try [* MOT:0ing] [^ emorph] 0to
+INV:	and what's going to happen next ?
+INV:	and what's going to happen next ?
+CHI:	her [^ ew:she] [^ epronoun] 0is [^ ev] sliding in them [^ eu] .
+INV:	her try to break it ?
+CHI:	and <he> [/?] her [^ ew:she] has a box [^ ns] .
+INV:	a cat in trouble, okay .
+CHI:	they are sitting in a car .
+INV:	tell me one more thing about the picture .
+CHI:	her [^ ew:she] [^ epronoun] have [^ ew:has] [^ ev] her daddy's
+INV:	what ?
+CHI:	he got a <&coo> [/?] cookie .
+INV:	he gonna hug her .
+INV:	what's happening in the picture ?
+CHI:	and he is making a [^ ew:the] [^ emorph] toast [^ eu] .
+CHI:	a firefighter 0is gonna come [^ ns] .
+CHI:	he's looking in the mirror .
+INV:	sorry ?
+CHI:	they 0are [^ ev] gonna get hurt [^ eu] .
+CHI:	it's gonna spill .
+CHI:	they go [^ ev] to eat .
+INV:	just tell me anything else about the picture .
+INV:	tell me one more thing about the picture .
+INV:	what's happening in the picture ?
+INV:	her happy .
+INV:	say that again .
+CHI:	her [^ ew:she] has a little girl hat on her head [^ ns] .

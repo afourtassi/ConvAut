@@ -1,0 +1,635 @@
+participant	content
+MOT:	a pig ?
+CHI:	wanna put some on .
+MOT:	did you have a big cake , or a little cake ?
+MOT:	this is yellow , right there .
+MOT:	look_it .
+MOT:	no , three .
+MOT:	the saw .
+MOT:	want me to find Snuffleupagus ?
+CHI:	yeah .
+CHI:	mom , I go like this .
+CHI:	Snuffleupagus .
+MOT:	he's going to the doctor ?
+MOT:	turned off the light ?
+CHI:	bye .
+MOT:	oh , no .
+CHI:	Helen eat .
+MOT:	wanna sit on my lap ?
+MOT:	twirl it , see you've gotta turn it .
+MOT:	can you do that ?
+CHI:	gotta put back it in .
+MOT:	yeah , that's Helen's movie .
+MOT:	we'll call daddy later and we'll tell daddy +/.
+CHI:	three .
+MOT:	where's the clown ?
+MOT:	+" we're up .
+MOT:	get dressed .
+MOT:	let me see the tears .
+MOT:	ring [/?] , ring [/?] , ring [/?] , ring .
+MOT:	what do you wanna do ?
+MOT:	what is it ?
+MOT:	here's the cake .
+CHI:	yeah .
+MOT:	come here .
+CHI:	stay sleeping .
+MOT:	you fell ?
+MOT:	oh , .
+MOT:	go with daddy ?
+CHI:	yeah .
+MOT:	what ?
+MOT:	come here .
+MOT:	huh [/?] ?
+MOT:	tickle [/?] tickle .
+MOT:	want me to go get you another +/.
+MOT:	okay , we'll try to find one .
+MOT:	okay , you go to sleep ?
+CHI:	wake up .
+CHI:	I want that .
+MOT:	you want a Big_Bird christmas record ?
+MOT:	okay , Helen's got it .
+MOT:	what , do you wanna do something +/.
+MOT:	first we'll put this one on .
+MOT:	come here .
+MOT:	wanna do this one , right here ?
+MOT:	okay , sit on my lap .
+CHI:	I want Snuffleupagus .
+CHI:	do [/?] , do [/?] , do [/?] .
+CHI:	push it out .
+MOT:	do this side .
+MOT:	all cut .
+CHI:	please .
+MOT:	what's he doing ?
+MOT:	there you go .
+CHI:	xxx .
+MOT:	what do you want for supper ?
+MOT:	okay , let me start it for you .
+MOT:	huh [/?] ?
+CHI:	I need Ernie .
+CHI:	go to school ?
+MOT:	all done .
+CHI:	white .
+MOT:	over here .
+CHI:	yeah .
+CHI:	right here .
+MOT:	do you wanna get a Big_Bird movie ?
+CHI:	please .
+MOT:	all fixed ?
+CHI:	I'm gonna go doctor .
+CHI:	I want Snuffleupagus .
+MOT:	with the color forms , okay ?
+MOT:	oh , he's got hurt !
+CHI:	yeah .
+MOT:	this one , this one here .
+MOT:	wanna play with Grover ?
+CHI:	two .
+MOT:	a book !
+MOT:	which one +/.
+CHI:	I got shoes on .
+CHI:	a blaa [/?] .
+MOT:	let's see .
+MOT:	oh , .
+MOT:	here we go .
+CHI:	momma ?
+MOT:	okay , is it time to wake up ?
+CHI:	not done yet .
+MOT:	cut , cut .
+MOT:	oh , okay .
+CHI:	yeah .
+CHI:	go .
+MOT:	oh , he's eating his cookies now ?
+MOT:	ummm [/?] .
+CHI:	I go doctor's .
+CHI:	yeah .
+MOT:	go in the christmas store ?
+CHI:	I want present .
+MOT:	almost done ?
+MOT:	wanna go play the [/?] the christmas songs ?
+MOT:	do you wanna do the saw ?
+MOT:	gonna go home ?
+MOT:	wanna see the circles , <watch watch> [/?] watch this .
+CHI:	go daddy .
+CHI:	yeah , okay .
+MOT:	he blew them out ?
+MOT:	come here .
+MOT:	what ?
+MOT:	you need a tissue .
+MOT:	where's daddy go ?
+MOT:	what's the matter ?
+MOT:	wanna see if we can find him ?
+MOT:	yeah .
+CHI:	xxx big piece of cake ?
+MOT:	wrong way .
+MOT:	you wake up .
+MOT:	good boy .
+MOT:	want momma get it for you ?
+CHI:	go .
+CHI:	yeah .
+MOT:	maybe he's in the Sesame_Street magazine .
+MOT:	okay , just tickle .
+MOT:	okay +/.
+MOT:	oh , a spoon ?
+CHI:	go to sleep .
+CHI:	no .
+CHI:	ah [/?] , cookies .
+MOT:	here it is .
+MOT:	here's Ernie .
+MOT:	the batteries are in there , yeah .
+MOT:	ah [/?] want me to fix it for you ?
+MOT:	byebye .
+CHI:	xxx batteries ?
+MOT:	pizza ?
+MOT:	show momma the saw .
+CHI:	I'm going to doctor .
+CHI:	I fell .
+MOT:	right , circle .
+MOT:	shoe off .
+MOT:	look_it , what shape ?
+MOT:	thank you .
+MOT:	okay .
+MOT:	come here .
+CHI:	big and little .
+MOT:	how many ?
+MOT:	yeah .
+CHI:	oh , yeah .
+MOT:	yeah .
+MOT:	boy , that was delicious , I bet .
+CHI:	two .
+CHI:	yeah , I need breakfast , yeah .
+MOT:	look_it , they're up .
+CHI:	a spoon .
+CHI:	night .
+CHI:	no .
+CHI:	bye .
+MOT:	what's this ?
+MOT:	no .
+CHI:	yeah .
+MOT:	do you wanna sit on my lap and we'll play together ?
+MOT:	to Grover ?
+MOT:	do you want mustard ?
+CHI:	all done .
+MOT:	okay , what do you wanna do ?
+CHI:	right here .
+MOT:	oh , a very good job .
+MOT:	are they gonna see Billy crying ?
+MOT:	okay .
+MOT:	did you go to the christmas store last week ?
+MOT:	want me call daddy up and we'll tell daddy ?
+MOT:	okay , ready , set , go .
+CHI:	yeah .
+MOT:	let's look on this page .
+CHI:	xxx mom .
+MOT:	I can't get it to go in .
+MOT:	okay , ohh [/?] .
+CHI:	back in there .
+MOT:	can you do it ?
+MOT:	let me get it .
+MOT:	wanna do another one ?
+MOT:	Billy , come here .
+MOT:	okay , xxx get the saw .
+CHI:	yay [/?] .
+CHI:	this book .
+MOT:	want me to go get you the other book , and we'll read the other
+CHI:	I want Snuffleupagus .
+CHI:	I want xxx bed ?
+CHI:	this .
+CHI:	gotta <cut it> [/?] cut it with a knife .
+MOT:	let's see if we can find him .
+CHI:	ah [/?] .
+CHI:	yeah .
+MOT:	not yet .
+CHI:	yessir .
+MOT:	do you want some leftovers ?
+CHI:	wake up .
+MOT:	what ?
+MOT:	listen , come on .
+CHI:	yeah .
+MOT:	okay .
+MOT:	no ?
+CHI:	momma , Ernie !
+CHI:	<oh , ahh> [/?] .
+MOT:	how about toast ?
+MOT:	let me show you how to do this one .
+CHI:	yeah .
+MOT:	look at it again .
+MOT:	what kind of cake is it ?
+MOT:	watch , ready ?
+MOT:	I'll pour it .
+CHI:	Snuffleupagus .
+MOT:	the straw's in there .
+MOT:	no .
+MOT:	okay , sit right here .
+CHI:	yeah .
+CHI:	one .
+MOT:	what's the matter ?
+MOT:	tickle [/?] tickle .
+CHI:	no .
+MOT:	hold it up straight .
+CHI:	yeah .
+MOT:	want me to cut the cake ?
+CHI:	no .
+MOT:	want some supper ?
+MOT:	why do you use my collar , you silly kid .
+MOT:	look at all those holes on there again .
+MOT:	why don't you see xxx cry ?
+MOT:	there we go .
+CHI:	no .
+MOT:	we gonna do some of this ?
+CHI:	it good cookie .
+CHI:	no .
+MOT:	huh [/?] ?
+CHI:	xxx !
+CHI:	yeah .
+MOT:	what's the matter ?
+MOT:	you doing this all by yourself ?
+MOT:	you want a christmas tape ?
+MOT:	Snuffleupagus ?
+MOT:	at work .
+MOT:	okay , come here .
+CHI:	xxx .
+MOT:	what are you doing ?
+CHI:	almost done .
+CHI:	all done .
+MOT:	let's look in the magazine and see if he's in here .
+CHI:	pig .
+MOT:	big cake , of course , you always ask for big , huh [/?] ?
+MOT:	time for breakfast .
+CHI:	ha[/?] , ha[/?] .
+CHI:	shoe on .
+CHI:	yeah .
+MOT:	hi [/?] .
+MOT:	you do the other one ?
+MOT:	no .
+MOT:	what happened ?
+CHI:	yeah .
+MOT:	&mm [/?] .
+CHI:	yeah .
+MOT:	you want a straw , okay .
+CHI:	yeah .
+CHI:	wa [/?] , wa [/?] , wa [/?] .
+MOT:	what's that right there ?
+MOT:	is it good ?
+MOT:	wake up .
+CHI:	yeah .
+MOT:	let me see .
+CHI:	xxx saw .
+CHI:	yeah .
+MOT:	look at this .
+CHI:	oh , .
+CHI:	yeah .
+MOT:	what do you wanna do ?
+MOT:	okay , go to sleep .
+MOT:	tickle [/?] tickle .
+MOT:	cookies ?
+CHI:	yeah , the saw , yeah .
+MOT:	it's a couch .
+CHI:	Snuffleupagus .
+CHI:	oh , .
+MOT:	wa [/?] , wa [/?] , wa [/?] , wa [/?] .
+MOT:	you want Snuffleupagus ?
+MOT:	time to get dressed .
+MOT:	oh , where's the cake ?
+MOT:	okay , bye .
+CHI:	yeah .
+MOT:	<you got a> [/?] you're getting a cold .
+MOT:	what's the magic word ?
+MOT:	here .
+MOT:	we'll put them in the records .
+MOT:	take your shoe off ?
+CHI:	mom xxx .
+MOT:	are you tired today , huh [/?] ?
+CHI:	rectangle .
+MOT:	let's count them .
+MOT:	come here , want me to give you a hug ?
+MOT:	what's the matter ?
+MOT:	are we devastated ?
+CHI:	at work .
+CHI:	yeah .
+MOT:	do you wanna play with that ?
+MOT:	now stop it .
+CHI:	yeah .
+CHI:	I dress already .
+MOT:	very good .
+MOT:	okay , ready .
+MOT:	why ?
+CHI:	okay , you gotta go to bed .
+MOT:	did you have a big or little ?
+MOT:	you don't even know what's in here .
+MOT:	<let's> [/?] let's do this .
+MOT:	was that good ?
+CHI:	open .
+CHI:	gotta get Ernie to doctor .
+CHI:	yeah .
+MOT:	want Snuffleupagus ?
+MOT:	yeah ?
+CHI:	a straw .
+MOT:	let's turn this around like that .
+CHI:	not hurt , no .
+MOT:	is it chocolate cake ?
+MOT:	you want Snuffleupagus ?
+CHI:	yeah .
+CHI:	okay .
+MOT:	now , where's the saw ?
+MOT:	come here .
+MOT:	what ?
+CHI:	yeah .
+MOT:	can you do it yourself ?
+CHI:	yeah .
+MOT:	tell you what , he'll be on tv in a little while , okay ?
+CHI:	yeah .
+CHI:	okay .
+CHI:	yeah .
+MOT:	<oh , oh> [/?] I'll put this one +/.
+CHI:	xxx did it .
+MOT:	hm: [/?] ?
+MOT:	alright , get up .
+CHI:	yeah .
+MOT:	okay , gotta go to bed .
+CHI:	all done .
+MOT:	right here .
+MOT:	yay [/?] .
+MOT:	oh „ you're going to put that one in ?
+MOT:	what kind ?
+MOT:	what's the matter ?
+MOT:	you want a tape ?
+MOT:	take that off +/.
+MOT:	what comes after two ?
+MOT:	does that look like a Snuffleupagus right there ?
+MOT:	what song do you wanna sing ?
+MOT:	you wanna put Helen's movie on ?
+MOT:	no , it's on now , take it off .
+CHI:	where's saw ?
+CHI:	gonna go home .
+MOT:	wanna do some coloring in your xxx book ?
+CHI:	yeah .
+CHI:	yeah .
+MOT:	it goes in like this , right ?
+CHI:	yeah .
+CHI:	circle .
+CHI:	byebye .
+MOT:	xxx do it .
+CHI:	one .
+MOT:	wanna telephone daddy +/.
+CHI:	I go to doctor .
+MOT:	okay , we'll go find Snuffleupagus .
+MOT:	you want some christmas tapes ?
+MOT:	what's the matter ?
+MOT:	he's an alphabet .
+MOT:	come here .
+CHI:	yeah .
+MOT:	what a good job .
+CHI:	alright .
+MOT:	can you make it go down ?
+CHI:	&mm [/?] .
+MOT:	yessir .
+MOT:	let me show ya .
+MOT:	what do you wanna play ?
+MOT:	okay .
+CHI:	all done .
+MOT:	what's the magic word ?
+MOT:	I'll put this one on , okay ?
+MOT:	yeah , let's +/.
+MOT:	okay , good_night .
+MOT:	your puppet , yeah .
+MOT:	want mama to get you a tissue ?
+CHI:	yeah .
+MOT:	nope .
+CHI:	go to sleep .
+MOT:	nope , that one goes like this .
+MOT:	okay .
+MOT:	I go to sleep .
+MOT:	what's the matter ?
+MOT:	we can go find Billy movie .
+CHI:	go .
+CHI:	yeah .
+MOT:	okay , let's see if he's in here .
+CHI:	daddy I got a cake .
+MOT:	okay , what do you want for breakfast ?
+CHI:	yeah .
+MOT:	oo [/?] I'm sorry .
+CHI:	yeah !
+MOT:	blow .
+MOT:	is it all_gone ?
+CHI:	whoopee [/?] .
+CHI:	one , two , three .
+MOT:	here's a spoon .
+MOT:	do you wanna get it ?
+MOT:	go to school .
+CHI:	he's sleeping .
+MOT:	can you do ?
+MOT:	Ernie's trying to go to sleep .
+MOT:	a knife ?
+CHI:	Snuffleupagus .
+MOT:	go to movie store ?
+MOT:	what ?
+CHI:	oh , yeah .
+MOT:	yeah ?
+MOT:	okay , come here .
+MOT:	<tickle , tickle> [/?] tickle .
+CHI:	a tape .
+MOT:	let me see , almost done ?
+MOT:	Ernie's gotta go to the doctor ?
+MOT:	want me to go to the movie store and get Snuffleupagus movie ?
+MOT:	are you tired ?
+CHI:	&-um [/?] I go back in there .
+CHI:	a dooms [/?] .
+MOT:	oh „ this way .
+CHI:	yeah .
+MOT:	let's go to this one .
+MOT:	tell Helen you went to the christmas store ?
+CHI:	all done .
+MOT:	okay .
+MOT:	what shape is this ?
+CHI:	hey [/?] .
+MOT:	you've gotta stop crying .
+CHI:	I can +/.
+CHI:	momma .
+CHI:	yeah .
+MOT:	listen , I wanna talk to you .
+CHI:	see ?
+MOT:	a dooms [/?] ?
+CHI:	fix it .
+MOT:	go , get it .
+MOT:	okay .
+CHI:	at work .
+MOT:	you want your presents ?
+CHI:	I bologna and cheese .
+MOT:	okay .
+MOT:	he's gotta go to the doctor ?
+MOT:	right there .
+MOT:	orange or apple ?
+MOT:	oh , .
+MOT:	I'll get him .
+MOT:	can you do it ?
+CHI:	I gotta get a xxx .
+CHI:	momma .
+CHI:	no .
+MOT:	that's Snuffleupagus .
+MOT:	what do you do after you sleep ?
+CHI:	Snuffleupagus .
+MOT:	is Snuffleupagus in there ?
+MOT:	let's show Helen how this works .
+CHI:	I want present .
+MOT:	you want bologna and cheese ?
+MOT:	okay , how do you get this thing +/.
+CHI:	right here .
+MOT:	say , where's my Snuffleupageus ?
+CHI:	wake up .
+CHI:	yeah .
+CHI:	Grover's .
+CHI:	Big_Bird .
+MOT:	set .
+MOT:	oh „ both of us wanna sleep in that one ?
+MOT:	to you ?
+MOT:	wow [/?] !
+CHI:	because .
+MOT:	do you wanna find something else to do huh [/?] ?
+MOT:	because ?
+MOT:	oh , .
+MOT:	can you blow ?
+MOT:	two .
+CHI:	no , not to me .
+CHI:	I want Snuffleupagus .
+MOT:	I'll give you two tissues .
+CHI:	five .
+MOT:	what color ?
+MOT:	where's the clown ?
+MOT:	okay , listen .
+MOT:	to momma .
+MOT:	the Billy movie ?
+MOT:	okay .
+MOT:	give it to Grover .
+CHI:	yeah .
+CHI:	want Snuffleupagus .
+CHI:	tickles .
+MOT:	all done .
+CHI:	yeah .
+MOT:	oop [/?] .
+MOT:	bye .
+MOT:	no , one , two +/.
+MOT:	what do you want for supper ?
+MOT:	is he there ?
+MOT:	<sit down> [/?] sit down .
+MOT:	okay .
+CHI:	no .
+CHI:	yeah .
+MOT:	how about +/.
+MOT:	in daddy's car ?
+MOT:	here .
+CHI:	tickles .
+CHI:	want Snuffleupagus .
+CHI:	I go doctor .
+CHI:	okay .
+MOT:	what shape ?
+CHI:	I want Snuffleupagus .
+MOT:	I don't think it's going to work .
+CHI:	push it out .
+CHI:	go to doctor .
+MOT:	that's right , in work .
+MOT:	bye .
+CHI:	xxx .
+CHI:	a christmas .
+CHI:	please .
+MOT:	look nice .
+MOT:	do you think this is Snuffleupagus ?
+MOT:	wanna play with the puppet ?
+MOT:	wake up .
+MOT:	yeah ?
+MOT:	okay , there it is .
+MOT:	pretty nifty huh [/?] ?
+MOT:	yep , here's some cake .
+MOT:	sit down .
+CHI:	yeah .
+MOT:	tell me what's the matter .
+CHI:	xxx that paper .
+MOT:	that's the alarm .
+CHI:	&-um [/?] , orange .
+MOT:	all about a boat .
+MOT:	wanna do this , right here for a few minutes ?
+CHI:	a puppet .
+MOT:	wipe your nose .
+MOT:	let's play with this thing .
+CHI:	a knife .
+MOT:	here he is .
+CHI:	yeah .
+MOT:	oh , come here , how about we play with this , then we'll look at
+MOT:	what are you doing ?
+CHI:	yeah .
+MOT:	no , not yellow , white .
+CHI:	yeah .
+MOT:	then what do you do ?
+MOT:	come here .
+MOT:	where's his juice ?
+MOT:	okay , what's the magic word ?
+MOT:	want Snuffleupagus ?
+CHI:	ah [/?] this one on .
+MOT:	okay .
+MOT:	Snuffleupagus ?
+CHI:	good juice , yeah .
+MOT:	oh , that's Helen's movie .
+MOT:	okay .
+CHI:	yeah .
+CHI:	juice xxx .
+CHI:	yah [/?] !
+MOT:	see if there's a Snuffleupagus in here .
+MOT:	do you wanna do this one here , the saw ?
+MOT:	are you going to be happy now ?
+MOT:	no you're not tickling my feet .
+MOT:	say , don't cry .
+MOT:	do you wanna put this in ?
+CHI:	no , I go to sleep .
+CHI:	mom cut with a knife .
+MOT:	ah [/?] .
+MOT:	you've got to be quiet .
+MOT:	what's this ?
+MOT:	okay , let's look .
+MOT:	what ?
+MOT:	let me cut it .
+MOT:	I'll be right back .
+CHI:	no .
+MOT:	okay ?
+MOT:	he's not hurt ?
+MOT:	wrong way .
+MOT:	then pick it up +/.
+MOT:	where is it ?
+MOT:	come sit on my lap .
+CHI:	ah [/?] .
+MOT:	are you alright ?
+MOT:	where is he ?
+MOT:	sit on my lap .
+MOT:	alright , push this +/.
+MOT:	huh [/?] ?
+CHI:	I can xxx dooms [/?] .
+MOT:	how do you do this ?
+MOT:	want me to do this side ?
+MOT:	come here .
+MOT:	put it in there .
+MOT:	what's the matter ?
+CHI:	yeah .
+CHI:	I go to sleep .
+MOT:	orange , okay .
+CHI:	xxx .
+MOT:	here it is .
+MOT:	cut , cut .
+MOT:	okay ?
+MOT:	is he there ?
+MOT:	Helen ?
+MOT:	to mom +/.
+MOT:	is it going down ?
+MOT:	not yet ?
+MOT:	look at the movie .
+CHI:	yellow .
+CHI:	big cake .
+CHI:	mom , I got his [/?] Grover's .
+CHI:	yeah .
+MOT:	go get me a tissue for your nose .
+MOT:	it's stuck .
+CHI:	yeah , it good .
+MOT:	come here .
+CHI:	mom .
+MOT:	one [/?] +/.
+MOT:	wow [/?] .
+CHI:	yeah .
+CHI:	I want Snuffleupagus .
+MOT:	he's +/.
+MOT:	you wanna do it ?
