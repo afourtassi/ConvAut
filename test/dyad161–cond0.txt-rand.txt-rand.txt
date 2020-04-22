@@ -1,153 +1,153 @@
 participant	content
-CHI	 
-MOT	   
-MOT	there that's good 
-CHI	 
-MOT	you gonna give him a ride 
-MOT	 here you gonna hold her up like this 
-MOT	mm is the baby gonna go to sleep after 
-MOT	okay is it baby's still playing 
-MOT	you gonna brush the baby's hair 
 MOT	thank_you 
-MOT	you're feeding the baby 
-MOT	here baby's gonna sit in the truck 
-MOT	 
-MOT	good girl 
-MOT	 baby's sleeping  
-MOT	 some more 
-MOT	there I think she's thirsty 
-MOT	brush for your baby 
-MOT	here gonna pour some more milk for Mama 
-MOT	there 
-MOT	huh 
-MOT	okay you don't hafta 
-MOT	 like this 
-MOT	oh you gonna make a phonecall 
-MOT	no 
-MOT	mm what about the baby you gonna give some to the baby 
-MOT	put the spoon down 
-MOT	here I'll take this one kay 
-MOT	oh you like yours huh 
-MOT	there 
-MOT	 mm here taste 
-MOT	 there 
-MOT	 
-MOT	you want me to have some 
-MOT	you gonna call Elsa 
-MOT	here  
-MOT	give some to the baby 
-MOT	no 
-MOT	there 
-MOT	you can put his hat back on 
-MOT	oh you're having some more 
-MOT	can I have some more milk 
-MOT	this one's for Mama 
-MOT	see there 
-MOT	 and some for you too babe 
-MOT	no 
-MOT	 
-MOT	it's her brush 
-MOT	take the cup 
-MOT	and for me too 
-MOT	for me 
-MOT	brush you  brush her hair 
-MOT	are you giving her a hug 
-MOT	here take this 
-MOT	there you go 
-MOT	what did you say 
-MOT	can you give baby a kiss 
-MOT	num_num no 
-MOT	  mm that's good stuff 
-MOT	 
-MOT	 gonna brush the baby's hair 
-MOT	Mommy's just gonna stir it a bit 
-MOT	Cho 
-MOT	okay 
-MOT	okay you wanna tickle the baby 
-MOT	there just like  
-MOT	there's milk in there 
-MOT	what about for her you gotta kiss for her too 
-MOT	 
-CHI	 
-MOT	there stir 
-MOT	here's some for you Cho 
-MOT	hm put some more in there 
-MOT	 mm  
-MOT	 gonna drink some 
-MOT	can I have some more milk 
-MOT	oh 
-MOT	 that's for you 
-MOT	no you don't wanna drink some 
-MOT	 
-MOT	I'm gonna put this you want some of this too 
-MOT	okay baby's gonna sit right there 
-MOT	is that your friend 
-MOT	there that's your supper 
-MOT	thank_you 
-CHI	 
-MOT	  
-MOT	don't take that out 
-MOT	 mm mm I'm thirsty 
-MOT	 oh don't pull that out 
-MOT	you gonna stir in mine too 
-MOT	put this down 
-MOT	lemme have something to drink 
 MOT	brush 
-CHI	 
-MOT	that's nice 
-CHI	 
-MOT	here gonna have some tea 
+MOT	don't take that out 
 MOT	no 
-MOT	you don't wanna eat blocks 
-MOT	 there okay 
-CHI	 
-MOT	hm 
-MOT	no 
-MOT	no 
-MOT	there you go 
-MOT	yeah  
-MOT	you still feeding you gonna feed her too 
-MOT	what about the little girl too 
-MOT	is the baby gonna go to sleep 
-CHI	 
-MOT	push her   
-MOT	oh she's gonna go in the truck okay 
-CHI	mm 
-CHI	 
-MOT	yeah 
-CHI	 
-MOT	here's a brush 
-MOT	there 
-MOT	 mm okay don't put it in your mouth 
-MOT	there you go 
-MOT	we can stir it 
-MOT	 you can feed the baby if you want 
-MOT	put the baby like that 
-MOT	there you go 
-MOT	oh you took off his hat 
-MOT	 wanna feed the baby 
-MOT	you don't like it 
-MOT	 sleep  
-MOT	you gonna kiss for the baby 
-MOT	 like this 
-MOT	you gonna give her something to eat 
-MOT	good girl 
-MOT	me too 
+MOT	hello 
+MOT	 
+MOT	there just like  
 MOT	here's some for you  
-MOT	mm 
-MOT	that's nice  
-MOT	here we go 
+MOT	can I have some more milk 
+MOT	is that your friend 
+MOT	 like this 
+MOT	oh you like yours huh 
 CHI	 
 MOT	you gonna call someone 
-MOT	kay 
-MOT	 look at her belly 
-MOT	hello 
+MOT	oh 
+MOT	mm is the baby gonna go to sleep after 
+MOT	I think she's thirsty you gonna give her something to drink 
+MOT	oh you gonna make a phonecall 
+MOT	no 
+MOT	we can stir it 
+MOT	brush you  brush her hair 
+MOT	yeah 
+MOT	there 
+MOT	no you don't wanna drink some 
+MOT	okay you don't hafta 
+MOT	give some to the baby 
+MOT	okay is it baby's still playing 
+MOT	here  
+MOT	 you can feed the baby if you want 
+MOT	there you go 
+MOT	for me 
+MOT	 
+MOT	there stir 
+MOT	 gonna brush the baby's hair 
+MOT	 there 
+MOT	 oh don't pull that out 
+MOT	 that's for you 
+MOT	you want me to have some 
 MOT	no 
 MOT	 
-MOT	let me just fix her hair okay 
-MOT	there 
-MOT	no you don't wanna call 
-MOT	yeah 
+MOT	there you go 
+MOT	 
+MOT	there I think she's thirsty 
+MOT	yeah  
+MOT	no 
+MOT	push her   
+MOT	 some more 
+MOT	   
 MOT	can you give some to the little girl 
+MOT	is the baby gonna go to sleep 
+MOT	hm put some more in there 
+CHI	mm 
+MOT	here's a brush 
+MOT	 
+MOT	that's nice  
+MOT	good girl 
+MOT	num_num no 
+MOT	 mm  
+MOT	there 
+MOT	oh you're having some more 
+MOT	 
+MOT	 gonna drink some 
+MOT	and for me too 
+MOT	there 
+MOT	mm what about the baby you gonna give some to the baby 
+MOT	you gonna brush the baby's hair 
+MOT	there you go 
+MOT	okay you wanna tickle the baby 
+MOT	no you don't wanna call 
+MOT	here gonna have some tea 
+MOT	here I'll take this one kay 
+MOT	no 
+MOT	can I have some more milk 
+MOT	there's milk in there 
+MOT	brush for your baby 
+MOT	you still feeding you gonna feed her too 
+MOT	there that's good 
+MOT	put the baby like that 
+CHI	 
+MOT	you can put his hat back on 
+MOT	put this down 
+MOT	you gonna stir in mine too 
+MOT	 here you gonna hold her up like this 
+MOT	it's her brush 
+MOT	what about the little girl too 
+MOT	yeah 
+MOT	 and some for you too babe 
+MOT	here we go 
+MOT	thank_you 
+MOT	that's nice 
+MOT	 mm okay don't put it in your mouth 
+MOT	no 
+MOT	what did you say 
+MOT	  
+MOT	mm 
+MOT	I'm gonna put this you want some of this too 
+MOT	you gonna give him a ride 
+MOT	you don't wanna eat blocks 
+MOT	 look at her belly 
+MOT	no 
+MOT	 baby's sleeping  
+CHI	 
+MOT	can you give baby a kiss 
+MOT	here take this 
+MOT	  mm that's good stuff 
+MOT	there 
+MOT	 
+CHI	 
+MOT	there 
+MOT	Cho 
+MOT	this one's for Mama 
+MOT	you're feeding the baby 
+MOT	here's some for you Cho 
+MOT	 like this 
+CHI	 
+MOT	okay 
+MOT	oh she's gonna go in the truck okay 
 MOT	what's that Cho 
-MOT	I think she's thirsty you gonna give her something to drink 
+MOT	 mm mm I'm thirsty 
+MOT	 sleep  
+MOT	okay baby's gonna sit right there 
+MOT	kay 
+MOT	there you go 
+MOT	lemme have something to drink 
+MOT	take the cup 
+MOT	 mm here taste 
+MOT	me too 
+MOT	 there okay 
+MOT	oh you took off his hat 
+CHI	 
+MOT	Mommy's just gonna stir it a bit 
+MOT	there that's your supper 
+MOT	what about for her you gotta kiss for her too 
+MOT	see there 
+CHI	 
+MOT	here gonna pour some more milk for Mama 
+MOT	hm 
+CHI	 
+MOT	you gonna kiss for the baby 
+MOT	here baby's gonna sit in the truck 
+CHI	 
+CHI	 
+MOT	huh 
+MOT	good girl 
+MOT	 wanna feed the baby 
+MOT	you don't like it 
+MOT	are you giving her a hug 
+MOT	put the spoon down 
+MOT	you gonna call Elsa 
+MOT	let me just fix her hair okay 
+CHI	 
+MOT	you gonna give her something to eat 
