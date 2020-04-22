@@ -1,0 +1,177 @@
+participant	content
+INV:	what's happening in the picture ?
+CHI:	[^ earg] falling [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	tell me anything else about the picture .
+CHI:	&um &um the water's falling down .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy is trying to get the cookies and then xxx +...
+CHI:	he's falling .
+INV:	tell me one more thing about the story .
+CHI:	he 0is [^ ev] trying 0to [^ emorph] get the cookie [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	it's snowing .
+INV:	what else is happening in this picture ?
+CHI:	they 0are [^ ev] trying to make a snowman [^ eu] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boys are throwing snowballs and then xxx +...
+INV:	the boys are throwing snowballs .
+INV:	and then what happens in the story ?
+INV:	tell me one more thing about the story .
+CHI:	then they get [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	they're cutting [^ earg] [^ eu] .
+INV:	they're cutting .
+INV:	and tell me something else about the picture .
+INV:	what else is happening in the picture ?
+INV:	okay, I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy is taking his grandma's scissors and then xxx +...
+CHI:	&uh .
+INV:	tell me one more thing about the story .
+CHI:	&uh he is <&get> [/?] getting [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	they're driving [^ earg] [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	tell me something else about the picture .
+INV:	I'll start the start the story .
+INV:	and you finish it .
+INV:	the children are taking the donuts from the bag and then xxx +...
+CHI:	they'll [^ ew:they] [^ ev] eated [^ ev] it [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	[^ earg] gonna take the donuts [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	they play with bubbles .
+INV:	what else is happening in this picture ?
+CHI:	they're spilling 0the [^ emorph] bubbles [^ eu] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	oh no, the bubbles spilled and then xxx +...
+INV:	the bubbles spilled .
+INV:	and then what happened ?
+INV:	tell me one more thing about the story .
+CHI:	he's sitting .
+INV:	what's happening in the picture ?
+CHI:	they're gonna buy a doll .
+INV:	what else is happening in this picture ?
+CHI:	he's going to his abba .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the daddy is hiding a doll behind his back and then xxx +...
+INV:	and then what happens ?
+INV:	look at the picture .
+INV:	the abba is hiding a doll behind his back .
+INV:	and then what happens ?
+INV:	tell me one more thing about the story .
+CHI:	he's hiding <&o &b> [/?] [^ earg] behind his back [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	there's a fire dog .
+INV:	what else is happening in this picture ?
+CHI:	there's a firetruck .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the dog is in front of the bus .
+INV:	and the bus can't move and then xxx +...
+CHI:	them [^ ew:they] [^ epronoun] are walking [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	&um &um &um the dog is &um &uh xxx +...
+INV:	what's happening in the picture ?
+CHI:	<he &t> [/?] he's trying xxx +/.
+INV:	what's happening in the picture ?
+CHI:	<him trying> [/?] he's trying 0to [^ emorph] get a box [^ eu] .
+INV:	he's trying to get a box .
+INV:	and what else is happening in this picture ?
+CHI:	it's falling .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy knocked the boxes off the shelf and then xxx +...
+INV:	tell me one more thing about the story .
+CHI:	it's falling [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	&um [^ earg] spilling water [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	the dog is in the water .
+INV:	the dog is in the water ?
+CHI:	yeah [^ ns] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the children are trying to wash the dog and then xxx +...
+CHI:	it spilled .
+INV:	tell me one more thing about the story .
+CHI:	&um the water 0is [^ ev] spilling [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	the cat's trying to get down .
+INV:	the cat's trying to get down .
+INV:	and what else is happening in this picture ?
+CHI:	&uh the kid is standing .
+INV:	the cat is what ?
+CHI:	<&st the &k> [/?] standing [^ ns] .
+INV:	standing ?
+CHI:	yeah [^ ns] .
+INV:	now I'll start the start the story .
+INV:	and you finish .
+INV:	the children see the cat .
+INV:	the cat is stuck up in the tree and then xxx +...
+CHI:	&um he 0is [^ ev] gonna get down [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	he's falling .
+INV:	what's happening in the picture ?
+CHI:	&um the cake [^ frag] [^ eu] .
+INV:	what else is happening in this picture ?
+CHI:	<&um the> [/?] the people are standing .
+INV:	okay, the people are standing .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	oh_no, the dog same of the cake and then xxx +...
+CHI:	<he &could> [/?] he couldn't get it .
+INV:	he couldn't get it .
+INV:	and tell me one more thing about the story .
+CHI:	&um the dog [^ frag] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	<they're they're they're> [/?] they're pulling [^ earg] [^ eu] .
+INV:	they're pouring .
+INV:	what else is happening in this picture ?
+CHI:	<them> [/?] them [^ ew:they] [^ epronoun] 0are [^ ev] not sharing
+INV:	they're what ?
+CHI:	not sharing [^ ns] .
+INV:	they're not sharing .
+INV:	now I'll start the start the story .
+INV:	and you finish .
+INV:	the boys are fighting .
+INV:	and here comes the mom and then xxx +...
+CHI:	he's [^ ew:he] [^ ev] is fighting [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	the mom is coming .
+INV:	what's happening in the picture ?
+CHI:	them [^ ew:they] [^ epronoun] 0are [^ ev] trying to clean [^ earg]
+INV:	what else is happening in this picture ?
+CHI:	squirrel [^ frag] [^ eu] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	they raked the leaves into a big pile and then xxx +...
+CHI:	the girl is in the pile .
+INV:	tell me one more thing about the story .
+CHI:	the squirrel [^ frag] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	<xxx them> [/?] them [^ ew:they] [^ epronoun] 0are [^ ev] eating
+INV:	what else is happening in this picture ?
+CHI:	the abba's toasting [^ earg] [^ eu] .
+INV:	the abba's toasting .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the little girl is still in her pajamas and then xxx +...
+CHI:	<he he> [/?] he's tired [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	the abba's toasting [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	<&um the boy &I the abba's &t> [/?] the girls are trying 0to
+INV:	what else is happening in this picture ?
+CHI:	&um the girl's trying 0to [^ emorph] put his hat on [^ eu] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the dog and the girl have the daddy's shoes and then xxx +...
+CHI:	<&um &th> [/?] the dog has 0a [^ emorph] shoe [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	&um the boy's holding his xxx +...

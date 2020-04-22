@@ -1,0 +1,278 @@
+participant	content
+CHI:	quack [/?] .
+MOT:	what's this ?
+CHI:	bird .
+CHI:	press .
+MOT:	say hi Ann .
+MOT:	is that a camera ?
+MOT:	you can have a snack .
+CHI:	have some lunch .
+MOT:	who'd roger see at school ?
+MOT:	sit down .
+MOT:	want a cookie ?
+CHI:	snack time .
+MOT:	put them away .
+CHI:	camera .
+CHI:	could be his juice drink .
+CHI:	have some lunch .
+MOT:	beat the drum .
+MOT:	sit down .
+CHI:	Donna ?
+CHI:	move it .
+CHI:	quack [/?] .
+CHI:	snack time .
+MOT:	what's this roger ?
+MOT:	it's a cow .
+MOT:	birds .
+CHI:	hi Karen .
+CHI:	xxx .
+CHI:	look at it .
+CHI:	play your blocks .
+CHI:	play xxx .
+CHI:	snack .
+MOT:	it's time to play with your blocks .
+MOT:	what's that ?
+CHI:	present .
+CHI:	kids .
+MOT:	what's that ?
+MOT:	are you_all done ?
+MOT:	roger .
+CHI:	you work with Kenny .
+MOT:	what are you making roger ?
+CHI:	creepies juice .
+MOT:	you play with the blocks .
+MOT:	stop being silly .
+CHI:	okay .
+CHI:	roger get down .
+MOT:	use the napkin .
+MOT:	peanut butter and +/.
+MOT:	hands down roger .
+MOT:	dot ?
+MOT:	wipe your face .
+MOT:	don't do that .
+MOT:	hm: [/?] ?
+MOT:	hm: [/?] ?
+CHI:	hey [/?] prestos .
+CHI:	it's a <bird bird> [/?] bird .
+MOT:	you wanna stand up and play with your drum ?
+MOT:	come on .
+CHI:	kind cookies .
+MOT:	roger .
+MOT:	what's this on your finger ?
+MOT:	get down .
+MOT:	we'll play with something else roger .
+MOT:	no bubbles til you're quiet .
+MOT:	right .
+MOT:	sit down .
+CHI:	it's a <horse horse> [/?] horse .
+CHI:	what kind ?
+MOT:	hey [/?] .
+CHI:	dot ?
+CHI:	making donut .
+CHI:	put it down .
+MOT:	what ?
+CHI:	making donut .
+CHI:	build a building .
+MOT:	is that a camera ?
+CHI:	what are these ?
+CHI:	goom [/?] .
+CHI:	cookies .
+MOT:	what's the cow say roger ?
+CHI:	present .
+MOT:	no ?
+MOT:	that's Ann .
+CHI:	then go to +/.
+CHI:	prestos .
+CHI:	pack's too big .
+CHI:	bird .
+MOT:	present .
+MOT:	chocolate cookie ?
+MOT:	taking Roger's picture ?
+MOT:	what did you do in school roger ?
+MOT:	hey [/?] .
+CHI:	xxx .
+MOT:	drink your juice .
+MOT:	use the napkin .
+CHI:	yay [/?] .
+CHI:	lunch .
+CHI:	play xxx .
+MOT:	is it good ?
+MOT:	sit down .
+MOT:	sit .
+MOT:	hurry up .
+CHI:	making donut .
+MOT:	sit down and open the present .
+CHI:	xxx .
+CHI:	camera ?
+MOT:	let me see .
+CHI:	cookies .
+MOT:	put it down .
+CHI:	horsie .
+CHI:	dot .
+CHI:	no .
+CHI:	goom [/?] .
+CHI:	yeah .
+MOT:	drink your juice roger .
+MOT:	sit .
+CHI:	where's roger and Kenny Lucky_crunch ?
+MOT:	what's that ?
+MOT:	sit .
+MOT:	whatever it is it's bothering him .
+CHI:	dog .
+CHI:	right .
+CHI:	want lunch .
+CHI:	open it up .
+MOT:	what ?
+CHI:	ah [/?] .
+CHI:	nice .
+CHI:	want some lunch .
+MOT:	all done ?
+MOT:	drink your juice .
+CHI:	<put the> [/?] put the star in .
+MOT:	that's a new one .
+MOT:	hands down roger .
+MOT:	open it up .
+MOT:	pick up the drum .
+MOT:	three cookies .
+MOT:	drink your juice .
+CHI:	put away .
+MOT:	the cow says moo .
+MOT:	that's right .
+CHI:	okay .
+MOT:	you wanna play with some bubbles ?
+MOT:	are you_all done ?
+MOT:	what's the bird say ?
+MOT:	what kind ?
+MOT:	what's this ?
+MOT:	build a building roger .
+MOT:	that's good .
+MOT:	what's this ?
+CHI:	say hi Ann .
+MOT:	you're nice and quiet roger .
+MOT:	what do you want ?
+MOT:	hands down .
+CHI:	sit down roger .
+MOT:	what's this ?
+MOT:	Donna ?
+CHI:	apples juice .
+CHI:	goom [/?] .
+CHI:	bird .
+CHI:	skat [/?] .
+MOT:	sit .
+MOT:	roger look at your book .
+CHI:	moo .
+MOT:	who's this ?
+MOT:	take them apart .
+MOT:	roger .
+CHI:	away .
+CHI:	xxx .
+MOT:	put it on there .
+CHI:	quack [/?] .
+MOT:	alright .
+CHI:	play .
+CHI:	xxx .
+MOT:	what's this ?
+MOT:	roger , present .
+MOT:	what did you do in school today , roger ?
+CHI:	get lunch .
+MOT:	what ?
+MOT:	hey [/?] .
+MOT:	what do you want ?
+MOT:	let's open it roger .
+CHI:	bread .
+MOT:	get down .
+MOT:	did you see Tessie ?
+CHI:	get lunch .
+MOT:	roger .
+MOT:	hands down .
+CHI:	could these xxx .
+MOT:	roger .
+MOT:	you're being quiet now .
+CHI:	roger get down here .
+MOT:	what's on your hand roger ?
+MOT:	roger drink your juice .
+MOT:	you wanna blow a bubble ?
+MOT:	roger look at the horse and the birds .
+MOT:	come on .
+MOT:	play bubbles ?
+CHI:	wipe these .
+CHI:	put away .
+CHI:	put away .
+MOT:	open it .
+CHI:	play your blocks .
+MOT:	see the camera .
+CHI:	press .
+MOT:	okay , open .
+MOT:	okay roger come here .
+CHI:	pack's +/.
+CHI:	hi guys .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	present .
+CHI:	lunch .
+CHI:	all done .
+MOT:	look_it .
+CHI:	pack's too big .
+MOT:	well , here .
+MOT:	good boy .
+CHI:	ooh [/?] .
+CHI:	cow .
+MOT:	what do you wanna do ?
+CHI:	go roll it .
+MOT:	sit in the chair .
+CHI:	build a building .
+MOT:	what's this ?
+MOT:	present for roger .
+CHI:	red .
+CHI:	xxx .
+CHI:	brown .
+MOT:	okay .
+MOT:	take them apart and put them away .
+MOT:	roger want some lunch ?
+CHI:	could these xxx .
+MOT:	okay .
+MOT:	sit down .
+MOT:	roger .
+MOT:	what's this ?
+CHI:	wipe these .
+CHI:	horsie .
+MOT:	baby's book .
+MOT:	put them away then .
+MOT:	let's have some lunch .
+CHI:	xxx .
+CHI:	put the moon in .
+CHI:	horsies .
+MOT:	what kind ?
+MOT:	hands down .
+MOT:	you're not cooperating today .
+CHI:	pack's too big .
+MOT:	what's +/.
+CHI:	it's a bird .
+CHI:	play bubbles .
+MOT:	you wanna look at the book roger ?
+MOT:	what are these ?
+CHI:	roger get down .
+CHI:	good .
+CHI:	move it .
+MOT:	want a cookie ?
+CHI:	move it .
+MOT:	what's this ?
+CHI:	lunch .
+MOT:	get up .
+MOT:	what's that ?
+CHI:	good job Tess .
+MOT:	and who else ?
+MOT:	that's a camera .
+CHI:	playing prestos .
+MOT:	do it quietly .
+MOT:	horsies ?
+CHI:	snack .
+CHI:	bird .
+MOT:	roger .
+MOT:	what's this ?
+MOT:	who'd you see in school today ?
+MOT:	Donna and +/.
+CHI:	press .
+CHI:	lunch .
+CHI:	that's a present .
+MOT:	the cow says +/.

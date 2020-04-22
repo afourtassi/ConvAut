@@ -1,0 +1,185 @@
+participant	content
+INV:	what's happening in the picture ?
+CHI:	he's going on the road with the bus .
+CHI:	and they're pulling the dog away from the bus .
+INV:	what else is happening in the picture ?
+CHI:	look [^ ns] .
+INV:	can you tell me ?
+CHI:	the dog is on the road .
+INV:	and what's going to happen next ?
+CHI:	I know what's going to happen [^ ns] .
+CHI:	look, they're pulling the dog away from the bus [^ ns] .
+INV:	tell me one more thing about the picture .
+CHI:	[^ earg] pulling [^ earg] [^ eu] .
+INV:	just tell me anything else about the picture .
+CHI:	[^ earg] pulling the dog <on the bus> [/?] on the road [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	[^ earg] playing [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	look, he's throwing the snowball on her knee .
+INV:	and what's going to happen next ?
+CHI:	I don't know [^ ns] .
+INV:	look, the boys are throwing snowballs .
+INV:	and then what will happen in just a little while ?
+CHI:	<thee that (.) are not> [/?] that girl is not playing with a ball .
+INV:	tell me one more thing about the picture .
+CHI:	<uh:> [/?] .
+INV:	just tell me anything else about the picture .
+CHI:	[^ earg] shoveling [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	[^ earg] scraping some leafs [^ eu] .
+CHI:	and he's waving goodbye .
+INV:	what else is happening in the picture ?
+INV:	tell me what else you see in the picture .
+CHI:	0the [^ emorph] dog 0is [^ ev] barking in [^ ew] [^ emorph] the
+CHI:	and then she 0is [^ ev] waving goodbye and scrape [* m:0ing]
+CHI:	and the bike 0is [^ ev] outside [^ eu] .
+CHI:	and 0the [^ emorph] children play [^ ev] with the leafs [^ eu] .
+CHI:	<and the squirrel and the leafs> [>] xxx +/.
+INV:	<just say one thing at a time, okay> [<] ?
+INV:	and what's going to happen next ?
+CHI:	I don't know [^ ns] .
+INV:	look, they raked the leaves into a big pile .
+INV:	and then what will happen in just a little while ?
+CHI:	what [^ ns] ?
+INV:	tell me one more thing about the picture .
+INV:	can you look at this picture ?
+CHI:	yeah [^ ns] .
+INV:	okay, just tell me anything else about this picture .
+CHI:	the squirrel [^ frag] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	he's knocking over the cheerios (.) all off the shelfs .
+INV:	what else is happening in the picture ?
+CHI:	0the [^ emorph] watermelon 0is [^ ev] in the wagon [^ eu] .
+CHI:	and there's some children picking some food .
+INV:	and what's going to happen next ?
+INV:	look, the boy knocked the boxes off the shelf .
+INV:	and then what will happen in just a little while ?
+CHI:	what [^ ns] ?
+CHI:	what happened [^ ns] ?
+INV:	tell me one more thing about the picture .
+CHI:	&um the wheels move the wagon .
+INV:	what's happening in the picture ?
+CHI:	look, he's cutting something .
+INV:	what else is happening in the picture ?
+CHI:	it's cutting [^ earg] [^ eu] .
+INV:	the boy is taking his grandma's scissors .
+INV:	tell me what else you see in the picture .
+INV:	okay, the boy is taking his grandma's scissors .
+INV:	and what's going to happen next ?
+CHI:	0 .
+INV:	can you tell me ?
+CHI:	0 .
+INV:	can you tell me one more thing about the picture ?
+CHI:	&um there's a dog in the house .
+INV:	what's happening in the picture ?
+CHI:	<coming> [/?] [^ earg] coming home from school [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	he brought her a surprise .
+INV:	and what's going to happen next ?
+INV:	okay, the daddy is hiding a doll behind his back .
+INV:	and what's going to happen next ?
+CHI:	right there [% whispered] [^ ns] .
+INV:	look, he brought her a surprise .
+INV:	and then what will happen in just a little while ?
+INV:	can you tell me just one more thing about the picture ?
+INV:	tell me anything else about the picture .
+INV:	what's happening in the picture ?
+INV:	just tell me what you see in the picture .
+CHI:	he's all [^ other] waking up [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	the mom [^ frag] [^ eu] .
+INV:	the little girl is still in her pajamas .
+INV:	tell me what else you see in the picture .
+INV:	can you tell me ?
+CHI:	he's taking some toast out .
+INV:	and what's going to happen next ?
+INV:	look, the little girl is still in her pajamas .
+INV:	and what is going to happen next ?
+CHI:	they got her teddybear .
+INV:	can you tell me one more thing about the picture ?
+CHI:	he is eating some cheerios .
+INV:	what's happening in the picture ?
+CHI:	the cat is stuck in the tree .
+INV:	what else is happening in the picture ?
+INV:	tell me what else you see in the picture .
+CHI:	<the girl is> [/?] the girl is climbing up the tree .
+INV:	and what's going to happen next ?
+CHI:	the tree is standing still up [^ other] [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	they 0are [^ ev] playing [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	they're pulling [^ earg] [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	the mother is saying give those to him .
+INV:	can you say that again ?
+CHI:	they hafta share .
+INV:	and what's going to happen next ?
+CHI:	I don't know [^ ns] .
+INV:	look, the boys are fighting .
+INV:	and here comes the mom .
+INV:	what's going to happen next ?
+CHI:	the wagon is still out of the sandbox .
+INV:	tell me one more thing about the picture .
+CHI:	&um they're shoveling [^ earg] [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	he's taking the boot away .
+CHI:	and he's <mean him> [/?] meaning to put the shoes <on> [/?] on him
+INV:	what else is happening in the picture ?
+CHI:	the father is looking at <the> [/?] some stuff .
+INV:	and what's going to happen next ?
+CHI:	they take the xxx out of the papa's shirt .
+INV:	tell me one more thing about the picture .
+CHI:	<&um he's> [//] the dog is taking the girles [: girl's] [*] hat
+INV:	what's happening in the picture ?
+CHI:	the dog is spraying the girl .
+INV:	what else is happening in the picture ?
+INV:	tell me what else you see in the picture .
+CHI:	he's dumping the water on the dog .
+CHI:	&uh [% watch this] .
+INV:	and what's going to happen next ?
+CHI:	look at the girls [^ ns] .
+CHI:	&um it's taking the lunchbox away .
+INV:	tell me one more thing about the picture .
+CHI:	<he's> [/?] the girl is wet .
+INV:	what's happening in the picture ?
+CHI:	he's spilling the wagon [^ other] [^ eu] .
+CHI:	and all the bubbles came out .
+CHI:	and the bubbles went out on the girl [^ eu] .
+CHI:	and xxx blue .
+CHI:	and the xxx +/.
+INV:	okay, just say one thing at a time, okay ?
+INV:	what else is happening in the picture ?
+CHI:	the bread is falling all over .
+INV:	and what's going to happen next ?
+CHI:	and the water's going to splash on her .
+INV:	tell me one more thing about the picture .
+CHI:	<&um the> [/?] there's a girl blowing bubbles up there .
+INV:	what's happening in the picture ?
+CHI:	he's falling on [^ ew:off] [^ emorph] the chair [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	<the sink is too> [/?] the water's falling down on [^ ew:from]
+INV:	and what's going to happen next ?
+CHI:	<the &c> [/?] he's bringing [^ ew:taking] [^ elexical] cookies
+CHI:	but he's almost fall [* m:0ing] [^ emorph] down [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	&um the curtains opened and closed .
+CHI:	opened and closed [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	they're driving to Dunkin_donuts .
+INV:	what else is happening in the picture ?
+CHI:	they're giving [^ ew:taking] [^ elexical] a donut [^ eu] .
+INV:	and what's going to happen next ?
+CHI:	he's drinking some water .
+CHI:	I'm getting thirsty [^ ns] .
+INV:	tell me one more thing about the picture .
+CHI:	&um the car is moving .
+INV:	what's happening in the picture ?
+CHI:	the dog went on the cake and <sniff> [/?] eat [^ ew:ate] [^ ev] it
+INV:	what else is happening in the picture ?
+CHI:	and they all was [^ ew:were] [^ ev] sad [^ eu] .
+CHI:	he's sad because he got a boo_boo .
+INV:	and what's going to happen next ?
+CHI:	they bring [^ ew:brought] [^ ev] a present [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	the cake was eated [^ ew:eaten] [^ emorph] [^ eu] .

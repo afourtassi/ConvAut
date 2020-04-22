@@ -1,0 +1,907 @@
+participant	content
+MOT:	where's the chair ?
+MOT:	that's right .
+MOT:	do it easy .
+MOT:	play easy .
+MOT:	that's right .
+MOT:	good boy .
+MOT:	roger what are you doing ?
+MOT:	what's this ?
+MOT:	look at me .
+CHI:	wash your hands , girl .
+MOT:	good job .
+MOT:	you close it .
+CHI:	turn a page .
+MOT:	roger ?
+MOT:	what's this ?
+CHI:	it's bus .
+MOT:	what's she doing ?
+MOT:	good boy .
+MOT:	roger , what's Helen doing ?
+MOT:	we'll see .
+CHI:	a xxx .
+MOT:	shsh [/?] roger .
+MOT:	you needta count it .
+CHI:	oh , I'll do the Sesame_Street .
+CHI:	and here's your car .
+CHI:	sit down and play .
+CHI:	put your thumb in the mouth .
+MOT:	no .
+CHI:	ooh [/?] .
+MOT:	roger , you needta play in here with the truck .
+MOT:	you don't ?
+MOT:	what do you want ?
+CHI:	for your car .
+MOT:	no .
+CHI:	oh , shade up .
+MOT:	look .
+MOT:	get the crayons underneath the tape .
+CHI:	I want that one .
+MOT:	that's right .
+MOT:	nice job .
+MOT:	turn around .
+MOT:	that's right .
+CHI:	wanna do a color book ?
+MOT:	okay .
+CHI:	<i'm make> [/?] get some purple .
+CHI:	turn say [/?] say mamma , turn the page .
+CHI:	watch mister .
+MOT:	right there .
+MOT:	<won't you be> [/?] +/.
+MOT:	roger count the cards .
+CHI:	got booboo .
+MOT:	roger .
+CHI:	yes .
+MOT:	do the +/.
+CHI:	wanna shake them ?
+MOT:	good job .
+CHI:	i [/?] a truck .
+MOT:	here you go .
+CHI:	I'm sit your floor .
+CHI:	you wash your hands .
+CHI:	I don't know .
+MOT:	nice picture roger .
+CHI:	turn water on .
+MOT:	no , that's wrong roger .
+CHI:	one one , two , three , four .
+CHI:	tap the +/.
+MOT:	with the bus ?
+MOT:	put it right there .
+MOT:	say +/.
+CHI:	I want need help please .
+CHI:	get the paper .
+CHI:	have mushroom .
+MOT:	his +/.
+CHI:	what ?
+CHI:	carriage .
+MOT:	Mister_Rogers .
+CHI:	one , two , three , four , five , six , seven , eight , nine , ten
+CHI:	refrigerator .
+MOT:	roger , Big_Bird's going to school , look_it .
+CHI:	<i'm> [/?] <i'm> [/?] I'm putting away .
+MOT:	good boy .
+MOT:	what are you doing ?
+MOT:	how many ?
+MOT:	roger , come here .
+MOT:	sit .
+MOT:	no , you needta do it right .
+CHI:	did you see Katy ?
+MOT:	what are you doing ?
+CHI:	come here .
+MOT:	roger , where are you going ?
+MOT:	good boy .
+CHI:	<a sho> [/?] a [/?] what's that ?
+MOT:	what did you do ?
+MOT:	what's this ?
+CHI:	and watch mister .
+CHI:	stay in this room .
+MOT:	that's right .
+CHI:	no huh [/?] .
+MOT:	I make purple .
+MOT:	here you go mama .
+CHI:	here you go mama .
+MOT:	oh , okay .
+MOT:	roger , are you watching tv ?
+MOT:	Katy's home .
+MOT:	say +/.
+MOT:	oh , you make pizza for Denise ?
+MOT:	that's right .
+MOT:	no , come here .
+CHI:	I read a book .
+CHI:	he sing <a beautiful day in the neighborhood , a beautiful day in
+MOT:	how many ?
+CHI:	I'm all done .
+CHI:	have car ?
+MOT:	play in this room .
+CHI:	put the girl down chair .
+CHI:	she's writing .
+CHI:	<a reg> [/?] a refrigerator .
+MOT:	no , you needta ask .
+CHI:	one , two .
+MOT:	make Ann shoes .
+MOT:	roger , what do you wanna do ?
+MOT:	let's put the stickers on .
+CHI:	I'm doing a big book .
+MOT:	what's that ?
+MOT:	what's that ?
+CHI:	stay the picture .
+MOT:	I don't either .
+MOT:	what's she doing ?
+MOT:	what do you want ?
+MOT:	that's right .
+MOT:	put the girl down in the chair .
+CHI:	I played outside .
+CHI:	get the sesame .
+MOT:	what are you doing ?
+MOT:	let's do the counting .
+MOT:	no , go to school .
+MOT:	<won't be my> [/?] +/.
+MOT:	oh , good counting .
+CHI:	roller+skate .
+MOT:	what do you want ?
+MOT:	no .
+MOT:	roger , what did you do in school today ?
+CHI:	I make your pencil .
+MOT:	roger what are you doing ?
+MOT:	come here and see Helen .
+CHI:	yeah , play the cards .
+MOT:	you_all done the book roger ?
+CHI:	make a +/.
+CHI:	draw a girl .
+CHI:	a [/?] a mom .
+MOT:	you did ?
+CHI:	look_it .
+CHI:	ooh [/?] what happened ?
+CHI:	I put crayons away .
+CHI:	I'm washing my hands .
+MOT:	what's this ?
+MOT:	sit here .
+MOT:	roger .
+MOT:	roger come back here .
+MOT:	that's right .
+MOT:	what's that ?
+MOT:	you needta do it in here roger , I said .
+CHI:	that's right .
+CHI:	I don't know where it is .
+MOT:	what do you want roger ?
+MOT:	and what's this ?
+MOT:	roger look .
+CHI:	lick it .
+MOT:	roger sit down and play .
+MOT:	stay right here .
+CHI:	I'm all done .
+CHI:	do the picture .
+MOT:	oh , there they are .
+MOT:	look at me .
+MOT:	okay .
+MOT:	no .
+MOT:	what are you playing with roger ?
+MOT:	that's right .
+MOT:	what are you doing ?
+MOT:	look at this sticker book .
+CHI:	stickers on .
+CHI:	yes .
+CHI:	stay the kitchen .
+CHI:	I wanna watch ses [/?] +/.
+MOT:	who's Katy ?
+CHI:	xxx .
+MOT:	talk to mama .
+MOT:	press it .
+MOT:	go ahead .
+MOT:	okay .
+CHI:	it's the boy .
+CHI:	get some purple .
+CHI:	one top .
+MOT:	sit down and open the present .
+MOT:	say , mama , what's that ?
+MOT:	that's right .
+CHI:	stay in here .
+CHI:	make a shoes .
+CHI:	get in here .
+MOT:	say I need help .
+MOT:	what are you doing ?
+MOT:	who's this ?
+CHI:	I don't know where it is .
+MOT:	no .
+CHI:	<won't you be my> [/?] +/.
+MOT:	my table .
+MOT:	what did you do in Head_Start roger ?
+CHI:	wanna see the book ?
+MOT:	roger ?
+CHI:	i [/?] yes .
+CHI:	time to do the puzzle .
+MOT:	what are you singing ?
+MOT:	say +/.
+CHI:	I don't know where it is .
+CHI:	everything .
+MOT:	refrigerator .
+CHI:	shop .
+CHI:	you do it .
+MOT:	you needta ask .
+MOT:	no .
+MOT:	tell me .
+MOT:	no , you can't look at the picture .
+MOT:	oh , okay .
+MOT:	what are you doing roger ?
+MOT:	you said names ?
+CHI:	I wanna do puzzle please .
+CHI:	I wanna need help .
+CHI:	can I make an Ann ?
+MOT:	say it to Helen .
+MOT:	what color is this ?
+CHI:	I played with bicycle .
+MOT:	make Helen .
+MOT:	here's the bus .
+CHI:	one one , two +/.
+CHI:	a shopping car .
+MOT:	no ask me .
+MOT:	what are you doing ?
+CHI:	one , two , three , four .
+CHI:	okay , go sit it out .
+MOT:	roger , get the little girl in the chair .
+MOT:	look .
+MOT:	that's much better .
+MOT:	oh , okay .
+MOT:	what did you do in Head_Start ?
+CHI:	I'm reading .
+MOT:	that's right .
+CHI:	no .
+MOT:	that's right .
+MOT:	oh , nice book roger .
+CHI:	see easter .
+MOT:	roger what are you doing ?
+MOT:	okay .
+MOT:	behind you .
+MOT:	roger , draw a girl .
+CHI:	a ca [/?] +/.
+MOT:	make Ann .
+CHI:	one , two .
+MOT:	you get the puppy puzzle .
+MOT:	no .
+MOT:	no .
+CHI:	<i'm> [/?] I'm cleaning up .
+MOT:	for [/?] wanna play the cards ?
+MOT:	no .
+MOT:	look at me .
+CHI:	put the girl down the chair .
+MOT:	the puppy's head .
+CHI:	nice doing easy .
+MOT:	that's wrong .
+MOT:	okay .
+MOT:	on the desk roger .
+MOT:	roger look .
+MOT:	line them up .
+CHI:	you wanna do the sticker ?
+MOT:	right .
+CHI:	where are they ?
+MOT:	go to school over here .
+MOT:	roger , did you go to Head_Start today ?
+MOT:	say mama +/.
+MOT:	okay .
+MOT:	okay .
+MOT:	look at mama .
+MOT:	are you watching tv ?
+CHI:	stay in this room .
+MOT:	roger , what's this ?
+MOT:	what are you doing roger ?
+MOT:	well , play with the toys then .
+MOT:	what are they doing ?
+CHI:	yes .
+CHI:	your table .
+CHI:	wanna do music ?
+CHI:	baby got booboo .
+CHI:	we [/?] I'm doing puppy puzzle .
+MOT:	okay .
+CHI:	he got a booboo .
+MOT:	and who's this ?
+MOT:	right +/.
+CHI:	make a shoes .
+CHI:	do it quietly .
+MOT:	what's that ?
+MOT:	did you have lunch ?
+MOT:	what's that ?
+MOT:	do you wanna put the stickers on ?
+CHI:	wanna go look at the picture ?
+CHI:	a fish .
+CHI:	oh , need help .
+CHI:	I'm reading the book .
+CHI:	for your car .
+CHI:	oh , .
+CHI:	chair .
+MOT:	you do it .
+CHI:	I'm going to school .
+CHI:	right .
+MOT:	look .
+MOT:	that's right .
+CHI:	here +/.
+CHI:	I'm playing with cars .
+MOT:	okay .
+MOT:	what did you do in Head_Start ?
+MOT:	ask me .
+MOT:	no , no music .
+MOT:	there's a table .
+CHI:	I do Sesame_Street .
+CHI:	a [/?] +/.
+MOT:	say , it's a girl .
+MOT:	come here .
+MOT:	sit like mama .
+MOT:	roger , get a puzzle .
+MOT:	oh , here let's open the book right here .
+CHI:	alright .
+CHI:	Roger's car .
+MOT:	okay .
+MOT:	oh , okay .
+MOT:	nobody's there .
+CHI:	sit right down here .
+MOT:	no , that's wrong .
+MOT:	no .
+MOT:	let's turn the page .
+CHI:	I'm playing with the truck .
+MOT:	you're cleaning up .
+MOT:	right .
+CHI:	turn around .
+CHI:	<it's the> [/?] a bus .
+CHI:	my table .
+MOT:	alright .
+MOT:	good job .
+CHI:	put it all away .
+MOT:	okay .
+CHI:	no , close it .
+MOT:	ask me .
+CHI:	no .
+MOT:	time to dry your hands .
+CHI:	you do it .
+MOT:	okay , what do you wanna do ?
+CHI:	Helen's writing .
+CHI:	did you see Katy ?
+CHI:	a flower .
+CHI:	three airplanes .
+MOT:	did you see Katy ?
+MOT:	Helen's writing .
+CHI:	take the girl for +/.
+CHI:	I'm going to school .
+CHI:	clean up !
+CHI:	I wanna play the truck please .
+MOT:	hm: [/?] ?
+CHI:	baby carriage .
+MOT:	and here's a chair .
+MOT:	get the Sesame_Street puzzle roger .
+MOT:	stop being silly .
+CHI:	&-um [/?] I play car please .
+CHI:	play in here though .
+CHI:	it's the girl .
+CHI:	now you sit there .
+CHI:	it's the girl .
+CHI:	nice .
+MOT:	alright .
+MOT:	no .
+CHI:	let +/.
+CHI:	I need get you .
+MOT:	one , two , three .
+MOT:	that's wrong .
+CHI:	one , two +/.
+CHI:	a tape .
+MOT:	turn around .
+MOT:	count them .
+CHI:	play with car .
+CHI:	I'm say your name .
+MOT:	what's Big_Bird doing ?
+CHI:	put the girl down .
+MOT:	look at me .
+MOT:	look .
+CHI:	make a Helen .
+MOT:	that's right .
+CHI:	a [/?] +/.
+MOT:	okay , get the paper .
+MOT:	that's right .
+CHI:	get +/.
+MOT:	play with the table then .
+CHI:	play in here .
+CHI:	I want a [/?] a red please .
+CHI:	line them up .
+CHI:	yes .
+CHI:	I don't know where it is .
+CHI:	roger no .
+MOT:	what color do you want ?
+MOT:	get in here .
+CHI:	a present !
+MOT:	roger ask me .
+MOT:	oh , good asking .
+MOT:	oh , you want mama to find the other table huh [/?] ?
+CHI:	no .
+CHI:	a red .
+MOT:	roger look .
+CHI:	stay in here .
+CHI:	xxx .
+MOT:	it's a carriage .
+CHI:	xxx found it .
+MOT:	okay , it's all_gone .
+MOT:	going for a ride ?
+CHI:	I put crayons away .
+MOT:	where are you going ?
+MOT:	sit back .
+MOT:	put the girl down in the chair , quietly .
+CHI:	I'm playing with [/?] with toys .
+CHI:	make Ann shoes .
+CHI:	I play in the +/.
+MOT:	what do you need ?
+MOT:	that's better .
+MOT:	what do you say to Helen ?
+MOT:	do it quietly .
+MOT:	you wash your hands .
+MOT:	roger , those are ?
+CHI:	it's time for supper .
+CHI:	who +/.
+MOT:	that's right .
+MOT:	ask me .
+CHI:	I want a sticker please .
+MOT:	<what is> [/?] +/.
+CHI:	&mm [/?] .
+CHI:	I'm doing a puzzle .
+MOT:	put the picture right there .
+CHI:	does count xxx .
+MOT:	she's writing .
+MOT:	look at me .
+CHI:	I did it .
+CHI:	play in this room .
+MOT:	do this .
+MOT:	you did ?
+CHI:	huh [/?] ?
+CHI:	picture .
+MOT:	what did you do ?
+MOT:	let's put the crayons away .
+MOT:	no .
+CHI:	let's do cards .
+MOT:	take the sticker .
+CHI:	play [/?] want play the cards ?
+CHI:	no , right .
+CHI:	girl chair .
+CHI:	chair .
+MOT:	ask me .
+MOT:	time for supper .
+MOT:	come here .
+MOT:	that's right .
+MOT:	roger what are you doing ?
+CHI:	jumprope .
+MOT:	she's taking pictures .
+CHI:	roller+skate .
+MOT:	say , mama what's that ?
+MOT:	that's wrong .
+MOT:	go to Chucky_Cheese .
+CHI:	i [/?] +/.
+MOT:	sit up .
+MOT:	roger .
+MOT:	who's Kay ?
+MOT:	no .
+CHI:	underneath .
+MOT:	now close it .
+CHI:	okay , go sit it out .
+CHI:	alright get go sit it out .
+MOT:	roger , what's this ?
+MOT:	let's put the girl in the chair roger .
+CHI:	put them away .
+CHI:	I don't know .
+CHI:	xxx .
+MOT:	roger , do you wanna color ?
+CHI:	thank you for book .
+CHI:	everything to put all the toys .
+MOT:	no .
+MOT:	well , you needta ask me .
+MOT:	you gonna make the supper ?
+MOT:	let me see .
+MOT:	say , what's that ?
+MOT:	it's time to watch tv .
+CHI:	I want car please .
+CHI:	baby [/?] .
+MOT:	roger do this .
+MOT:	what does Mister_Rogers sing ?
+MOT:	come here .
+MOT:	no , look_it .
+CHI:	a car .
+MOT:	put them in the box .
+MOT:	look behind you .
+CHI:	a sesame street .
+MOT:	it's a sticker book .
+MOT:	there it is .
+CHI:	Sesame_Street .
+MOT:	look .
+MOT:	okay .
+MOT:	make a +/.
+CHI:	a shop .
+CHI:	turn around .
+MOT:	what do you want ?
+MOT:	oh , okay .
+CHI:	here .
+CHI:	come here .
+MOT:	come on .
+MOT:	mushrooms ?
+MOT:	say I don't know .
+CHI:	you making your +/.
+MOT:	you do it .
+CHI:	a refrigerator .
+MOT:	you needta play in here though .
+MOT:	count them .
+CHI:	I'm playing with toys .
+MOT:	put her in the chair .
+CHI:	he got booboo in the mouth .
+CHI:	turn a page .
+CHI:	I'm color .
+MOT:	come here .
+CHI:	&mm [/?] .
+CHI:	I do sesame .
+CHI:	a milk .
+MOT:	kiss the booboo .
+MOT:	let's do the cards .
+CHI:	I want +/.
+MOT:	do you need a napkin ?
+MOT:	roger , who's this ?
+CHI:	do you need tissue ?
+CHI:	I'm saying your name .
+MOT:	no .
+CHI:	no going the driveway .
+CHI:	<yeah , yeah> [/?] .
+CHI:	come here and see Helen .
+MOT:	count them .
+MOT:	roger , look_it .
+CHI:	yeah .
+MOT:	put them down .
+MOT:	roger how many ?
+MOT:	what did you do in Head_Start today ?
+CHI:	a jumprope .
+MOT:	that's the face .
+MOT:	let's take a picture of roger .
+CHI:	a car .
+MOT:	what's this ?
+MOT:	well , come in here and play with the truck .
+MOT:	you did it easy .
+CHI:	I found it .
+CHI:	I want play the tables please .
+CHI:	stay kitchen .
+MOT:	what do you do in the sink ?
+MOT:	it's time to do a puzzle .
+MOT:	make a body .
+MOT:	what are you doing roger ?
+CHI:	I wanna play [/?] play the toy .
+MOT:	make too thick .
+MOT:	roger .
+CHI:	yes .
+MOT:	well , you needta stay in this room .
+MOT:	roger get the counting cards for mama .
+MOT:	no .
+CHI:	a cat .
+CHI:	yes .
+CHI:	five [/?] five ducks .
+CHI:	you going in .
+MOT:	what are you making ?
+CHI:	oh , no .
+MOT:	roger , what's that ?
+MOT:	it's a boy .
+CHI:	one , two , three .
+CHI:	xxx .
+CHI:	do it quietly .
+CHI:	yes .
+CHI:	a ride a bicycle .
+CHI:	three airplanes .
+MOT:	that's right .
+CHI:	go to school .
+MOT:	oh , you're sitting nice and quiet roger .
+MOT:	say , I put crayons away .
+MOT:	that's right .
+CHI:	shake .
+CHI:	you watch mister .
+MOT:	look at me .
+CHI:	I'm playing outside .
+MOT:	roger , what do you wanna do ?
+CHI:	stay in kitchen .
+MOT:	sit down .
+MOT:	here .
+CHI:	turn around .
+CHI:	a hand .
+MOT:	what's the matter ?
+CHI:	xxx .
+MOT:	it's a jumprope .
+MOT:	wanna do some counting ?
+MOT:	what color is that ?
+MOT:	oh , good .
+MOT:	say , I make pizza .
+MOT:	pick the cards up and give them to mama .
+MOT:	you're doing the +/.
+MOT:	oh , &mm [/?] .
+MOT:	don't +/.
+CHI:	I'm going to a room .
+CHI:	turn around .
+CHI:	put the girl down the chair .
+CHI:	I do puzzle .
+MOT:	what's she doing ?
+MOT:	count them .
+MOT:	that's right .
+MOT:	roger .
+CHI:	he +/.
+MOT:	I think you needta cut it out roger .
+MOT:	I don't understand you roger .
+MOT:	that's right .
+MOT:	do it easy .
+CHI:	where's xxx ?
+CHI:	get a puzzle .
+CHI:	you need napkin .
+CHI:	oh , sink .
+CHI:	stay down here Kay xxx .
+MOT:	do the puzzle .
+MOT:	what's Tina doing ?
+CHI:	xxx .
+MOT:	say , I'm all done .
+CHI:	and watch mister .
+MOT:	oh , she's all better .
+MOT:	say , I collect the cards .
+MOT:	okay .
+MOT:	come back here .
+CHI:	wanna lay down and go to sleep .
+MOT:	thank you roger .
+CHI:	right here .
+CHI:	you needta sit here .
+MOT:	what's this ?
+MOT:	do it .
+CHI:	I +/.
+CHI:	make +/.
+MOT:	okay .
+MOT:	are you coloring ?
+CHI:	I wash my hands .
+MOT:	I wanna watch Mister_Rogers .
+CHI:	yes .
+CHI:	with mommy's car ?
+CHI:	a bug .
+CHI:	you do it .
+MOT:	sit down .
+CHI:	okay , go sit it out .
+MOT:	do you wanna play with the cards ?
+MOT:	what are you doing roger ?
+CHI:	it +/.
+CHI:	yes .
+CHI:	bus to coming .
+MOT:	okay , roger , that's enough .
+CHI:	got to go to hospital .
+MOT:	where do you wanna go ?
+MOT:	get the paper and the crayons .
+CHI:	all airplanes .
+MOT:	okay , get the crayons .
+CHI:	stay in this room .
+MOT:	come back here roger .
+MOT:	go for a ride .
+MOT:	look at me .
+MOT:	they're playing outside .
+MOT:	come here .
+MOT:	okay .
+CHI:	wash your hands .
+CHI:	no .
+MOT:	what's that ?
+MOT:	back to the truck , huh [/?] ?
+CHI:	that's right .
+MOT:	say mama , what's that .
+CHI:	give me that .
+MOT:	no , that's wrong .
+MOT:	look at Helen .
+MOT:	but , you needta sit here and play with the toys .
+CHI:	I don't know where it is now .
+MOT:	you needta lick it .
+CHI:	that's right .
+CHI:	baby [/?] .
+MOT:	okay .
+CHI:	eat your pizza .
+CHI:	wanna do cards ?
+MOT:	do this .
+MOT:	okay , you do the rest .
+MOT:	oh , what do you wanna watch ?
+MOT:	look .
+MOT:	right there .
+MOT:	oh , kiss the booboo .
+MOT:	that's right .
+MOT:	that's right .
+MOT:	what are you doing roger ?
+CHI:	<mine , oh won't you be my> [/?] .
+CHI:	I'm playing with cards .
+CHI:	five ducks .
+CHI:	I wanna play bus please .
+MOT:	<what are you> [/?] what are you making ?
+MOT:	ask me .
+MOT:	roger , what are you doing ?
+MOT:	let [/?] let mama see .
+CHI:	I color .
+CHI:	on desk .
+MOT:	you wanna play with the cards ?
+CHI:	I need xxx .
+MOT:	good job .
+MOT:	you needta ask me .
+MOT:	what are you doing ?
+CHI:	<for desin> [/?] for Denise .
+MOT:	baby carriage .
+CHI:	with Rice_Krispies .
+MOT:	pick the cards up , and give them to mama .
+CHI:	I don't know where it is .
+MOT:	yeah , here they are .
+MOT:	okay , time to put the crayons away .
+MOT:	you had Rice_Krispies for lunch ?
+CHI:	what is this ?
+MOT:	hot dogs and mushrooms ?
+MOT:	okay .
+CHI:	I want a [/?] a orange .
+CHI:	I playing the house .
+CHI:	a baby ?
+MOT:	roger come here .
+CHI:	behind you .
+MOT:	that's right .
+CHI:	where's the table ?
+MOT:	let's play with the cards .
+MOT:	put the girl in the chair .
+CHI:	what's that ?
+CHI:	one , two , three , four , five .
+MOT:	that's right .
+CHI:	find the other .
+CHI:	oh , .
+MOT:	no .
+CHI:	not in mouth .
+MOT:	okay .
+MOT:	it's closed .
+MOT:	roger are you coloring ?
+CHI:	yes .
+CHI:	the airplane .
+MOT:	roger .
+MOT:	get a puzzle .
+MOT:	good asking .
+CHI:	I play in a +/.
+MOT:	here , put it on here .
+CHI:	do +/.
+MOT:	that's right .
+CHI:	I'm singing a baby .
+MOT:	roger , do you wanna do a puddle [/?] puzzle ?
+CHI:	xxx that shade up .
+MOT:	what are you doing ?
+CHI:	never .
+CHI:	here they are !
+CHI:	play in there .
+MOT:	good boy .
+CHI:	put the girl car .
+MOT:	no .
+CHI:	it's snowing .
+CHI:	yes .
+CHI:	I'm playing the swing outside .
+MOT:	come here .
+CHI:	we're going for [/?] for +/.
+CHI:	he playing outside .
+MOT:	no .
+CHI:	hahaha [/?] .
+MOT:	what are they doing outside roger ?
+MOT:	here , play with this car .
+CHI:	<there's something about you babe> [/?] .
+MOT:	look .
+CHI:	oh , a car .
+MOT:	what's that ?
+CHI:	xxx .
+CHI:	here it is !
+MOT:	what are you doing ?
+MOT:	okay .
+CHI:	what's that ?
+CHI:	time +/.
+MOT:	who's that ?
+MOT:	roger , what color is that ?
+CHI:	a carriage .
+MOT:	oh , .
+MOT:	what did you have for lunch ?
+MOT:	play with the toys .
+MOT:	what's that ?
+CHI:	don't touch roger .
+MOT:	no , you ask me .
+MOT:	that's a plant .
+CHI:	xxx .
+MOT:	come here .
+CHI:	that .
+CHI:	come over here the car .
+CHI:	ow [/?] .
+CHI:	watch mister .
+MOT:	roger , do you wanna play with the cards ?
+MOT:	roger , look .
+MOT:	what's this ?
+CHI:	puzzle .
+MOT:	say , I'm all done .
+MOT:	oh , I don't know .
+MOT:	no .
+MOT:	what are you doing ?
+MOT:	you do it .
+MOT:	ask me .
+CHI:	stay in here .
+MOT:	look .
+MOT:	nice book .
+MOT:	go blow your nose .
+CHI:	a [/?] +/.
+CHI:	get +/.
+CHI:	ducks .
+CHI:	wanna do the picture ?
+CHI:	here , the bus is coming .
+MOT:	that's right .
+MOT:	do the puzzle .
+MOT:	no , that's Roger's car .
+MOT:	ask me .
+MOT:	give that to mama .
+CHI:	wanna do a puzzle .
+CHI:	baby carriage .
+MOT:	roller+skate .
+CHI:	<no , no , no> [/?] no .
+CHI:	make bodys .
+MOT:	let's do a puzzle .
+MOT:	okay .
+CHI:	get &-um [/?] puppy puzzle .
+CHI:	it's time to watch tv .
+CHI:	yes .
+MOT:	no , <what's Helen> [/?] what's that ?
+MOT:	roger , I said stay in here .
+MOT:	come here .
+MOT:	what puzzle ?
+MOT:	come over here with the car .
+MOT:	who's gonna lay down and go to sleep ?
+CHI:	xxx taking pictures .
+CHI:	counting ?
+MOT:	that's good asking .
+CHI:	I don't know .
+MOT:	okay .
+MOT:	good boy .
+MOT:	that's right .
+MOT:	no kitchen .
+CHI:	you go for [/?] for school .
+MOT:	wash your hands .
+MOT:	oh , it's time for +/.
+MOT:	roger , come here .
+MOT:	no .
+MOT:	okay .
+MOT:	say , what's that ?
+CHI:	I collect the cards .
+MOT:	do the puzzle right here .
+CHI:	tur [/?] +/.
+MOT:	is that mommy's car ?
+CHI:	gotta go with [/?] with school ?
+CHI:	what's that ?
+MOT:	right .
+MOT:	get the crayons and the paper .
+CHI:	I have a xxx .
+CHI:	he got booboo .
+MOT:	Tina's busy .
+CHI:	yes .
+CHI:	play this xxx there .
+CHI:	I found it .
+CHI:	it's the girl .
+MOT:	what are they doing ?
+MOT:	roger .
+MOT:	go get a napkin .
+CHI:	bakba [/?] baba [/?] .
+CHI:	I need help .
+MOT:	why don't you take the girl and go for a ride ?
+CHI:	them .
+CHI:	she's eating a hot dog ?
+CHI:	yes .
+MOT:	look_it .
+CHI:	xxx look in the picture .
+CHI:	need help .
+MOT:	roger , you pick the cards up and put them away .
+CHI:	never .
+CHI:	can I flip [/?] play cards ?
+CHI:	would you get the crayons and the paper ?
+CHI:	<you going> [/?] you going in .
+MOT:	okay , put them away .
+CHI:	play in here though .
+MOT:	I'm sure Helen will appreciate that .
+CHI:	wanna do your music ?
+CHI:	I'm say your name .
+CHI:	I'm playing kitchen .
+MOT:	roger , let's look at the pictures .
+MOT:	good .
+CHI:	I make pizza .
+MOT:	roger , throw it away .
+MOT:	you needta blow your nose .
+MOT:	this is a picture .
+MOT:	put the girl in the car .
+MOT:	no .
+CHI:	a pa [/?] paint .
+MOT:	roger , are you a boy ?
+CHI:	wait a minute !
+MOT:	good boy .
+MOT:	what do you want ?
+MOT:	who's that ?
+MOT:	that's right .

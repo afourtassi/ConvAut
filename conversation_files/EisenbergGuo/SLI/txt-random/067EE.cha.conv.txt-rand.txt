@@ -1,0 +1,218 @@
+participant	content
+CHI:	<xxx> [/?] he 0is [^ ev] gonna fall down [^ eu] .
+INV:	just tell me anything else about the picture .
+INV:	can you say that again ?
+INV:	the boys are throwing snowballs and then xxx +...
+CHI:	the door's opened .
+INV:	the boy is trying to get the cookies and then xxx +...
+INV:	what's happening in the picture ?
+INV:	sorry I can't hear you .
+CHI:	I don't know [^ ns] .
+CHI:	she 0is [^ ev] holding that [^ eu] .
+INV:	mhm .
+CHI:	a kitty 0is [^ ev] stuck in the tree [^ eu] .
+CHI:	they're fighting 0over the [/] the bucket .
+INV:	tell me one more thing about the story .
+CHI:	look [^ ns] .
+INV:	and the bus can't move and then xxx +...
+INV:	what else is happening in this picture ?
+INV:	oh_no, the bubbles spilled and then xxx +...
+INV:	what else is happening in this picture ?
+CHI:	I don't know [^ ns] .
+INV:	now I'll start the start the story .
+CHI:	daddy's here .
+INV:	okay, I'll start the start the story .
+CHI:	the peoples [^ ew:people] [^ emorph] are mad [^ eu] .
+CHI:	she's awake .
+CHI:	she push [^ ev] the apple [^ eu] .
+INV:	okay, she's tired .
+INV:	the dog and the girl have daddy's shoes and then xxx +...
+INV:	now I'll start the start the story .
+INV:	just tell me anything else in the picture .
+CHI:	<it's dirty it's> [/?] they're dirty [^ ns] .
+INV:	now I'll start the start the story .
+CHI:	the boy's going on the leash [^ other] [^ eu] .
+CHI:	look [^ ns] .
+INV:	I want you to tell me about the picture .
+CHI:	xxx .
+CHI:	I don't know [^ ns] .
+INV:	the boys are fighting .
+INV:	tell me something else about the picture .
+INV:	what else is happening in the picture ?
+INV:	the daddy is hiding a doll behind his back and then xxx +...
+INV:	tell me one more thing about this picture .
+INV:	and you finish it .
+INV:	and you finish it .
+INV:	and you finish it .
+INV:	what else is happening in the picture ?
+CHI:	<the &bf> [/?] they's [^ ew:they] [^ ev] are falling down [^ eu] .
+CHI:	there's a xxx there .
+INV:	now I'll start the start the story .
+CHI:	she has 0to [^ emorph] stop [^ eu] .
+INV:	what's happening in the picture ?
+CHI:	they're cleaning [^ earg] [^ eu] .
+INV:	okay .
+INV:	now I'll start the story .
+INV:	oh_no, the dog ate some of the cake and then xxx +...
+CHI:	and the mom's running .
+INV:	tell me one more thing about the picture .
+INV:	tell me one more thing about the story .
+INV:	tell me something about the picture .
+CHI:	stop boys [^ ns] .
+INV:	just tell me anything about the picture .
+CHI:	I don't know [^ ns] .
+INV:	what did you say ?
+CHI:	I don't know [^ ns] .
+CHI:	the girl has her shoes .
+CHI:	I don't know [^ ns] .
+CHI:	there's a dog under the couch .
+CHI:	I don't know [^ ns] .
+INV:	tell me one more thing about the story .
+INV:	what ?
+INV:	tell me one more thing about this picture .
+INV:	and here comes the mom and then xxx +...
+INV:	tell me what's happening here .
+INV:	they're cleaning, okay .
+CHI:	<she the> [/?] her mom's <&ha> [/?] here .
+CHI:	xxx .
+CHI:	&=laughs look [^ ns] .
+CHI:	she's holding the shopping cart and pushing it .
+INV:	tell me something about this picture .
+CHI:	they're crawling .
+INV:	and what else is happening in the picture ?
+INV:	can you look at the picture ?
+CHI:	I don't know [^ ns] .
+INV:	tell me one more thing about the story .
+CHI:	I don't know [^ ns] .
+CHI:	look [^ ns] &=points:sink .
+CHI:	they're putting snow on them [^ ns] .
+CHI:	I don't know [^ ns] .
+CHI:	a boy has 0a [^ emorph] pail 0of [^ emorph] water and put it in
+CHI:	I don't know [^ ns] .
+INV:	just tell me anything about this picture .
+INV:	the children are trying to wash the dog and then xxx +...
+INV:	what else is happening in this picture ?
+INV:	and the cat is stuck in this tree and then xxx +...
+INV:	tell me one more thing about the story .
+CHI:	xxx .
+INV:	just tell me anything else about the picture .
+CHI:	xxx falling down .
+CHI:	daddy's here [^ ns] .
+INV:	what else is happening in this picture ?
+INV:	tell me something else about the picture .
+INV:	what's happening in the picture ?
+INV:	what did you say ?
+CHI:	I don't know [^ ns] .
+INV:	what is happening in this picture ?
+INV:	tell me anything else about the picture .
+CHI:	I don't know [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	I don't know [^ ns] .
+INV:	what else is happening in this picture ?
+INV:	tell me anything you see here .
+CHI:	I don't know [^ ns] .
+INV:	tell me one more thing about this story .
+INV:	what is happening in the picture ?
+CHI:	they's [^ ew:are] [^ ev] making a snowman [^ eu] .
+CHI:	the water 0is [^ ev] spilling out 0of [^ emorph] her hair [^ eu] .
+INV:	now I'm going to start the story .
+INV:	and you finish it .
+INV:	just tell me anything else about the picture .
+INV:	tell me anything about the picture .
+INV:	what did you say ?
+CHI:	I don't know [^ ns] .
+INV:	and you finish it .
+INV:	and what else can you tell me about this story ?
+CHI:	and nobody 0is [^ ev] holding that [^ eu] .
+CHI:	and he xxx .
+INV:	what is happening in this picture ?
+CHI:	<the &s> [/?] they can't turn the water off .
+INV:	what did you say ?
+CHI:	they're gonna snow on them [^ other] [^ eu] .
+CHI:	someone can turn the sink off .
+INV:	what did you say ?
+CHI:	the daddy say [^ ev] ssh [^ eu] .
+INV:	what is happening in the picture ?
+INV:	anything about this picture .
+CHI:	the xxx .
+INV:	and then what happens in the story ?
+CHI:	xxx .
+CHI:	she's tired .
+INV:	now I'll start the start the story .
+INV:	tell me something about this picture .
+CHI:	and her [^ ew:she] [^ epronoun] has <the> [/?] the daddy's hat
+INV:	and you finish it .
+INV:	what's happening in the picture ?
+INV:	the boy is taking his grandma's scissors and then xxx +...
+CHI:	I don't know [^ ns] .
+INV:	the children are taking the donuts from the bag and then xxx +...
+INV:	what did you say ?
+CHI:	there's a squirrel <xxx> [/?] there .
+INV:	now I'll start the start the story .
+CHI:	it's snowing .
+INV:	and you finish it .
+CHI:	I see a dog .
+INV:	the children see the cat .
+CHI:	I don't know [^ ns] .
+INV:	tell me one more thing about the picture .
+INV:	now I'm gonna start the story .
+INV:	tell me one more thing about this picture .
+INV:	what ?
+INV:	what is happening in the picture ?
+INV:	the little girl is still in her pajamas and then xxx +...
+CHI:	I don't know [^ ns] .
+INV:	tell me one more thing about the story .
+INV:	it's snowing .
+INV:	what else is happening in this picture ?
+INV:	the boy knocks the boxes off the shelf and then xxx +...
+INV:	now I'll start the start the story .
+CHI:	it's <&d> [/?] dirty .
+CHI:	the boy's going on the leash [^ ns] .
+INV:	what else is happening here ?
+CHI:	a dog's barking .
+INV:	what is happening in the picture ?
+CHI:	[^ earg] is sad [^ eu] .
+CHI:	I don't know [^ ns] .
+INV:	I'm sorry I can't hear you .
+INV:	tell me one more thing about the story .
+CHI:	I don't know [^ ns] .
+CHI:	he fall down [^ ns] .
+CHI:	a dog's running .
+INV:	and what else is happening in this picture ?
+INV:	now I'll start the story .
+INV:	what else is happening in this picture ?
+INV:	and you finish it .
+CHI:	she asked the mom [^ earg] [^ eu] .
+CHI:	I don't know [^ ns] .
+INV:	what else is happening in this picture ?
+CHI:	water spilling out xxx .
+CHI:	xxx .
+INV:	they raked the leaves into a big pile and then xxx +...
+INV:	what's happening in the picture ?
+INV:	what is happening in the picture ?
+CHI:	[^ imperative to boys] stop, boys .
+INV:	and you finish it .
+INV:	and you finish it .
+INV:	the dog is in front of the bus .
+INV:	what else is happening in this picture ?
+CHI:	the girl's taking this out .
+INV:	and you finish it .
+CHI:	I don't know [^ ns] .
+CHI:	I don't know [^ ns] .
+INV:	tell me something that's happening in the picture .
+CHI:	I don't know either [^ ns] .
+INV:	tell me one more thing about the picture .
+CHI:	their grandma's looking down .
+INV:	now I'll start the start the story .
+INV:	just tell me anything about the picture .
+CHI:	I don't know [^ ns] .
+CHI:	her [^ ew:she] has the daddy's hat [^ ns] .
+INV:	and you finish it .
+INV:	tell me one more thing about the picture .
+CHI:	the people get mad .
+CHI:	the girl know [^ ev] what [^ earg] [^ eu] .
+CHI:	I don't know [^ ns] .
+INV:	what do you see here ?
+CHI:	I don't know [^ ns] .
+INV:	and you finish it .
+CHI:	look [^ ns] .

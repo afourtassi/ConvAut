@@ -1,0 +1,754 @@
+participant	content
+CHI:	teeth .
+MOT:	what are you doing Rick ?
+CHI:	spud .
+MOT:	how about some ears for mama ?
+CHI:	it's one xxx .
+MOT:	try that one first .
+MOT:	here , you do .
+MOT:	Rick , look , it's almost done .
+MOT:	turn them around , here , you do .
+CHI:	I taking the door off .
+CHI:	pop .
+CHI:	a mommy Potato_Head .
+MOT:	you put the piece in , that's good .
+MOT:	where do you think this goes ?
+MOT:	is that right ?
+MOT:	mhm [/?] that's nice .
+MOT:	hm: [/?] ?
+MOT:	I don't know .
+MOT:	what are clocks for ?
+CHI:	put the hat back .
+MOT:	that was five minutes ?
+MOT:	see , you know how to do it .
+CHI:	piece .
+MOT:	and who's this ?
+MOT:	that looks good , here's some more fence .
+MOT:	want some more water , honey ?
+CHI:	I think Potato_Head go in here .
+MOT:	who are you making Rick ?
+CHI:	I lock this down .
+MOT:	you're gonna put the hat on here ?
+CHI:	I wanna move that school house .
+MOT:	but what's his name ?
+CHI:	keep out .
+MOT:	what piece ?
+CHI:	smurf .
+MOT:	<a@l b@l> [/?] .
+MOT:	oh , what else do you think ?
+MOT:	okay , we'll put the fence +/.
+MOT:	potato pop .
+MOT:	you're putting a hat on that ?
+MOT:	smurf .
+MOT:	what are you doing ?
+MOT:	good boy , that's right .
+MOT:	hm: [/?] .
+MOT:	put &n [/?] nose on .
+CHI:	on that car .
+CHI:	<i put> [/?] I want this on !
+CHI:	<chip chip> [/?] chip .
+MOT:	who's that ?
+MOT:	how about this , where do you think that goes ?
+MOT:	good job , Rick .
+MOT:	see ?
+MOT:	looks nice Rick , huh [/?] ?
+CHI:	xxx .
+MOT:	good boy .
+MOT:	are they walking on the cardboard ?
+MOT:	good boy .
+MOT:	Rick , it says lemonade .
+MOT:	what does that say Rick ?
+MOT:	there you go .
+CHI:	this on .
+CHI:	eyes .
+CHI:	where's that piece ?
+MOT:	what color are her shoes ?
+MOT:	no , Rick , look over here .
+CHI:	smartypants .
+MOT:	what are these ?
+MOT:	what fell off ?
+MOT:	what do you call this ?
+MOT:	but what are these right here ?
+MOT:	pigs in the fence , good boy !
+MOT:	look at mommy .
+MOT:	we'll move it over +/.
+MOT:	there , that looks nice !
+CHI:	<two , four> [/?] .
+CHI:	put this on .
+MOT:	where does this go ?
+MOT:	good boy .
+MOT:	you've got trees .
+MOT:	okay .
+MOT:	okay .
+CHI:	xxx .
+MOT:	hm: [/?] ?
+MOT:	oh , I got one in Rick , look !
+MOT:	to tell time !
+MOT:	it's nice , Rick !
+MOT:	boy [/?] this is nice , Rick .
+MOT:	yeah , take it off .
+MOT:	where does this go ?
+MOT:	he can't drive .
+MOT:	try this one .
+CHI:	I put the ladder .
+CHI:	some feet +/.
+MOT:	who's that ?
+MOT:	nice job with the fence , that's good .
+MOT:	see all the animals ?
+MOT:	yeah , what color are these shoes , Rick ?
+CHI:	<I put> [/?] I put a bonnet .
+MOT:	oh , my_goodness !
+MOT:	Rick , look .
+CHI:	where's the other one ?
+MOT:	Baby_Smurf , what's what [/?] he got here , what's this ?
+CHI:	I'll <have it> [/?] fix it .
+MOT:	where are all our +/.
+MOT:	what are you looking for now ?
+MOT:	no , look around .
+MOT:	and what do they say ?
+MOT:	no , I don't know .
+CHI:	yellow .
+CHI:	what broke that ?
+MOT:	say I +/.
+MOT:	good boy Rick .
+CHI:	putting his shoes on .
+MOT:	like a big rake , like daddy uses out in the yard .
+MOT:	what about this ?
+MOT:	let's see .
+CHI:	off this fence , off .
+MOT:	I don't know Rick .
+MOT:	what is that ?
+CHI:	yes .
+MOT:	well , I don't know Rick .
+CHI:	no more .
+MOT:	can you say click [/?] ?
+CHI:	&-uh [/?] his girl+friend wanna stay there .
+MOT:	where does this go ?
+MOT:	here , where do you think that piece goes ?
+MOT:	okay , ladder's away .
+MOT:	that's good , Rick .
+MOT:	alright .
+MOT:	probably , Rick , I know we just had it a minute ago .
+CHI:	I wanna do the school house .
+MOT:	put the shoes on , that's right !
+MOT:	good , okay .
+CHI:	ears on .
+MOT:	Rick , can you read all the names of the Potato_Heads on here ?
+CHI:	spikes .
+MOT:	you took them for a ride ?
+CHI:	take off .
+MOT:	what are these ?
+CHI:	the roof .
+CHI:	put eyes on .
+MOT:	look at the roof .
+MOT:	well , we'll get it another time , Rick .
+CHI:	up around ?
+MOT:	where do you think this goes ?
+MOT:	you put the teeth on , that's good .
+MOT:	it fell off , huh [/?] ?
+MOT:	there you go .
+MOT:	oh , here's another one .
+MOT:	a clocks .
+CHI:	making his face .
+MOT:	here try this piece .
+CHI:	xxx .
+CHI:	I made him lock it .
+MOT:	Rick , what do you wanna do now ?
+MOT:	that little white hat ?
+CHI:	a puzzle .
+MOT:	I'll snap it in .
+CHI:	where's the green hat ?
+CHI:	I wanna match some .
+MOT:	good boy , you put it in .
+MOT:	it says keep +/.
+MOT:	good boy .
+MOT:	let's see .
+MOT:	no , how about this way ?
+MOT:	right now !
+MOT:	we'll find it later , okay ?
+CHI:	I will snap the wheels ?
+MOT:	where did you have all this stuff , Rick ?
+MOT:	Rick , do you wanna make the puzzle ?
+MOT:	good boy !
+MOT:	how come ?
+CHI:	smurf .
+CHI:	where's that piece ?
+MOT:	you locked it down ?
+CHI:	I put this on now .
+MOT:	it was wet , huh [/?] ?
+CHI:	look at that .
+MOT:	you're snapping the wheels on ?
+MOT:	put them inside the fence , so they don't get out ?
+MOT:	Rick , where does this one go ?
+MOT:	don't let them out .
+MOT:	good .
+MOT:	you'll get Potato_Heads after .
+MOT:	here Rick , let's do this puzzle .
+MOT:	where are they going with it ?
+MOT:	ah [/?] look !
+MOT:	do you know ?
+MOT:	oh , yeah , I think we're missing one window .
+MOT:	put the roof on the club+house , Rick .
+MOT:	that stays on there Rick , you can't take that off .
+MOT:	and who's this ?
+MOT:	how about the little bird ?
+MOT:	let's try some more .
+MOT:	what ?
+MOT:	a tractor , that's right .
+CHI:	I'm doing this , a [/?] a flowers .
+MOT:	no , what do you call this ?
+MOT:	what ?
+MOT:	no more in the tub , no .
+MOT:	is there another one ?
+CHI:	put that +/.
+MOT:	you're putting the piece in .
+MOT:	oh , look .
+MOT:	Rick , look !
+CHI:	look at Miss_Potato_heads .
+MOT:	good job .
+CHI:	fall off !
+MOT:	look !
+CHI:	on the club+house .
+MOT:	you put that piece in .
+CHI:	please mom .
+CHI:	<chip chip chip> [/?] chip .
+MOT:	okay .
+CHI:	I take Potato_Head's shoes off .
+CHI:	is this one +/.
+MOT:	do you know what that says Rick ?
+MOT:	up here ?
+MOT:	a mommy Potato_Head , yes !
+MOT:	why don't you let the little bird sit up there ?
+CHI:	the roof .
+MOT:	his eyes , that's right .
+MOT:	what's that Rick ?
+CHI:	thank you .
+MOT:	yeah , it is !
+MOT:	what goes here ?
+MOT:	you're fixing the +/.
+CHI:	in +/.
+MOT:	want the birdie ?
+MOT:	say I +/.
+CHI:	where's the one ?
+MOT:	right here ?
+MOT:	will that fit ?
+CHI:	I put this on ?
+MOT:	good boy .
+CHI:	a piece .
+MOT:	Rick .
+MOT:	oh , good boy .
+MOT:	how about this , what's this ?
+CHI:	a club+house .
+MOT:	okay .
+MOT:	where's this one go , Rick ?
+MOT:	Rick , how many windows ?
+CHI:	lemonade .
+MOT:	oh , that's right .
+CHI:	I'm doing this , flowers ?
+CHI:	I wanna finish that .
+MOT:	okay , let's see , Rick .
+CHI:	xxx finish .
+CHI:	xxx .
+CHI:	on .
+MOT:	yeah , put the ladder back inside , okay ?
+CHI:	oh , let's let it dry .
+MOT:	good boy .
+MOT:	there , that's the right answer , that's right .
+MOT:	what about the club+house , are we gonna finish that too ?
+MOT:	looks nice .
+CHI:	I put this face on .
+MOT:	&-um [/?] where did I see it ?
+CHI:	I finished that .
+MOT:	okay , what are you doing , Rick ?
+MOT:	who's that ?
+MOT:	why would he be crying ?
+MOT:	what are these letters ?
+MOT:	you gotta put that on Potato_Head , huh [/?] ?
+MOT:	spud ?
+MOT:	Rick , what's his name ?
+MOT:	okay , let's find the rest .
+MOT:	yellow shoes for him .
+MOT:	there .
+CHI:	xxx back home zoom [/?] !
+MOT:	how about the window ?
+MOT:	well , I don't know where the green hat is right now , Rick .
+MOT:	cover your mouth , honey .
+CHI:	who that ?
+MOT:	I don't know .
+MOT:	are you_all done ?
+MOT:	shoes and hands off .
+MOT:	we are , yeah .
+CHI:	the chimney off .
+MOT:	good boy .
+MOT:	say , on the club+house .
+CHI:	&mm [/?] I take them off .
+MOT:	say , in the buck [/?] +/.
+MOT:	try here .
+CHI:	xxx top .
+MOT:	is it under your legs ?
+MOT:	it's for working out in the field .
+MOT:	hm: [/?] ?
+MOT:	that's good , Rick .
+CHI:	a [/?] kids is to walk .
+MOT:	mean you lock it up ?
+CHI:	blocks .
+MOT:	Rick , who's this ?
+MOT:	that was good .
+MOT:	that goes on here , remember ?
+MOT:	chickens !
+CHI:	tractor .
+CHI:	off !
+CHI:	where's the flower ?
+CHI:	I want [/?] broke the flower .
+MOT:	let's do some of this .
+CHI:	yes .
+MOT:	well , let's finish this first .
+MOT:	there's one .
+MOT:	yeah , try that one .
+CHI:	I earn Potato_Heads .
+MOT:	big chip ?
+CHI:	a baby starts crying .
+MOT:	Rick , look at mom .
+MOT:	here's another piece of fence .
+MOT:	yay [/?] for you .
+MOT:	oh , what do you say , Rick ?
+MOT:	where does this go ?
+MOT:	see ?
+MOT:	okay .
+MOT:	oh , it's over here .
+MOT:	oh , I don't think so Rick .
+MOT:	yeah .
+CHI:	yeah .
+CHI:	I wanna take this out .
+CHI:	fixing .
+CHI:	this is all +/.
+MOT:	Rick , what are you doing ?
+CHI:	there .
+MOT:	yeah , got the fence together ?
+CHI:	yes .
+MOT:	no , that doesn't go there .
+CHI:	I lock this down .
+MOT:	Rick , what are you doing ?
+CHI:	the school house .
+MOT:	let's see , what else ?
+MOT:	where does it go ?
+MOT:	say click [/?] .
+MOT:	try some more .
+MOT:	let's see +/.
+MOT:	what do you do with clocks , Rick ?
+MOT:	let's get some more pieces .
+MOT:	Rick , look at mommy .
+MOT:	say , please mom .
+MOT:	that's nice .
+MOT:	no , not there .
+CHI:	a [/?] good boy .
+MOT:	look Rick , I put one in .
+MOT:	good boy , Rick !
+MOT:	okay .
+MOT:	what's that Rick ?
+MOT:	where's the key ?
+CHI:	I wanna put the orange hat back .
+MOT:	Rick , don't do that .
+MOT:	his +/.
+MOT:	the what ?
+MOT:	what about this ?
+MOT:	here .
+MOT:	but where does it go ?
+MOT:	what's his name ?
+MOT:	what are you making ?
+CHI:	on the club+house .
+MOT:	good covering you mouth .
+MOT:	it's like a big rake .
+MOT:	oh , you're right , it does .
+MOT:	good job , Rick .
+MOT:	that goes on what ?
+MOT:	look , we're making his face .
+CHI:	it needs some wheels ?
+MOT:	that's a good job .
+CHI:	yes .
+MOT:	<oh oh> [/?] look at that , Rick !
+CHI:	I'm put +/.
+MOT:	Rick , what color are her feet ?
+MOT:	make believe key .
+MOT:	well , there's one there , and there , and there and there +/.
+MOT:	the fence , good boy .
+CHI:	I <do do> [/?] do the school house .
+CHI:	pink .
+MOT:	get some feet for mommy .
+CHI:	I +/.
+MOT:	the fence is too big ?
+CHI:	where's the bonnet ?
+MOT:	oh , Rick , look !
+CHI:	I put these on now +/.
+MOT:	good boy !
+MOT:	good , get them all set up .
+MOT:	how about this ?
+CHI:	put them in there .
+MOT:	no , not there .
+MOT:	see , this is sposta be his hat .
+MOT:	good boy .
+CHI:	where's the other Potato_Heads ?
+MOT:	no , it goes on +/.
+MOT:	put mama's ears in .
+CHI:	where's the orange hat ?
+MOT:	Rick , what are you doing ?
+MOT:	he's crying ?
+CHI:	I want a [/?] shoes on .
+MOT:	oops [/?] .
+MOT:	good boy , that's right .
+MOT:	put it on here .
+CHI:	snap that .
+CHI:	I get the green hat .
+MOT:	put mama's ears in .
+MOT:	you let it all to dry up .
+MOT:	maybe +/.
+CHI:	geese .
+CHI:	I put this ladder back ?
+MOT:	potato dumpling .
+MOT:	how about there ?
+CHI:	I wanna finish that Potato_Heads .
+CHI:	oops [/?] I take it off ?
+MOT:	I don't know where it is buddy .
+MOT:	let's find the rest of the pieces .
+MOT:	no , what's this say ?
+CHI:	back !
+MOT:	Rick , you're making the puzzle .
+MOT:	good boy .
+MOT:	what else ?
+MOT:	what goes up here , Rick , look !
+MOT:	yellow , good boy .
+MOT:	good boy !
+MOT:	good boy !
+MOT:	no , leave it on .
+CHI:	I put this xxx .
+CHI:	I take the ladder out .
+MOT:	good boy !
+CHI:	in the tub .
+CHI:	blue .
+MOT:	well , we can do them after we've done this .
+CHI:	it's too big in there .
+MOT:	honey look , were does that go ?
+MOT:	how about here ?
+CHI:	right there .
+MOT:	good boy .
+MOT:	Rick , put that down .
+MOT:	Rick , look at me .
+MOT:	Rick , look at mommy .
+CHI:	I put this right [/?] right here .
+MOT:	can you set it all up ?
+MOT:	Rick , what are you doing ?
+MOT:	put it down .
+MOT:	you think that goes there ?
+MOT:	oh , here's one .
+MOT:	okay +/.
+MOT:	where does that go ?
+CHI:	xxx .
+CHI:	this is no window .
+CHI:	put it on .
+MOT:	okay .
+MOT:	doing a nice job fixing the fence , Rick .
+MOT:	does it go there ?
+MOT:	yeah , good boy .
+MOT:	let's try some more pieces , here .
+CHI:	spook .
+CHI:	hat back .
+MOT:	good boy , what else ?
+CHI:	a chimney .
+CHI:	where's the rake ?
+CHI:	I get the mommy Potato_Head .
+MOT:	Rick , are we gonna put the school house all together ?
+MOT:	the bonnet ?
+MOT:	okay .
+MOT:	Rick .
+CHI:	<b@l a@l> [/?] .
+CHI:	it feel soaking .
+MOT:	where are you putting it ?
+MOT:	here are some ears .
+MOT:	you know what you can do ?
+CHI:	I do Mr_Potato_Heads .
+MOT:	what are you looking for ?
+MOT:	let's do Baby_Smurf .
+CHI:	is it +/.
+MOT:	you can still put her feet on .
+MOT:	you think that goes there ?
+MOT:	I'm sorry .
+MOT:	I don't think it goes on the car , Rick .
+MOT:	how about over here ?
+MOT:	I don't know .
+MOT:	take them off , xxx .
+MOT:	there's some more fence , Rick .
+CHI:	it's all broke off now .
+MOT:	set it up on top of the box , it'll stay nice .
+MOT:	good boy , Rick !
+CHI:	taking off .
+MOT:	how about the [/?] the roof .
+CHI:	I wanna try to put it on .
+MOT:	how about that one ?
+MOT:	doesn't it go on the club+house ?
+MOT:	look at this one , Rick .
+MOT:	where does this go ?
+MOT:	let me see .
+MOT:	Rick , look at me .
+CHI:	a [/?] let them drive .
+MOT:	here Rick , I got another piece in , look .
+MOT:	Rick , what are these ?
+MOT:	Rick , look at mama .
+CHI:	I put some windows .
+MOT:	you turn it around .
+MOT:	good boy , Rick .
+MOT:	a chimney .
+MOT:	yeah , that looks like a roof with a steeple .
+CHI:	I put this +/.
+MOT:	what color is his hat , Rick ?
+MOT:	good boy !
+MOT:	where's the bird ?
+MOT:	what are these ?
+MOT:	stand up and see if it's under you .
+MOT:	Rick , who's this ?
+MOT:	Rick , where does the little bird go ?
+MOT:	pink , he's pink .
+MOT:	good boy .
+MOT:	put that in .
+MOT:	what are you doing Rick ?
+MOT:	see ?
+MOT:	okay , you want the clock xxx .
+MOT:	Rick , you do .
+MOT:	the roof .
+MOT:	good boy .
+MOT:	what is this , Rick ?
+MOT:	to tell +/.
+MOT:	where did we put it ?
+CHI:	this +/.
+MOT:	oh , !
+CHI:	his +/.
+CHI:	I wanna put this there .
+CHI:	a nose .
+MOT:	pink bonnet , good boy .
+MOT:	the club+house , good !
+MOT:	push it in .
+MOT:	good , that's right .
+MOT:	look .
+CHI:	yes .
+MOT:	what are you doing ?
+CHI:	I play Mr_Potato_Heads .
+MOT:	oh , !
+CHI:	school [/?] club+house .
+MOT:	we don't needta find that right now , you can still +/.
+MOT:	look what I found .
+MOT:	you're doing a good job .
+MOT:	spu [/?] +/.
+MOT:	that's right , good job !
+CHI:	I xxx .
+MOT:	look , I got a piece in .
+MOT:	I want you to finish this first .
+CHI:	I wanna play with a [/?] Potato_Heads .
+CHI:	gray .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	what do you call this , Rick ?
+MOT:	oo [/?] cover your mouth .
+CHI:	xxx .
+MOT:	let's try making the puzzle .
+MOT:	see , right here .
+MOT:	the bird in the nest , there .
+MOT:	put her feet on !
+CHI:	<b@l a@l> [/?] .
+MOT:	oh , there you can take it from that one .
+CHI:	the white one !
+CHI:	his &e [/?] eyes .
+MOT:	I don't see it .
+MOT:	that's right .
+MOT:	Rick , what should we do with the bird ?
+MOT:	Rick , where does the roof go ?
+MOT:	what else have we got in here ?
+MOT:	good boy !
+MOT:	that looks nice Rick , you did a good job .
+MOT:	no , oh , Rick .
+MOT:	I think Ben might have it upstairs .
+MOT:	Rick , what color is the bonnet ?
+MOT:	do you need more fence ?
+MOT:	here we go .
+MOT:	here , you set up .
+MOT:	how about some feet for mama ?
+MOT:	that's right .
+MOT:	keep them in there .
+MOT:	okay , and how about some +/.
+MOT:	cover your mouth , Rick .
+MOT:	where are you putting it ?
+MOT:	good boy .
+MOT:	Rick , look at mama .
+MOT:	you match them up ?
+MOT:	shoes and hands off , okay .
+MOT:	good job .
+CHI:	the [/?] a clock .
+CHI:	it's <a man's hou> [/?] a man's club+house .
+CHI:	I want a fence there .
+CHI:	eyes .
+CHI:	xxx .
+MOT:	finish this first .
+MOT:	oh , the piece that goes in there ?
+CHI:	a hat .
+CHI:	and they goes for rides .
+CHI:	xxx .
+CHI:	the fence .
+MOT:	okay .
+MOT:	okay .
+MOT:	what about the truck ?
+CHI:	I put the pigs in ?
+MOT:	look !
+MOT:	let's see .
+MOT:	but you gotta help me with this first , Rick .
+MOT:	I thought that went on the club+house .
+CHI:	<one , two , three> [/?] .
+MOT:	yay [/?] for you !
+MOT:	do you need some help ?
+MOT:	oh , look_it , Rick , there's a tree .
+MOT:	yeah .
+MOT:	okay , good boy .
+MOT:	<oh , where> [/?] where do you wanna move it ?
+MOT:	good boy , that's right .
+MOT:	well , looks like a fork , doesn't it ?
+MOT:	good boy .
+MOT:	this what you're looking for ?
+CHI:	I put some on .
+MOT:	put it on .
+CHI:	I lock this down .
+MOT:	put them up here and you can ride them on the cardboard easier .
+MOT:	well , put it away over here .
+CHI:	I finish that .
+MOT:	<walk walk> [/?] walk .
+CHI:	where's the one ?
+MOT:	okay .
+MOT:	where do you wanna put this ?
+MOT:	mommy help ?
+MOT:	oops [/?] oh , horse fell over .
+MOT:	in [/?] yeah , we had it in the bath+tub , huh [/?] ?
+CHI:	it's a fork .
+MOT:	put eyes on .
+MOT:	good job .
+MOT:	yeah .
+MOT:	keep her warm .
+CHI:	I put in it .
+MOT:	how about over here somewhere ?
+MOT:	try somewhere else .
+CHI:	no .
+MOT:	there's the other one .
+MOT:	yeah .
+MOT:	does he go here ?
+MOT:	what's too big , Rick ?
+MOT:	and who's this ?
+MOT:	that's a little goose , Rick .
+MOT:	or we can do it on top of this .
+MOT:	how about this one ?
+CHI:	thank you .
+CHI:	want this on ?
+CHI:	a [/?] spikes .
+MOT:	a tractor .
+MOT:	a little like a steeple I guess huh [/?] ?
+CHI:	yes .
+CHI:	I said please mom .
+MOT:	what are you doing , Rick ?
+MOT:	took them out .
+CHI:	the man !
+MOT:	somewhere around here ?
+MOT:	you put the fence together .
+MOT:	what do you think ?
+MOT:	try up here .
+MOT:	good boy .
+CHI:	taking the car off .
+CHI:	white .
+CHI:	pink .
+MOT:	good boy .
+MOT:	and where are you putting it ?
+MOT:	oops [/?] fell off .
+MOT:	back where ?
+MOT:	look !
+MOT:	okay , make them ride .
+CHI:	<a no> [/?] that's no more ?
+MOT:	that hasta stay on .
+MOT:	you're putting away ?
+MOT:	where's the top for the steeple ?
+CHI:	I finish Potato_Heads .
+CHI:	geese .
+MOT:	it's probably back in the play+room somewhere .
+CHI:	put this hat back .
+MOT:	so it got wet .
+MOT:	let's finish the club+house .
+MOT:	it's missing , we'll look for it later .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	lumpy .
+MOT:	where do you think this goes ?
+CHI:	in the bucket .
+MOT:	yeah , do you like lemonade ?
+MOT:	keep out .
+CHI:	I put ears on .
+MOT:	want me to help ?
+MOT:	oh , I don't know Rick .
+CHI:	I lock it .
+MOT:	where's that one go ?
+MOT:	yeah , can you lock it , Rick ?
+MOT:	Rick , what's his name ?
+MOT:	can you do ?
+MOT:	good boy , Rick .
+MOT:	yeah , but what's his name ?
+MOT:	Rick +/.
+CHI:	i [/?] I finished that Potato_Heads .
+MOT:	Rick , what do you call this ?
+MOT:	Rick , look at mommy .
+MOT:	alright , we'll do some school house .
+MOT:	door's shut , good boy .
+MOT:	and who's this ?
+MOT:	there's the bird .
+MOT:	you wanna move the school house over here ?
+CHI:	I put this there .
+CHI:	club+house .
+MOT:	there you go .
+MOT:	you know how to do it Rick , that's good .
+MOT:	where does that go Rick ?
+MOT:	good boy .
+CHI:	click [/?] .
+CHI:	put this hat back .
+MOT:	Rick , look .
+MOT:	oh , there's one right behind you .
+CHI:	a bell .
+MOT:	okay , here .
+CHI:	<i put that> [/?] I put this back .
+MOT:	yeah , you put right on the head +/.
+CHI:	wanna do Miss_Potato_heads .
+MOT:	you do good work , Rick .
+MOT:	try .
+MOT:	and what [/?] what are these ?
+MOT:	where did we put it ?
+CHI:	a [/?] don't take it off the head .
+CHI:	I can't bring this all +/.
+MOT:	good boy .
+MOT:	try here .
+MOT:	okay !
+MOT:	where does the top for the school house go ?
+CHI:	I put the ladder away .
+MOT:	try .
+MOT:	oh , there it is .
+MOT:	here , you do .
+MOT:	Rick , can we set this all up ?
+CHI:	in the +/.
+MOT:	what do you say ?
+CHI:	it take +/.
+MOT:	we've got some more .
+MOT:	you take them for a ride .
+MOT:	Rick , what color is that pig ?
+MOT:	come on Rick , let's do some more .
+MOT:	a hat on the club+house ?
+MOT:	what's that , another face ?
+MOT:	a bell , good boy .
+MOT:	in +/.
+MOT:	that's good .
+MOT:	what ?
+MOT:	and what are those ?
+MOT:	oh , good .
+MOT:	put here feet on , come on .
+MOT:	where does this go ?
+MOT:	which one ?
+MOT:	oh , the white hat ?
+MOT:	cover your mouth when you cough .
+CHI:	a tractor .

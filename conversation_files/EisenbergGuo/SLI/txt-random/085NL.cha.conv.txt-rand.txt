@@ -1,0 +1,525 @@
+participant	content
+INV:	the foot is sticking up, right ?
+INV:	okay good, now I'll start the start the story .
+INV:	what's happening in the picture ?
+INV:	tell me anything else about the picture .
+INV:	now I'll start the start the story .
+INV:	I don't know what you're saying .
+CHI:	fell and pick [^ ns] .
+INV:	the little girl is still in her pajamas and then xxx +...
+CHI:	yeah [^ ns] .
+CHI:	look [^ ns] &=laughs .
+CHI:	[^ earg] fell [^ eu] .
+INV:	anything that you see .
+INV:	barking ?
+INV:	they're taking the cereal ?
+CHI:	this is a mess .
+CHI:	no, crossing [^ ns] .
+INV:	and here comes the mommy .
+CHI:	[^ earg] running [^ eu] .
+INV:	that's right .
+INV:	you're thinking ?
+INV:	oh_no, the bubbles spilled and then xxx +...
+INV:	fell and pick ?
+INV:	okay, what about if I start the story .
+INV:	alright, now I'll start the start the story .
+INV:	what ?
+CHI:	no [^ ns] .
+CHI:	yeah [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	I don't know [^ ns] .
+INV:	now I'll start the start the story .
+CHI:	cross [^ ns] .
+CHI:	his xxx fell .
+INV:	and you finish it ?
+INV:	the boy knocked the boxes off the shelf and then xxx +...
+CHI:	[^ earg] cut [^ earg] [^ eu] .
+INV:	okay .
+CHI:	the mom take [^ ev] a [^ ew:the] [^ emorph] cereal [^ eu] .
+CHI:	hey [^ ns] there's Dunkin_donuts .
+INV:	a napkin .
+INV:	pulling the dog ?
+INV:	okay .
+CHI:	the cat's stuck .
+CHI:	[^ earg] dance [^ eu] .
+CHI:	[^ earg] getting it [^ eu] .
+INV:	the cat is stuck up in the tree and then xxx +...
+CHI:	xxx .
+CHI:	yeah [^ ns] .
+INV:	fighting .
+INV:	oh, she's holding a box in her hand ?
+INV:	crossing ?
+INV:	how about I start the start the story .
+INV:	this is a mess ?
+INV:	the dog and the girl have daddy's shoes and then xxx +...
+INV:	alright good .
+INV:	what's happening in the picture ?
+CHI:	they're xxx the bucket .
+INV:	good .
+CHI:	donut [^ ns] .
+INV:	what did you tell me before ?
+CHI:	the bubble stuff fell .
+INV:	what else is happening in the picture ?
+CHI:	the doll fell [^ ns] .
+CHI:	yeah [^ ns] .
+INV:	tell me what you see in the picture .
+INV:	okay .
+CHI:	I don't know [^ ns] .
+CHI:	they are throwing xxx .
+INV:	running ?
+INV:	what else is happening in this picture ?
+CHI:	this one [^ ns] .
+INV:	good .
+INV:	and you finish it .
+CHI:	this [^ ns] .
+INV:	what else is happening in the picture ?
+INV:	oh, okay .
+INV:	okay .
+INV:	can you speak a little louder ?
+CHI:	no, this [^ ns] .
+INV:	you don't know ?
+CHI:	yeah [^ ns] .
+MOT:	what's happening ?
+CHI:	no, this one [^ ns] .
+INV:	okay, and tell me one more thing about the story .
+INV:	what is she doing ?
+INV:	alright very good .
+CHI:	yeah [^ ns] .
+INV:	what's happening in the picture ?
+INV:	that is a towel .
+INV:	and then what happens in the story ?
+CHI:	this [^ ns] .
+INV:	yes okay, thank you .
+INV:	and here comes the mom and then xxx +...
+CHI:	I don't know [^ ns] .
+INV:	that's right .
+INV:	okay .
+CHI:	I don't know [^ ns] .
+INV:	okay, now I'll start the start the story .
+INV:	okay .
+CHI:	crossing [^ ns] .
+CHI:	getting it [^ ns] .
+INV:	that's right, good job .
+INV:	what else is <happening in this picture> [>] ?
+CHI:	and this one is the xxx +...
+CHI:	the foot [^ ns] .
+INV:	look at what ?
+CHI:	and 0the [^ emorph] girl's awake [^ eu] .
+INV:	and you finish it .
+INV:	and you finish it .
+INV:	sitting ?
+INV:	what about it ?
+CHI:	and the dog <get> [/?] get [^ ev] the shoe [^ eu] .
+CHI:	seeing [^ ns] .
+CHI:	he fell sleep [^ ew:asleep] [^ elexical] [^ eu] .
+INV:	okay good job .
+CHI:	yeah [^ ns] .
+CHI:	throw [^ ns] .
+CHI:	no, see [^ ns] .
+CHI:	&um [% shrugs] xxx +...
+INV:	the doggy ate some of the birthday cake .
+INV:	what ?
+INV:	tell me anything else about the picture .
+INV:	mad ?
+INV:	okay good and tell me one more thing about the story .
+INV:	she's singing ?
+CHI:	splashing the milk [^ ns] .
+CHI:	the mom's take a cereal [^ ns] .
+CHI:	hat [^ ns] .
+CHI:	yeah [^ ns] .
+CHI:	they're &um spilling [^ earg] like this [^ eu] .
+CHI:	<us> [/?] family [^ frag] [^ eu] .
+CHI:	I don't know [^ ns] .
+MOT:	what's happening ?
+INV:	do you wanna do this one ?
+INV:	yeah, that's right, good .
+INV:	oh_no, the doggy ate some of the birthday cake and then xxx +...
+INV:	hm ?
+CHI:	look [^ ns] .
+INV:	the children are trying to wash the dog and then xxx +...
+CHI:	that picture's cleaning up [^ other] [^ eu] .
+INV:	I'm not sure what you're saying .
+INV:	tell me one more thing about the story .
+INV:	great, that was awesome .
+CHI:	those 0are [^ ev] spilling [^ eu] .
+INV:	okay, the boys are fighting .
+CHI:	I xxx get my mom .
+INV:	the boy what ?
+CHI:	look [^ ns] .
+INV:	yes, it is .
+INV:	now I'll start the start the story .
+CHI:	they're playing 0in [^ emorph] the leafs [^ eu] .
+CHI:	yeah [^ ns] .
+CHI:	[^ earg] clean up in the leafs [^ other] [^ eu] .
+CHI:	like this [^ ns] .
+INV:	he fell ?
+INV:	and then what happens in the story ?
+CHI:	yeah [^ ns] .
+CHI:	no [^ ns] .
+INV:	so what's happening in the picture ?
+CHI:	yeah [^ ns] .
+INV:	family ?
+INV:	that's right .
+CHI:	then this xxx fell .
+INV:	what's happening in this picture ?
+INV:	what else is happening in the picture ?
+INV:	the bubble stuff fell .
+INV:	what ?
+INV:	<good job> [>] .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+CHI:	no [^ ns] .
+INV:	good .
+CHI:	mhm [^ ns] .
+INV:	and you finish it .
+CHI:	dancing [^ ns] .
+CHI:	no [^ ns] .
+INV:	the daddy is hiding a doll behind his back and then xxx +...
+INV:	alright good .
+INV:	that's right, very good .
+INV:	cleaning up ?
+CHI:	yeah [^ ns] .
+INV:	what else is happening in this picture ?
+CHI:	that [^ ns] .
+INV:	that's okay .
+INV:	now I'll start the story .
+INV:	you don't know ?
+INV:	okay good and tell me one more thing about the story .
+MOT:	alright let's see .
+CHI:	fighting [^ ns] .
+INV:	dirty ?
+INV:	that's right, good job .
+MOT:	look at the picture .
+CHI:	I say bark [^ ns] .
+CHI:	can't [^ ns] .
+CHI:	awake awake [^ ns] .
+INV:	and tell me one more thing about the story .
+INV:	that's right .
+INV:	okay, now I'll start the start the story .
+CHI:	boy [^ ns] .
+INV:	make sure you tell me everything nice and loud so I can hear you .
+CHI:	okay [^ ns] .
+CHI:	he's driving [^ earg] [^ eu] .
+INV:	that's right, good job .
+INV:	seeing ?
+INV:	okay .
+INV:	what fell ?
+INV:	tell me something you see in the picture .
+CHI:	family [^ ns] !
+INV:	tell me what you see in the picture .
+INV:	tell me one more thing about the story .
+INV:	the boys are fighting .
+INV:	you don't know ?
+CHI:	yeah [^ ns] .
+CHI:	I don't know [^ ns] .
+CHI:	I don't know [^ ns] .
+INV:	can you tell me one more thing about the story ?
+CHI:	daddy's pajamas and mommy's pajamas [^ frag] [^ eu] .
+CHI:	girl [^ ns] .
+INV:	<good job> [>] .
+INV:	a crumb ?
+INV:	the raked their leaves into a big pile and then xxx +...
+INV:	what is this ?
+INV:	the children are trying to wash the dog .
+INV:	the cat's stuck .
+CHI:	dancing [^ ns] .
+INV:	and you finish it .
+INV:	tell me one more thing about the story .
+INV:	you don't see something ?
+CHI:	that hurt [^ ev] his head [^ eu] .
+INV:	now I'll start the start the story .
+INV:	what ?
+CHI:	[^ earg] washing the <dish> [/?] dishes [^ eu] .
+CHI:	<the> [/?] this boy [^ ns] .
+CHI:	0 .
+INV:	what else is happening in this picture ?
+CHI:	I don't know [^ ns] .
+INV:	what else is happening in the picture ?
+CHI:	them [^ ew:they] [^ epronoun] 0are [^ ev] throwing [^ earg] [^ eu]
+INV:	okay good .
+INV:	that's right .
+INV:	and you finish it .
+CHI:	look [^ ns] .
+CHI:	[^ earg] barking [^ eu] .
+INV:	tell me one more thing about the story .
+CHI:	dancing [^ ns] .
+CHI:	hug him [^ ns] !
+CHI:	I can't see [^ ns] .
+CHI:	0 .
+CHI:	don't know [^ ns] .
+INV:	I can't hear you .
+INV:	okay .
+CHI:	I don't <like> [/?] wanna think [^ ns] .
+CHI:	squish my arm [^ ns] .
+INV:	I don't understand .
+INV:	very good .
+INV:	what's happening in the picture ?
+INV:	you can't see it ?
+INV:	the dog has daddy's shoes .
+INV:	the kids see the cat .
+INV:	and you finish it .
+INV:	it's watching ?
+CHI:	his fell [^ eu] .
+CHI:	he's [^ ew:he] [^ ev] fell down [^ eu] .
+CHI:	yeah [^ ns] .
+INV:	and then what happens ?
+CHI:	no, seeing [^ ns] .
+INV:	okay good job .
+INV:	and then what happens in the story ?
+INV:	now I'll start the start the story .
+INV:	what else is happening in the picture ?
+INV:	what ?
+CHI:	mommy can't wash the plates .
+INV:	what's happening in the picture ?
+INV:	you needta do what ?
+INV:	oh_no !
+CHI:	I don't know [^ ns] .
+CHI:	yeah [^ ns] .
+CHI:	no, the girl [^ ns] .
+INV:	okay good .
+CHI:	just thinking [^ ns] .
+INV:	cleaning up in the leaves, very good .
+INV:	tell me anything else about the picture .
+MOT:	what's happening in this picture ?
+CHI:	look [^ ns] <this> [/?] this [^ ew:these] [^ emorph] are crumbs
+CHI:	I don't know [^ ns] .
+CHI:	this one [^ ns] .
+INV:	washing ?
+CHI:	[^ earg] pulling the dog [^ eu] .
+INV:	hm ?
+CHI:	yeah [^ ns] .
+INV:	and here comes the mom .
+CHI:	look [^ ns] there's one more toy .
+INV:	this one .
+INV:	okay .
+CHI:	mad [^ ns] .
+CHI:	he's sleeping .
+CHI:	[^ earg] is eating them [^ eu] .
+CHI:	dirty [^ frag] [^ eu] .
+INV:	okay .
+INV:	the boy ?
+CHI:	the foot [^ ns] .
+INV:	the children are trying to wash the dog and then what happens ?
+INV:	what is happening in the picture ?
+INV:	okay, and tell me one more thing about the story .
+CHI:	no, splash [^ ns] .
+INV:	okay .
+CHI:	yeah [^ ns] .
+INV:	that's alright .
+INV:	the mom's taking him ?
+CHI:	the dad's thinking .
+CHI:	<I> [/?] I don't see something [^ ns] .
+INV:	I can't hear you .
+CHI:	that boy [^ ns] .
+INV:	and you finish it .
+INV:	yeah .
+CHI:	the foot, look [^ ns] .
+INV:	what else is happening in this picture ?
+CHI:	I want xxx .
+CHI:	dog [^ frag] [^ eu] .
+CHI:	in <water> [/?] the water [^ frag] [^ eu] .
+CHI:	<I> [/?] I needta move xxx [^ ns] .
+CHI:	and mommy's [^ ev] fell [^ ew:fallen] [^ emorph] asleep [^ eu] .
+INV:	and you finish it .
+INV:	alright, now I'll start the start the story .
+INV:	he's sleeping ?
+INV:	what ?
+INV:	that's right .
+MOT:	what's happening ?
+INV:	okay .
+INV:	okay very good .
+CHI:	they're pulling this .
+INV:	okay .
+INV:	what else is happening in the picture ?
+CHI:	I don't know [^ ns] .
+CHI:	like this [^ ns] .
+CHI:	no, this boy [^ ns] .
+CHI:	0 .
+CHI:	<and look> [<], that boy got the scarf .
+INV:	the boy is taking his grandma's scissors and then xxx +...
+CHI:	she don't [^ ew:doesn't] [^ ev] wanna sit [^ eu] .
+INV:	what's happening in this picture ?
+INV:	what's happening in the picture ?
+CHI:	cereal [^ ns] !
+CHI:	they're doing bubbles <and> [>] splashing the milk .
+INV:	what ?
+INV:	and then xxx +...
+CHI:	[^ earg] fighting [^ eu] .
+MOT:	okay, then tell her what's happening .
+INV:	cereal, that's right .
+INV:	the boy is taking his grandma's scissors .
+CHI:	<the bus is crossing> [<] [^ elexical] the dog [^ eu] .
+INV:	and tell me one more thing about the story .
+CHI:	yeah [^ ns] .
+INV:	they boys are throwing snowballs and then xxx +...
+CHI:	the foot [^ frag] [^ eu] .
+CHI:	dishes [^ ns] .
+INV:	okay very good job .
+INV:	what else is happening in the picture ?
+INV:	listen again .
+CHI:	he threw it .
+INV:	what's happening in the picture ?
+INV:	okay good job .
+CHI:	[^ imperative] look at the birthday cake .
+INV:	and tell me one more thing about the story .
+CHI:	yeah, look [^ ns] .
+CHI:	I don't know [^ ns] .
+CHI:	that's cereal .
+INV:	that's right .
+INV:	tell me one more thing about the picture .
+CHI:	0 .
+INV:	what ?
+CHI:	fighting xxx .
+INV:	what ?
+CHI:	boy [^ ns] .
+INV:	that's right .
+CHI:	dirty [^ ns] .
+INV:	okay, tell me nice and loud, okay ?
+INV:	can you tell me one more thing about the story .
+CHI:	yeah [^ ns] .
+INV:	just tell me something else you see .
+INV:	they spill it like this ?
+INV:	oh_no, that's right .
+CHI:	I don't know [^ ns] .
+CHI:	running [^ ns] !
+INV:	and can you tell me one more thing about the story ?
+INV:	let's take a break .
+INV:	the boy needs to do that ?
+INV:	what ?
+CHI:	no, the mom [^ ns] .
+INV:	cut ?
+INV:	okay good .
+INV:	what's happening in this picture ?
+CHI:	and dancing [^ ns] .
+CHI:	and [^ earg] pick [^ earg] [^ eu] .
+CHI:	<and the> [/] and the boy clean [^ ev] the hat [^ eu] .
+CHI:	yeah [^ ns] .
+CHI:	yeah [^ ns] .
+INV:	and you finish it .
+CHI:	his hat [^ ns] .
+INV:	is he crying ?
+INV:	okay good .
+CHI:	the bus can't come in [^ other] [^ eu] .
+MOT:	what is it ?
+MOT:	oh, what's happening with the mom ?
+INV:	there's lots of things happening here .
+CHI:	a napkin [^ ns] .
+INV:	alright good job .
+INV:	what else is happening in the picture ?
+INV:	okay good .
+CHI:	this one [^ ns] .
+INV:	can you yell me one more thing about the story ?
+INV:	he hurt his head ?
+INV:	okay .
+CHI:	a crumb [^ ns] !
+INV:	the bus is what ?
+INV:	the dad's thinking ?
+MOT:	what's happening over here ?
+INV:	okay, that's good .
+INV:	what else is happening ?
+INV:	yeah, what else is happening in this picture ?
+CHI:	I don't know [^ ns] .
+CHI:	dance [^ ns] .
+CHI:	<the the &la> [/?] the &um &um &um xxx +/.
+INV:	hm ?
+INV:	and you finish it ?
+INV:	listen, the boys are fighting .
+CHI:	[^ earg] sleeping [^ eu] .
+INV:	hm ?
+INV:	now I'll start the start the story .
+CHI:	the mom's sleeping .
+INV:	she can't wash the plates .
+CHI:	mad [^ frag] [^ eu] .
+INV:	now I'll start the start the story .
+INV:	what's happening in the picture ?
+CHI:	is this a towel [^ ns] ?
+CHI:	<xxx sleep> [<] .
+CHI:	&um he hug [* m:03s] [^ ev] him [^ eu] .
+CHI:	yeah, this one [^ ns] .
+CHI:	I don't know [^ ns] .
+INV:	what else is happening ?
+CHI:	and that's water .
+CHI:	I don't know [^ ns] .
+MOT:	what's happening here ?
+INV:	look at what ?
+INV:	you do .
+INV:	they're getting it ?
+INV:	mommy can't ?
+INV:	you already told me that .
+INV:	and the bus can't move and then xxx +...
+INV:	what's happening in the picture ?
+CHI:	no, crossing [^ ns] .
+INV:	that girl ?
+INV:	okay good .
+CHI:	crossing the dog [^ ns] .
+INV:	this person here ?
+INV:	okay good .
+INV:	and then what happens in the story ?
+CHI:	a big splash [^ ns] .
+INV:	and you finish it .
+INV:	what ?
+CHI:	&=laughs .
+INV:	what ?
+INV:	okay .
+CHI:	crumb [^ ns] .
+INV:	girl ?
+INV:	what's happening in the picture ?
+INV:	the boy ?
+INV:	and you finish it .
+CHI:	no, look [^ ns] .
+INV:	and you finish it .
+CHI:	no, her xxx [% mumbling] .
+INV:	what else is happening in this picture ?
+CHI:	seeing [^ ns] .
+INV:	the children are taking the donuts from the bag and then xxx +...
+INV:	you don't know ?
+CHI:	look [^ ns] .
+CHI:	yeah [^ ns] .
+INV:	what else is happening in the picture ?
+CHI:	no [^ ns] .
+CHI:	I don't know [^ ns] .
+CHI:	yeah [^ ns] .
+CHI:	the girl is putting [^ earg] the shoes [^ eu] .
+INV:	alright very good .
+INV:	dancing ?
+INV:	and tell me one more thing about the story .
+CHI:	the bus xxx +/.
+CHI:	yeah [^ ns] .
+INV:	the doll fell ?
+INV:	you wanna look at a different picture ?
+INV:	what about her ?
+INV:	that's right, very good .
+CHI:	0 .
+CHI:	fell down and eat the cookie [^ ns] .
+INV:	what ?
+INV:	hug him ?
+CHI:	hey hey look look look [^ ns] .
+CHI:	look [^ ns] .
+INV:	okay good .
+CHI:	look 0at this [^ ns] .
+CHI:	throwing [^ ns] .
+INV:	splashing the milk .
+CHI:	I don't know [^ ns] .
+INV:	okay good .
+INV:	what else is happening ?
+INV:	that's right .
+CHI:	<&um he> [/?] he's sleeping .
+CHI:	no, this [^ ns] .
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	the dog is in front of the bus .
+INV:	he's sleeping .
+CHI:	the mom's taking him [^ earg] [^ eu] .
+CHI:	no [^ ns] .
+CHI:	pulling the dog [^ ns] .
+INV:	at the girl ?
+INV:	okay good .
+INV:	tell me one more thing about the picture .
+CHI:	<&th> [/?] his hat [^ ns] .
+INV:	they're throwing .
+CHI:	yeah [^ ns] .
+INV:	the water is spilling all over the floor and then xxx +...
+CHI:	girl [^ frag] [^ eu] .
+INV:	what else is happening in the picture ?
+CHI:	yeah [^ ns] .
+CHI:	the boy [^ frag] [^ eu] .

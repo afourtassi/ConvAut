@@ -1,0 +1,201 @@
+participant	content
+CHI:	the mom said “don't do that” .
+INV:	tell me xxx +/.
+CHI:	and the girl is picking up the feet .
+INV:	tell me one more thing about the picture .
+INV:	and what's going to happen next ?
+CHI:	he's sitting .
+INV:	what's happening in the picture ?
+CHI:	<xxx> [<] here .
+CHI:	he's making a mad face [^ ns] .
+CHI:	and the cake was melting .
+INV:	what's happening in the picture ?
+CHI:	and this one fall [^ ev] asleep [^ eu] .
+CHI:	he just fall [^ ev] asleep [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	the children are taking the donuts from the bag .
+CHI:	and the boy says “I'm scared” .
+CHI:	nothing else [^ ns] .
+INV:	tell me one more thing about the picture .
+INV:	and what's going to happen next ?
+CHI:	“we didn't have a dog last week” [^ earg] said [^ eu] .
+INV:	and what's going to happen next ?
+CHI:	there's two couches .
+INV:	let me see .
+CHI:	<&um he's &tr> [/?] everything is falling down .
+CHI:	the cat is stuck in the tree .
+INV:	and what's going to happen next ?
+CHI:	she's playing in <the tree> [/?] the leaf tree .
+INV:	okay .
+INV:	tell me one more thing about the picture .
+INV:	tell me about what else you see in the picture .
+CHI:	<the dad &uh> [/?] the girls picked apples .
+CHI:	dad sees the girl .
+INV:	what's happening in the picture ?
+CHI:	he's on 0a [^ emorph] schoolbus [^ eu] .
+CHI:	he's crawling .
+CHI:	then the mom looked at the dog .
+CHI:	I just did this [^ ns] .
+CHI:	“get the cookies before it falls” he said .
+CHI:	here you go [^ ns] .
+CHI:	but that boy is wanting [^ elexical] [^ other] it .
+CHI:	the dad say [* m:03s] [^ ev] “ssh, the mom is reading” [^ eu] .
+CHI:	nothing else [^ ns] .
+INV:	what's happening in the picture ?
+INV:	what else is happening in this picture ?
+CHI:	then he shovels [^ earg] [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	what will happen in just a little while ?
+CHI:	I see [^ earg] putting hats on and shoes on [^ eu] .
+CHI:	then “why 0do [^ ev] you have yellow hair” [^ earg] said [^ eu] .
+CHI:	&um the mom is picking out something .
+CHI:	he's running .
+CHI:	&um he's getting Dunkin_donuts .
+CHI:	only one couch [^ ns] .
+CHI:	and all the water came out and spilled on the floor .
+INV:	just tell me anything else you see in the picture .
+CHI:	he's laughing .
+CHI:	&um he's spilling all the water .
+INV:	what's happening in the picture ?
+CHI:	but the little old guy said “give me that”, he said [^ eu] .
+CHI:	but the mom fall [^ ev] asleep [^ eu] .
+CHI:	<and the boy> [>] xxx +/.
+INV:	what's happening in the picture ?
+CHI:	“why are you so mad” ?
+CHI:	<he's> [/?] he is wanting [^ elexical] it .
+CHI:	the girl is making a knot in her hair .
+INV:	what's happening in the picture ?
+INV:	and what's going to happen next ?
+CHI:	he's yawning [^ eu] .
+CHI:	&um the mom drived [^ ew:drove] [^ ev] [^ earg] [^ eu] .
+CHI:	&um he's putting hats on .
+CHI:	all the bubbles came out .
+CHI:	he falled [^ ew:fell] [^ ev] asleep [^ eu] .
+INV:	a shopping cart .
+CHI:	he's trying to pull it from the other boy .
+CHI:	then he <&wan> [/?] tries to get the sand out .
+CHI:	&um he's putting water [^ earg] [^ eu] .
+INV:	and what's going to happen next ?
+INV:	what's happening in the picture ?
+CHI:	he takes the seatbelt off .
+CHI:	then the dog picked up the mom's shoe .
+INV:	okay .
+INV:	tell me one more thing about the picture .
+CHI:	<his> [/?] the girl's running to the dad .
+CHI:	he's making a snowman .
+CHI:	<but the dad and the girl and he> [/?] but her [^ ew:she]
+INV:	what's happening in the picture ?
+CHI:	here you go [^ ns] .
+INV:	what's happening in the picture ?
+CHI:	he's skating .
+CHI:	and the boys picked strawberries .
+INV:	just tell me anything else about the picture .
+CHI:	the boy said “I can do it” .
+CHI:	the dad said “here you go” .
+CHI:	&um the dad sees the picture of the girl .
+INV:	tell me that again .
+INV:	and what's going to happen next ?
+CHI:	and then the mom said “why 0do [^ ev] you have a bow on” [^ eu] .
+CHI:	I see the picture of the girl [^ ns] .
+CHI:	nothing else [^ ns] .
+INV:	and what's going to happen next ?
+INV:	<okay> [>] .
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+INV:	tell me what else is happening in the picture .
+INV:	and what's going to happen next ?
+CHI:	I see a picture of the girl .
+CHI:	he have [^ ew:has] [^ ev] yellow hair [^ eu] .
+CHI:	the dog said “you can't get him” .
+CHI:	&um he's making sand .
+INV:	what else is happening in this picture ?
+CHI:	and the girl said “I can't get you down” .
+CHI:	the dad is making bread .
+INV:	what else is happening in this picture ?
+CHI:	he's spilling [^ earg] [^ eu] .
+INV:	and what's going to happen next ?
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+CHI:	<it's> [/?] all the water spilled on the floor .
+CHI:	then he throws the ball at him .
+CHI:	and the other girl is not .
+CHI:	then he got a ticket .
+INV:	tell me one more thing about the picture .
+CHI:	“here's your scarf” .
+CHI:	a shopping cart [^ ns] .
+INV:	and what's going to happen next ?
+CHI:	&um the girl is picking apples and strawberries .
+INV:	let me see .
+CHI:	“I'm trying to stripe [^ elexical] you out” they said [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	down a bush [^ ns] .
+INV:	what else is happening in this picture ?
+INV:	and what's going to happen next ?
+INV:	tell me one more thing about the picture .
+CHI:	and the cat said “I will fall when I get down 0from [^ emorph] this
+INV:	just tell me what you see in the picture .
+INV:	can you tell me that again ?
+INV:	what else is happening in this picture ?
+INV:	can you tell me that again ?
+CHI:	he's trying to xxx +...
+CHI:	&um he's falling off the chair .
+INV:	tell me one more thing about the picture .
+INV:	what's happening in the picture ?
+INV:	what's happening in the picture ?
+CHI:	and <said> [/?] the dad said “why 0do [^ ev] you have a silly face
+INV:	tell me about what else you see in the picture .
+INV:	okay .
+INV:	okay .
+CHI:	he 0is [^ ev] eating Dunkin_donuts [^ eu] .
+INV:	tell me one more thing about the picture .
+CHI:	the mom is making a mad face .
+INV:	tell me one more thing about the picture .
+CHI:	&uh he spilled all the water .
+INV:	what's happening in the picture ?
+INV:	okay .
+CHI:	and everything [^ ew:everyone] [^ elexical] cried about him [^ eu]
+INV:	just tell me anything else about the picture .
+INV:	what else is happening in this picture ?
+CHI:	and the girl is riding the <<what 0is this> [/?]> [/?] xxx +...
+CHI:	he washes the towel off .
+CHI:	and the cat <said> [/?] said “you are not coming here” .
+CHI:	and the lights came [^ ew:went] [^ elexical] off [^ eu] .
+CHI:	0 .
+CHI:	and he's splashing the water with [^ ew] [^ emorph] the dog [^ eu]
+CHI:	[^ earg] blowing bubbles [^ eu] .
+CHI:	&uh they spilled the water .
+INV:	what else is happening in this picture ?
+CHI:	<then he puts> [/?] then he brings the lunch box .
+INV:	what else is happening in this picture ?
+CHI:	he's filling up [^ earg] 0with [^ emorph] water [^ eu] .
+CHI:	“that's mom's” .
+CHI:	and [^ earg] said “dad give [^ ev] me that” [^ eu] .
+CHI:	he said “I'm stuck in the tree” .
+INV:	what else is happening in this picture ?
+CHI:	“cause [: because] I'm a dog” [^ earg] said [^ eu] .
+CHI:	shoes on [^ frag] [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	tell me one more thing about the picture .
+CHI:	he blow [^ ew:blew] [^ ev] the candles out [^ eu] .
+INV:	what else is happening in this picture ?
+INV:	okay .
+INV:	and what's going to happen next ?
+CHI:	all the dog xxx out and said xxx .
+INV:	oh_no, the bubbles spilled .
+CHI:	momma's cooking bread [^ eu] .
+CHI:	he's making a mad face .
+INV:	what's happening in the picture ?
+INV:	tell me one more thing about the picture .
+CHI:	and then [^ earg] said woof_woof [^ eu] .
+CHI:	he is throwing a ball .
+INV:	what will happen in just a little while ?
+INV:	what else is happening in this picture ?
+CHI:	he put the seatbelt on .
+CHI:	he spilled the water .
+CHI:	the momma's sitting on the chair .
+CHI:	and the dog said “happy_birthday” said [^ other] [^ eu] .
+INV:	what's happening in the picture ?
+INV:	tell me one more thing about the picture .
+CHI:	and the dad is cooking bread .
+CHI:	but &uh the girl said (.) “don't do that”, said [^ other] [^ eu] .
+INV:	tell me one more thing about the picture .

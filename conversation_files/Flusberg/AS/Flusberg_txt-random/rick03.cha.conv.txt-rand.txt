@@ -1,0 +1,581 @@
+participant	content
+MOT:	say yes .
+CHI:	xxx .
+CHI:	tractor .
+MOT:	that's nice .
+CHI:	xxx .
+MOT:	ouch .
+MOT:	setting up the fence .
+MOT:	what is it ?
+MOT:	here , put him on the horse .
+MOT:	what is [/?] that ?
+CHI:	xxx .
+MOT:	the dog .
+MOT:	<good boy> [/?] .
+CHI:	xxx .
+MOT:	look .
+MOT:	that looks good .
+CHI:	horse .
+MOT:	put the cow in .
+MOT:	Rick .
+MOT:	here's another piece .
+MOT:	who's this ?
+MOT:	you're fixing the fence .
+MOT:	Rick what's this ?
+MOT:	what color ?
+CHI:	shovel .
+MOT:	okay .
+MOT:	Rick , what's he doing ?
+MOT:	what's he drinking ?
+MOT:	a man .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	but this is yellow right ?
+CHI:	horse .
+CHI:	xxx .
+MOT:	the horse .
+CHI:	horse .
+MOT:	here's some more pegs .
+MOT:	are you giving him a kiss ?
+MOT:	good boy Rick .
+MOT:	what do you wanna build ?
+MOT:	there's another .
+CHI:	put .
+MOT:	who's that ?
+MOT:	yellow .
+MOT:	good boy , what color ?
+MOT:	Rick , what are you doing ?
+CHI:	the fence .
+MOT:	what color is this one ?
+CHI:	one .
+MOT:	Rick look .
+MOT:	you're putting away all the pegs .
+MOT:	Rick look at mom .
+MOT:	Rick , what's this ?
+CHI:	xxx .
+MOT:	what's in your hand ?
+CHI:	water .
+MOT:	that's right .
+MOT:	hm: [/?] .
+MOT:	he's laying down .
+MOT:	Rick , look .
+MOT:	pull through .
+MOT:	what does he say ?
+MOT:	what's this ?
+CHI:	xxx .
+CHI:	yes .
+MOT:	there's the cow Rick .
+MOT:	okay .
+CHI:	blue .
+MOT:	Rick , where are the horses going ?
+MOT:	point to Danny's eyes .
+MOT:	okay .
+CHI:	sheep .
+CHI:	two .
+MOT:	good boy .
+MOT:	that's nice .
+CHI:	green .
+CHI:	xxx .
+MOT:	Rick look .
+CHI:	horse .
+MOT:	let the horses drink ?
+MOT:	look at mom .
+CHI:	a corn .
+MOT:	no .
+MOT:	brown ?
+MOT:	put the rooster in .
+MOT:	oh , there he is .
+CHI:	xxx .
+MOT:	you've got him in your hand .
+CHI:	the horse .
+MOT:	sheep .
+MOT:	what's this ?
+MOT:	alright .
+MOT:	there's the rooster .
+MOT:	they go for a ride .
+MOT:	Rick , look at me .
+MOT:	Rick , what are you doing ?
+MOT:	Rick , where do all the horses go ?
+MOT:	Rick look .
+CHI:	shovel .
+MOT:	there that's nice Rick .
+MOT:	what do you wanna make ?
+CHI:	xxx .
+MOT:	put the pegs in the board .
+MOT:	he says hi Rick .
+MOT:	riding the horse .
+MOT:	what are you making ?
+CHI:	Gonzo .
+MOT:	good boy .
+MOT:	they're gone .
+MOT:	that's a green tree .
+MOT:	oh , that's nice .
+MOT:	Rick look .
+MOT:	I think the doors are gone Rick .
+MOT:	no !
+MOT:	count +/.
+MOT:	Rick , what's he doing ?
+MOT:	Rick , what are you doing ?
+MOT:	what are you doing ?
+MOT:	Rick what color ?
+MOT:	good job .
+CHI:	red .
+CHI:	shovel .
+MOT:	baa [/?] , right .
+CHI:	xxx .
+MOT:	what's the dog say ?
+CHI:	no .
+MOT:	look .
+MOT:	you're putting it all together .
+CHI:	my shovel ?
+MOT:	Rick can you count the pegs ?
+MOT:	do them on the rug .
+MOT:	that looks good .
+MOT:	say “pegs in can” .
+MOT:	that's very nice .
+MOT:	what color ?
+CHI:	some corn .
+CHI:	gray .
+CHI:	<green , green> [/?] green .
+MOT:	that looks nice .
+MOT:	Rick what's he doing ?
+CHI:	what it ?
+MOT:	those are your cars .
+MOT:	put those in .
+MOT:	what is this ?
+MOT:	no touch Rick .
+CHI:	Bert .
+MOT:	who is this Rick ?
+CHI:	green .
+MOT:	what else , Rick ?
+MOT:	there's the fence , Rick .
+MOT:	they're broken .
+CHI:	xxx .
+MOT:	good boy Rick .
+MOT:	whoops [/?] .
+CHI:	xxx .
+CHI:	xxx .
+MOT:	whoops [/?] .
+MOT:	hi Rick .
+MOT:	here .
+MOT:	good boy .
+MOT:	we threw them away .
+CHI:	make xxx .
+MOT:	what's this ?
+MOT:	what color ?
+MOT:	that's where they keep it in the silo .
+MOT:	Rick , who are [/?] you gonna put in the fence ?
+MOT:	good boy .
+MOT:	<roof , roof , roof> [/?] .
+CHI:	xxx .
+MOT:	don't do that .
+MOT:	good boy .
+CHI:	xxx eye .
+MOT:	say Danny .
+MOT:	Rick look .
+MOT:	Rick .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	blue .
+MOT:	that was a good boy .
+MOT:	look .
+CHI:	people .
+CHI:	pig .
+MOT:	Rick , what color is Gonzo ?
+CHI:	<bowow@o> [/?] .
+MOT:	where are the horses going ?
+MOT:	count the pegs Rick .
+CHI:	mouth .
+MOT:	taking people for a ride ?
+MOT:	good boy .
+CHI:	do that .
+MOT:	a brown fence , I think .
+CHI:	xxx .
+MOT:	here you go .
+MOT:	the farm .
+CHI:	yellow .
+CHI:	cow .
+MOT:	good boy .
+MOT:	Rick .
+MOT:	his mouth .
+CHI:	pig .
+MOT:	<cluck , cluck> [/?] ?
+CHI:	shovel .
+MOT:	Rick .
+MOT:	you do the farm .
+MOT:	good boy .
+MOT:	that's nice Rick .
+MOT:	look .
+CHI:	shovel .
+MOT:	pegs in .
+CHI:	a farm .
+CHI:	the fence .
+MOT:	chicken .
+CHI:	xxx .
+MOT:	no .
+CHI:	xxx .
+MOT:	Rick , what have you got here ?
+CHI:	brown ?
+CHI:	chicken .
+MOT:	good boy .
+MOT:	go get the box and we'll play .
+MOT:	ow [/?] .
+MOT:	help mommy .
+CHI:	ride horse .
+MOT:	yeah .
+CHI:	yes .
+MOT:	put the pegs in .
+MOT:	Rick , no touch .
+MOT:	let's open the doors Rick .
+MOT:	that's where the rooster goes .
+MOT:	and here's some .
+CHI:	cow .
+MOT:	Rick , look .
+MOT:	say ouch .
+MOT:	look .
+MOT:	whoops [/?] .
+MOT:	Rick look at me .
+MOT:	here's more .
+MOT:	yeah .
+MOT:	Rick , look .
+MOT:	we can make them ride .
+MOT:	what are you doing ?
+MOT:	Rick where does this horse go ?
+MOT:	mama will show you .
+MOT:	Rick say <cluck , cluck> [/?] .
+CHI:	<look look> [/?] look .
+MOT:	good boy .
+MOT:	you have all the horses set up .
+MOT:	Bert .
+MOT:	what are you doing ?
+MOT:	Rick , what is this ?
+CHI:	where door ?
+CHI:	nay [/?] .
+CHI:	fence .
+MOT:	and set it up .
+CHI:	xxx .
+CHI:	don't you do that .
+CHI:	xxx .
+MOT:	what have you got , Rick ?
+MOT:	Rick look at me .
+CHI:	black .
+MOT:	what does the pig say ?
+CHI:	put away ?
+MOT:	good boy .
+CHI:	blue .
+MOT:	bowow@o .
+MOT:	is that the horse ?
+MOT:	there's the box .
+MOT:	you making them drink ?
+MOT:	oh , good gracious .
+MOT:	here's some more fence Rick , look .
+MOT:	one .
+CHI:	xxx .
+MOT:	we're putting it away Rick .
+MOT:	Rick , is that the corn up here ?
+MOT:	that's nice .
+CHI:	shovel .
+CHI:	xxx .
+MOT:	Rick , put the pegs in .
+MOT:	riding the horse .
+MOT:	oh , you got Gonzo , good boy .
+CHI:	nay [/?] .
+MOT:	you need help ?
+MOT:	where are you going to put them ?
+MOT:	that looks nice .
+MOT:	button Danny's pants .
+MOT:	looks like a hook .
+MOT:	what does a sheep say Rick ?
+CHI:	xxx .
+MOT:	put the people on the horses .
+MOT:	good boy Rick .
+MOT:	Rick what's that ?
+MOT:	good boy , Rick .
+MOT:	look .
+MOT:	yeah .
+MOT:	look Rick .
+CHI:	car ?
+MOT:	no touch .
+CHI:	good boy .
+CHI:	xxx .
+CHI:	xxx chairs .
+MOT:	good boy .
+CHI:	ride horse .
+MOT:	what color ?
+CHI:	horse .
+CHI:	tractor ?
+MOT:	nice job Rick .
+MOT:	good boy .
+MOT:	don't run those on your face .
+MOT:	say +/.
+MOT:	does the rooster go in the loft ?
+MOT:	Rick , what does the horse say ?
+CHI:	shovel .
+MOT:	that looks nice .
+MOT:	take them off the board .
+MOT:	here's another one .
+MOT:	oh , good boy .
+CHI:	horse .
+MOT:	where the +/.
+CHI:	horse .
+CHI:	yes .
+MOT:	help me pick them up .
+MOT:	good boy Rick .
+MOT:	good boy .
+CHI:	xxx .
+MOT:	sit up honey .
+CHI:	some corn .
+MOT:	Rick , what are you doing ?
+MOT:	they're all thirsty Rick .
+CHI:	shovel .
+MOT:	let's put all the pegs in the can .
+MOT:	good boy .
+CHI:	what's this ?
+MOT:	don't touch .
+MOT:	that looks like a +/.
+MOT:	yes .
+MOT:	a pole ?
+MOT:	what do you wanna make ?
+MOT:	yeah .
+CHI:	ouch .
+MOT:	what are you doing ?
+MOT:	they're going for a ride in a tractor .
+MOT:	what's this ?
+MOT:	playing with the car , Rick .
+MOT:	good boy Rick .
+MOT:	what a nice job you're doing .
+CHI:	the horse .
+MOT:	Rick ?
+MOT:	there's the chicken .
+MOT:	you're fixing the fence nice , Rick .
+MOT:	what's he say ?
+MOT:	what does the dog say ?
+MOT:	that's good .
+MOT:	he say nay [/?] .
+CHI:	xxx .
+CHI:	eyes .
+MOT:	Rick .
+MOT:	where does the horse go ?
+CHI:	the farm .
+MOT:	do you wanna build a farm with me ?
+MOT:	real loud .
+MOT:	Rick look .
+MOT:	Rick .
+MOT:	that's nice .
+CHI:	face ?
+CHI:	a corn .
+MOT:	there's corn .
+CHI:	Gonzo .
+CHI:	do that .
+CHI:	xxx .
+MOT:	Rick , look .
+MOT:	Rick what are you doing ?
+MOT:	they're going to have water ?
+MOT:	oops [/?] !
+MOT:	Rick look .
+MOT:	Rick ?
+CHI:	the horse .
+MOT:	Rick , what are you doing ?
+MOT:	you're putting the pegs in Rick .
+CHI:	green .
+MOT:	what [/?] Rick , what's this .
+MOT:	you pulled the button through Rick .
+MOT:	Rick .
+MOT:	what happened Rick ?
+MOT:	look at mommy .
+CHI:	drink water .
+MOT:	no .
+MOT:	Rick , what does he say ?
+MOT:	drink some water .
+MOT:	what color is this ?
+MOT:	Rick who's this ?
+CHI:	one .
+MOT:	make the people ride the horses .
+CHI:	three .
+MOT:	look , I have another tree .
+MOT:	Rick , no .
+MOT:	Rick what color are his eyes ?
+MOT:	Rick , what color is his shirt ?
+MOT:	good boy Rick .
+MOT:	what else Rick ?
+MOT:	there's a cow .
+CHI:	xxx .
+MOT:	Rick look .
+MOT:	good boy .
+MOT:	the horses .
+MOT:	Rick look .
+CHI:	ride a horse .
+MOT:	okay .
+CHI:	horse .
+MOT:	he's whinnying .
+MOT:	where's the chicken ?
+MOT:	good boy .
+MOT:	we'll put him there .
+CHI:	<roof , roof> [/?] .
+MOT:	what are you doing ?
+CHI:	where door ?
+MOT:	that's nice Rick .
+MOT:	okay .
+MOT:	Rick , what color is the fence ?
+MOT:	that looks nice .
+CHI:	tree .
+MOT:	oh , look .
+MOT:	what are you doing ?
+MOT:	pick up all the pegs Rick .
+CHI:	yeah .
+CHI:	no .
+MOT:	no .
+MOT:	look .
+MOT:	don't touch .
+MOT:	good boy Rick .
+MOT:	that's nice Rick .
+MOT:	a big pole ?
+MOT:	look at mommy .
+MOT:	oh , the door .
+MOT:	where does he go ?
+CHI:	xxx .
+MOT:	let's do the farm .
+MOT:	put them in the can .
+MOT:	is this a tree ?
+MOT:	oh , there's the little shovel , yeah .
+MOT:	where honey ?
+MOT:	oh , stay here .
+MOT:	good boy Rick .
+CHI:	nay .
+MOT:	what Ben ?
+MOT:	good boy .
+MOT:	you're setting up the fence .
+MOT:	what color are his eyes ?
+MOT:	Rick .
+MOT:	wanna build something else ?
+CHI:	pegs .
+MOT:	good boy Rick .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	that's nice .
+MOT:	Rick .
+MOT:	do the people ride ?
+MOT:	Rick , what's this ?
+MOT:	what else ?
+MOT:	what's this ?
+MOT:	yeah .
+MOT:	what color is that Rick ?
+MOT:	what's this ?
+MOT:	good boy Rick .
+MOT:	good boy .
+MOT:	bring the box over here .
+MOT:	is this a horse ?
+MOT:	Rick look .
+MOT:	what does the chicken say ?
+MOT:	okay .
+CHI:	xxx .
+MOT:	Rick ?
+MOT:	what does the sheep say ?
+MOT:	good boy .
+CHI:	ah [/?] .
+MOT:	where's the corn ?
+MOT:	good boy , Rick .
+MOT:	that's your face , yeah .
+MOT:	good boy .
+CHI:	go ride .
+MOT:	here's some more fence .
+CHI:	oink oink .
+MOT:	you put the pegs in Rick .
+MOT:	he's driving the tractor .
+MOT:	Rick look .
+CHI:	put .
+MOT:	that looks beautiful .
+CHI:	ouch .
+MOT:	who's this ?
+MOT:	good boy .
+MOT:	here .
+MOT:	watch mama .
+MOT:	all_gone .
+CHI:	Dan .
+CHI:	mom .
+CHI:	xxx .
+MOT:	here .
+MOT:	those are people .
+CHI:	shovel .
+CHI:	blue .
+CHI:	pegs in .
+MOT:	Rick .
+CHI:	dog .
+MOT:	good boy .
+MOT:	Rick , look .
+MOT:	up here ?
+CHI:	ouch .
+MOT:	here .
+CHI:	xxx .
+MOT:	they can ride them .
+MOT:	you gonna make him stamp on the pole ?
+MOT:	xxx .
+MOT:	two .
+MOT:	riding the horse .
+MOT:	good boy .
+MOT:	let's move all this stuff over .
+MOT:	Rick look .
+MOT:	Rick look at me .
+MOT:	here .
+MOT:	look .
+MOT:	look .
+MOT:	you're gonna make what ?
+MOT:	you wanna give them a drink ?
+MOT:	fix the farm Rick .
+MOT:	no .
+MOT:	oh , look .
+CHI:	<cluck , cluck> [/?] .
+MOT:	what Rick ?
+CHI:	and what color ?
+MOT:	there goes the tractor .
+MOT:	what's this Rick ?
+MOT:	who is it ?
+MOT:	Rick , is this a horse ?
+MOT:	what are you doing ?
+CHI:	xxx .
+MOT:	the fence up .
+MOT:	what's the horse drinking ?
+MOT:	look at that !
+CHI:	nay [/?] .
+CHI:	xxx .
+MOT:	Rick what does the horse say ?
+MOT:	what color ?
+MOT:	you're making the man ride the horse .
+CHI:	shovel .
+MOT:	Rick , say “go ride” .
+MOT:	Rick you did a nice job setting them all up .
+MOT:	good boy .
+MOT:	here they are .
+MOT:	put them in the board .
+CHI:	baa .
+MOT:	Rick , look what I have .
+MOT:	<oink , oink> [/?] .
+MOT:	letting the piggy out ?
+MOT:	do the cars on the rug .
+MOT:	what does the pig say ?
+CHI:	red .
+CHI:	mom .
+MOT:	where does the pig go ?
+MOT:	Rick , where are all the people ?
+MOT:	Rick look , say Dan .
+MOT:	look .
+MOT:	good boy .
+MOT:	can you button Danny's pants ?
+MOT:	Rick what are you doing ?
+MOT:	yeah .
+MOT:	you counted three pegs .
+MOT:	good boy Rick .
+CHI:	xxx .
+MOT:	here's another one .
+MOT:	that's silly Rick .
+MOT:	Rick look .
+CHI:	Gonzo .
+MOT:	we'll put the legos in here .
+MOT:	blue , yeah .
+CHI:	pole .
+MOT:	good boy .
+MOT:	what are you doing Rick ?
+CHI:	blue .
+MOT:	Rick no touch .
+MOT:	do you wanna play with the legos ?
+CHI:	Danny .

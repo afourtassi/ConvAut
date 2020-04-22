@@ -1,0 +1,447 @@
+participant	content
+INV:	what is happening in the picture ?
+CHI:	[^ pointing] the peoples [^ ew:people] [^ emorph] <all the way &t>
+INV:	the peoples all the way what ?
+CHI:	passover [^ ns] .
+INV:	the peoples all the way xxx +...
+CHI:	passover [^ ns] .
+INV:	bath, what ?
+CHI:	passover [^ ns] .
+INV:	back to front ?
+INV:	what'd you say ?
+INV:	okay good job .
+INV:	what else is happening in the picture ?
+CHI:	bang the table [^ ns] &=bangs:table .
+INV:	they bang the table ?
+CHI:	yeah, like this [^ ns] .
+INV:	okay .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the children are taking the donuts from the bag and then xxx +...
+CHI:	xxx over the way .
+INV:	can you say it a little louder ?
+INV:	I can't hear you ?
+CHI:	over the way [^ ns] .
+INV:	over the way ?
+CHI:	yeah [^ ns] .
+INV:	okay good .
+INV:	and tell me one more thing about the story .
+CHI:	he's ready 0to [^ emorph] go over 0to Dunkin_donuts [^ eu] .
+CHI:	over that a way [^ ns] .
+INV:	he wants to go xxx +...
+CHI:	Dunkin_donuts over that way [^ ns] .
+INV:	he wants to go Dunkin_donuts over that way ?
+CHI:	yeah [^ ns] .
+INV:	okay alright .
+INV:	very good .
+INV:	what is happening in the picture ?
+CHI:	he's crawling .
+INV:	he's what ?
+CHI:	and then he say [^ ev] ssh because he want [^ ev] over the chair
+CHI:	he wants to be over the chair [^ other] [^ eu] .
+INV:	he wants to be over the chair ?
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	what else is happening in the picture ?
+CHI:	[^ earg] run over the round [^ elexical] [^ eu] .
+INV:	he went over the round ?
+INV:	okay .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy is taking his grandma's scissors and then xxx +...
+CHI:	he banged the table .
+INV:	okay .
+INV:	tell me one more thing about the story .
+CHI:	<&w went> [/?] they 0are [^ ev] <in> [/?] in [^ ew:on] [^ emorph]
+INV:	he went in the garbage ?
+CHI:	no, in the carpet [^ ns] .
+INV:	in the carpet ?
+CHI:	yeah [^ ns] .
+INV:	okay good job .
+INV:	what is happening in the picture ?
+CHI:	the pirate come back and play with me [^ ns] .
+INV:	the pirate come back and play with you ?
+INV:	okay good .
+INV:	what else is happening in the picture ?
+CHI:	he want [* m:03s] [^ ev] to draw all through [^ ew] [^ emorph] the
+INV:	can you say that again ?
+CHI:	xxx .
+CHI:	and he wanna come back and play in the paper [^ ns] .
+INV:	he wanna come back and play in the paper ?
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+CHI:	<and> [>] xxx +/.
+INV:	<the daddy> [<] is hiding a doll behind his back and then xxx +...
+CHI:	he wanna [^ ew:wants_to] go banging the floor and the chair
+INV:	he wanna go ?
+CHI:	over the man and hide it [^ ns] .
+INV:	over the what and hide it ?
+CHI:	xxx [^ ns] .
+CHI:	xxx [^ ns] .
+INV:	I can't hear you .
+CHI:	over the bottom [^ ns] .
+INV:	over the bottom and hide it ?
+INV:	okay .
+INV:	and tell me one more thing about the story .
+CHI:	[^ earg] runs around [^ eu] .
+INV:	what ?
+CHI:	runs around this [^ ns] .
+CHI:	it's flying <that way> [/?] there .
+CHI:	and there and there [^ ns] .
+INV:	what around the triangle ?
+CHI:	no, here [^ ns] .
+CHI:	there there there and here [^ ns] .
+INV:	these triangles ?
+CHI:	mhm [^ ns] .
+INV:	okay, what did you say ?
+INV:	all around the triangles ?
+CHI:	yeah, one up [^ ns] .
+CHI:	<one> [/?] one down [^ ns] .
+CHI:	and one down and one down [^ ns] .
+INV:	one down and one that way .
+CHI:	mhm [^ ns] .
+INV:	okay, alright .
+INV:	okay, what is happening in the picture ?
+CHI:	he blow [^ ev] the bubbles all in his face [^ eu] .
+INV:	he blow the bubbles all in his face ?
+INV:	okay very good .
+INV:	what else is happening in the picture ?
+CHI:	he would be put [* m:0ing] [^ emorph] [^ earg] in the other side
+INV:	he what ?
+CHI:	he put it in the other side [^ ns] .
+INV:	he put it in the other side ?
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	oh_no, the bubbles spilled and then xxx +...
+CHI:	[^ earg] come out [^ eu] .
+INV:	come out ?
+INV:	and tell me one more thing about the story .
+CHI:	she banged the table over and <&b> [/?] brushing [^ ev] the table
+INV:	he banged the table and what ?
+CHI:	brushing the table [^ ns] .
+INV:	and what the table ?
+CHI:	brushing the table [^ ns] .
+INV:	washing the table ?
+CHI:	no, brushing the table [^ ns] .
+INV:	brushing the table ?
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	he 0is [^ ev] cleaning [^ eu] .
+CHI:	<went> [/?] and [^ earg] driving and pick it up and run [^ eu] .
+INV:	he cleaning, driving, picking up and run ?
+INV:	okay good .
+INV:	you told me a lot about that, good .
+INV:	what else is happening in the picture ?
+CHI:	she's picking up [^ earg] [^ eu] .
+INV:	he's picking up, okay .
+INV:	very good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boys are throwing snowballs and then xxx +...
+CHI:	he throw [^ ev] the snowballs and clean [^ ev] <it> [/?] the
+INV:	he throw the snowball and clean the snowballs ?
+CHI:	mhm [^ ns] .
+INV:	okay very good job .
+INV:	that was good .
+INV:	and tell me one more thing about the story .
+CHI:	he cleaned it .
+INV:	he cleaned it, good .
+INV:	what is happening in the picture ?
+CHI:	he is run [* m:0ing] [^ emorph] in [^ ew] [^ emorph] come [^ ev] in
+INV:	run and come in back ?
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	what else is happening in the picture ?
+CHI:	she's picking <in the> [/?] all the fruit .
+INV:	she's picking all the fruit ?
+INV:	okay good .
+INV:	very good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy knocked the boxes off the shelf and then xxx +...
+CHI:	the boxes 0are [^ ev] over there in [^ ew:on] [^ emorph] the floor
+INV:	the box all spill on the floor ?
+CHI:	all around [^ ns] .
+INV:	all around, okay .
+INV:	very good good job with this picture .
+INV:	and tell me one more thing about the story .
+CHI:	he tries <put it> [/?] 0to [^ emorph] put it away [^ eu] .
+CHI:	all away [^ ns] .
+INV:	he what ?
+CHI:	he put it in and put it away [^ ns] .
+INV:	he put in the way ?
+INV:	<or> [/?] he put it in the what ?
+CHI:	in the way [^ ns] .
+INV:	in the way ?
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	he 0is trying [^ ev] 0to [^ emorph] wait and try again for the soap
+INV:	yes, okay good .
+CHI:	bath [^ ns] .
+INV:	what else is happening in the picture ?
+CHI:	he spill [^ ev] that thing [^ eu] .
+CHI:	and xxx +/.
+INV:	he spilled the thing ?
+CHI:	yeah [^ ns] .
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boy is trying to get the cookies and then xxx +...
+CHI:	he always open [^ ev] it and open it [^ eu] .
+INV:	he open it and open it ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	and tell me one more thing about the story .
+CHI:	him [^ ew:he] [^ epronoun] stay [^ ev] all around [^ other] [^ eu]
+INV:	what ?
+CHI:	all around [^ ns] .
+INV:	all the round ?
+CHI:	mhm [^ ns] .
+INV:	okay alright .
+INV:	what is happening in the picture ?
+CHI:	<he> [/?] xxx he wanna [^ ev] bang .
+CHI:	and he wanna [^ ew:wants_to] [^ ev] get the dog [^ eu] .
+INV:	what was the first part that you said ?
+CHI:	she wanna [^ ew:wants_to] [^ ev] pull and then put <the> [/?] the
+INV:	he wanna pull and put the dog in the home ?
+INV:	okay, very good .
+INV:	good job .
+INV:	what else is happening in the picture ?
+CHI:	&uh he paints [^ earg] .
+CHI:	and somebody 0is [^ ev] in the bath [^ ev] .
+INV:	somebody in the bath ?
+CHI:	yeah [^ ns] .
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the dog is in front of the bus .
+INV:	and the bus can't move and then xxx +...
+CHI:	bang the table [% CHI banging the table] [^ ns] .
+INV:	bang the table .
+INV:	okay, I'm not sure what that means .
+INV:	and tell me one more thing about the story .
+CHI:	she pull [^ ev] them [^ eu] .
+INV:	he pull them ?
+CHI:	yeah, he pull them like that [^ ns] .
+INV:	he pull that with that ?
+CHI:	yeah, this way [^ ns] .
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	[^ earg] can't go anywhere [^ eu] .
+INV:	let's leave it flat on the table .
+INV:	what did you say ?
+CHI:	what 0are they doing in there [^ ns] ?
+INV:	what are they doing in there ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	okay, let's leave it flat .
+INV:	I don't want you to crumple the picture, okay ?
+INV:	what else is happening in the picture ?
+CHI:	<it's> [/?] they're throwing [^ earg] [^ eu] .
+CHI:	they're throwing [^ earg] <and> [/?] and wait [* m:0ing] [^ emorph]
+INV:	they're what ?
+CHI:	xxx in the sky [^ ns] .
+INV:	they're in the sky ?
+CHI:	mhm [^ ns] .
+INV:	okay good .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the children are trying to wash the dog and then xxx +...
+CHI:	there's no nothing [^ other] [^ eu] .
+INV:	I can't hear you .
+INV:	I need you to speak really loud .
+CHI:	there's nothing [^ ns] .
+INV:	no nothing ?
+INV:	okay and can you tell me one more thing about the story ?
+CHI:	yes [^ ns] [^ earg] runs around and run and [/] and under [^ other]
+INV:	he run all around and under ?
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	they's [^ ew:'re] [^ ev] not stopping [^ eu] .
+INV:	what ?
+CHI:	they're stopping and pulling [^ earg] [^ eu] .
+INV:	they're stopping they're pulling ?
+CHI:	yeah [^ ns] .
+INV:	okay very good .
+INV:	what else is happening in the picture ?
+CHI:	he runs 0to [^ emorph] stop [^ earg] [^ eu] .
+INV:	he what ?
+CHI:	he runs to stop [^ ns] .
+INV:	he wants to stop ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the boys are fighting and here comes the mom and then xxx +...
+CHI:	he try [^ ev] to runs [^ ew:run] [^ emorph] [^ eu] .
+INV:	he tried to what ?
+CHI:	runs [^ ns] .
+INV:	he tried to runs ?
+CHI:	yeah [^ ns] .
+INV:	okay good .
+INV:	and tell me one more thing about the story .
+CHI:	he's &uh throw [* m:0ing] [^ emorph] something [^ eu] .
+INV:	he what ?
+CHI:	<he xxx> [/?] he just throw something [^ ns] .
+INV:	he just throw something ?
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	they 0are throwing throwing and throwing xxx faster .
+INV:	I need you to speak nice and loud because I can't hear the good
+CHI:	he just run [^ ev] all around [^ eu] .
+INV:	he run that and all around ?
+CHI:	mhm [^ ns] .
+INV:	okay, now tell me nice and loud, what else is happening in the
+CHI:	he 0is [^ ev] just going [% CHI banging on table] under the ground
+INV:	he just what under the ground ?
+CHI:	he 0is just under the ground [^ ns] .
+INV:	he just under the ground ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	oh_no, the dog ate some of the cake and then xxx +...
+CHI:	[^ earg] just eat [^ ev] the cake and the candle
+INV:	eat the cake and the candles ?
+CHI:	mhm [^ ns] .
+INV:	okay good job .
+INV:	very good .
+INV:	and tell me one more thing about the story .
+CHI:	he just bang [/] bang the table &=bang:table [^ ns] .
+INV:	he just bang on the table ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	I don't think that happened in the picture .
+INV:	I want you to tell me things about the picture, okay ?
+INV:	what is happening in the picture ?
+CHI:	<this making> [/?] that's making [^ earg] [^ eu] .
+INV:	just making ?
+CHI:	mhm [^ ns] .
+INV:	okay good .
+INV:	what else is happening in the picture ?
+CHI:	<he they're throwing (.)> [/?] he 0is [^ ev] just throwing [^ earg]
+INV:	just throwing ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	okay, now listen .
+INV:	I'll start the start the story .
+INV:	and you finish it .
+INV:	the little girl is still in her pajamas and then xxx +...
+CHI:	he's on they [^ ew:them] [^ epronoun] [^ eu] .
+INV:	what ?
+CHI:	he on they [^ ns] .
+INV:	say it again, nice and loud .
+CHI:	he on they [^ ns] .
+INV:	he xxx +...
+CHI:	he on they [^ ns] .
+INV:	he on xxx +...
+CHI:	they [^ ns] .
+INV:	they ?
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	and tell me one more thing about the story .
+CHI:	he just put that in the plate .
+INV:	he just put that in the plate .
+INV:	very good, that's right .
+INV:	what is happening in the picture ?
+CHI:	that's like fun .
+CHI:	that's like fun [^ ns] .
+CHI:	and &uh [^ earg] throw something [^ eu] .
+INV:	what did you say ?
+INV:	that's like fun ?
+CHI:	yeah [^ ns] .
+INV:	and what else ?
+CHI:	and throw something [^ ns] .
+INV:	throw something ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	what else is happening in the picture ?
+CHI:	a squirrel 0is [^ ev] in the tree [^ eu] .
+INV:	what ?
+CHI:	they 0are [^ ev] just cleaning .
+INV:	they're just cleaning ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	good job .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	they raked the leaves into a big pile and then xxx +...
+CHI:	<and the &c> [/?] then the car is moving away .
+INV:	the car is moving away ?
+CHI:	mhm [^ ns] .
+INV:	okay good .
+INV:	good job .
+INV:	tell me one more thing about the story .
+CHI:	he 0is [^ ev] just fooling around [^ eu] .
+INV:	he just what ?
+CHI:	fooled around [^ ns] .
+INV:	all around ?
+CHI:	mhm [^ ns] .
+INV:	okay .
+INV:	alright good job .
+INV:	what is happening in the picture ?
+CHI:	<he just> [/?] he needs helps [^ ew:help] [^ emorph] [^ eu] .
+INV:	I need you to tell me nice and loud .
+INV:	I can't hear you .
+CHI:	needs helps [^ ns] .
+INV:	needs helps ?
+CHI:	yeah [^ ns] .
+INV:	okay good .
+INV:	what else is happening in the picture ?
+CHI:	it is <in there in> [/?] right inside there .
+INV:	what ?
+CHI:	xxx in right inside there [^ ns] .
+INV:	what inside there ?
+INV:	what'd you say ?
+CHI:	what's inside there [^ ns] .
+INV:	okay .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the dog and the girl have daddy's shoes and then xxx +...
+CHI:	he 0is [^ ev] just rolling around [^ eu] .
+INV:	he's just throwing around .
+CHI:	mhm [^ ns] .
+INV:	okay and tell me one more thing about the story .
+CHI:	<just end> [/?] [^ earg] just end [^ ev] [^ eu] .
+INV:	just xxx +...
+CHI:	end [^ ns] .
+INV:	in or end ?
+CHI:	end [^ ns] .
+INV:	end ?
+CHI:	yeah [^ ns] .
+INV:	okay .
+INV:	what is happening in the picture ?
+CHI:	he just throw [^ ev] what happens in climb up there [^ other]
+INV:	what happens what ?
+CHI:	xxx and go up there .
+INV:	and go up there, okay .
+INV:	what else is happening in the picture ?
+CHI:	<he just want> [/?] he 0is [^ ev] mad 0at [^ emorph] what they do
+INV:	can you say it again ?
+INV:	I couldn't understand .
+CHI:	he [* m:0's] just mad at what he do [^ ns] .
+INV:	he doesn't what ?
+CHI:	he [* m:0's] just mad at what he do [^ ns] .
+INV:	he didn't matter what he do ?
+CHI:	yeah [^ ns] .
+INV:	okay alright .
+INV:	now I'll start the start the story .
+INV:	and you finish it .
+INV:	the children see the cat .
+INV:	the cat is stuck up in the tree and then xxx +...
+CHI:	they pull <in> [/?] in the paper like that [^ other] [^ eu] .
+INV:	what ?
+CHI:	they pull in the paper like that [^ ns] .
+INV:	room in the paper ?
+CHI:	yeah, like that [^ ns] .
+INV:	like that ?
+CHI:	yeah hm [^ ns] .
+INV:	okay .
+INV:	and tell me one more thing about the story .
+CHI:	he just throw [^ ev] something [^ eu] .
+INV:	he just throw something .
+CHI:	uhhuh [^ ns] .
+INV:	okay, alright we're all done .

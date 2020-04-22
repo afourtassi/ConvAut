@@ -1,0 +1,683 @@
+participant	content
+MOT:	grapes .
+MOT:	say hello papa .
+MOT:	they're good .
+MOT:	sit right down .
+MOT:	you gotta sit down .
+MOT:	remember ?
+MOT:	good job .
+MOT:	Stuart , what's this ?
+MOT:	good boy Stuart .
+MOT:	piggy [/?] piggy .
+MOT:	good boy .
+CHI:	mitten .
+MOT:	tickles .
+MOT:	and what's this ?
+MOT:	thirsty huh [/?] ?
+MOT:	push .
+CHI:	horsie .
+MOT:	good job Stuart .
+CHI:	want chip .
+MOT:	what about this ?
+MOT:	open .
+CHI:	boat .
+MOT:	oh , this is nice Stuart .
+MOT:	no .
+MOT:	mama's singing to you .
+MOT:	<one , two> [/?] .
+MOT:	Stuart .
+MOT:	yeah .
+CHI:	belly .
+CHI:	<bus go> [/?] .
+MOT:	pants .
+CHI:	want chip .
+CHI:	tow [/?] .
+CHI:	nose .
+CHI:	bear .
+MOT:	mama .
+CHI:	want chip .
+MOT:	look_it .
+CHI:	shovel .
+MOT:	say tower .
+MOT:	okay .
+MOT:	you have two feet Stuart .
+MOT:	tissue .
+CHI:	want chip .
+MOT:	you're a good boy .
+MOT:	Stuart_Vicari .
+MOT:	good .
+MOT:	you needta look at me .
+MOT:	that's a horsie over here .
+MOT:	yeah .
+MOT:	see the little babys ?
+MOT:	you get to have a chip .
+MOT:	no .
+MOT:	who's that ?
+MOT:	what's that ?
+MOT:	you like that huh [/?] ?
+MOT:	look .
+MOT:	if I can get this over here .
+MOT:	yeah .
+CHI:	want chip .
+MOT:	look .
+MOT:	now that's a good boy .
+MOT:	what's that Stuart ?
+MOT:	it's fat .
+MOT:	good boy .
+CHI:	five [/?] .
+CHI:	want chip .
+CHI:	tower .
+MOT:	and what's this ?
+MOT:	good boy .
+MOT:	you remember ?
+MOT:	good boy .
+MOT:	good boy Stuart .
+CHI:	shirt .
+MOT:	here you go .
+MOT:	that's good asking for water .
+MOT:	they go +/.
+MOT:	what is it ?
+MOT:	see the baby ?
+CHI:	car .
+MOT:	piggys .
+MOT:	wanna sing some more ?
+MOT:	good .
+MOT:	four .
+MOT:	that's good asking .
+MOT:	and I like it when you're quiet Stuart .
+CHI:	want chip .
+MOT:	kitty .
+MOT:	let me see you do pattycake .
+MOT:	and pear .
+CHI:	tower .
+MOT:	he likes you .
+CHI:	train .
+MOT:	horsie .
+MOT:	good boy Stuart .
+MOT:	one [/?] two feet .
+MOT:	boy Stuart .
+CHI:	Stuart_Vicari .
+MOT:	what's this ?
+MOT:	and grapes .
+MOT:	what's this ?
+CHI:	present .
+MOT:	see the play+pen ?
+MOT:	that's all fruit .
+MOT:	so I can look .
+MOT:	good boy .
+MOT:	say buddy .
+MOT:	good job .
+MOT:	you can have some more chips .
+MOT:	put your hands down .
+MOT:	you like it ?
+CHI:	wer [/?] .
+CHI:	hat .
+CHI:	I like it .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	what's your name ?
+MOT:	I'm gonna tickle you .
+MOT:	you're listening to mama sing .
+CHI:	want chip .
+MOT:	and a train .
+CHI:	teeth .
+CHI:	ball .
+CHI:	balloon .
+MOT:	you like that huh [/?] ?
+MOT:	good boy .
+CHI:	phone .
+MOT:	yeah .
+MOT:	you're being a good boy .
+MOT:	wipe your nose .
+CHI:	<one , two> [/?] .
+CHI:	mama .
+CHI:	xxx .
+MOT:	look at this .
+MOT:	what's this ?
+MOT:	you're a smart boy Stuart .
+MOT:	you needta have your hands down .
+MOT:	<tickle , tickle> [/?] tickle .
+MOT:	wait .
+CHI:	baby .
+MOT:	good boy .
+MOT:	truck .
+MOT:	you're a good boy .
+MOT:	and listening .
+CHI:	Stuart_Vicari .
+CHI:	apple .
+CHI:	what this ?
+MOT:	see ?
+MOT:	look Stuart .
+MOT:	what's this ?
+CHI:	I like .
+MOT:	I can see your feet .
+CHI:	xxx .
+CHI:	mouth .
+CHI:	xxx .
+MOT:	apple .
+MOT:	hat .
+MOT:	Stuart_Vicari's your name .
+MOT:	what do you like ?
+CHI:	kitty .
+MOT:	what's that ?
+MOT:	Stuart .
+CHI:	xxx .
+MOT:	you built a tower Stuart .
+MOT:	want a present ?
+MOT:	oh , Stuart's balloon .
+CHI:	want chip .
+MOT:	crayon .
+MOT:	good boy .
+CHI:	chip good .
+MOT:	good boy .
+MOT:	put it on .
+MOT:	give him a kiss .
+MOT:	the baby's on the horsie .
+MOT:	duck .
+MOT:	and a truck .
+CHI:	want chip .
+CHI:	want chip .
+MOT:	that's what that is .
+CHI:	chip .
+MOT:	here .
+CHI:	good boy !
+CHI:	want chip .
+CHI:	want chip .
+MOT:	say duck .
+CHI:	want water .
+CHI:	shirt .
+MOT:	you're a good boy .
+CHI:	<one , two> [/?] .
+MOT:	grape .
+MOT:	yeah .
+MOT:	you needta say want chip mama .
+CHI:	what this ?
+MOT:	what's that ?
+MOT:	mama .
+MOT:	see the baby ?
+MOT:	your hair .
+MOT:	good job .
+MOT:	yeah .
+CHI:	hey [/?] .
+MOT:	what do the people on the bus do ?
+MOT:	huh [/?] ?
+MOT:	<a@l b@l c@l d@l> [/?] .
+MOT:	<up and down> [/?] .
+MOT:	that's right .
+MOT:	what ?
+MOT:	what's this here ?
+MOT:	that's a boat .
+MOT:	put your hands down .
+CHI:	xxx .
+MOT:	get you a tissue .
+MOT:	good .
+CHI:	xxx .
+MOT:	good boy Stuart .
+MOT:	that's right .
+MOT:	what's this ?
+MOT:	should make a tower .
+MOT:	good boy Stuart .
+MOT:	oop [/?] .
+MOT:	shirt .
+MOT:	now you're quiet .
+MOT:	look .
+MOT:	yeah I know .
+MOT:	what do you want ?
+CHI:	plane .
+MOT:	what's this ?
+MOT:	that's good asking .
+MOT:	and your legs .
+MOT:	that's good trying Stuart .
+CHI:	count .
+MOT:	you got a fat belly ?
+MOT:	how about <a@l b@l c@l> [/?] ?
+MOT:	you say want chip mama .
+MOT:	what do you got this time ?
+MOT:	that's good .
+MOT:	Stuart .
+MOT:	what's this ?
+MOT:	that's a good boy .
+MOT:	what's that ?
+CHI:	I love you .
+CHI:	on .
+MOT:	yey [/?] Stuart .
+MOT:	oh , that was good .
+CHI:	I like &ch [/?] chips .
+CHI:	want water .
+MOT:	feet .
+MOT:	yey [/?] Stuart .
+MOT:	that's his hair .
+MOT:	wer [/?] .
+MOT:	push .
+MOT:	look .
+MOT:	yeah .
+CHI:	toy .
+MOT:	you're a good boy .
+MOT:	when we made towers .
+MOT:	who gave that to you ?
+CHI:	xxx .
+MOT:	and you're a good boy .
+CHI:	sock .
+MOT:	yeah .
+CHI:	&mm [/?] .
+MOT:	you like horsies huh [/?] ?
+MOT:	tower .
+MOT:	Stuart's smart .
+MOT:	and arms .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	they're different .
+MOT:	yeah .
+MOT:	papa's gonna come and see you today Stuart .
+MOT:	what do the people on the bus do ?
+MOT:	good boy .
+MOT:	I love you .
+CHI:	chip .
+MOT:	<tickle , tickle> [/?] tickle .
+CHI:	want +/.
+MOT:	now you're a good boy .
+MOT:	good job Stuart .
+CHI:	I like chips .
+MOT:	what is that ?
+CHI:	feet .
+CHI:	want water .
+CHI:	xxx .
+MOT:	and the crib and horsie .
+CHI:	chip .
+MOT:	that's wrong .
+CHI:	good boy .
+CHI:	xxx chip .
+CHI:	arm .
+MOT:	give buddy a kiss .
+MOT:	huh [/?] ?
+CHI:	what this ?
+MOT:	you can have water .
+MOT:	<that's your> [/?] that's your name .
+CHI:	want chip mama .
+MOT:	look .
+CHI:	I like you .
+MOT:	what's that ?
+MOT:	what is it ?
+CHI:	horsie .
+MOT:	you're quiet .
+CHI:	xxx .
+CHI:	I like it .
+MOT:	<one , two> [/?] .
+CHI:	hi .
+MOT:	right ?
+MOT:	you want more chip ?
+CHI:	kitty .
+CHI:	good .
+MOT:	you being a good boy Stuart ?
+MOT:	plane .
+MOT:	that's really good .
+MOT:	good job Stuart .
+MOT:	yeah .
+MOT:	mama's teeth .
+CHI:	<up and down> [/?] .
+MOT:	what do you want ?
+CHI:	xxx .
+MOT:	what do you like ?
+MOT:	good boy .
+MOT:	I know .
+CHI:	tow [/?] .
+MOT:	oh , Stuart .
+MOT:	what do you want ?
+MOT:	you're quiet .
+CHI:	baby .
+MOT:	good boy Stuart .
+MOT:	good job .
+MOT:	<you do up and down> [/?] .
+MOT:	oh , .
+MOT:	that's right Stuart .
+MOT:	who's that ?
+CHI:	want chip .
+CHI:	buddy .
+MOT:	good boy .
+CHI:	<one , two> [/?] .
+MOT:	what's this ?
+MOT:	open it up .
+MOT:	good job .
+MOT:	that's good trying .
+MOT:	what's his name ?
+MOT:	good boy .
+CHI:	what this ?
+MOT:	<sit right down> [/?] .
+MOT:	I love you .
+CHI:	duck .
+MOT:	say thank you .
+CHI:	xxx .
+CHI:	hey [/?] .
+CHI:	toy .
+MOT:	huh [/?] ?
+CHI:	train .
+MOT:	that's good counting .
+CHI:	shovel .
+MOT:	oop [/?] .
+MOT:	Stuart .
+MOT:	and you have two arms .
+MOT:	do you like books ?
+CHI:	banana .
+CHI:	sit down .
+CHI:	buddy .
+MOT:	look at me .
+CHI:	Rita .
+MOT:	those are kittys .
+MOT:	that's a good boy .
+MOT:	how about doing pattycake with me ?
+MOT:	over here .
+MOT:	&mm [/?] .
+MOT:	say hi buddy .
+MOT:	tick [/?] +/.
+CHI:	want chip .
+MOT:	the baby goes in the play+pen .
+CHI:	I'm good .
+MOT:	good .
+MOT:	push it on .
+MOT:	this is a bear .
+CHI:	xxx .
+MOT:	good boy .
+MOT:	good job .
+MOT:	let's open .
+CHI:	eye .
+CHI:	what this ?
+MOT:	good boy Stuart .
+MOT:	okay .
+MOT:	and there's your hair .
+MOT:	that's my name .
+MOT:	and what are these ?
+CHI:	hair .
+MOT:	right ?
+MOT:	you know what these are .
+MOT:	see my tower .
+MOT:	and the +/.
+MOT:	good boy .
+MOT:	socks .
+MOT:	blocks .
+MOT:	you're quiet now Stuart .
+CHI:	horsie .
+MOT:	good .
+MOT:	good boy .
+CHI:	bear .
+MOT:	right .
+MOT:	that's good sitting .
+MOT:	good boy Stuart .
+MOT:	he likes you .
+MOT:	what do you like ?
+MOT:	no .
+MOT:	and what are these ?
+MOT:	good boy .
+MOT:	can you play the piano ?
+MOT:	it's a little baby huh [/?] ?
+MOT:	that's good asking Stuart .
+MOT:	yeah .
+CHI:	tissue .
+MOT:	yeah .
+MOT:	good .
+MOT:	good boy Stuart .
+MOT:	good job .
+MOT:	they're good .
+MOT:	you're sitting nice .
+CHI:	chip .
+MOT:	yeah .
+CHI:	hello papa .
+MOT:	thank you .
+MOT:	you needta hold it .
+MOT:	what's this ?
+CHI:	crayon .
+CHI:	<four , five> [/?] .
+MOT:	yeah .
+CHI:	horsie .
+MOT:	what do you want ?
+CHI:	hair .
+MOT:	these are the animals .
+MOT:	what's that ?
+MOT:	toy .
+CHI:	Rita .
+CHI:	down .
+CHI:	pattycake .
+MOT:	you like it ?
+CHI:	want chip .
+MOT:	you like it ?
+CHI:	nose .
+CHI:	d@l [/?] .
+MOT:	and I love Stuart .
+CHI:	thank you .
+MOT:	good boy .
+MOT:	bless you .
+CHI:	no .
+MOT:	that's a good boy .
+CHI:	horsie .
+MOT:	oh , .
+MOT:	good boy Stuart .
+MOT:	good .
+MOT:	what's this ?
+MOT:	I love you Stuart .
+MOT:	hold the tower and put the block on .
+MOT:	you're sitting nice and quiet .
+MOT:	where is that book that's the +/.
+MOT:	right .
+CHI:	eye .
+MOT:	what about this ?
+MOT:	good boy Stuart .
+MOT:	<they go up and down> [/?] .
+CHI:	shoe .
+MOT:	you want water ?
+MOT:	that's nice putting the block on there Stuart .
+CHI:	hold it .
+MOT:	nice .
+CHI:	boat .
+MOT:	come sit .
+MOT:	banana .
+MOT:	that live on the farm .
+MOT:	you do .
+CHI:	balloon .
+MOT:	good boy Stuart .
+MOT:	good job .
+CHI:	hold it .
+CHI:	want water .
+MOT:	that's right .
+MOT:	god bless you .
+MOT:	and what's this ?
+MOT:	yeah .
+CHI:	I like it .
+CHI:	horsie .
+MOT:	want chip mama .
+CHI:	Stuart_Vicari .
+CHI:	like it .
+CHI:	down .
+MOT:	&mm [/?] .
+CHI:	want chip .
+CHI:	<one , two> [/?] .
+MOT:	oh , .
+MOT:	those are doggys .
+CHI:	want chip .
+MOT:	good boy .
+MOT:	good boy .
+MOT:	this baby's going in bed .
+CHI:	nose .
+MOT:	good boy .
+CHI:	doggie .
+MOT:	let me hear you sing .
+CHI:	what this ?
+MOT:	that's mitten .
+MOT:	the tower .
+CHI:	Rita .
+MOT:	and belly .
+MOT:	what do you think ?
+MOT:	good boy .
+CHI:	boat .
+CHI:	want +/.
+CHI:	chip .
+MOT:	let's put some more blocks on .
+MOT:	good boy .
+MOT:	yeah .
+CHI:	baby .
+MOT:	that's Stuart's hair .
+MOT:	yeah .
+MOT:	plane .
+CHI:	three [/?] .
+MOT:	let's see .
+CHI:	tickle .
+MOT:	Stuart .
+MOT:	push .
+MOT:	say horsie .
+MOT:	this is a duck .
+MOT:	you're doing good .
+MOT:	that's good Stuart .
+CHI:	want chip .
+MOT:	good boy Stuart .
+CHI:	I like chip .
+MOT:	what do you want ?
+MOT:	let me see that belly .
+CHI:	want water .
+MOT:	that's your name .
+CHI:	block .
+MOT:	that's right Stuart .
+MOT:	yeah .
+CHI:	pants .
+MOT:	no .
+MOT:	you're sitting nice with me Stuart .
+MOT:	hi .
+CHI:	pillow .
+CHI:	water .
+MOT:	they're salty .
+MOT:	okay .
+MOT:	that's right .
+CHI:	doggie .
+MOT:	that's really good Stuart .
+CHI:	want chip .
+MOT:	put the baby in .
+MOT:	you needta hold it with this hand .
+CHI:	what that ?
+CHI:	over here .
+MOT:	good asking .
+MOT:	it's too fat .
+MOT:	what Stuart ?
+MOT:	what's that ?
+MOT:	huh [/?] ?
+CHI:	hi buddy .
+CHI:	Stuart_Vicari .
+MOT:	what's this ?
+MOT:	do you like tickles huh [/?] ?
+CHI:	want chip .
+MOT:	let me hear you sing .
+CHI:	want chip .
+CHI:	Stuart .
+CHI:	shirt .
+CHI:	what ?
+CHI:	want [/?] want chip .
+MOT:	you can have a chip .
+CHI:	want chip .
+CHI:	want [/?] want chip .
+MOT:	papa gave that to you .
+MOT:	truck .
+CHI:	Stuart .
+MOT:	yeah .
+MOT:	what's this ?
+MOT:	boat .
+CHI:	Stuart , a duck .
+MOT:	that's right .
+MOT:	three .
+MOT:	and we'll put the other baby in the chair .
+MOT:	can you sing “sit right down” ?
+MOT:	good boy .
+CHI:	xxx that .
+CHI:	xxx .
+MOT:	huh [/?] Stuart .
+MOT:	tell me what's this ?
+MOT:	good boy .
+CHI:	sit right down .
+CHI:	want water .
+MOT:	see the baby's gonna play .
+CHI:	on .
+MOT:	good try Stuart .
+MOT:	let's see .
+MOT:	you want chip ?
+CHI:	bus .
+MOT:	feet .
+CHI:	hey !
+CHI:	xxx .
+MOT:	what do you like ?
+MOT:	good boy .
+MOT:	here you go .
+CHI:	chip .
+MOT:	what's this ?
+MOT:	no .
+CHI:	hey [/?] xxx !
+MOT:	look .
+MOT:	yeah .
+MOT:	train .
+CHI:	want chip .
+MOT:	what's this ?
+MOT:	oh , .
+MOT:	I like when you're quiet .
+MOT:	good boy .
+MOT:	piggys .
+MOT:	<tickle , tickle> [/?] .
+MOT:	hold it .
+MOT:	what's your name ?
+CHI:	<a@l b@l c@l> [/?] .
+MOT:	that's good .
+MOT:	missed one Stuart .
+MOT:	train .
+MOT:	I love you .
+MOT:	yeah .
+MOT:	good job Stuart .
+MOT:	what's this ?
+MOT:	yeah .
+CHI:	put a [/?] block on .
+MOT:	and what's this ?
+MOT:	horsie .
+MOT:	that's good putting the blocks on there , to make a tower .
+MOT:	I love you .
+MOT:	d@l [/?] .
+MOT:	socks .
+MOT:	that's good .
+MOT:	you like that ?
+MOT:	that's making a tower .
+MOT:	good boy Stuart .
+MOT:	let me hear you count .
+MOT:	what's that ?
+MOT:	what's this ?
+MOT:	up and down .
+CHI:	pear .
+MOT:	Stuart .
+MOT:	the baby's in there .
+MOT:	Stuart .
+CHI:	like you .
+MOT:	mhm [/?] .
+MOT:	tower .
+CHI:	xxx .
+CHI:	<a@l b@l c@l> [/?] .
+CHI:	grape .
+CHI:	want chip .
+MOT:	huh [/?] Stuart .
+MOT:	Stuart's has [/?] shoes .
+CHI:	xxx .
+MOT:	huh [/?] ?
+MOT:	what's this ?
+MOT:	you like tickles ?
+MOT:	what ?
+MOT:	Stuart , what's that ?
+CHI:	more .
+MOT:	say buddy .
+MOT:	yeah .
+MOT:	good job .
+MOT:	they live on the farm .
+MOT:	mitten .
+MOT:	I like it .
+MOT:	Stuart .
+CHI:	pants .
+MOT:	one .
+MOT:	good job .
+MOT:	you like chips huh [/?] ?
+CHI:	want chip .
+MOT:	Stuart .
+MOT:	say sit right down .
+CHI:	kitty .
+MOT:	what's that ?
+MOT:	look at me .
+CHI:	plane .
+MOT:	what do you want ?
+MOT:	I love you .

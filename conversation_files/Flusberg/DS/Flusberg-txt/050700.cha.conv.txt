@@ -1,0 +1,1660 @@
+participant	content
+MOT:	green .
+MOT:	say green .
+CHI:	green .
+CHI:	song .
+MOT:	make Cookie_Monster dance .
+MOT:	is he dancing ?
+MOT:	what's Cookie_Monster doing ?
+MOT:	what's he doing ?
+MOT:	come here <come here , come here> [/?] .
+MOT:	come here .
+MOT:	I want you to fix me .
+MOT:	fix me .
+MOT:	oh , I got a boo_boo .
+MOT:	I got a boo_boo .
+MOT:	Billy .
+MOT:	I got a boo_boo .
+MOT:	fix me up .
+MOT:	<oh , oh> [/?] .
+MOT:	fix me up .
+MOT:	be Doctor_Bob .
+MOT:	come here .
+MOT:	come here .
+MOT:	wanna listen ?
+MOT:	look_it .
+MOT:	Billy .
+MOT:	wanna listen ?
+MOT:	no ?
+MOT:	you wanna look ?
+MOT:	what's this for ?
+CHI:	ear .
+MOT:	in your ears , right .
+MOT:	you wanna look in my ear ?
+MOT:	come here .
+MOT:	oh , .
+MOT:	how about this ?
+MOT:	no ?
+MOT:	you don't wanna do this either ?
+CHI:	xxx .
+MOT:	okay , put them back .
+MOT:	put it away .
+CHI:	mama my puppet .
+MOT:	you want me to fix your puppet ?
+CHI:	my puppet .
+MOT:	you want mama fix it ?
+CHI:	baby duck .
+MOT:	what ?
+CHI:	baby duck .
+MOT:	baby duck ?
+CHI:	baby duck .
+MOT:	got a hole !
+MOT:	hahahaha [/?] .
+CHI:	look_it that .
+MOT:	hi Billy .
+CHI:	no !
+MOT:	what ?
+CHI:	look_it that .
+MOT:	what ?
+CHI:	xxx .
+MOT:	here .
+MOT:	here .
+MOT:	no ?
+MOT:	what do you want ?
+CHI:	yeah .
+MOT:	can you open ?
+CHI:	open .
+CHI:	Billy open .
+MOT:	Billy open .
+CHI:	yeah Billy .
+MOT:	you need help ?
+MOT:	I'll start it .
+MOT:	okay , Billy finish it .
+CHI:	xxx .
+MOT:	Billy do .
+CHI:	Billy do .
+CHI:	xxx mama do .
+MOT:	snack+time !
+CHI:	snack+time .
+MOT:	this is neat !
+MOT:	let's open .
+CHI:	open .
+MOT:	what's this right here ?
+CHI:	open .
+MOT:	okay .
+MOT:	what is it ?
+CHI:	spoon .
+MOT:	spoons .
+MOT:	very good .
+MOT:	okay , take them out .
+MOT:	let me get the tape off of them .
+MOT:	good thing the other ones aren't here because they'd be all over
+MOT:	how many spoons ?
+CHI:	spoon .
+MOT:	count them .
+MOT:	count them .
+MOT:	one [/?] .
+CHI:	one [/?] .
+MOT:	two [/?] .
+CHI:	two [/?] .
+MOT:	two spoons .
+CHI:	two spoon .
+MOT:	and what's this ?
+CHI:	fork .
+MOT:	fork , yeah .
+MOT:	two forks .
+MOT:	and what's this ?
+CHI:	xxx .
+MOT:	knife .
+MOT:	what's that ?
+CHI:	what that ?
+MOT:	what is it ?
+CHI:	xxx .
+MOT:	egg .
+CHI:	egg .
+MOT:	what's that ?
+CHI:	hotdog .
+MOT:	hotdog .
+MOT:	what's this ?
+MOT:	cheese .
+CHI:	cheese .
+MOT:	what shape ?
+CHI:	square .
+MOT:	it's a triangle .
+CHI:	triangle .
+CHI:	xxx triangle .
+CHI:	here .
+CHI:	triangle .
+CHI:	triangle .
+CHI:	xxx .
+MOT:	look at this .
+MOT:	what's that ?
+CHI:	crackers .
+MOT:	cracker .
+CHI:	cracker .
+MOT:	and what's this ?
+CHI:	donut .
+MOT:	donut .
+MOT:	and what's this ?
+CHI:	donut .
+MOT:	yeah I guess .
+MOT:	I don't know what that is .
+CHI:	big cup .
+MOT:	cup .
+MOT:	look_it , this goes on there .
+MOT:	oh , look_it this huh [/?] ?
+MOT:	is this Billy's ?
+CHI:	it Billy's .
+MOT:	look at this .
+MOT:	put pretend sugar in here .
+CHI:	right back .
+CHI:	right back .
+CHI:	right back .
+MOT:	where are you going ?
+MOT:	I know exactly where he's going , to get water .
+MOT:	hurry up .
+CHI:	mama ?
+MOT:	what ?
+CHI:	come here mama .
+MOT:	what do you want ?
+CHI:	come here .
+CHI:	want some water .
+MOT:	want some water ?
+MOT:	want some water ?
+MOT:	here , well , put it in the big one .
+MOT:	come here .
+CHI:	xxx water .
+MOT:	we'll play over there .
+MOT:	here , let me get some water in here , okay ?
+CHI:	okay .
+CHI:	bye .
+MOT:	hurry up .
+CHI:	okay bye xxx .
+MOT:	hurry up .
+CHI:	okay bye .
+MOT:	you getting water ?
+CHI:	what ?
+MOT:	hurry up .
+CHI:	okay .
+MOT:	I'll put this over here .
+MOT:	do you got the water ?
+MOT:	good boy !
+CHI:	xxx .
+MOT:	we'll eat right there okay ?
+CHI:	here's your water .
+MOT:	okay , come on .
+MOT:	let's sit down .
+CHI:	here .
+MOT:	okay .
+MOT:	thank you .
+CHI:	where cup ?
+MOT:	here's a cup right here .
+CHI:	okay .
+CHI:	no .
+MOT:	no ?
+CHI:	fill it up .
+CHI:	ah [/?] !
+MOT:	no <no no> [/?] .
+MOT:	not on my hamburger .
+MOT:	<on the> [/?] in the cup .
+CHI:	cup .
+CHI:	okay .
+MOT:	very good .
+CHI:	where spoon ?
+MOT:	where's the spoon ?
+CHI:	okay .
+CHI:	spoon .
+MOT:	stir it up .
+CHI:	stir it up ?
+CHI:	where spoon ?
+CHI:	that spoon .
+CHI:	stir it up .
+MOT:	okay .
+MOT:	thank you .
+MOT:	I'll stir mine .
+MOT:	Billy stir his .
+MOT:	you stir .
+CHI:	crackers .
+MOT:	crackers .
+CHI:	okay .
+MOT:	okay ?
+MOT:	can I have a bite of the hotdog ?
+MOT:	&mm [/?] good !
+CHI:	xxx cracker .
+MOT:	what's that ?
+CHI:	hamburger .
+MOT:	hamburger .
+CHI:	yeah .
+MOT:	thank you .
+MOT:	good hamburger .
+MOT:	and what's this ?
+MOT:	what's this ?
+MOT:	Bob .
+MOT:	Billy .
+MOT:	what's this ?
+CHI:	egg .
+MOT:	egg .
+MOT:	very good .
+CHI:	open it , please .
+MOT:	<it doesnn't> [/?] well yeah , it doesn't open like a regular egg .
+CHI:	open it up .
+MOT:	it doesn't open .
+CHI:	open .
+MOT:	it's stuck .
+CHI:	stuck .
+MOT:	stuck .
+MOT:	&mm [/?] how about some cheese ?
+CHI:	cheese .
+MOT:	is it good ?
+CHI:	cheese .
+CHI:	cheese .
+CHI:	crackers .
+MOT:	crackers .
+CHI:	xxx .
+CHI:	here .
+MOT:	thank you .
+CHI:	okay .
+MOT:	xxx Billy's ?
+CHI:	xxx crackers .
+MOT:	where's your donut ?
+CHI:	donut .
+MOT:	where is it ?
+CHI:	where donut ?
+MOT:	can you find it ?
+CHI:	donut .
+MOT:	there it is !
+MOT:	take a taste .
+CHI:	taste .
+MOT:	take a taste of the donut .
+CHI:	xxx .
+CHI:	where crackers ?
+MOT:	here's your cracker .
+MOT:	cut it ?
+CHI:	cut it .
+CHI:	oh , !
+MOT:	the water spilled .
+MOT:	that's okay .
+MOT:	ooo [/?] it's hard .
+MOT:	oh , !
+MOT:	did that take a lot out_of you ?
+MOT:	huh [/?] ?
+CHI:	xxx water .
+MOT:	yay water .
+CHI:	okay .
+CHI:	xxx .
+CHI:	right back .
+MOT:	where are you going ?
+MOT:	more water ?
+CHI:	right back .
+MOT:	okay , hurry .
+MOT:	go fast .
+MOT:	ready , go .
+CHI:	stir it up .
+MOT:	stir it up .
+MOT:	yup .
+MOT:	want me to stir mine up ?
+MOT:	it's in here .
+MOT:	okay , I'll stir mine up .
+CHI:	want cup .
+CHI:	want cup .
+CHI:	here cup .
+MOT:	thank you .
+MOT:	very good .
+CHI:	xxx .
+CHI:	okay ?
+MOT:	yup .
+MOT:	that was good , huh [/?] ?
+MOT:	now look at this .
+MOT:	this is a pitcher .
+MOT:	a pitcher .
+CHI:	pitcher .
+MOT:	pitcher .
+MOT:	I don't know that song .
+MOT:	alright , you tell me the words to the song .
+CHI:	okay mama .
+MOT:	okay .
+CHI:	xxx .
+CHI:	pick water up .
+CHI:	stir it up .
+CHI:	cup .
+MOT:	stir it up .
+CHI:	water .
+MOT:	water .
+MOT:	&mm [/?] thank you .
+MOT:	very good .
+CHI:	okay mama .
+MOT:	Billy's turn .
+MOT:	is it good ?
+CHI:	it's hot .
+MOT:	hot ?
+MOT:	blow on it .
+MOT:	blow on it .
+MOT:	&mm [/?] blow on it .
+MOT:	is it soup ?
+CHI:	soup .
+MOT:	good soup .
+MOT:	&mm [/?] is that good ?
+CHI:	mama .
+MOT:	&mm [/?] thank you .
+CHI:	drink water .
+MOT:	oh , don't expect me to drink it now .
+CHI:	water .
+MOT:	&mm [/?] thank you .
+CHI:	here .
+MOT:	no , I don't want it .
+MOT:	okay .
+MOT:	&mm [/?] thank you .
+MOT:	was that good ?
+CHI:	ah [/?] good .
+MOT:	gonna show john all your new toys ?
+CHI:	john my toys .
+MOT:	all your new toys , huh [/?] ?
+MOT:	you gonna show Bipper ?
+CHI:	Bipper .
+MOT:	where's Bipper ?
+CHI:	Bipper .
+MOT:	where is Christopher ?
+MOT:	where is he ?
+MOT:	where's dawn ?
+MOT:	Billy .
+MOT:	Billy .
+MOT:	is it raining out ?
+CHI:	here .
+MOT:	what ?
+MOT:	I'm not drinking that .
+MOT:	you just spit that into there .
+MOT:	what's that ?
+MOT:	what's this ?
+MOT:	what's this ?
+CHI:	xxx hotdog .
+MOT:	hotdog .
+MOT:	is it good ?
+CHI:	here mama .
+MOT:	&mm [/?] .
+MOT:	blow it up ?
+MOT:	oh , is it hot ?
+CHI:	mama right back .
+MOT:	okay , hurry up .
+MOT:	where you going ?
+CHI:	right back .
+MOT:	hurry up .
+MOT:	Billy .
+CHI:	hi .
+MOT:	hi .
+CHI:	here .
+MOT:	thanks .
+MOT:	where you going ?
+CHI:	but it's hot .
+MOT:	oh , it's hot .
+MOT:	did you cool it off ?
+CHI:	me cool off .
+MOT:	oh , good .
+MOT:	we gonna show daddy the new toys ?
+CHI:	daddy toy .
+MOT:	make daddy some supper ?
+CHI:	play with this .
+MOT:	cheese .
+CHI:	xxx .
+MOT:	&mm [/?] good .
+MOT:	what shape ?
+MOT:	do you remember what shape ?
+MOT:	come here .
+MOT:	don't tickle me .
+MOT:	Billy .
+MOT:	Billy .
+MOT:	what shape ?
+CHI:	no <no no no no> [/?] .
+MOT:	yeah <yeah yeah yeah> [/?] .
+MOT:	come here .
+MOT:	come here .
+MOT:	what shape ?
+MOT:	come here <come here , come here> [/?] .
+MOT:	tell me a secret .
+MOT:	tell me a secret .
+CHI:	right back .
+MOT:	what shape ?
+MOT:	no .
+MOT:	no be right back .
+MOT:	where are you going ?
+MOT:	no don't put +/.
+MOT:	come here .
+MOT:	let's look at this .
+MOT:	&-um [/?] alright let's do color .
+MOT:	what color ?
+MOT:	what color ?
+MOT:	orange .
+CHI:	orange .
+MOT:	orange .
+MOT:	orange dish .
+CHI:	xxx back .
+MOT:	huh [/?] ?
+CHI:	dawn is back .
+MOT:	what ?
+CHI:	I be back .
+MOT:	back ?
+CHI:	yeah .
+MOT:	on my head ?
+MOT:	where's Billy's head ?
+CHI:	Billy head .
+MOT:	head .
+MOT:	where's your nose ?
+CHI:	nose .
+MOT:	where's your nose ?
+CHI:	mama .
+CHI:	mama , up .
+MOT:	not you a piggy+back .
+CHI:	up .
+MOT:	no I'm stuck .
+MOT:	I'm stuck .
+MOT:	I'm stuck .
+MOT:	what do you want ?
+MOT:	what do you want ?
+CHI:	up mama .
+CHI:	up .
+MOT:	want a ride ?
+MOT:	where you going ?
+CHI:	up .
+MOT:	up ?
+CHI:	yeah .
+MOT:	okay .
+MOT:	now what ?
+CHI:	xxx .
+MOT:	now what ?
+CHI:	xxx .
+MOT:	you want a ride ?
+CHI:	ride .
+MOT:	you wanna go around in a circle ?
+MOT:	around in a circle .
+MOT:	you wanna play in the car ?
+MOT:	wanna drive the car ?
+MOT:	wanna drive the car ?
+CHI:	car .
+MOT:	right there .
+MOT:	this car right here .
+MOT:	come here .
+CHI:	right back .
+MOT:	whoa [/?] !
+MOT:	where are you going ?
+MOT:	what's the matter with your mouth ?
+CHI:	xxx .
+MOT:	what ?
+CHI:	ah [/?] .
+MOT:	ah [/?] .
+CHI:	ah [/?] .
+MOT:	<oh yuk yuk yuk> [/?] .
+MOT:	what's the matter ?
+MOT:	listen .
+MOT:	let's drive the car .
+MOT:	Bob .
+MOT:	drive the car ?
+CHI:	drive car .
+MOT:	wanna get your Big_Bird house ?
+MOT:	wanna play with the Big_Bird house ?
+CHI:	Big_Bird house .
+MOT:	go get it .
+MOT:	wanna go get the Big_Bird house ?
+MOT:	want me to go get the Big_Bird house ?
+CHI:	Big_Bird house .
+MOT:	okay Billy get it .
+MOT:	hurry up .
+MOT:	bring it in here .
+MOT:	do you got it ?
+MOT:	what happened ?
+MOT:	what happened ?
+MOT:	did the car fall down ?
+MOT:	alright , come here .
+MOT:	we'll open it up .
+MOT:	what's that ?
+MOT:	oh , what have you got ?
+MOT:	what's that ?
+CHI:	car .
+MOT:	car .
+MOT:	come on .
+MOT:	let's open .
+MOT:	open .
+MOT:	oh , look .
+MOT:	it broke .
+MOT:	oh , well .
+MOT:	it'll hafta stand by itself in the corner there .
+CHI:	hey [/?] !
+MOT:	what happened ?
+CHI:	Big_Bird [/?] Big_Bird broken .
+MOT:	broken , yeah .
+MOT:	okay let's turn it around .
+MOT:	can you open ?
+CHI:	up .
+MOT:	can you open it up ?
+CHI:	open it up .
+MOT:	who's in here ?
+CHI:	xxx .
+MOT:	take everything out .
+MOT:	who's this ?
+CHI:	Big_Bird .
+MOT:	Big_Bird .
+MOT:	he's gonna sit in his nest .
+MOT:	right here .
+MOT:	oops [/?] .
+MOT:	what happened ?
+MOT:	and what's this ?
+CHI:	up .
+MOT:	what's this ?
+CHI:	sit down .
+MOT:	a sit down ?
+MOT:	yeah a chair .
+CHI:	chair .
+MOT:	and what's this ?
+CHI:	table .
+MOT:	table yeah .
+MOT:	oh , look_it .
+MOT:	they're eating breakfast .
+MOT:	eggs .
+CHI:	xxx .
+MOT:	bacon .
+CHI:	bacon .
+MOT:	spoon and fork .
+CHI:	fork .
+MOT:	toast .
+CHI:	toast .
+MOT:	and who's this guy ?
+CHI:	Ernie .
+MOT:	Ernie yeah .
+MOT:	can Ernie sit here ?
+CHI:	table .
+MOT:	he wants to sit on the table huh [/?] ?
+MOT:	he wants to be like Billy huh [/?] ?
+MOT:	go up on the table .
+MOT:	what's this ?
+MOT:	what's this ?
+CHI:	bed .
+MOT:	bed , yeah .
+CHI:	go to bed .
+MOT:	oh , does he wanna go to bed ?
+MOT:	is he tired ?
+CHI:	he tired .
+MOT:	okay .
+CHI:	he tired .
+MOT:	where's the other bed ?
+MOT:	here's the other bed .
+CHI:	bed .
+MOT:	say night_night .
+CHI:	bed .
+CHI:	put up .
+CHI:	no put up .
+MOT:	stand him up ?
+CHI:	no put up .
+CHI:	see ?
+CHI:	Ma .
+MOT:	what ?
+MOT:	okay ?
+CHI:	put xxx .
+MOT:	oh , now put him in ?
+MOT:	okay now put his covers .
+MOT:	take the covers down .
+MOT:	okay put him in .
+MOT:	now put the covers back on him .
+MOT:	okay I put them on okay ?
+MOT:	what's this ?
+CHI:	xxx .
+MOT:	look_it a seesaw .
+CHI:	bird .
+MOT:	watch this .
+CHI:	bird .
+CHI:	xxx .
+CHI:	where car mama ?
+MOT:	you want him in the car ?
+CHI:	where car ?
+MOT:	can I ride in the car ?
+CHI:	yeah , car .
+CHI:	Ernie xxx car .
+MOT:	can I ride in the car too ?
+MOT:	okay .
+CHI:	byebye .
+MOT:	byebye .
+MOT:	go for a ride ?
+CHI:	ride .
+CHI:	okay .
+CHI:	byebye .
+MOT:	byebye .
+CHI:	put in .
+MOT:	is that what a car does ?
+MOT:	what's a car do ?
+CHI:	a key .
+MOT:	huh [/?] ?
+CHI:	turn a key .
+MOT:	a key ?
+MOT:	oh , we hafta put the key in huh [/?] ?
+MOT:	turn the key , okay .
+CHI:	okay .
+MOT:	Billy do key .
+CHI:	Billy key xxx .
+MOT:	no Billy do key .
+CHI:	Billy key .
+MOT:	okay .
+MOT:	turn it .
+MOT:	okay here it goes .
+MOT:	Billy drive .
+MOT:	oh , !
+MOT:	what happened to Big_Bird ?
+CHI:	Big_Bird .
+MOT:	what happened ?
+CHI:	xxx .
+MOT:	what'd he do ?
+CHI:	xxx there .
+MOT:	did he fall down ?
+CHI:	xxx down .
+MOT:	there he goes .
+MOT:	he's all better .
+MOT:	&mm [/?] good donut huh [/?] ?
+CHI:	hey [/?] !
+MOT:	what ?
+CHI:	Billy sing xxx .
+MOT:	what's that ?
+MOT:	what's that ?
+CHI:	mouth .
+MOT:	no it's in your mouth but what shape +/.
+MOT:	what's this a hamburger ?
+CHI:	hamburger .
+MOT:	yeah .
+MOT:	you like hamburgers ?
+CHI:	Macdonalds .
+MOT:	Macdonalds ?
+CHI:	xxx .
+MOT:	feel that air .
+MOT:	oh , nice and cool and clean .
+MOT:	&mm [/?] good hamburger .
+CHI:	hamburger .
+MOT:	thank you .
+MOT:	oops [/?] .
+MOT:	what ?
+MOT:	ooo [/?] you stabbed yourself with the fork .
+CHI:	with fork .
+MOT:	what do you got ?
+MOT:	you got my finger .
+CHI:	mama turn .
+MOT:	mama's turn .
+MOT:	oh , okay my turn .
+MOT:	okay .
+MOT:	Billy's turn .
+MOT:	oh , nice .
+MOT:	<ow ow> [/?] .
+MOT:	okay .
+MOT:	why don't we make Ernie and Bert go up the stairs ?
+MOT:	help me count .
+MOT:	let's count okay ?
+MOT:	wanna count ?
+CHI:	count .
+MOT:	one [/?] .
+CHI:	one [/?] .
+MOT:	two [/?] .
+CHI:	two [/?] .
+MOT:	count out loud .
+MOT:	three [/?] .
+CHI:	three [/?] .
+MOT:	four [/?] .
+CHI:	four [/?] .
+MOT:	five [/?] .
+CHI:	five [/?] .
+MOT:	six [/?] .
+CHI:	six [/?] .
+MOT:	give him a push .
+MOT:	there he goes .
+CHI:	Big_Bird turn .
+MOT:	Big_Bird's turn .
+CHI:	here .
+CHI:	Big_Bird .
+MOT:	are you gonna count again ?
+CHI:	count .
+MOT:	one [/?] .
+CHI:	one [/?] .
+MOT:	two [/?] .
+CHI:	two [/?] .
+MOT:	three [/?] .
+CHI:	three [/?] .
+MOT:	four [/?] .
+CHI:	four [/?] .
+MOT:	five [/?] .
+CHI:	five [/?] .
+CHI:	six [/?] .
+MOT:	six [/?] .
+MOT:	there he goes .
+MOT:	did they have fun ?
+MOT:	what's this ?
+CHI:	xxx table .
+MOT:	what's this ?
+CHI:	Ma look_it .
+MOT:	what is it ?
+MOT:	oh , what , it's on your eye ?
+CHI:	xxx table .
+CHI:	put it back .
+MOT:	huh [/?] ?
+CHI:	put it back .
+MOT:	put everything back ?
+MOT:	we gotta open it first .
+MOT:	let's put everything back .
+MOT:	what's this ?
+CHI:	put it back .
+MOT:	what's this ?
+CHI:	xxx .
+CHI:	open the door .
+MOT:	open the door ?
+CHI:	open .
+MOT:	there we go .
+CHI:	okay .
+CHI:	open the door .
+MOT:	okay , let me open the door .
+MOT:	there it goes .
+CHI:	xxx .
+MOT:	hi .
+CHI:	xxx .
+MOT:	look at the door .
+MOT:	look at the door .
+MOT:	look_it .
+MOT:	hi .
+MOT:	<ow ow> [/?] .
+CHI:	mama .
+MOT:	what ?
+CHI:	xxx .
+MOT:	what do you want ?
+CHI:	my finger stuck .
+MOT:	what ?
+CHI:	my finger .
+MOT:	my finger .
+MOT:	ow [/?] .
+MOT:	my finger's stuck .
+MOT:	help me .
+MOT:	oh , thank you .
+MOT:	thank you .
+CHI:	xxx .
+CHI:	look_it shoes .
+CHI:	Helen , look_it shoes .
+MOT:	<and what do you> [/?] you go like this huh [/?] ?
+CHI:	shoes .
+MOT:	what did mama tell you ?
+CHI:	pull .
+MOT:	you gotta pull +/.
+MOT:	and then close them .
+CHI:	close them .
+MOT:	right ?
+MOT:	is that what you do ?
+MOT:	huh [/?] ?
+CHI:	xxx .
+MOT:	you're pretty good .
+MOT:	what's this ?
+MOT:	what's this stuff ?
+MOT:	what's this stuff here ?
+MOT:	what's this stuff ?
+MOT:	look_it .
+MOT:	what's that ?
+MOT:	this .
+MOT:	what's this ?
+CHI:	xxx .
+MOT:	tape .
+CHI:	tape .
+MOT:	remember you play the tape sometimes ?
+MOT:	okay , what's this right there ?
+MOT:	pull it off .
+CHI:	open up .
+MOT:	was it stuck ?
+CHI:	stuck .
+MOT:	what about this one ?
+MOT:	sticky .
+CHI:	sticky .
+MOT:	wanna do ?
+CHI:	xxx .
+MOT:	and it's stuck .
+MOT:	there it goes .
+MOT:	is it all_gone ?
+CHI:	xxx .
+MOT:	all_gone .
+MOT:	tape's all_gone .
+CHI:	xxx .
+MOT:	want me to push it through ?
+CHI:	push it through .
+MOT:	see , what went in here ?
+CHI:	xxx .
+MOT:	the hotdog went in there .
+CHI:	hotdog .
+MOT:	see watch .
+MOT:	it's like a puzzle .
+MOT:	look_it .
+CHI:	hotdog .
+CHI:	xxx .
+CHI:	open .
+MOT:	that one's stuck .
+MOT:	it doesn't come off .
+MOT:	look .
+MOT:	it's stuck .
+MOT:	peekaboo .
+MOT:	I see you .
+MOT:	<ow ow> [/?] .
+MOT:	singing Sesame_Street ?
+MOT:	where you going ?
+MOT:	come here .
+CHI:	right back .
+MOT:	no be right back .
+MOT:	where you going ?
+MOT:	where you going ?
+MOT:	come here .
+MOT:	let's put the records on .
+MOT:	come here .
+MOT:	put the records on .
+MOT:	Bob .
+MOT:	come here .
+MOT:	put Billy's records on .
+MOT:	now sing with me .
+MOT:	or you wanna do +/.
+MOT:	let me see .
+MOT:	I thought we had +/.
+MOT:	Twinkle_twinkle_little_star .
+MOT:	let's do Pop_goes_the_weasel .
+MOT:	wanna put this one ?
+MOT:	what color ?
+MOT:	what color ?
+MOT:	come on .
+MOT:	red .
+MOT:	red .
+MOT:	say red .
+CHI:	no .
+MOT:	yeah , come on .
+MOT:	say red .
+CHI:	xxx .
+MOT:	alright , I'm gonna put it on .
+MOT:	I'm gonna do it .
+MOT:	I did it .
+MOT:	Bob look .
+MOT:	do Pop_goes_the_weasel .
+CHI:	Pop_goes_the_weasel .
+MOT:	I don't know the words .
+MOT:	Billy do .
+MOT:	Billy sing .
+CHI:	push button .
+CHI:	xxx button .
+CHI:	mama .
+MOT:	what ?
+CHI:	xxx .
+MOT:	weasels ?
+CHI:	Pop_(goes)_the_weasels .
+MOT:	okay .
+MOT:	here goes .
+CHI:	weasel .
+MOT:	weasel .
+CHI:	xxx .
+CHI:	hotdog .
+MOT:	hotdog .
+MOT:	pop goes the hotdog .
+CHI:	good .
+MOT:	is that good ?
+MOT:	thank you .
+MOT:	I did good huh [/?] ?
+MOT:	thanks .
+CHI:	all_gone .
+MOT:	all_gone ?
+MOT:	almost .
+MOT:	what's that ?
+CHI:	all_gone .
+MOT:	all_gone .
+MOT:	there it goes .
+MOT:	ohoh [/?] .
+CHI:	hotdog .
+MOT:	almost over .
+CHI:	put back .
+MOT:	okay well take it out easy .
+MOT:	don't break it .
+MOT:	first you gotta push this over .
+CHI:	okay .
+MOT:	now pull it out .
+MOT:	slide it out like this .
+MOT:	here you go .
+MOT:	woo [/?] !
+MOT:	very good .
+CHI:	right back .
+MOT:	where you going ?
+CHI:	where pinkie okay ?
+MOT:	where's pinkie ?
+CHI:	where the pinkie ?
+MOT:	you gotta wind it .
+MOT:	can you do ?
+MOT:	wind it .
+CHI:	mama do .
+MOT:	no , Billy do .
+CHI:	mama do !
+MOT:	I can do it .
+MOT:	okay , you_all set ?
+MOT:	wait a minute .
+MOT:	it's not on right .
+MOT:	I'm doing all the work here .
+MOT:	you're not doing it .
+MOT:	I'm entertaining you .
+MOT:	entertaining .
+CHI:	stop that .
+MOT:	you entertain me .
+CHI:	mama !
+MOT:	come here .
+CHI:	stop that .
+MOT:	what's the matter ?
+MOT:	okay .
+MOT:	sing a song .
+MOT:	you don't wanna sing ?
+CHI:	xxx .
+MOT:	what do you wanna do ?
+MOT:	you wanna play with your hamburger ?
+MOT:	play with your cup ?
+MOT:	huh [/?] ?
+MOT:	what do you wanna do ?
+CHI:	mama xxx .
+MOT:	what ?
+CHI:	mama this .
+MOT:	mama do it ?
+MOT:	wanna go get your cars ?
+MOT:	wanna go get the cars ?
+CHI:	get the cars .
+MOT:	go get Michael .
+MOT:	go tell Michael to get your cars .
+MOT:	want me to get all your little cars ?
+MOT:	wanna play cars ?
+CHI:	play car .
+MOT:	okay ?
+MOT:	wanna play with that car ?
+CHI:	car .
+CHI:	here .
+CHI:	play car .
+MOT:	whoa [/?] .
+MOT:	it's stuck .
+MOT:	okay , well it looks like the batterys are gone out_of this .
+MOT:	<beep beep> [/?] .
+MOT:	say “get out_of the road” .
+CHI:	xxx .
+CHI:	sit down .
+MOT:	you wanna sit down on my lap ?
+CHI:	lap .
+MOT:	okay .
+MOT:	Billy drive .
+CHI:	drive .
+CHI:	okay .
+CHI:	xxx .
+MOT:	take it off .
+MOT:	there it goes .
+CHI:	here .
+MOT:	talk on the c_b .
+MOT:	hello .
+MOT:	say hello .
+CHI:	put back .
+CHI:	open .
+CHI:	open .
+MOT:	want me help ?
+MOT:	want me help ?
+CHI:	xxx .
+MOT:	what ?
+MOT:	what am I gonna do ?
+CHI:	key .
+MOT:	turn the key .
+MOT:	turn the +/.
+MOT:	turn the key .
+CHI:	turn key .
+CHI:	car .
+CHI:	car .
+CHI:	okay mama .
+MOT:	what ?
+CHI:	xxx .
+CHI:	beep a one .
+MOT:	am I driving ?
+CHI:	driving .
+MOT:	alright , Billy drive .
+MOT:	wanna take me to the store ?
+MOT:	let's go to the market .
+MOT:	drive me to the market .
+CHI:	xxx .
+MOT:	drive me +/.
+CHI:	xxx .
+MOT:	huh [/?] ?
+CHI:	xxx .
+MOT:	no xxx ?
+MOT:	what's that mean ?
+CHI:	xxx .
+MOT:	wanna take me to the market ?
+MOT:	wanna take me to school ?
+MOT:	wanna go to school ?
+CHI:	xxx .
+MOT:	huh [/?] ?
+MOT:	look at this , your pants keep breaking .
+MOT:	let me fix it .
+MOT:	okay .
+MOT:	all fixed .
+MOT:	wanna drive me to school ?
+MOT:	Bob .
+MOT:	Bob .
+MOT:	wanna drive me to school on the school bus ?
+CHI:	school bus .
+MOT:	wanna drive me to school ?
+CHI:	school bus .
+MOT:	yeah , take me on the school+bus , come on .
+CHI:	school+bus .
+MOT:	put your seatbelt on .
+MOT:	<click click> [/?] .
+MOT:	seatbelt on ?
+CHI:	mama do .
+MOT:	okay .
+MOT:	alright .
+MOT:	ready , set .
+MOT:	let's go to school .
+MOT:	okay .
+MOT:	we're at school .
+MOT:	where's your teacher ?
+MOT:	where is she ?
+MOT:	where's the teacher ?
+CHI:	teacher .
+CHI:	put the seat belt .
+MOT:	alright .
+MOT:	take your seatbelt off .
+MOT:	click [/?] .
+MOT:	it's off .
+CHI:	mama do .
+CHI:	mama turn .
+MOT:	mama's turn .
+MOT:	my seatbelt's off .
+MOT:	it's off .
+CHI:	Billy .
+MOT:	are we at school ?
+MOT:	oh , !
+MOT:	a wild ride .
+CHI:	xxx mama xxx .
+MOT:	what ?
+MOT:	what ?
+CHI:	mama sit down mama .
+MOT:	what ?
+CHI:	sit down .
+MOT:	are you gonna sit down ?
+CHI:	yeah .
+MOT:	okay .
+MOT:	there we go .
+MOT:	where are we going ?
+MOT:	wanna go to the market ?
+CHI:	go market .
+MOT:	okay .
+MOT:	drive me to the market .
+MOT:	go to the beach .
+MOT:	wanna go to the beach ?
+CHI:	beach .
+CHI:	bus beach .
+CHI:	school bus .
+MOT:	the school bus ?
+CHI:	school bus .
+MOT:	okay .
+CHI:	seatbelt on .
+MOT:	dawn ?
+MOT:	where is dawn ?
+CHI:	seatbelt on .
+MOT:	where is dawn ?
+MOT:	is she +/.
+CHI:	seatbelt on .
+MOT:	is dawn all_gone ?
+CHI:	seatbelt on .
+MOT:	what , you want me to put this on ?
+MOT:	oh , is that what you were saying ?
+MOT:	this on , okay .
+MOT:	okay ?
+CHI:	xxx .
+MOT:	what's that ?
+MOT:	what's that ?
+MOT:	Billy's fork ?
+MOT:	to eat supper ?
+CHI:	eat supper .
+CHI:	ice+cream .
+MOT:	ice+cream ?
+CHI:	here .
+MOT:	&mm [/?] good ice+cream .
+MOT:	how bout potatos ?
+CHI:	potatos .
+MOT:	yeah , give me some potatos .
+MOT:	go make some potatos over there .
+CHI:	potatos .
+MOT:	potatos on there ?
+CHI:	potato there .
+MOT:	where's my spoon ?
+MOT:	I can't eat my potatos .
+CHI:	xxx mama .
+CHI:	right back .
+MOT:	where you going ?
+CHI:	xxx cheese .
+MOT:	where you going ?
+CHI:	xxx cheese .
+MOT:	hurry up .
+MOT:	what are you getting ?
+MOT:	come on , let's go back in the parlor .
+MOT:	show Helen what you got .
+MOT:	what's that ?
+CHI:	potatos .
+MOT:	potatos .
+MOT:	what is it ?
+MOT:	what is this ?
+MOT:	what is this ?
+CHI:	baloney .
+MOT:	baloney .
+CHI:	xxx .
+MOT:	I should have got a tissue for your nose .
+CHI:	xxx .
+MOT:	quiet ?
+CHI:	baloney .
+MOT:	baloney .
+CHI:	baloney .
+MOT:	whoa [/?] .
+CHI:	look at that .
+CHI:	mama turn .
+MOT:	mama's turn ?
+MOT:	okay .
+MOT:	&mm [/?] good baloney .
+CHI:	xxx .
+MOT:	please don't make me eat it .
+MOT:	I don't want any .
+CHI:	here .
+MOT:	oh , Billy's turn .
+CHI:	no Billy's turn .
+MOT:	alright , okay .
+MOT:	that's it .
+MOT:	that's all I want .
+MOT:	xxx supper .
+MOT:	good huh [/?] ?
+MOT:	good baloney ?
+CHI:	baloney .
+CHI:	xxx .
+CHI:	cars .
+MOT:	what's in there ?
+CHI:	cars .
+MOT:	a whole bunch of cars , huh [/?] ?
+MOT:	how many ?
+CHI:	car .
+MOT:	a whole bunch .
+MOT:	does the door open ?
+CHI:	open .
+MOT:	now do close .
+CHI:	close .
+CHI:	open .
+MOT:	open .
+MOT:	are you alright ?
+CHI:	yeah .
+CHI:	xxx .
+MOT:	what's the door now ?
+MOT:	the door is +/.
+CHI:	xxx .
+MOT:	open or closed ?
+CHI:	closed !
+MOT:	open +/.
+MOT:	now close them .
+MOT:	Bob , close the door .
+MOT:	close .
+MOT:	what else +/.
+MOT:	how many more cars we got in here ?
+MOT:	can I pull out a car too ?
+MOT:	what's this ?
+MOT:	a transformer .
+CHI:	car .
+MOT:	watch .
+MOT:	let's make it into a monster .
+MOT:	here it goes !
+MOT:	Bob .
+MOT:	it's a monster .
+CHI:	monster .
+MOT:	here comes the robot .
+MOT:	hey [/?] !
+MOT:	hi .
+CHI:	monster .
+MOT:	robot .
+CHI:	monster .
+MOT:	monster ?
+MOT:	here's another one .
+MOT:	we can make another monster .
+MOT:	get this one out too .
+CHI:	monster ?
+MOT:	is this gonna be Billy's monster ?
+CHI:	oh , baloney .
+MOT:	baloney ?
+MOT:	pick up the baloney .
+MOT:	pick it up .
+CHI:	okay .
+MOT:	oh , there it goes .
+MOT:	alright Bob , here's the other monster .
+CHI:	monster monster [/?] .
+MOT:	here it is .
+MOT:	hi Billy .
+CHI:	monster .
+MOT:	monster .
+CHI:	a monster .
+MOT:	there it goes .
+CHI:	ah [/?] .
+MOT:	what happened to the monster ?
+CHI:	monster .
+MOT:	he fall down ?
+CHI:	fall down .
+MOT:	what's this ?
+CHI:	a car .
+MOT:	car .
+MOT:	police car .
+MOT:	does that make a funny noise ?
+MOT:	here , look at this car .
+MOT:	oh , that's not it .
+MOT:	what [/?] whose car does this look like ?
+MOT:	what does this look like ?
+CHI:	blue van .
+MOT:	blue van , very good !
+MOT:	looks like daddy's car ?
+MOT:	does it look like daddy's car ?
+CHI:	daddy car .
+MOT:	huh [/?] ?
+MOT:	look at this .
+MOT:	another one .
+CHI:	xxx car .
+MOT:	oh , I think it's broken .
+MOT:	here's another transformer .
+CHI:	baloney .
+MOT:	baloney .
+CHI:	mama .
+MOT:	no , I don't want any more baloney honey .
+MOT:	&mm [/?] thank you .
+MOT:	if you insist .
+MOT:	that part is icky huh [/?] ?
+MOT:	okay , that's the garbage plate , okay ?
+MOT:	good baloney ?
+CHI:	baloney .
+MOT:	here comes another monster .
+CHI:	monster .
+MOT:	monster .
+MOT:	another one .
+MOT:	can the monster ride on the blue van ?
+MOT:	can the monster sit on the blue van and get a ride ?
+MOT:	isn't that silly ?
+CHI:	xxx .
+MOT:	I'm gonna ride on Billy's leg .
+CHI:	no no [/?] !
+MOT:	ride on mama's leg ?
+CHI:	leg leg [/?] .
+CHI:	no .
+CHI:	xxx .
+MOT:	what ?
+MOT:	what else is in here ?
+CHI:	mama .
+CHI:	take shoes off .
+MOT:	no , leave my shoes alone .
+MOT:	here .
+CHI:	eat .
+MOT:	here's another car .
+MOT:	a whole bunch more .
+MOT:	look_it Billy , you could fix this one .
+MOT:	wanna look at the engine ?
+CHI:	xxx .
+CHI:	car .
+MOT:	yeah !
+MOT:	fix it .
+CHI:	gonna fix it .
+MOT:	oh , you're really enjoying your baloney huh [/?] ?
+MOT:	okay , what other kind of car can we pull out ?
+MOT:	oh , how about this ?
+CHI:	a truck .
+MOT:	a truck , very good .
+MOT:	it's called a dump truck .
+CHI:	dump truck .
+CHI:	a car .
+MOT:	<that's a> [/?] I don't know .
+MOT:	something that's black .
+CHI:	black .
+MOT:	right .
+CHI:	mama .
+CHI:	mama .
+MOT:	what ?
+CHI:	look_it .
+MOT:	it fell down ?
+CHI:	fell down .
+CHI:	more car .
+MOT:	okay , we'll get +/.
+MOT:	alright oh , Thunderbird .
+CHI:	Thunderbird .
+MOT:	white .
+CHI:	white .
+MOT:	white .
+CHI:	open .
+MOT:	it's opened already .
+MOT:	it's open , look_it it's stuck .
+MOT:	stuck .
+CHI:	hm: [/?] ?
+MOT:	it's stuck .
+MOT:	what other kind ?
+MOT:	what color's this one again ?
+CHI:	what color ?
+MOT:	what color ?
+CHI:	color .
+MOT:	what's this ?
+CHI:	black .
+MOT:	no blue .
+CHI:	blue .
+MOT:	blue van .
+CHI:	blue van .
+CHI:	mama [/?] mama .
+MOT:	what ?
+CHI:	what color ?
+MOT:	yellow .
+CHI:	yellow .
+CHI:	xxx color .
+MOT:	the yellow car .
+CHI:	yellow car .
+CHI:	oh , pee_pee .
+MOT:	you hafta do pee ?
+CHI:	yeah .
+MOT:	go ahead .
+MOT:	hurry up .
+MOT:	time out huh [/?] ?
+MOT:	say “time out” .
+CHI:	come on baloney .
+CHI:	come on .
+MOT:	take his baloney with him .
+CHI:	right back .
+MOT:	okay .
+MOT:	hurry up .
+MOT:	hurry up .
+MOT:	go do pee .
+MOT:	hurry up .
+CHI:	hi .
+MOT:	almost done your baloney ?
+CHI:	baloney .
+CHI:	crackers .
+CHI:	xxx mama .
+MOT:	what honey ?
+CHI:	xxx .
+MOT:	what ?
+CHI:	xxx .
+CHI:	xxx .
+MOT:	her name's Helen .
+MOT:	Helen , isn't it ?
+CHI:	Helen .
+MOT:	Helen .
+MOT:	he's trying .
+MOT:	is that what you want , Helen ?
+CHI:	xxx .
+CHI:	voky@b .
+MOT:	no , he's telling you he did uckys@b .
+MOT:	you're a good boy , huh [/?] ?
+CHI:	ready .
+MOT:	you hit it !
+MOT:	come here .
+MOT:	can we play doctor ?
+MOT:	wanna play doctor ?
+CHI:	xxx .
+MOT:	oh , no .
+MOT:	the baloney fell .
+MOT:	let's not squish the baloney .
+CHI:	eat chocolate .
+MOT:	chocolate ?
+CHI:	yay !
+MOT:	what do want that's chocolate ?
+MOT:	you're gonna have supper pretty soon .
+MOT:	where's daddy , gonna come home from work ?
+CHI:	work .
+MOT:	what ?
+MOT:	where's daddy , at work ?
+MOT:	huh [/?] ?
+CHI:	van .
+CHI:	daddy van .
+MOT:	that looks like daddy's van huh [/?] ?
+MOT:	that's why we bought it .
+MOT:	where does Billy sit ?
+MOT:	right there ?
+CHI:	right there .
+MOT:	in the van ?
+CHI:	van .
+MOT:	you wanna go for a ride in the van pretty soon ?
+MOT:	do you wanna go to the parade on sunday ?
+CHI:	parade .
+MOT:	Michael's gonna march .
+MOT:	wanna see Michael march ?
+CHI:	march .
+MOT:	yeah ?
+MOT:	this baloney's been through the mill .
+MOT:	&mm [/?] thank you .
+MOT:	very good .
+MOT:	oh , that's gonna season up the baloney good huh [/?] ?
+MOT:	let's stick the cars on it .
+MOT:	how about another one ?
+CHI:	the van .
+MOT:	a van , yeah .
+CHI:	on car baloney .
+MOT:	very good .
+MOT:	where's the baloney ?
+MOT:	there it is .
+MOT:	how about if we play with &-um [/?] +/.
+MOT:	how about we play doctor ?
+CHI:	mama .
+MOT:	what ?
+MOT:	get it out_of there .
+MOT:	it's gonna get the cars all yicky .
+CHI:	all yicky .
+MOT:	what's that ?
+MOT:	what's that ?
+MOT:	police car .
+CHI:	police car .
+MOT:	police car .
+CHI:	open .
+MOT:	close .
+CHI:	open .
+CHI:	close .
+MOT:	open .
+CHI:	mama .
+CHI:	it closed .
+MOT:	it's closed ?
+CHI:	mama closed .
+MOT:	closed .
+MOT:	yay .
+CHI:	open .
+MOT:	open .
+MOT:	okay .
+MOT:	I don't think it closes like this .
+MOT:	I don't know quite how this thing works .
+CHI:	put it xxx .
+MOT:	get the baloney out_of there you silly head .
+MOT:	no , you don't want that one ?
+MOT:	here .
+MOT:	Billy's baloney .
+MOT:	thank you .
+CHI:	mama do .
+MOT:	I don't want a bite .
+CHI:	mama do .
+MOT:	&mm [/?] delicious .
+CHI:	mama , daddy okay .
+MOT:	what ?
+CHI:	daddy's .
+MOT:	you're gonna give some to daddy when he comes home ?
+CHI:	phone .
+MOT:	where is daddy ?
+CHI:	phone daddy phone .
+MOT:	wanna call daddy on the phone ?
+CHI:	what ?
+MOT:	where you going ?
+CHI:	right back .
+MOT:	no hurry up .
+CHI:	get phone .
+MOT:	oh , alright bring the phone in here .
+MOT:	bring it in here .
+CHI:	get phone .
+MOT:	you got your phone ?
+CHI:	xxx daddy .
+MOT:	okay , we'll call daddy up okay ?
+MOT:	you wanna call daddy ?
+CHI:	yeah .
+MOT:	okay .
+MOT:	hi daddy , Billy wants to say hi .
+MOT:	okay .
+MOT:	say hi to daddy .
+MOT:	go ahead , say hi to daddy .
+MOT:	Bob !
+MOT:	alright .
+MOT:	bye daddy .
+CHI:	right back .
+MOT:	alright sit down .
+MOT:	sit down .
+MOT:	sit down .
+MOT:	call daddy up .
+MOT:	alright call Lala .
+CHI:	Lala .
+MOT:	call Lala .
+CHI:	okay , call Lala ?
+MOT:	yeah .
+MOT:	go ahead .
+MOT:	Billy call Lala .
+CHI:	xxx Lala .
+MOT:	okay .
+MOT:	hi Lala .
+MOT:	wanna say hi to Billy ?
+MOT:	okay .
+MOT:	Lala wants to say hi .
+MOT:	go on .
+MOT:	say hi to Lala .
+MOT:	oh , Lala , Billy doesn't wanna talk .
+MOT:	bye .
+MOT:	Lala said bye .
+CHI:	bye .
+MOT:	yup , that's what Lala said .
+MOT:	where's Lala ?
+CHI:	where Lala ?
+MOT:	where is she ?
+CHI:	Lala .
+MOT:	Lala's all_gone .
+CHI:	gone ?
+MOT:	yeah .
+MOT:	look_it , step on my foot .
+MOT:	I tickled Billy .
+CHI:	no [/?] no .
+MOT:	yeah .
+CHI:	no mama .
+CHI:	not now .
+MOT:	not now ?
+MOT:	what ?
+MOT:	don't push me .
+MOT:	oh , !
+MOT:	you got me .
+MOT:	I'm dead .
+MOT:	I got a boo_boo .
+CHI:	no .
+CHI:	stop that .
+CHI:	xxx .
+CHI:	stop that .
+MOT:	oh , go get me the doctor kit .
+MOT:	go do doctor .
+CHI:	doctor .
+MOT:	go do doctor .
+MOT:	make me all better .
+MOT:	ow [/?] don't tickle me .
+MOT:	go get the doctor .
+MOT:	make me all better .
+MOT:	<ow ow ow> [/?] .
+MOT:	go do doctor .
+MOT:	up there , there's the doctor .
+MOT:	Bob .
+MOT:	I'm gonna cry .
+MOT:	I'm gonna cry .
+MOT:	go get the doctor .
+MOT:	wanna do the doctor ?
+MOT:	wanna see Doctor_Peter ?
+CHI:	ah [/?] head .
+MOT:	your head ?
+CHI:	head .
+MOT:	Billy's head .
+MOT:	it fits your head good .
+MOT:	it doesn't fit me .
+MOT:	what happened ?
+CHI:	xxx .
+MOT:	ah [/?] Billy do .
+CHI:	ow [/?] .
+MOT:	what happened ?
+CHI:	a boo_boo .
+MOT:	where's your boo_boo ?
+CHI:	mama ear .
+MOT:	listen [/?] listen .
+CHI:	what ?
+MOT:	do you wanna go see Doctor_Peter ?
+MOT:	what does Doctor_Peter give you ?
+CHI:	Doctor_Peter .
+MOT:	what does Doctor_Peter give you ?
+MOT:	lollipop ?
+CHI:	lollipop .
+MOT:	does Doctor_Peter give you a lollipop ?
+MOT:	is Doctor_Peter going to look in your ears ?
+MOT:	and in your nose .
+CHI:	nose .
+MOT:	and in your eyes .
+CHI:	eye .
+MOT:	no eyes .
+CHI:	eye .
+MOT:	eyes .
+CHI:	eyes .
+MOT:	and in your mouth .
+CHI:	mouth .
+MOT:	yeah , and on your tongue .
+CHI:	tongue .
+MOT:	and your teeth .
+CHI:	teeth .
+MOT:	yup , and on your chin .
+CHI:	chin .
+MOT:	where's your chin ?
+CHI:	mama .
+MOT:	you're loud !
+MOT:	Billy loud .
+MOT:	you loud ?
+MOT:	what's that ?
+MOT:	you're silly .
+MOT:	look at this Billy .
+MOT:	see my hand ?
+MOT:	see my hand ?
+MOT:	ow [/?] .
+MOT:	my hand .
+MOT:	you're loud .
+MOT:	say “I am loud” .
+MOT:	<ow ow> [/?] .
+MOT:	let's play with Big_Bird .
+CHI:	on phone Big_Bird .
+CHI:	phone Big_Bird .
+MOT:	no , I don't wanna phone Big_Bird .
+CHI:	xxx .
+MOT:	you phone Big_Bird .
+MOT:	what color phone ?
+CHI:	what color phone ?
+MOT:	purple .
+CHI:	purple .
+MOT:	hi Big_Bird .
+MOT:	yeah okay .
+MOT:	bye Big_Bird .
+MOT:	say hi Big_Bird .
+MOT:	say hi Big_Bird .
+MOT:	say hi Big_Bird .
+CHI:	up .
+MOT:	what happened ?
+CHI:	xxx .
+MOT:	let's close it .
+MOT:	now Billy close .
+MOT:	Billy do .
+CHI:	xxx .
+MOT:	don't bite me .
+MOT:	we don't bite people .
+CHI:	what ?
+MOT:	we don't bite people .
+MOT:	okay .
+MOT:	put this on .
+CHI:	no mama do .
+MOT:	mama do .
+MOT:	who's this ?
+CHI:	right there .
+MOT:	what's that ?
+CHI:	Care_bear .
+MOT:	Care_bear , yeah .
+CHI:	phone .
+MOT:	and the Care_bear's talking on the phone .
+CHI:	Care_bear phone .
+MOT:	he's talking on the phone too .
+MOT:	two Care_bears .
+CHI:	xxx .
+MOT:	no , don't take that off .
+MOT:	it's stuck .
+MOT:	hello .
+MOT:	hi Care_bear .
+MOT:	bye Care_bear .
+MOT:	say hi to Care_bear .
+MOT:	say hi to Care_bear .
+CHI:	okay .
+CHI:	baloney .
+MOT:	oh , I don't want the baloney .

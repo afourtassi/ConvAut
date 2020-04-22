@@ -1,0 +1,1028 @@
+participant	content
+CHI:	Big_Bird .
+CHI:	put a plug in .
+MOT:	Jack and +/.
+MOT:	Jack winds up for the +/.
+MOT:	I haven't seen them all day .
+MOT:	Helen's here on monday .
+MOT:	we'll bake some brownies ?
+MOT:	moving right along .
+CHI:	oh , dog .
+MOT:	but Jack remembers the truck spinning around .
+CHI:	goodbye .
+CHI:	Elsa .
+MOT:	what is that letter ?
+MOT:	what's on friday night ?
+CHI:	gogetmatinee@c .
+MOT:	willie's a dog .
+MOT:	Jack says , that's it .
+MOT:	stop it .
+CHI:	Red_Sox .
+CHI:	where's daddy [x 2] ?
+MOT:	no ?
+MOT:	is [/?] there a movie on +/.
+CHI:	this is a +/.
+MOT:	who hit you ?
+CHI:	want you +/.
+MOT:	what do you say ?
+MOT:	is [/?] Jack looking at this ?
+MOT:	are [/?] you clicking something ?
+MOT:	where you gonna put Barclay on Sesame_Street ?
+MOT:	oh , you winking ?
+MOT:	can you mix up that mix in the bowl ?
+CHI:	Chichi +/.
+CHI:	eating their dinner .
+MOT:	Jack , see you on friday Cape_Cod .
+MOT:	Sesame_Street .
+MOT:	Dana and Todd are probably at home because it's [% xxx] raining out
+MOT:	do they come down and shoot some +/.
+MOT:	yeah , everything that you said drew repeated right back to you ,
+CHI:	eating their dinner .
+MOT:	who says that ?
+MOT:	macaroni and +/.
+CHI:	ball .
+CHI:	where's Dana and Todd ?
+MOT:	what did Jack do ?
+CHI:	watch my +/.
+MOT:	what does that mean ?
+CHI:	stop it .
+MOT:	Jack , today is [/?] +/.
+MOT:	who says Chichi get over here ?
+MOT:	monster .
+CHI:	cheers , Josh , xxx .
+CHI:	Debbie_Jungens xxx .
+MOT:	and Matt's home .
+CHI:	this a +/.
+MOT:	yeah !
+MOT:	what is that ?
+MOT:	okay ?
+CHI:	xxx .
+CHI:	we tipped Uncle_Danny under [/?] under water .
+MOT:	what's willie ?
+MOT:	and what did Sasha do ?
+CHI:	boy .
+MOT:	you know someone who +/.
+MOT:	and then Jack said that to drew .
+MOT:	can Jack wink ?
+MOT:	what's his name ?
+MOT:	do you call her Elsa ?
+CHI:	and crash .
+MOT:	what's his name ?
+CHI:	to +/.
+CHI:	good +/.
+CHI:	cheese .
+CHI:	let's go home .
+MOT:	mommy and Jack can put that cake in the oven , okay ?
+MOT:	you and daddy do this all the time .
+CHI:	where's Dana and Todd ?
+MOT:	what are you saying ?
+CHI:	xxx away and birdies .
+MOT:	who says that to Chichi ?
+CHI:	go back a little .
+MOT:	there's that Cookie_Monster .
+MOT:	you tie it halfway .
+MOT:	today is monday .
+MOT:	one eye .
+MOT:	who says that ?
+MOT:	on friday .
+CHI:	ball .
+MOT:	who does that ?
+CHI:	can we go [/?] go today ?
+CHI:	hit here .
+MOT:	chee [/?] cheese .
+MOT:	be careful .
+CHI:	sunday , monday Helen_Flusberg .
+MOT:	and you tipped Uncle_Danny underwater .
+MOT:	who does that Jack ?
+MOT:	but when it's nice out , they can come over here and swim with Jack
+CHI:	no .
+MOT:	Jack , who says Chichi get over here ?
+MOT:	no , Jack was [/?] jumping off that +/.
+CHI:	thursday , friday Helen_Flusberg .
+MOT:	let's erase those words .
+MOT:	okay .
+MOT:	who says Chichi get over here ?
+MOT:	and who else was [/?] down on cape cod that Jack just loves ?
+CHI:	cheese .
+MOT:	he might be over Todd's house .
+MOT:	and we'll be going to Cape_Cod on friday .
+MOT:	that's it .
+CHI:	hold your hand ?
+CHI:	Grover .
+CHI:	cheese .
+MOT:	oh , thank you .
+MOT:	can you say cheese Jack and I'll click .
+MOT:	boxing , right .
+CHI:	tipped +/.
+MOT:	and what's that in your hand ?
+MOT:	I think <Todd's> [/?] Todd's home .
+MOT:	who's Jack talking about ?
+CHI:	drew .
+CHI:	you hit me .
+CHI:	eating their supper ?
+CHI:	gogetmatinee@c .
+MOT:	what does that mean ?
+CHI:	yeah !
+CHI:	xxx .
+MOT:	Jack tried to make some the other night .
+MOT:	Jack , what is that ?
+MOT:	who you looking at ?
+CHI:	on monday +/.
+MOT:	does Jack play with Elsa ?
+CHI:	what do you think ?
+MOT:	who loves cookies ?
+MOT:	let me see .
+MOT:	did you say hi to Tina ?
+MOT:	can Jack wink ?
+MOT:	who did Jack go swimming with ?
+MOT:	who's Jack talking about ?
+MOT:	but we can go +/.
+CHI:	under water .
+MOT:	what does guy +/.
+CHI:	yeah , Jack .
+MOT:	that's not Guy_Smiley .
+CHI:	want WMES .
+CHI:	xxx .
+MOT:	and who plays the guitar , Jack ?
+MOT:	who else does Jack play with at school ?
+MOT:	you and daddy are going on friday .
+MOT:	can you pick out Barclay ?
+CHI:	cut it out !
+CHI:	go Wet_Willie .
+CHI:	<let's> [/?] go down here .
+CHI:	tomorrow .
+CHI:	boy .
+CHI:	bye .
+MOT:	let me see you crack that egg open .
+MOT:	that's the cookie +/.
+CHI:	gogetmatinee@c .
+MOT:	who else ?
+MOT:	that is a +/.
+MOT:	what's this here ?
+MOT:	you writing letters on the rug ?
+MOT:	down to the beach .
+MOT:	Jack look at this little thing .
+CHI:	go back +/.
+CHI:	need pieces .
+MOT:	mama's gonna do the letter +/.
+MOT:	click .
+MOT:	that looks like Harry_Monster .
+CHI:	girl .
+CHI:	i [/?] go swimming today .
+CHI:	xxx .
+CHI:	have +/.
+CHI:	Jack says w@l m@l e@l e@l six .
+CHI:	hi Barclay .
+MOT:	where is it ?
+CHI:	to Cape_Cod .
+MOT:	Jack , look .
+MOT:	and who ?
+CHI:	can we go next sun +/.
+MOT:	are [/?] you looking in that glass ?
+MOT:	that looks like fun .
+MOT:	do you say that ?
+MOT:	put it up there .
+MOT:	his forehead went right on the windshield .
+MOT:	do they ?
+MOT:	Dana and Todd run , and then jump in that water .
+MOT:	would Jack like to &-um [/?] crack the egg open ?
+CHI:	hit +/.
+CHI:	want Dana and Todd mom .
+MOT:	<Jack , Jack> [/?] .
+MOT:	then we'll go swimming , okay ?
+MOT:	shoot some +/.
+CHI:	pitch .
+CHI:	stop it .
+MOT:	and Elsa says , that's not my name Jack .
+MOT:	<who does> [/?] who eats all those cookies ?
+CHI:	say cheese !
+MOT:	who says that ?
+MOT:	have a +/.
+CHI:	cheese !
+MOT:	and what's today ?
+MOT:	it's raining .
+CHI:	Helen talk .
+CHI:	Josh .
+MOT:	wanna put it up where ?
+MOT:	you're gonna go on friday .
+CHI:	j@l [/?] .
+MOT:	Jack can get the spoon and +/.
+MOT:	she'll leave in a little while .
+MOT:	what ?
+MOT:	do you know what that is [% uc] ?
+MOT:	alright .
+CHI:	then we'll take you to Cape_Cod with daddy .
+MOT:	can you say banjo ?
+MOT:	Jack , what were [/?] you jumping off of ?
+MOT:	can I put that ?
+CHI:	xxx .
+MOT:	yeah .
+MOT:	where's that baseball bat , that goes with it ?
+MOT:	is [/?] there a tv show called Angie xxx ?
+MOT:	Jack , what is that ?
+MOT:	Matt's probably at home at his house too .
+MOT:	right there pretend that's a basketball hoop .
+CHI:	Sasha .
+MOT:	Jack likes playing that .
+MOT:	Jack , what's this over here ?
+MOT:	just like Sasha .
+MOT:	Jack likes this .
+MOT:	say cheese !
+CHI:	what's on and friday night ?
+MOT:	Big_Bird's shooting that basket .
+CHI:	boxing .
+MOT:	what's that ?
+CHI:	time to go .
+CHI:	talking .
+CHI:	what's on monday ?
+MOT:	who's this guy ?
+CHI:	let +/.
+MOT:	who's doing that ?
+MOT:	what ?
+MOT:	<ooh , ooh> [/?] .
+MOT:	and what's that ?
+MOT:	oh , look_it all these .
+MOT:	<is it> [/?] who's Angie ?
+MOT:	okay ?
+MOT:	who says Chichi get over here ?
+MOT:	Jack like to talk about &-um [/?] I know .
+CHI:	friday night ?
+MOT:	yeah .
+CHI:	Bert and Ernie .
+CHI:	what's on w@l m@l e@l e@l six ?
+MOT:	and then he crashed .
+MOT:	Red_Sox .
+MOT:	<is that a> [/?] &-um [/?] is [/?] that a piano ?
+MOT:	alright .
+MOT:	who eats all those cookies ?
+MOT:	Jack , what's this guy's name ?
+MOT:	that was [/?] nana on the telephone .
+CHI:	run ?
+MOT:	Jack what do you feel like doing ?
+CHI:	alright xxx .
+MOT:	because it's raining .
+CHI:	Kermit .
+MOT:	there's Big_Bird .
+MOT:	raft .
+MOT:	who's that ?
+MOT:	that one's a broom .
+MOT:	now you got a picture of Jack .
+CHI:	say .
+MOT:	put him on the board , okay ?
+MOT:	Angie .
+MOT:	who does that ?
+MOT:	and Jack and daddy were [/?] swimming down on Cape_Cod .
+MOT:	right .
+MOT:	Jack does that all the time .
+CHI:	have a nice summer .
+MOT:	can you put Barclay on Sesame_Street ?
+MOT:	it's only three thirty in the afternoon .
+MOT:	who watches baseball in this house , Jack ?
+MOT:	does Jack like the Gillmans ?
+MOT:	what does that say ?
+MOT:	can I give it to the Cookie_Monster ?
+MOT:	that makes Bernice very sad ?
+CHI:	click .
+MOT:	<that's looks like> [/?] Jack that looks like a guitar .
+MOT:	drew was [/?] teasing you down on the cape .
+MOT:	and Jack's saluting .
+CHI:	okay .
+MOT:	they're not outside .
+CHI:	xxx .
+MOT:	does Jack like Matt ?
+MOT:	with dad ?
+CHI:	Todd .
+CHI:	shh [/?] .
+MOT:	what's that ?
+MOT:	Guy_Smiley .
+MOT:	no not Doctor_Fox .
+CHI:	what's on +/.
+MOT:	friday .
+MOT:	<what little dog> [/?] what big dog was [/?] down on Cape_Cod with
+MOT:	Bert and Ernie .
+MOT:	does Jack play with Nathaniel ?
+CHI:	shh [/?] stop it .
+MOT:	you and daddy can go in the truck .
+MOT:	who says that ?
+CHI:	go Wet_Willie .
+MOT:	daddy's at work , and daddy will be home +/.
+MOT:	hi Barclay .
+MOT:	he'll go <num num num> [/?] and at that all up .
+CHI:	bye Laurie .
+CHI:	wanna put it up there ?
+MOT:	would Jack like to talk [/?] tell Helen and Tina about Cape_Cod ?
+CHI:	dog .
+MOT:	and what does Jack always do with the baseball ?
+MOT:	Matt's name is short for Matthew .
+CHI:	gogetmatinee@c .
+MOT:	Jack ?
+MOT:	bye Laurie .
+MOT:	mommy and joy will go on saturday .
+CHI:	hi Tina .
+MOT:	and we'll see him on another day .
+MOT:	who says that ?
+MOT:	&-um [/?] .
+MOT:	it's only three o'clock .
+MOT:	yeah .
+MOT:	and Tina .
+CHI:	Red_Sox .
+MOT:	what's on what ?
+MOT:	you wanna play with that ?
+MOT:	daddy .
+CHI:	Dana .
+CHI:	that's down here .
+MOT:	Sasha .
+MOT:	who's that ?
+MOT:	they're probably inside the house where it's nice and dry .
+MOT:	what's Jack want ?
+CHI:	he bit me .
+MOT:	why don't you tie that ?
+CHI:	can we go next thursday ?
+MOT:	Jack .
+MOT:	oh , .
+MOT:	very good .
+MOT:	Jack wants to +/.
+CHI:	whoof [/?] .
+MOT:	what were [/?] you doing ?
+CHI:	cheese !
+CHI:	&sh [/?] stop it .
+MOT:	that looks a little bit like that .
+MOT:	goodbye +/.
+CHI:	xxx go get +/.
+CHI:	don't want goodbye .
+MOT:	they're not riding their bikes .
+MOT:	that's right .
+MOT:	oh , thank you .
+MOT:	one of Jack's favorites !
+CHI:	ball .
+MOT:	Jack , who loves cookies on Sesame_Street ?
+CHI:	chchch [/?] .
+MOT:	oh , we can't write with that because that might break .
+MOT:	so there's <monday , tuesday , wednesday , thursday , and friday>
+MOT:	who else ?
+CHI:	say , Chichi get over here .
+MOT:	yeah !
+MOT:	remember ?
+MOT:	is [/?] that Harry_Monster ?
+MOT:	and who clicks that camera ?
+CHI:	brownies .
+CHI:	where's +/.
+CHI:	my name isn't Angie .
+MOT:	and Jack plays the guitar sometimes .
+MOT:	<does &-um> [/?] does joy say that ?
+MOT:	not today , silly Jack .
+MOT:	who yelled at that dog ?
+CHI:	Jack says +/.
+MOT:	Red_Sox .
+MOT:	Guy_Smiley ?
+MOT:	what does Jack wanna do ?
+MOT:	no , goodbye mama .
+CHI:	xxx .
+MOT:	okay .
+CHI:	&ch [/?] +/.
+MOT:	a +/.
+MOT:	Jack , who plays the guitar ?
+MOT:	Jack .
+MOT:	now Helen's here .
+MOT:	you get your car fixed at the car station .
+MOT:	Jack , Helen's not gonna leave .
+CHI:	get your car fixed .
+MOT:	Jack say shh [/?] ?
+MOT:	<num num num num num> [/?] .
+MOT:	yeah , daddy'll be coming home from work pretty soon .
+MOT:	Jack sit down .
+MOT:	Jack says +/.
+MOT:	who lives up the street ?
+MOT:	who did ?
+CHI:	Guy_Smiley says cheese .
+CHI:	xxx .
+CHI:	hit on the windshield .
+MOT:	so Jack played with willie and Sasha and he had lots_of fun down
+MOT:	that's a ball ?
+MOT:	Big_Bird looks like he's shooting some baskets .
+CHI:	eat +/.
+MOT:	that's it .
+MOT:	is [/?] there a &-um [/?] tv show called Angie ?
+MOT:	does he do that ?
+MOT:	what is that ?
+MOT:	right .
+MOT:	no , that's not a piano .
+MOT:	that's right .
+MOT:	willie is a +/.
+CHI:	yeah .
+MOT:	who eats +/.
+MOT:	oh , Bernice did .
+CHI:	goodbye +/.
+CHI:	here goes .
+CHI:	see Big_Bird .
+MOT:	yeah , dad boxes with Jack .
+CHI:	this is +/.
+CHI:	one [/?] +/.
+MOT:	right through that hoop .
+CHI:	<goodbye Dana> [/?] .
+MOT:	Jack got hit on the windshield , that's right .
+CHI:	and did you have a good weekend ?
+MOT:	you didn't see Doctor_Fox Jack .
+MOT:	does that truck spin around ?
+CHI:	<num num> [/?] .
+CHI:	camera .
+MOT:	oops [/?] .
+CHI:	we will see you on friday ?
+CHI:	drew .
+CHI:	count .
+MOT:	huh [/?] ?
+MOT:	what's that ?
+MOT:	what is that ?
+CHI:	<and and> [/?] and +/.
+MOT:	what is that letter ?
+MOT:	who's that guy ?
+MOT:	Jack ?
+CHI:	okay .
+CHI:	yeah .
+MOT:	Jack , who plays the guitar ?
+CHI:	<two three> [/?] .
+MOT:	what is that ?
+MOT:	the Boston +/.
+CHI:	xxx .
+CHI:	watch my letter .
+MOT:	there you go .
+CHI:	ah [/?] .
+CHI:	been to Cape_Cod .
+MOT:	and then , do you wanna put it in the oven ?
+MOT:	oh , cheese .
+MOT:	oh , he does ?
+CHI:	when Helen leaves .
+MOT:	who +/.
+MOT:	what would Jack like to talk about ?
+MOT:	we can go to Cape_Cod on +/.
+MOT:	click .
+MOT:	Jack .
+CHI:	goodbye +/.
+CHI:	friday .
+MOT:	where's that baseball bat ?
+CHI:	click .
+MOT:	here he is [% uc] .
+CHI:	yeah .
+MOT:	yeah .
+MOT:	I don't know .
+MOT:	who lives up the street .
+MOT:	would you like to watch that tonight ?
+CHI:	stop it .
+MOT:	where do you wanna put that ?
+MOT:	Jack .
+CHI:	bye .
+CHI:	Guy_Smiley .
+CHI:	nice summer .
+MOT:	what is that Jack in you hand ?
+CHI:	xxx .
+MOT:	here we go again <with the> [/?] with the camera .
+MOT:	who said bad dog ?
+MOT:	Jack likes to shoot that +/.
+MOT:	Jack , what else do you like to cook ?
+MOT:	and they're not swimming .
+MOT:	well we can't go today because jacks has [/?] to go to school
+MOT:	Jack , what do you +/.
+MOT:	and then what did Jack say to drew ?
+CHI:	under water .
+MOT:	I forget her name .
+MOT:	that's it .
+MOT:	that is [/?] a +/.
+MOT:	yeah .
+CHI:	don't worry .
+MOT:	who did ?
+CHI:	<dog is> [/?] bad xxx dog .
+MOT:	you were [/?] teasing each_other .
+CHI:	piano .
+CHI:	Michael .
+MOT:	who says stop it ?
+CHI:	Chichi , get over here .
+CHI:	what do you say ?
+MOT:	what is that right there ?
+MOT:	<Jack , Jack> [/?] Jack .
+MOT:	what's that big white dog named ?
+MOT:	who watches baseball in this house ?
+CHI:	okay .
+MOT:	does mama say that ?
+CHI:	okay .
+MOT:	okay .
+CHI:	Angie !
+CHI:	xxx .
+MOT:	let me see Jack wink .
+CHI:	whoof [/?] .
+MOT:	what car does Jack like best ?
+MOT:	and then we can pour in a little milk .
+CHI:	boxing ?
+CHI:	see them while they're cooking .
+MOT:	do they throw Jack up in the air ?
+MOT:	that's a picture of a +/.
+MOT:	Jack , what's today ?
+MOT:	yeah , Jack played with willie too .
+MOT:	who says shh [/?] stop it ?
+CHI:	goodbye .
+MOT:	did drew say that ?
+MOT:	Jack , who yelled at that dog ?
+MOT:	would Jack like to talk to me and tell me who these guys are ?
+MOT:	Sasha ran away from Jack , and Jack +/.
+MOT:	not today , because it's raining .
+MOT:	who said bad dog ?
+MOT:	what is that ?
+CHI:	okay .
+CHI:	go back +/.
+MOT:	he takes his little pointer finger , and laughs and I have no idea
+MOT:	who was [/?] there ?
+MOT:	were [/?] you playing a game underwater ?
+CHI:	let's make Bernice very sorry .
+CHI:	there's a cookie .
+MOT:	that's it .
+MOT:	Todd , right .
+MOT:	that's it .
+MOT:	that's right .
+MOT:	ooo [/?] Jack was <in a> [/?] in an accident with his dad .
+MOT:	and what did drew say to Jack ?
+CHI:	<see you on another day> [/?] .
+MOT:	that is a +/.
+MOT:	is [/?] that what Helen said to Jack ?
+MOT:	oh , my_goodness .
+MOT:	Jack , who lives up the street ?
+MOT:	did Jack like playing with all these characters ?
+MOT:	what does Jack wanna do ?
+MOT:	see Big_Bird .
+CHI:	and Angie !
+CHI:	a baseball bat .
+MOT:	let me see you pour that milk in .
+CHI:	there .
+MOT:	you know who's playing tonight ?
+MOT:	off that raft .
+MOT:	or &-um [/?] brownies ?
+CHI:	box .
+MOT:	oh , drew , that's right .
+MOT:	what did Chichi do ?
+MOT:	who does Jack like to play basketball with ?
+MOT:	okay , put it up there .
+CHI:	<whoof , whoof , whoof> [/?] .
+MOT:	yeah .
+MOT:	is [/?] that a piano ?
+MOT:	who is Jack saluting ?
+MOT:	and what ?
+MOT:	for a walk , along the beach .
+CHI:	my name .
+CHI:	yeah .
+MOT:	or not .
+MOT:	did I hear Uncle_Danny's name mentioned there ?
+CHI:	friday night ?
+MOT:	let me see Jack wink .
+MOT:	you want daddy to come ?
+MOT:	Jack .
+MOT:	who's this ?
+MOT:	and we took Sasha down to the +/.
+CHI:	ever , ever do that again .
+MOT:	and then what's this ?
+MOT:	and into that water ?
+CHI:	don't wanna do it .
+MOT:	<to Helen> [/?] Chichi's a little chihuahua up the street .
+MOT:	and the dog goes whoof [/?] .
+MOT:	Jack , what else do you like to cook ?
+MOT:	are [/?] we boxing ?
+CHI:	wink .
+MOT:	who plays baseball ?
+MOT:	that's right .
+MOT:	not yet .
+MOT:	who's xxx that in there ?
+CHI:	no !
+MOT:	let me see Jack wink .
+CHI:	and xxx .
+MOT:	where is that ?
+MOT:	are [/?] you clicking that camera still ?
+CHI:	Angie !
+MOT:	who eats all those cookies on Sesame_Street ?
+MOT:	Jack <what would> [/?] what do you wanna do ?
+MOT:	and got a bump on his head , that's right .
+CHI:	that's down here .
+MOT:	the matinee ?
+MOT:	who hit the dog ?
+MOT:	did Jack go swimming ?
+MOT:	willie is +/.
+CHI:	Todd's +/.
+MOT:	mama doesn't , but his daddy does .
+MOT:	who ?
+CHI:	there [/?] there's a cookie .
+MOT:	oh , way up there ?
+MOT:	but when it's +/.
+MOT:	Big_Bird .
+MOT:	willie is a +/.
+MOT:	okay , you tie it halfway and I'll +/.
+CHI:	Sesame_Street [/?] .
+MOT:	the other day ?
+MOT:	stop it .
+CHI:	can we go swimming today ?
+MOT:	basketball .
+MOT:	you were [/?] teasing each_other , &were [/?] (were)n't you ?
+CHI:	Angie .
+CHI:	dirt ball .
+MOT:	what's that right there ?
+CHI:	pieces .
+CHI:	you put a plug in .
+MOT:	are [/?] you spelling that out , too ?
+MOT:	Jack what ?
+MOT:	does Debbie_Jungens play that ?
+MOT:	that looks like fun .
+CHI:	shh [/?] stop it .
+MOT:	and Matt ?
+CHI:	say get out_of here .
+CHI:	xxx .
+MOT:	who does that with Jack ?
+CHI:	where's Dana and Todd Julie and Matt .
+MOT:	what kinda cake does Jack wanna bake ?
+MOT:	what does he do ?
+MOT:	what is this ?
+MOT:	down where ?
+CHI:	daddy [x 2] .
+MOT:	where's the baseball bat ?
+MOT:	who's that ?
+CHI:	monday .
+CHI:	Angie .
+CHI:	says Angie .
+MOT:	did Jack get the leash ?
+CHI:	cheese .
+MOT:	what does that mean ?
+CHI:	everybody say cheese .
+MOT:	Jack's saying have a good weekend .
+MOT:	that was [/?] a big yawn for a little guy .
+MOT:	<num num num num> [/?] .
+MOT:	pour that milk in .
+CHI:	you +/.
+CHI:	for the adventures of Guy_Smiley !
+MOT:	play set .
+CHI:	xxx .
+CHI:	xxx .
+CHI:	bye Chichi .
+CHI:	monster .
+CHI:	okay .
+CHI:	i [/?] I come out tomorrow .
+MOT:	I don't think they're eating their dinner .
+MOT:	Jack likes which car ?
+MOT:	have a good weekend ?
+MOT:	<and what did Jack> [/?] what did Jack do with Sasha ?
+MOT:	what's his name ?
+CHI:	boy .
+MOT:	it's too early .
+MOT:	or a chocolate cake ?
+MOT:	and who else ?
+MOT:	does Jack like to play basketball ?
+CHI:	roll over he says .
+CHI:	he hit me .
+MOT:	ball .
+MOT:	what kind of cake ?
+MOT:	Grover .
+MOT:	okay ?
+MOT:	that's a big yawn .
+MOT:	I can have a pretend camera .
+CHI:	talk .
+MOT:	let's look at that Jack .
+MOT:	Jack's getting to be a good boxer , huh [/?] .
+MOT:	put that up there .
+CHI:	gogetmatinee@c .
+MOT:	Jack , do you know what that is [% cc] ?
+CHI:	so_that +/.
+CHI:	click .
+CHI:	daddy .
+CHI:	Guy_Smiley .
+MOT:	monday .
+MOT:	say it again ?
+MOT:	Jack can watch those cartoons as_soon_as &-um [/?] Helen and Tina
+CHI:	< one , two , xxx five> [/?] .
+MOT:	oh , is [/?] he gonna run right across that thing and get that
+MOT:	let me see Jack mix that cake mix .
+MOT:	you wanna do that ?
+MOT:	today .
+CHI:	Jack .
+MOT:	<he can pre> [/?] he can pretend there's a basketball hoop right
+CHI:	raft .
+CHI:	yeah .
+CHI:	shh [/?] .
+MOT:	yeah .
+CHI:	where's Barclay ?
+MOT:	and on friday , if Jack's good , you can drive down Cape_Cod with
+MOT:	are [/?] you talking about frank and Bernice ?
+CHI:	cheese .
+MOT:	Jack said that to +/.
+MOT:	did Jack like playing with the Big_Bird color form play set ?
+CHI:	tuesday , wednesday Helen_Flusberg .
+MOT:	yeah .
+MOT:	okay ?
+CHI:	okay !
+MOT:	oh , what's that ?
+CHI:	jump in the water .
+CHI:	six .
+MOT:	yeah .
+MOT:	good .
+CHI:	count .
+MOT:	who said that ?
+MOT:	who's that ?
+MOT:	what is this ?
+MOT:	you writing those words ?
+MOT:	who says that ?
+MOT:	is [/?] that it ?
+MOT:	Jack looking at himself <in the> [/?] in the glass there ?
+MOT:	and Dana's home .
+CHI:	I +/.
+MOT:	you wanna go today ?
+MOT:	hello Jack how are you .
+CHI:	should I put in on here ?
+MOT:	today is [/?] +/.
+MOT:	oh , <we'll put that> [/?] +/.
+MOT:	that's right .
+CHI:	tomorrow morning .
+MOT:	Jack's blinking .
+MOT:	and what ?
+CHI:	let's go home .
+MOT:	Jack , what are you talking about ?
+CHI:	Jack says sunday monday .
+CHI:	xxx .
+CHI:	stop it .
+CHI:	Todd is eating his supper .
+MOT:	you can watch &-um [/?] whoever plays .
+MOT:	sh [/?] stop it .
+CHI:	turn if off .
+MOT:	and what ?
+MOT:	now what's Jack gonna do with the box ?
+CHI:	yeah .
+CHI:	not down here .
+MOT:	what is that ?
+MOT:	can you say banjo ?
+CHI:	stop it .
+MOT:	is it .
+MOT:	put that in the bowl .
+MOT:	Jack and daddy watch the Boston +/.
+MOT:	okay , now pick that up .
+CHI:	where's Dana and Todd ?
+MOT:	did you take my picture ?
+MOT:	Dana and +/.
+MOT:	what would Jack +/.
+MOT:	the Muppet_Babies .
+CHI:	just like Aquaman .
+MOT:	down where ?
+MOT:	what is that ?
+CHI:	where's Doctor_Fox ?
+CHI:	where's daddy [x 2] ?
+MOT:	who ?
+CHI:	Angie .
+MOT:	does Jack wanna bake a gingerbread cake ?
+MOT:	oh , .
+CHI:	w@l m@l e@l e@l six .
+MOT:	up here ?
+CHI:	a good +/.
+CHI:	stop it .
+MOT:	right now .
+MOT:	now .
+MOT:	did you say hi to Laurie ?
+CHI:	dog .
+MOT:	Jack .
+MOT:	Jack , who's that a picture of ?
+MOT:	here .
+MOT:	who hit you ?
+CHI:	ball .
+MOT:	Jack did ?
+MOT:	or and cheese ?
+CHI:	baseball .
+MOT:	okay ?
+MOT:	because he talks about it once in a while .
+MOT:	easy [/?] easy .
+MOT:	and today's monday .
+CHI:	wanna put something on +/.
+MOT:	who's this guy here ?
+CHI:	when daddy come ?
+MOT:	ready , smile .
+MOT:	where is Barclay ?
+CHI:	hi , Helen .
+MOT:	and comes down and plays with Jack ?
+MOT:	oh , does Guy_Smiley say cheese ?
+CHI:	xxx .
+MOT:	right .
+CHI:	what is that ?
+MOT:	we can do that .
+CHI:	say cheese .
+MOT:	and willie is a +/.
+MOT:	no , that's blinking .
+MOT:	what's that ?
+MOT:	what is this ?
+MOT:	pitch , right .
+CHI:	stop .
+CHI:	special .
+MOT:	what's the name of Uncle_Danny's dog ?
+MOT:	Jack says Guy_Smiley .
+MOT:	that's a guitar .
+MOT:	you wanna put that down there ?
+CHI:	Angie !
+CHI:	come on xxx .
+MOT:	who else does Jack play with at school ?
+MOT:	can Jack wink ?
+MOT:	<easy with that> [/?] easy with that .
+MOT:	where is the ball ?
+MOT:	and Jack's writing on the rug .
+MOT:	what's that ?
+MOT:	is [/?] that a banjo ?
+CHI:	boxing .
+CHI:	meet six xxx .
+CHI:	cookie .
+CHI:	cheese !
+CHI:	cheese !
+MOT:	he eats all those cookies .
+CHI:	yeah .
+CHI:	he bumped .
+MOT:	oh , that was [/?] fun Jack .
+CHI:	shh [/?] stop it Jack .
+CHI:	can we go today ?
+MOT:	doesn't he ?
+MOT:	do the call Matt matinee ?
+MOT:	who's that in there ?
+CHI:	mee [/?] .
+MOT:	who is Angie ?
+MOT:	look at that big belly .
+MOT:	does Jack play with <ah &-um> [/?] +/.
+MOT:	what kind of a ball ?
+MOT:	and what's Harry_Monster doing ?
+MOT:	ball .
+MOT:	that is +/.
+MOT:	what's that Jack ?
+MOT:	under water .
+MOT:	what did you cook on the stove ?
+MOT:	ah [/?] a chocolate chip cookie !
+MOT:	Jack .
+CHI:	car station .
+MOT:	Dana and Todd are in their house I think right now .
+CHI:	car .
+CHI:	drew .
+MOT:	Guy_Smiley ?
+CHI:	have a nice weekend Dana .
+MOT:	who does that ?
+MOT:	after Helen leaves you wanna make a cake ?
+CHI:	ball .
+CHI:	yeah .
+CHI:	shh [/?] .
+CHI:	bad dog !
+MOT:	Jack , who said bad dog ?
+MOT:	what's Jack gonna put in the box ?
+MOT:	I forget her name .
+CHI:	Guy_Smiley .
+CHI:	that truck spins around .
+MOT:	who says that ?
+CHI:	maybe it's Jack .
+MOT:	who's tickling Jack's back ?
+MOT:	but Jack went swimming in the ocean .
+MOT:	okay ?
+MOT:	mon [/?] today's monday and Helen_Flusberg is here .
+MOT:	is [/?] he on Sesame_Street ?
+MOT:	who plays that guitar ?
+MOT:	<tuesday , wednesday , thursday> [/?] four more days .
+MOT:	who's that ?
+MOT:	j@l [/?] .
+MOT:	Jack , <who else does Angie play with> [/?] ah [/?] who else does
+MOT:	alright , you put him on the &-um [/?] +/.
+MOT:	what letter is Jack gonna make ?
+CHI:	yeah .
+MOT:	okay ?
+MOT:	Jack , who says Angie ?
+MOT:	and what did Jack and daddy do in the water ?
+CHI:	don't you want me to xxx .
+MOT:	can I put it down there ?
+MOT:	and mix that cake mix .
+MOT:	oh , no !
+CHI:	Dana's +/.
+MOT:	this is a picture of a +/.
+CHI:	Laurie .
+MOT:	I haven't seen Dana all day .
+CHI:	baseball .
+MOT:	Jack ?
+MOT:	on another day , okay ?
+MOT:	and what can Jack do ?
+MOT:	Jack , what car do you like best ?
+CHI:	on a different day .
+CHI:	the diving board .
+CHI:	cheese xxx .
+MOT:	what's that ?
+MOT:	if it's nice out , sure .
+CHI:	run and jump in the water .
+MOT:	click .
+CHI:	get on your horse and get out_of here .
+MOT:	oh , look at this Jack .
+MOT:	what's his name ?
+MOT:	you can see Helen .
+CHI:	Guy_Smiley .
+MOT:	just like Aquaman , that's right .
+CHI:	bad dog .
+MOT:	you wanna come over here ?
+MOT:	<did Jack> [/?] did Jack like drew ?
+MOT:	willie is a +/.
+CHI:	gogetmatinee@c .
+MOT:	they're not walking outside .
+CHI:	run in the water .
+CHI:	hello Jack how are you ?
+CHI:	okay .
+CHI:	Bert .
+CHI:	yeah .
+MOT:	who goes <num num num num num num num num> [/?] ?
+MOT:	Jack , can Jack wink ?
+MOT:	who's that ?
+CHI:	cape .
+MOT:	we went to see Doctor_Delong afterwards .
+MOT:	and who's that ?
+MOT:	who ?
+MOT:	who does Jack like ?
+MOT:	can mama do a letter ?
+MOT:	so you gave me the chocolate chip cookie .
+MOT:	Jack .
+MOT:	did Jack just crash on the rug ?
+CHI:	stop it xxx .
+CHI:	where's daddy [x 2] ?
+CHI:	and +/.
+MOT:	Jack .
+MOT:	and what's this ?
+MOT:	and then &-um [/?] we can put in the cake mix .
+CHI:	ah [/?] .
+MOT:	Jack look at this .
+MOT:	Jack likes to make +/.
+MOT:	go ahead .
+CHI:	click !
+MOT:	Jack , put it up there .
+MOT:	does Jack like baseball ?
+CHI:	Laurie .
+MOT:	that's right .
+MOT:	and jump in the water .
+MOT:	that's a picture of a +/.
+CHI:	Angie .
+MOT:	who calls you little buddy ?
+CHI:	goodbye Cape_Cod .
+MOT:	Jack , look at +/.
+MOT:	what would Jack like to talk about ?
+MOT:	drew said that to Jack .
+MOT:	put that baseball bat up there .
+CHI:	T's +/.
+MOT:	you wanna cook brownies ?
+MOT:	on a different day , when the sun is shining .
+MOT:	no , I think they might be &-um [/?] +/.
+MOT:	Jack and +/.
+CHI:	Helen leave ?
+MOT:	you're gonna crash !
+CHI:	car .
+CHI:	hi Tina .
+MOT:	and then you and daddy flipped the raft over +/.
+MOT:	Jack says +/.
+MOT:	who does that ?
+MOT:	boxing , right .
+MOT:	Helen's not gonna leave just yet Jack .
+MOT:	and what does Jack say to drew ?
+MOT:	but Jack's okay and Jack's [% cc] safe now .
+CHI:	Bernice .
+MOT:	pictures of all these characters and things .
+MOT:	okay ?
+MOT:	Angie ?
+CHI:	xxx .
+CHI:	Doctor_Fox is home .
+MOT:	all these color forms ?
+CHI:	xxx .
+MOT:	that's a reflection of +/.
+CHI:	he +/.
+CHI:	Guy_Smiley .
+MOT:	oh , is [/?] that a game you play with Elsa ?
+CHI:	<Big_Bird color forms play set> [/?] .
+MOT:	who's that a picture of ?
+CHI:	and go to Cape_Cod ?
+MOT:	I'll put it down there .
+MOT:	does Dana and Todd [/?] Todd say that ?
+MOT:	where is it ?
+CHI:	cheese .
+CHI:	goodbye cape +/.
+CHI:	okay .
+MOT:	does Guy_Smiley click the camera ?
+MOT:	cousin drew .
+MOT:	that's what daddy does with Jack .
+CHI:	put it up there .
+CHI:	car .
+CHI:	shh [/?] .
+MOT:	Debbie_Jungens plays the guitar .
+MOT:	oop [/?] thank you .
+CHI:	gogetmatinee@c .
+CHI:	used cars .
+MOT:	who says Angie ?
+MOT:	easy [/?] easy .
+MOT:	everybody say cheese .
+CHI:	Doctor_Fox .
+CHI:	needta tie it .
+MOT:	he's right over here .
+CHI:	okay .
+CHI:	click .
+MOT:	daddy and Jack box all the time , huh [/?] ?
+MOT:	in the house .
+MOT:	Jack likes to play basketball with +/.
+MOT:	what do you say ?
+MOT:	who says +/.
+MOT:	huh [/?] ?
+CHI:	went from the cottage .
+CHI:	xxx .
+MOT:	wanna put the Cookie_Monster up there so he can eat that chocolate
+CHI:	whoof [/?] .
+MOT:	doctor +/.
+MOT:	she wants you to come down and visit , okay ?
+MOT:	does he say Angie ?
+MOT:	put it up there with that baseball .

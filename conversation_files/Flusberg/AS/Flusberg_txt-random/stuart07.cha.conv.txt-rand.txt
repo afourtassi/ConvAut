@@ -1,0 +1,696 @@
+participant	content
+CHI:	go on .
+CHI:	airplane .
+CHI:	xxx .
+MOT:	not right now .
+MOT:	put them in .
+MOT:	touch your back .
+MOT:	blocks .
+MOT:	okay , you're quiet now .
+CHI:	supper [/?] supper .
+MOT:	<and down> [/?] .
+MOT:	alright , up .
+MOT:	his mommy's kissing him .
+MOT:	yeah , he's a good boy .
+CHI:	bad .
+MOT:	pick it up .
+MOT:	how you doing ?
+MOT:	the birdie ?
+CHI:	circle .
+CHI:	<toilet , toilet , toilet> [/?] toilet .
+MOT:	no mouthing .
+CHI:	no .
+CHI:	Big_Bird .
+MOT:	Big_Bird's sitting in the truck .
+MOT:	which [/?] what do you want ?
+MOT:	you can take it out .
+CHI:	want toy .
+MOT:	there it goes , way up .
+CHI:	you want candy ?
+MOT:	Stuart ?
+MOT:	would you like mama to read you the book ?
+MOT:	put your hands down .
+MOT:	good boy .
+CHI:	yeah .
+CHI:	catch .
+MOT:	say , goodbye papa .
+MOT:	up .
+MOT:	punch .
+CHI:	xxx .
+MOT:	open .
+MOT:	yeah , that's nice singing .
+CHI:	xxx fine .
+MOT:	Stuart .
+MOT:	put them in .
+MOT:	look at me .
+MOT:	no , it's okay .
+MOT:	dump them .
+CHI:	up .
+MOT:	okay .
+CHI:	<ba ba> [/?] .
+CHI:	want two .
+MOT:	touch your legs .
+CHI:	<poo , poo> [/?] .
+CHI:	dot .
+MOT:	you wash your hands .
+CHI:	birdie .
+MOT:	<bang , bang> [/?] bang .
+MOT:	good boy Stuart .
+MOT:	see the salad .
+MOT:	this is a circle .
+MOT:	okay ?
+MOT:	Stuart .
+CHI:	bo [/?] .
+MOT:	there you go .
+MOT:	see the shoes .
+MOT:	make a tower .
+MOT:	come on .
+MOT:	straight .
+MOT:	<dot , dot , dot , dot , dot> [/?] dot .
+MOT:	good .
+MOT:	do you wanna put the cow in ?
+CHI:	touch ba [/?] back .
+MOT:	that was [/?] pretty good .
+MOT:	they're gonna make a tower .
+MOT:	Stuart .
+MOT:	look , throw the ball .
+MOT:	Stuart's playing with his drum .
+MOT:	let's push it .
+CHI:	get it .
+CHI:	straight .
+MOT:	and the fork and the dish .
+MOT:	oh , look Stuart .
+MOT:	I think we should clap for Stuart .
+MOT:	say , no .
+MOT:	Stuart make a circle .
+MOT:	there they are [% uc] .
+CHI:	<pee bah ah> [/?] !
+MOT:	that's supper .
+MOT:	this is a cow .
+CHI:	Big_Bird [/?] Big_Bird .
+CHI:	circle .
+MOT:	dot .
+CHI:	bir [/?] +/.
+MOT:	nice job pushing .
+MOT:	do you need the toilet ?
+CHI:	hi papa .
+MOT:	goo [/?] +/.
+CHI:	xxx .
+MOT:	see , he's putting his clothes on .
+MOT:	do you wanna play with me ?
+CHI:	yeah .
+CHI:	<jingle bells> [/?] .
+CHI:	off .
+CHI:	make a cir [/?] +/.
+MOT:	<the driver on the bus says> [/?] +/.
+MOT:	Stuart's building a tower .
+MOT:	you have the star .
+MOT:	touch your knees .
+CHI:	xxx push .
+MOT:	it's a big balloon .
+MOT:	how about +/.
+MOT:	and the blocks .
+MOT:	pick it up .
+MOT:	here you go .
+MOT:	here it comes .
+MOT:	good .
+CHI:	candy .
+MOT:	Ma [/?] +/.
+MOT:	good !
+MOT:	hey [/?] let's call papa .
+CHI:	Jingle_Bells .
+MOT:	the birdie whistles .
+MOT:	good .
+MOT:	put your hands down .
+MOT:	good boy Stuart .
+CHI:	<toilet , toilet> [/?] toilet .
+CHI:	touch your back .
+CHI:	two .
+MOT:	you're being a good boy .
+MOT:	Stuart .
+CHI:	dot .
+CHI:	catch .
+MOT:	you're putting the pieces in .
+MOT:	look at me .
+CHI:	toilet .
+CHI:	xxx .
+MOT:	look .
+MOT:	oh , good boy , you pulled it off .
+MOT:	straight .
+MOT:	what's this ?
+CHI:	book .
+MOT:	Stuart .
+MOT:	that's right .
+MOT:	like this .
+MOT:	there you go .
+MOT:	Stuart , see the spoon .
+CHI:	toy .
+CHI:	touch your eye .
+CHI:	drink .
+MOT:	yey [/?] Stuart .
+MOT:	what do you say ?
+MOT:	you're pushing the horsie .
+MOT:	bir [/?] +/.
+MOT:	that's a circle .
+MOT:	what are you saying Stuart ?
+MOT:	there's Big_Bird .
+MOT:	<the wheels on the bus go> [/?] +/.
+MOT:	Stuart , do you wanna put the blocks on ?
+CHI:	piano .
+CHI:	candy .
+MOT:	oh , look at that .
+MOT:	good boy .
+MOT:	it's an airplane .
+CHI:	dump them .
+MOT:	put your hands down Stuart .
+CHI:	open xxx shut .
+MOT:	so you can eat .
+MOT:	clap for Stuart .
+CHI:	toilet .
+CHI:	touch your arm .
+MOT:	okay Stuart , you're quiet now .
+MOT:	put your hands down .
+MOT:	touch your eyes .
+MOT:	say yes .
+MOT:	should we open it ?
+MOT:	what do you want ?
+MOT:	Stuart .
+CHI:	hi .
+MOT:	do this .
+CHI:	bo [/?] .
+MOT:	nice asking me .
+MOT:	shoes .
+CHI:	okay .
+CHI:	drink [/?] drink .
+MOT:	Stuart , they're eating supper .
+CHI:	<bang , bang> [/?] bang .
+MOT:	you gotta press them .
+MOT:	push it .
+MOT:	good boy Stuart .
+MOT:	up .
+MOT:	yes , good .
+MOT:	Stuart .
+MOT:	you needta hold it nicely .
+CHI:	xxx .
+MOT:	that's good pushing the truck with Big_Bird in it .
+MOT:	yes , you do .
+MOT:	you're clapping .
+CHI:	touch your shoulder .
+MOT:	push .
+MOT:	oh , look .
+MOT:	you take it out .
+MOT:	Stuart ?
+CHI:	piano mama .
+MOT:	you caught the ball .
+MOT:	wanna play catch ?
+MOT:	he gets a kiss .
+CHI:	Big_Bird .
+MOT:	playing nice .
+MOT:	look at me .
+CHI:	toilet .
+MOT:	oh , here we go round and round .
+CHI:	egg [/?] egg .
+MOT:	do you wanna read your book ?
+MOT:	press the buttons .
+MOT:	what's this ?
+MOT:	and the cup to drink .
+MOT:	this is a circle .
+MOT:	Stuart .
+CHI:	Jingle_Bells .
+MOT:	oh , nice job .
+MOT:	Stuart , I know you can make a line .
+MOT:	Stuart , look we have a present .
+MOT:	<round and round , round and round , round and round> [/?] .
+MOT:	we have the xylophone .
+MOT:	and push .
+MOT:	Stuart , you're playing with your drum .
+CHI:	xxx .
+MOT:	toilet .
+MOT:	say , hello papa .
+MOT:	what does the clock do ?
+CHI:	shoulder .
+MOT:	you writing ?
+MOT:	straight .
+MOT:	dadada [/?] .
+MOT:	tower !
+MOT:	dump them .
+MOT:	do you know some more songs ?
+MOT:	see how you punch it .
+MOT:	good job Stuart .
+MOT:	where are they ?
+MOT:	good boy .
+MOT:	here's more .
+MOT:	look .
+MOT:	bang .
+MOT:	Stuart , what's this ?
+MOT:	Stuart .
+MOT:	touch your knees .
+MOT:	Stuart , you're playing with the puzzle .
+CHI:	my toy .
+MOT:	pull it .
+MOT:	touch your teeth .
+MOT:	dump them out .
+CHI:	yeah .
+MOT:	that's nice saying thank you .
+MOT:	good .
+MOT:	good .
+MOT:	and the brush .
+CHI:	open xxx shut birdie .
+CHI:	block .
+MOT:	there you go .
+MOT:	look at me .
+MOT:	make a straight line .
+CHI:	xxx .
+MOT:	Stuart , let's take them out .
+MOT:	hold it right .
+MOT:	what should we sing ?
+MOT:	and we'll look at the pictures .
+MOT:	and see the bed .
+MOT:	Stuart picks up the book .
+MOT:	you're alright .
+MOT:	Stuart ?
+MOT:	what's the birdie say ?
+MOT:	Stuart .
+MOT:	and milk .
+CHI:	bye .
+MOT:	hold it .
+MOT:	good playing .
+MOT:	nice pushing .
+MOT:	and how about this ?
+MOT:	no .
+MOT:	yey [/?] good throwing .
+CHI:	xxx .
+MOT:	I know you can do this .
+MOT:	okay , you're quiet now , Stuart .
+MOT:	he's gonna go night_night in the bed .
+CHI:	thank you .
+MOT:	look here .
+MOT:	press .
+MOT:	touch your eyes .
+CHI:	xxx bad .
+MOT:	can have it for lunch .
+CHI:	<dot , dot> [/?] dot .
+MOT:	it's the horsie .
+MOT:	Stuart caught the ball !
+CHI:	toilet .
+MOT:	do you wanna play catch ?
+CHI:	yeah .
+MOT:	good job Stuart .
+MOT:	like mine .
+CHI:	what this ?
+MOT:	oh , there's all the blocks .
+CHI:	touch your teeth .
+CHI:	xxx .
+CHI:	yeah .
+MOT:	Stuart .
+MOT:	books .
+CHI:	how you do [/?] do ?
+CHI:	touch your knees .
+MOT:	you sleep on the bed Stuart .
+MOT:	and then you dry them .
+MOT:	he's gonna go home now .
+CHI:	okay ?
+MOT:	yeah .
+CHI:	tick tock .
+CHI:	dot .
+CHI:	xxx .
+CHI:	no .
+MOT:	that's right !
+CHI:	yeah .
+MOT:	star goes in .
+MOT:	good boy .
+MOT:	round .
+CHI:	turn .
+MOT:	what's this ?
+MOT:	good writing .
+MOT:	you brush your teeth with the tooth brush .
+CHI:	want the horsie .
+MOT:	Stuart , you needta sit nice .
+MOT:	you wanna make dots ?
+MOT:	where's your shoulders ?
+MOT:	who's that ?
+MOT:	he's in the truck .
+MOT:	circle .
+CHI:	xxx .
+MOT:	and here's blue .
+MOT:	open it up .
+CHI:	oh , .
+MOT:	<oh what fun , it is to ride , in a one horse open sleigh> [/?] .
+MOT:	well , we don't have any eggs right now .
+MOT:	hang it up .
+MOT:	pull ah [/?] .
+MOT:	do you need the toilet ?
+MOT:	around .
+MOT:	see the pictures ?
+MOT:	red .
+MOT:	that's a straight line .
+MOT:	say , bye papa .
+MOT:	goes over here .
+MOT:	circle .
+MOT:	look_it .
+CHI:	candy .
+CHI:	bad .
+MOT:	play the piano .
+MOT:	you opened the book Stuart .
+MOT:	in the water .
+CHI:	<sit right down> [/?] .
+CHI:	yeah .
+CHI:	toilet xxx .
+CHI:	need toilet .
+CHI:	touch le [/?] leg .
+MOT:	how about we blow ?
+CHI:	no .
+MOT:	look .
+MOT:	that's it .
+MOT:	what's the birdie say ?
+MOT:	what's this ?
+CHI:	candy ?
+MOT:	he's sitting in the truck .
+CHI:	xxx .
+CHI:	no .
+MOT:	you're making a tower .
+MOT:	touch your knees .
+MOT:	you pick it up .
+CHI:	bebebebe [/?] .
+MOT:	here's Cookie_Monster .
+MOT:	let's see you do round .
+MOT:	you wash your hands with the soap .
+MOT:	look at me .
+CHI:	hi .
+MOT:	nice trying .
+CHI:	mama , I want candy .
+MOT:	that's a boy .
+CHI:	puzzle .
+CHI:	want egg .
+CHI:	push [/?] push .
+MOT:	Big_Bird ?
+CHI:	hi .
+MOT:	we play catch with the ball .
+CHI:	go .
+CHI:	no bad .
+MOT:	<jingle bells , jingle bells , jingle all the way> [/?] .
+CHI:	round [/?] +/.
+MOT:	what do you want ?
+MOT:	so he can brush his teeth .
+MOT:	later for lunch .
+MOT:	Stuart do you wanna play ?
+MOT:	you do it .
+CHI:	<sit down> [/?] .
+MOT:	that's a heart .
+MOT:	touch your arms .
+MOT:	do you wanna play your drum ?
+CHI:	<round and> [/?] +/.
+MOT:	good .
+MOT:	that's right .
+MOT:	touch your shoulders .
+MOT:	look .
+MOT:	there you go .
+MOT:	<up and down , up and down> [/?] .
+CHI:	hands down .
+CHI:	okay .
+MOT:	okay , you needta turn it .
+MOT:	let's take it out .
+CHI:	birdie .
+CHI:	touch your eye .
+MOT:	good boy Stuart .
+CHI:	yeah .
+CHI:	peepeepee [/?] .
+CHI:	touch your ear .
+CHI:	yeah .
+CHI:	stop it .
+MOT:	good boy Stuart .
+MOT:	touch your nose .
+CHI:	toilet [/?] toilet .
+CHI:	xxx .
+MOT:	push .
+MOT:	press .
+CHI:	xxx .
+MOT:	make him eat it up .
+MOT:	no , I don't have any .
+CHI:	egg .
+MOT:	good .
+MOT:	you blow the balloon .
+CHI:	open .
+CHI:	toilet .
+CHI:	papa .
+CHI:	touch your knee .
+MOT:	it's a tower .
+CHI:	wowowwowo [/?] .
+CHI:	hi Stuart .
+MOT:	sure , that's nice .
+MOT:	do you wanna be all done ?
+CHI:	yeah .
+MOT:	<sit right down , sit right down> [/?] .
+MOT:	the clothes on .
+MOT:	look at me .
+CHI:	<oh way way> [/?] .
+CHI:	make !
+MOT:	you needta stay in here .
+MOT:	good .
+CHI:	mama , I want airplane .
+CHI:	touch your head .
+MOT:	Stuart ?
+MOT:	Stuart ?
+CHI:	mommy .
+MOT:	open xxx shut birdie .
+CHI:	I like it .
+CHI:	catch the ball .
+CHI:	brush your teeth .
+MOT:	you needta hold it nice .
+MOT:	<the people on the bus go up and down all through the town> [/?] .
+CHI:	I want +/.
+MOT:	you punching the balloon ?
+CHI:	birdie .
+CHI:	hello papa .
+MOT:	wanna call papa ?
+MOT:	<dot , dot , dot , dot , dot> [/?] dot .
+MOT:	look .
+MOT:	touch your eyes .
+CHI:	<bang , bang> [/?] bang .
+MOT:	you hold the book .
+MOT:	Stuart , he's washing his hands .
+CHI:	take it out .
+CHI:	yeah .
+MOT:	you talked on the phone Stuart .
+CHI:	piano .
+MOT:	look it's a clock .
+CHI:	want candy .
+MOT:	and the goldfish .
+CHI:	want a grape ?
+MOT:	look .
+CHI:	put your hand down .
+MOT:	oop [/?] you pushed it in .
+CHI:	touch your +/.
+MOT:	like you made .
+MOT:	<round and round , all through the town> [/?] .
+MOT:	out .
+MOT:	yeah , you're putting them all in .
+CHI:	hand down .
+MOT:	that's the red one .
+CHI:	ball .
+CHI:	bye papa .
+MOT:	knees .
+CHI:	mama , all done .
+MOT:	yeah , that's Big_Bird .
+MOT:	Big_Bird , that's right .
+MOT:	down .
+CHI:	open .
+CHI:	<dot , dot> [/?] dot .
+MOT:	make it go up .
+CHI:	no .
+CHI:	yeah .
+CHI:	want papa .
+CHI:	egg .
+MOT:	ride the horse .
+MOT:	the airplane's gonna go up .
+MOT:	good boy .
+MOT:	you wanna put them in ?
+MOT:	look at me .
+MOT:	Stuart , fold your hands .
+MOT:	he's a toothbrush .
+MOT:	and spaghetti and meatballs .
+MOT:	we bang .
+MOT:	you're playing the xylophone .
+MOT:	Stuart , touch your back .
+MOT:	Stuart .
+CHI:	cow .
+CHI:	touch your nose .
+MOT:	how about a piano ?
+MOT:	look at me .
+MOT:	they put them on .
+MOT:	touch your shoulders .
+MOT:	they're in there .
+MOT:	yeah .
+MOT:	oh , good .
+CHI:	my toy .
+CHI:	touch your shoulder .
+MOT:	you gonna open it ?
+MOT:	Grover's eating supper .
+MOT:	sit up .
+MOT:	good .
+MOT:	what , do you wanna sing some more ?
+CHI:	two .
+CHI:	dot .
+CHI:	<haha [x 2]> [/?] .
+MOT:	touch your teeth .
+CHI:	candy .
+MOT:	and this is a +/.
+CHI:	toilet .
+CHI:	no .
+MOT:	like this .
+MOT:	<the wheels on the bus go> [/?] +/.
+MOT:	nice trying .
+CHI:	fold !
+MOT:	ready ?
+MOT:	okay .
+MOT:	that's alright .
+MOT:	touch your ears .
+MOT:	gonna push the truck Stuart .
+CHI:	what [/?] tower .
+MOT:	put them on .
+MOT:	okay .
+MOT:	Stuart .
+MOT:	sure Stuart .
+MOT:	you push it Stuart .
+MOT:	good boy .
+MOT:	good boy Stuart .
+CHI:	tower .
+CHI:	airplane .
+CHI:	stop .
+MOT:	put your hands down .
+CHI:	xxx .
+CHI:	where's your shoulder ?
+MOT:	push .
+CHI:	throw the ball .
+MOT:	do you wanna play catch ?
+MOT:	see Grover .
+MOT:	Stuart , see them playing with the blocks ?
+CHI:	xxx .
+CHI:	toilet [/?] toilet .
+MOT:	that's nice playing .
+MOT:	toilet .
+MOT:	that's nice saying all done Stuart .
+MOT:	build a tower .
+CHI:	touch your knee .
+MOT:	yey [/?] !
+CHI:	no .
+MOT:	touch your teeth .
+CHI:	hi Stuart .
+MOT:	you're playing with your toys Stuart .
+MOT:	you gonna hit the cymbals ?
+MOT:	later .
+CHI:	touch your knee .
+CHI:	push .
+MOT:	and you made it .
+MOT:	Stuart .
+MOT:	Stuart , you can write with this .
+MOT:	Jingle_Bells ?
+CHI:	no .
+CHI:	ah [/?] .
+CHI:	pee_pee toilet .
+MOT:	Stuart's gonna finish his puzzle .
+MOT:	play the xylophone .
+MOT:	he ate them all up .
+MOT:	oh , that's nice telling me all done .
+MOT:	what toy ?
+MOT:	what do you want ?
+MOT:	it's gonna come down .
+MOT:	do you wanna read the book ?
+MOT:	touch your legs .
+CHI:	dot .
+MOT:	and what's this ?
+CHI:	bo [/?] .
+MOT:	Stuart ?
+CHI:	Big_Bird .
+CHI:	airplane .
+CHI:	mama .
+MOT:	Stuart's putting them in .
+MOT:	take the cover off .
+MOT:	we have +/.
+MOT:	Stuart , you're being quiet now .
+MOT:	okay , let's open it .
+MOT:	and you're doing your puzzle nicely .
+MOT:	you needta pick up the phone first .
+MOT:	ride the horsie .
+MOT:	he's in bed .
+CHI:	toy .
+MOT:	now , it's big .
+MOT:	okay .
+MOT:	a straight line .
+CHI:	cookiemon [/?] +/.
+CHI:	all done .
+CHI:	touch l [/?] leg .
+MOT:	you did a good job on your puzzle Stuart .
+MOT:	no , fold your hands .
+MOT:	and flower .
+CHI:	what a boy .
+MOT:	sit down .
+MOT:	that's right .
+MOT:	more .
+MOT:	you gonna push the heart in ?
+CHI:	xxx .
+MOT:	touch your head .
+CHI:	pick it up .
+CHI:	toy .
+CHI:	clapping Stuart .
+MOT:	you kissed him good_night .
+CHI:	<be boy> [/?] .
+CHI:	airplane .
+CHI:	a [/?] air [/?] airplane .
+CHI:	drink [/?] drink .
+MOT:	yeah .
+CHI:	touch your head .
+CHI:	touch your eye .
+MOT:	put your hands down Stuart .
+MOT:	put your hands down Stuart .
+MOT:	touch your head .
+MOT:	good boy Stuart .
+MOT:	<the driver on the bus says> [/?] +/.
+MOT:	see the ball ?
+MOT:	you make a circle .
+CHI:	<up and> [/?] +/.
+MOT:	do you wanna play the piano ?
+CHI:	horsie .
+CHI:	horsie .
+MOT:	with the drum .
+MOT:	Stuart's punching the balloon .
+MOT:	good boy .
+CHI:	yeah .
+MOT:	good taking +/.
+MOT:	put your hands down Stuart .
+MOT:	good boy .
+CHI:	hey [/?] xxx .
+MOT:	see they're eating supper .
+MOT:	<and the people on the bus go> [/?] +/.
+MOT:	to brush your hair .
+MOT:	see the kitty .
+MOT:	oh , good milk the cow .
+MOT:	that's a nice job , Stuart .
+MOT:	did he say fine ?
+MOT:	oh , good boy Stuart .
+MOT:	Stuart .
+MOT:	Stuart .
+MOT:	good boy .
+MOT:	Stuart .
+MOT:	okay .
+MOT:	have the piano .
+MOT:	you're banging on the drum .
+MOT:	you're quiet now .
+CHI:	xxx .
+MOT:	on .
+MOT:	Stuart , do you wanna read the book .
+MOT:	we rub them .
+CHI:	no [/?] no toilet .
+MOT:	and the drum .
+MOT:	put your hands down Stuart .
+CHI:	touch your head .
+MOT:	wait a minute .
+MOT:	<sit right down , all through the town> [/?] .
+CHI:	yeah .
+MOT:	good boy .
+CHI:	Stuart bad .
+CHI:	xxx .
+MOT:	playing the cymbal .
+CHI:	whistle .
+MOT:	want mama to sing ?
+MOT:	take the paper off .
