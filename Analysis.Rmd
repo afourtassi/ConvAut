@@ -29,7 +29,14 @@ library(HDInterval)
 ```{r}
 
 #Import ch_ad real
-data <- read.csv("ALIGN_results/turns_results_Nadig.csv") 
+data_real <- read.csv("ALIGN_results/Nadig/results/turns.csv") %>%
+  mutate(corpus = "real") 
+
+data_random <- read.csv("ALIGN_results/Nadig/random/turns_random.csv") %>%
+  mutate(corpus = "shuffled")
+
+data <- data_real %>%
+  bind_rows(data_random)
 
 ```
 
@@ -37,11 +44,11 @@ data <- read.csv("ALIGN_results/turns_results_Nadig.csv")
 ```{r echo = FALSE, message=FALSE, warning=FALSE}
 
 data_summary <- data %>%
-  rename(condition = autistic.) %>%
-  filter(condition ==  'ASD' | condition == 'TYP') %>% 
+  #rename(condition = autistic.) %>%
+  #filter(condition ==  'ASD' | condition == 'TYP') %>% 
   gather(measure, value, syntax_penn_tok1:cosine_semanticL) %>%
-  mutate(direction = if_else(str_detect(partner_direction, 'CHI:>'), 'child', 'adult')) %>%
-  group_by(condition, direction, measure) %>%
+  mutate(direction = if_else(str_detect(partner_direction, 'CHI:>'), 'adult', 'child')) %>%
+  group_by(corpus, condition, direction, measure) %>%
   summarise(mean = mean(value, na.rm = T),
                    sd = sd(value, na.rm = T),
                    n = n()) %>%
@@ -50,12 +57,6 @@ data_summary <- data %>%
          upper = mean + qt(1 - (0.05 / 2), n - 1) * se) %>%
   select(-sd, -n, -se) 
 
-data_summary_2 <- data_summary %>%
-  select(-lower, -upper) %>%
-  spread(direction, mean) %>%
-  mutate(child_adult = child - adult)
-  
-            
 
 ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
   geom_bar(stat="identity", position=position_dodge())+
@@ -68,6 +69,13 @@ ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
         strip.text.y = element_text(size=10),
         axis.title=element_text(size=16))+
   facet_wrap(~ measure)
+
+
+
+data_summary_2 <- data_summary %>%
+  select(-lower, -upper) %>%
+  spread(direction, mean) %>%
+  mutate(child_adult = child - adult)
 
 
 ggplot(data_summary_2, aes(x = condition, y = child_adult)) +

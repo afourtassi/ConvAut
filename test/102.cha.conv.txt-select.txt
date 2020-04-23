@@ -1,0 +1,7 @@
+participant	content
+MOT	say hello 
+CHI	hello 
+MOT	hello 
+MOT	say I love you 
+CHI	hello 
+MOT	say hip_hip 

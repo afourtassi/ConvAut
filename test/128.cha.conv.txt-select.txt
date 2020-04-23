@@ -1,0 +1,105 @@
+participant	content
+MOT	hello 
+CHI	hello 
+MOT	how are you 
+CHI	how are you 
+MOT	it's Aneesh 
+MOT	here's Aneesh 
+CHI	hello 
+MOT	hello  
+CHI	bye 
+MOT	oh 
+MOT	goodbye 
+CHI	I want 
+MOT	what do you want 
+CHI	I want 
+MOT	tea tea rosie tea 
+MOT	tea  like 
+CHI	 Dorothy 
+MOT	Dorothy 
+MOT	oh maybe baby wants to drink tea 
+CHI	Mommy stop singing 
+MOT	Mommy stop singing 
+MOT	baby 
+CHI	 Mommy  
+CHI	Mommy stop singing 
+MOT	okay I'm gonna stop singing but we hafta stay here 
+MOT	there's your tea 
+CHI	tea 
+MOT	help me 
+MOT	uhoh 
+CHI	  touch your foot  
+MOT	foot 
+CHI	touch your foot 
+MOT	 
+CHI	touch  
+MOT	what's that 
+CHI	touch your  
+MOT	oh touch your hips 
+MOT	touch your 
+CHI	 mouth 
+MOT	touch your 
+CHI	 cheek 
+MOT	but you're not looking 
+MOT	touch your eyes 
+CHI	touch your neck 
+MOT	you touch 
+MOT	touch your 
+CHI	 shoulder 
+MOT	shoulders okay 
+MOT	touch your 
+CHI	 feet 
+MOT	feet are you touching feet 
+MOT	dolly's stomach 
+CHI	touch your  
+MOT	shoulders 
+MOT	but touch dolly's thumb 
+CHI	knee 
+CHI	eyes 
+MOT	eyes 
+CHI	eye 
+MOT	eyes 
+CHI	eyes 
+MOT	eyes yeh 
+CHI	ears 
+MOT	ears 
+CHI	mouth 
+MOT	yeh mouth 
+CHI	nose 
+MOT	nose 
+CHI	cheeks 
+MOT	cheeks like here 
+MOT	cheeks 
+CHI	thumb 
+MOT	thumb yeh thumb 
+MOT	arm 
+CHI	arm 
+MOT	okay arm 
+CHI	teeth 
+MOT	teeth 
+MOT	no 
+CHI	tongue 
+MOT	tongue 
+MOT	that's for drinking milk 
+CHI	head 
+MOT	head 
+CHI	shoulders 
+MOT	shoulders 
+CHI	touch her head 
+MOT	who 
+MOT	touch your head or  touch Fred's head or Mommy's head 
+CHI	head 
+MOT	dolly's  head 
+MOT	okay 
+CHI	touch her shoulders 
+CHI	touch your foot 
+MOT	foot 
+MOT	there's Fred's foot 
+CHI	hair 
+MOT	dolly's tired 
+MOT	good_night dolly 
+CHI	no   
+MOT	but dolly's tired 
+MOT	tidy up 
+CHI	ah 
+MOT	now it's time to 
