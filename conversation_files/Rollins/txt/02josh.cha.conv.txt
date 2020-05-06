@@ -1,0 +1,435 @@
+participant	content
+INV	  
+CHI	 
+INV	that's right 
+INV	 
+INV	close the door 
+CHI	 
+CHI	 
+INV	should we do the puzzle now 
+CHI	 
+CHI	 
+INV	 
+INV	hm 
+CHI	 
+INV	where are we going 
+CHI	 
+CHI	  
+INV	 
+INV	should we do the puzzle 
+CHI	puzzle 
+CHI	 
+INV	are we all done 
+CHI	  
+INV	 oh 
+CHI	 
+INV	look 
+INV	they fell out 
+INV	we needta put them in 
+INV	can you put it in 
+CHI	 
+CHI	 
+INV	we needta put them in 
+INV	I'll put the dogs in 
+INV	they go right here 
+INV	 
+INV	here's the ducks 
+CHI	 
+CHI	 
+CHI	 
+INV	the ducks go right here 
+INV	 
+CHI	 
+INV	can you push it in 
+CHI	 
+INV	Chi 
+CHI	  
+INV	can you push it in 
+CHI	 
+INV	you're taking them out 
+CHI	 
+CHI	 
+INV	you silly boy 
+CHI	 
+INV	 oh 
+CHI	 
+INV	oh no 
+INV	they all fell out 
+CHI	 
+CHI	 
+CHI	 
+INV	 
+INV	let's pick them up 
+CHI	 
+INV	we needta put them on the table 
+CHI	 
+CHI	 [] 
+INV	you wanna sit down [] 
+CHI	 
+INV	 
+INV	you wanna sit in the chair 
+CHI	 
+CHI	  
+CHI	  
+INV	here's the dogs 
+CHI	 
+INV	they go up here 
+CHI	 
+CHI	 
+INV	 
+INV	  
+INV	there's the giraffe 
+CHI	 
+INV	it's big 
+CHI	 
+INV	that's a big giraffe 
+CHI	 
+CHI	 
+CHI	 
+INV	it goes right here 
+INV	you did it 
+CHI	 
+INV	here's the  chicken 
+CHI	 
+CHI	 
+INV	chicken says 
+CHI	chick 
+INV	that's right 
+INV	it's the chicken 
+CHI	 
+INV	the chicken says 
+CHI	 
+INV	bac bac bac bac bac bac 
+CHI	 
+INV	here's the chicken 
+CHI	 
+CHI	 
+INV	it goes right here 
+CHI	 
+INV	look Chi 
+INV	it goes right here 
+CHI	 
+INV	can you put it in 
+CHI	 
+CHI	 [] 
+INV	I'll help you [] 
+CHI	 
+INV	look 
+INV	it goes right there 
+CHI	  
+INV	you need help 
+CHI	help 
+INV	okay 
+CHI	 
+INV	I'll help 
+CHI	 
+INV	right  there 
+INV	  
+CHI	 
+INV	you did it 
+CHI	 
+INV	good job 
+CHI	 
+INV	 oh 
+INV	you took the giraffe out 
+CHI	giraffe 
+INV	oh no 
+INV	  
+CHI	 
+INV	here's the lamb 
+CHI	 
+INV	the lamb goes up here 
+CHI	 
+CHI	 [] 
+INV	you silly [] 
+CHI	 [] 
+INV	you're being silly Chi [] 
+INV	 
+CHI	 
+INV	it goes right here 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	I'll put the lamb in 
+CHI	 
+CHI	 
+INV	the giraffe 
+CHI	 
+INV	you have the giraffe 
+CHI	 
+INV	can you put it in 
+CHI	 
+INV	put it in 
+CHI	 
+CHI	 
+CHI	  
+INV	you needta turn it over 
+CHI	  
+INV	want help 
+CHI	  
+INV	  
+CHI	 [] 
+INV	almost [] 
+CHI	 [] 
+INV	push it in [] 
+INV	  
+INV	you did it 
+CHI	  
+INV	there's the pigs 
+CHI	 
+CHI	 
+INV	you have the pigs 
+CHI	pig 
+CHI	pig 
+INV	the pigs go down here Chi 
+CHI	 
+CHI	  
+INV	they go down here 
+CHI	  
+CHI	  
+INV	 
+INV	you want some juice 
+CHI	  
+INV	pigs go right here 
+CHI	pig 
+CHI	  
+INV	push em in [] 
+CHI	 
+INV	push it in 
+CHI	pig 
+INV	the pigs 
+INV	that's right 
+INV	here's the pigs 
+CHI	 
+INV	  
+CHI	 
+INV	right here 
+CHI	 
+INV	let's turn it over 
+INV	push it in 
+CHI	 
+INV	can you push it in Chi 
+INV	I'll push your chair up 
+CHI	  
+CHI	 
+CHI	 [] 
+INV	almost [] 
+CHI	 
+CHI	 
+INV	  
+INV	you did it 
+INV	good job 
+CHI	 
+INV	you put the pigs in 
+CHI	pig 
+CHI	 
+INV	that's right 
+INV	you put the pigs in 
+CHI	 
+CHI	 
+INV	how about the ducks 
+CHI	 
+INV	the duck says 
+CHI	 
+INV	quack quack quack 
+INV	here's the ducks 
+CHI	 
+INV	the duck says 
+INV	 
+CHI	 
+CHI	   
+INV	quack quack quack [] 
+CHI	 
+CHI	 
+INV	the ducks go over here 
+CHI	 
+CHI	 
+CHI	 
+INV	look Chi 
+INV	the ducks  go right here 
+CHI	 
+CHI	 
+INV	they go right here 
+CHI	 
+INV	push it in 
+CHI	 
+INV	can you push it in 
+CHI	 
+INV	I'll help 
+CHI	 
+CHI	 
+INV	did you do it 
+INV	  
+INV	you did it 
+CHI	 
+INV	you put the ducks in 
+INV	good job 
+INV	there's one more 
+CHI	 
+INV	that's the cat 
+CHI	 
+INV	cat says meow 
+CHI	 
+INV	meow 
+CHI	 
+INV	can you put it in 
+CHI	 
+CHI	 
+INV	can you put the cats in 
+CHI	 
+CHI	 
+CHI	 
+INV	I'll help 
+CHI	 
+INV	  
+INV	put it in 
+INV	take it out 
+INV	 
+INV	your turn 
+CHI	 
+CHI	 
+INV	your turn 
+CHI	 
+CHI	 
+INV	you put it in 
+CHI	 
+INV	good job 
+INV	  
+INV	 
+INV	I took it out 
+INV	 
+CHI	 
+INV	I'm gonna put it  in 
+CHI	 
+INV	 
+INV	you took it out Chi 
+CHI	 
+INV	put it in 
+CHI	put in 
+INV	put it in 
+CHI	 
+INV	you put it in 
+CHI	 
+CHI	 
+CHI	 
+INV	the horses 
+CHI	 
+INV	here's the horses 
+CHI	 
+INV	the horse says 
+CHI	 
+INV	the horse says 
+CHI	 
+CHI	 
+CHI	  
+INV	 oh 
+INV	you okay 
+CHI	 
+CHI	 
+CHI	 
+INV	did you make a mess 
+CHI	 
+INV	it's wet 
+CHI	 
+CHI	wet 
+INV	it's wet 
+CHI	 
+CHI	  
+INV	wipe it off 
+CHI	 
+INV	it's all wet [] 
+CHI	 [] 
+CHI	 
+INV	here's the horse 
+CHI	 
+INV	horse says 
+INV	neigh 
+CHI	 
+INV	neigh 
+INV	can you put the horse in 
+CHI	 
+CHI	 
+CHI	 
+INV	you needta push it in 
+CHI	 
+INV	 
+INV	 
+INV	there's one more 
+CHI	 
+INV	you needta put the horse in 
+CHI	  
+CHI	 
+INV	you needta turn around in your chair 
+CHI	 
+CHI	 
+INV	almost 
+INV	I'll help you 
+CHI	 
+INV	  
+CHI	  
+INV	push it in 
+CHI	 
+CHI	  
+INV	 
+INV	I put it in Chi 
+CHI	 
+CHI	 
+INV	look we're all done 
+CHI	 
+CHI	 
+INV	we're all done with the puzzle 
+CHI	 
+INV	we're all done 
+CHI	 
+CHI	 
+INV	should we put the puzzle up first 
+CHI	 
+CHI	 
+INV	 
+INV	I'm gonna put the puzzle up here on the shelf 
+CHI	 
+CHI	 
+CHI	 
+INV	push your chair in 
+CHI	  
+INV	 
+INV	here's your juice 
+CHI	 
+INV	you can carry it 
+CHI	 
+INV	what should we do 
+CHI	 
+CHI	 
+INV	what should we do 
+CHI	 
+CHI	 
+INV	should we  open the door 
+CHI	open door 
+INV	open the door 
+INV	 
+INV	okay 
+INV	 it's heavy 
+CHI	 
+CHI	  
+INV	 
+CHI	open 
+CHI	  
+INV	what should I do 
+INV	 
+CHI	 
+INV	what should we do 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	should we pull it open 
+CHI	open door 
+INV	open the door 
+INV	okay 
+CHI	 
+CHI	 
+CHI	  

@@ -1,0 +1,600 @@
+participant	content
+INV	say bye bye people 
+CHI	bye bye 
+INV	you're right 
+INV	bye bye 
+INV	this way 
+INV	look 
+INV	the chickens are over here 
+CHI	bye bye 
+INV	bye bye 
+CHI	  
+INV	this way 
+INV	do you hear the trucks 
+INV	what do you hear 
+INV	  
+INV	hear the chickens 
+INV	  
+INV	look at the chickens 
+INV	look 
+INV	can you hear them 
+CHI	chickens 
+INV	chickens 
+INV	look lets feed the chickens 
+INV	do you wanna feed the chickens 
+INV	come here 
+INV	it's okay 
+INV	look 
+INV	lets feed the chickens 
+INV	your turn 
+CHI	 [] 
+INV	your turn [] 
+INV	its okay 
+CHI	 
+INV	no let's put it through the hole 
+INV	look 
+INV	feed the chickens 
+CHI	 
+INV	whoa 
+INV	there's your cheerio 
+CHI	 
+INV	over the hole 
+CHI	 
+INV	here let's you  put it over here 
+INV	here you go 
+CHI	 
+INV	  
+INV	was that good 
+INV	was that good 
+CHI	 
+INV	Chi lets feed the chickens 
+INV	look 
+INV	look 
+INV	lets come feed the chickens 
+CHI	 
+INV	that's the camera 
+INV	look 
+INV	here 
+INV	put it in here 
+INV	can you put it in here 
+CHI	 
+INV	no that's the chicken food 
+INV	silly 
+INV	look 
+INV	put it in there 
+CHI	 
+INV	not for you for the chicken 
+INV	for the chicken 
+INV	put it in 
+CHI	chicken 
+INV	what 
+INV	do you hear them 
+INV	look 
+INV	look 
+CHI	 
+INV	where are you going 
+INV	what about the chickens 
+INV	climb 
+INV	you're on top of the wall 
+INV	Humpty_Dumpty sat on the wall 
+CHI	 
+INV	that's the camera 
+INV	look at the chickens 
+INV	say chickens 
+CHI	  
+CHI	  
+INV	do you need help 
+CHI	  
+CHI	chicken 
+INV	chickens 
+CHI	a truck 
+CHI	  
+INV	the chickens 
+INV	look at the chickens 
+INV	lets go up the stairs 
+CHI	 
+CHI	up 
+INV	up 
+INV	up 
+INV	up 
+INV	up 
+INV	  
+INV	up 
+INV	  
+INV	hi Chi 
+INV	hi 
+CHI	  
+INV	hi 
+CHI	 
+INV	oh hi 
+INV	hi [] 
+CHI	 [] 
+INV	here Chi 
+CHI	oh 
+INV	  
+INV	peek_a_boo 
+INV	peek_a_boo 
+CHI	  
+INV	 
+INV	go 
+CHI	  
+CHI	 
+INV	peek_a_boo 
+INV	peek_a_boo 
+INV	peek_a_boo 
+INV	  
+INV	hi Chi 
+INV	bye bye Chi 
+INV	bye 
+CHI	 
+INV	bye 
+CHI	 
+CHI	  
+INV	 hi 
+INV	whoa 
+INV	hi 
+CHI	 
+INV	 what are you doing 
+CHI	 
+INV	up 
+INV	its time to get up 
+CHI	 
+CHI	 
+CHI	 
+INV	  oh 
+INV	 oh 
+INV	let's shut the door 
+CHI	 
+INV	here 
+CHI	 
+INV	here let's do this one first 
+INV	let's do this one 
+CHI	 
+INV	whoa 
+INV	here Chi 
+INV	here are all your pieces 
+CHI	 
+INV	look 
+CHI	 
+INV	look 
+INV	we needta finish this puzzle 
+INV	one 
+CHI	  
+INV	one 
+CHI	 
+INV	two 
+CHI	 
+INV	here Chi 
+INV	Chi 
+INV	here Chi 
+INV	put this in the puzzle 
+CHI	  
+INV	in the puzzle 
+INV	here's the puzzle 
+CHI	 
+INV	put it right here 
+CHI	 
+INV	put it right here 
+CHI	 
+CHI	 
+CHI	 
+INV	Chi it goes here 
+INV	can you fit it 
+INV	push it 
+CHI	 
+INV	it goes right here 
+INV	look 
+INV	it goes right here 
+INV	push it in 
+CHI	 
+INV	pu  there you go 
+INV	here Chi 
+CHI	 
+INV	he goes here 
+CHI	 
+INV	put im in 
+CHI	 
+INV	push him in 
+CHI	 
+INV	this way 
+CHI	 
+INV	push him in 
+CHI	 
+INV	now 
+INV	there he goes 
+CHI	 
+INV	 
+INV	here 
+CHI	 
+INV	no he goes here 
+INV	will you put that here 
+INV	 
+CHI	 
+INV	turn it over 
+CHI	 
+INV	there you go 
+INV	turn it over 
+INV	turn it 
+CHI	 
+INV	there's one 
+CHI	 
+INV	  
+INV	you got it 
+CHI	 
+INV	there's that one 
+INV	now what about this one 
+CHI	 
+INV	there 
+INV	look at your puzzle 
+CHI	 
+INV	look at this 
+INV	let's do this one Chi 
+INV	Chi what about this one 
+INV	what about the girl 
+CHI	 
+CHI	 
+CHI	 
+INV	take em out 
+INV	take her arm out 
+CHI	 
+INV	take her head out 
+CHI	 
+INV	look 
+CHI	 
+INV	her head 
+INV	take em out 
+INV	take them out 
+CHI	 
+INV	here's her neck 
+INV	and her chest 
+CHI	 
+INV	look 
+INV	two arms 
+INV	will you put this back for me 
+INV	here you go 
+CHI	 
+INV	Chi we're not finished 
+CHI	 
+INV	say hi Holly with the camera 
+INV	 
+CAM	hi Chi 
+INV	no Chi no 
+INV	no 
+INV	here you go 
+INV	put this here 
+INV	no hitting Holly 
+INV	here you go 
+INV	Chi no hitting Holly 
+INV	here 
+INV	look 
+INV	put it there 
+INV	put this there 
+INV	it fits 
+INV	it fits 
+INV	here sit with me 
+INV	it fits 
+INV	see look 
+INV	push it in Chi 
+INV	push it in 
+INV	put that in 
+CHI	 
+INV	what about her arms 
+CHI	 
+INV	Danny's gonna help us 
+INV	look how fast Danny does this 
+INV	here's the arm 
+INV	you do the arm 
+INV	 
+INV	here 
+CHI	 
+INV	 
+INV	there 
+INV	you go right here 
+CHI	 
+INV	here you go 
+INV	here Chi 
+INV	put the skirt in 
+INV	 
+CHI	 
+INV	here Chi 
+INV	 
+CHI	 
+INV	thank you Chi 
+INV	thank you 
+CHI	 
+INV	take em out 
+INV	gentle 
+INV	gentle 
+INV	okay put it back 
+INV	put it back 
+INV	Chi we hafta  when we take a puzzle out we've got to put it
+INV	here you go 
+CHI	 
+INV	where does that go 
+CHI	 
+INV	sit up 
+INV	Chi it's time for us to sit up 
+INV	yay 
+INV	let's put our puzzle together 
+INV	look 
+INV	we'll bring it right here for us 
+CHI	 
+INV	look at that 
+CHI	 
+INV	where does this go 
+CHI	 
+INV	 
+CHI	 
+INV	that goes up there 
+INV	we'll leave that for now 
+INV	put the leg away 
+CHI	 
+INV	Chi put the leg in 
+CHI	 
+INV	you're just a jello  tired today 
+INV	you're just tired 
+CHI	  
+INV	  
+INV	Chi okay 
+INV	we've gotta finish this 
+CHI	  
+INV	nope that's Danny's puzzle 
+INV	Danny's puzzle 
+INV	sit up Chi 
+INV	one 
+INV	two 
+INV	I'll help you 
+CHI	 
+INV	where's the shirt 
+INV	here Chi 
+INV	here's the hand 
+INV	  
+INV	fun 
+INV	look at this 
+INV	wow 
+INV	here Chi one more 
+INV	are you sliding 
+CHI	 
+INV	one more 
+CHI	  
+CHI	  
+INV	slide slide slide 
+CHI	  
+INV	slide slide slide 
+CHI	  
+CHI	 
+INV	you wanna slide some more 
+INV	  
+INV	slide slide slide 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	climb up Chi 
+CHI	  
+INV	up up up up 
+CHI	 
+INV	up up 
+CHI	 
+CHI	hi 
+INV	hi 
+INV	hi 
+INV	you got it 
+INV	one more step 
+INV	step down 
+INV	come on 
+INV	jump 
+CHI	 
+INV	yay 
+CHI	 
+CHI	  
+INV	peek a boo 
+CHI	 
+CHI	 
+INV	peek a boo 
+INV	peek a boo 
+INV	hi 
+INV	hi 
+CHI	  
+INV	what 
+INV	are you gonna come 
+INV	don't you need help 
+CHI	  
+INV	don't you need help 
+CHI	  
+INV	Chi needs help 
+CHI	  
+INV	Chi do you need help 
+CHI	  
+INV	help 
+INV	here you go 
+INV	do you need help 
+CHI	 
+INV	ask me 
+CHI	 
+INV	help 
+CHI	 
+CHI	 
+INV	Exp I need help 
+INV	here Chi 
+INV	come here 
+INV	jump 
+CHI	 
+CHI	 
+CHI	 
+INV	vroom vroom vroom 
+CHI	  
+INV	vroom [] 
+CHI	 
+INV	go down the slide 
+CHI	 
+CHI	 
+CHI	 
+INV	go down the slide 
+INV	Chi it's time for us to water the plants 
+INV	let's go 
+INV	 
+CHI	  
+CHI	  
+INV	come on Chi 
+INV	say bye bye camera 
+INV	it's time to go water the plants 
+INV	out this door 
+INV	 
+CHI	 
+INV	 we've got to go water the plants 
+INV	let's go 
+INV	Chi this way 
+INV	we hafta go water the plants 
+INV	this way 
+INV	let's go this way 
+INV	we needta get the water jug 
+INV	can you open this door for me 
+INV	will you help me 
+INV	help 
+CHI	 
+INV	we needta go water the plants 
+CHI	 
+CHI	no  
+INV	let's go water the plants 
+INV	where're we goin 
+CHI	 
+INV	water the plants 
+INV	hold on 
+INV	let's go  I'm gonna find the water jug 
+INV	not yet 
+INV	look what I have 
+INV	  
+CHI	 
+INV	let's go water the plants 
+INV	this way 
+CHI	 
+INV	can you open the door 
+CHI	 
+INV	thank you 
+INV	let's go water the plants 
+INV	can you push the door open 
+CHI	bye 
+INV	thanks 
+INV	say bye 
+INV	that's right 
+INV	water the plants 
+CHI	 
+CHI	 
+INV	there you go 
+INV	okay that's good 
+INV	off 
+INV	let's go water 
+CHI	 
+INV	this way 
+INV	I'll open the door for you now 
+INV	water the plants 
+CHI	 
+INV	this one 
+CHI	 
+INV	okay let's water that one now 
+CHI	 
+INV	let's go get some water 
+INV	we needta water this one 
+INV	 oh Chi we need more water 
+INV	we need more 
+INV	let's go get some more 
+INV	this way 
+INV	let's get some more water 
+CHI	 
+INV	here you go 
+INV	come on this way 
+INV	Chi 
+INV	let's show them how we can water plants 
+CHI	 
+CHI	 
+INV	 no let's go  
+INV	let's go water the plants for me 
+INV	here Chi  yeah Chi 
+CHI	 
+CHI	 
+INV	turn on the water 
+INV	okay 
+CHI	 
+INV	yep 
+INV	look it's going in 
+INV	it's going in 
+CHI	 
+INV	put it in 
+INV	you gotta push it in the hole 
+CHI	 
+INV	okay turn off the water Chi 
+CHI	 
+INV	turn off the water 
+CHI	 
+INV	off 
+INV	off 
+INV	push 
+INV	it's hard 
+CHI	 
+INV	okay 
+CHI	 
+INV	 oh 
+INV	we gotta hold it this way 
+INV	you're gonna hafta clean up later 
+INV	water water 
+CHI	 
+INV	this one 
+CHI	 
+INV	okay 
+INV	let's go put this up 
+INV	let's go put it away 
+INV	Chi it's time to put it away 
+CHI	 
+INV	Chi 
+INV	 
+INV	let's put it away so we can clean the floor 
+INV	put it up here 
+CHI	 
+INV	no right here Chi we're done 
+INV	we're done 
+INV	look we're gonna put it right here 
+INV	all done 
+INV	all done 
+CHI	 
+INV	you wanna do it again 
+CHI	 
+INV	but we're done 
+INV	but we're done 
+CHI	 
+CHI	 
+INV	once more okay 
+CHI	 
+INV	okay 
+INV	turn it off 
+CHI	 
+INV	you're such a good helper 
+INV	you're such a good helper 
+INV	water some more 
+INV	they really need the water 
+CHI	 
+CHI	 
+INV	thank you 
+CHI	 
+INV	here Chi we're done 
+INV	here 
+INV	let's dump it out 
+INV	Exp's turn 
+INV	look 
+INV	 
+INV	okay 
+INV	look we're done 
+CHI	 
+INV	what do you see 
+CHI	 
+INV	 
+INV	all done 
+INV	Chi when we're done does this go right here 
+INV	let's put it right here 
+CHI	 
+CHI	oh hi  
+INV	hi 
+CHI	  
+INV	here Chi 
+CHI	  
+INV	let's play with the blocks [] 

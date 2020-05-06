@@ -1,0 +1,357 @@
+participant	content
+INV	okay we hafta turn it 
+INV	and pull 
+INV	help me 
+INV	pull 
+CHI	 
+INV	pull the door open 
+INV	are we going to go up or down 
+CHI	up 
+INV	up 
+INV	okay 
+INV	there's Nikki 
+INV	he's going down 
+INV	we're going up 
+INV	going up 
+INV	up 
+INV	how many more 
+INV	one 
+INV	two 
+INV	three 
+INV	three steps 
+INV	three steps 
+INV	ready 
+INV	we can sing a song 
+INV	walking 
+INV	walking 
+INV	walking 
+INV	walking 
+INV	hop 
+INV	hop 
+INV	hop 
+INV	hop 
+INV	hop 
+INV	  
+INV	what's next 
+CHI	  
+INV	running running running 
+INV	what's next 
+INV	running running running 
+CHI	 
+INV	now let's 
+CHI	  
+INV	stop 
+INV	now let's 
+INV	stop 
+INV	there's  
+INV	what are these Chi 
+INV	what are these 
+CHI	 
+CHI	dots 
+INV	dots 
+CHI	 
+INV	dots 
+CHI	 
+INV	more dots 
+CHI	dots 
+CHI	dots [] 
+INV	dots [] 
+CHI	dots 
+INV	and dots 
+CHI	dots 
+INV	are these dots 
+INV	no 
+INV	those aren't dots 
+CHI	 
+INV	more dots 
+INV	let's count how many 
+INV	one 
+INV	two 
+INV	three 
+INV	  
+CHI	  
+INV	four 
+CHI	 
+INV	five 
+INV	six 
+CHI	 
+INV	are you counting 
+INV	six dots 
+INV	hey we needta find the stairs and go down 
+CHI	 
+INV	we needta find the stairs 
+INV	where're the dots 
+INV	where's the dots 
+INV	here's some dots 
+INV	 
+INV	more dots 
+CHI	 
+INV	more dots 
+INV	do we see more dots 
+INV	yes 
+CHI	 
+CHI	  
+INV	look Chi 
+INV	here's some kids 
+INV	come here and look at the kids 
+INV	  
+INV	look_it 
+CHI	 
+INV	what's that 
+CHI	 
+INV	a 
+INV	a boy 
+CHI	 
+INV	where's the girl 
+CHI	  
+INV	there's the girl 
+INV	boys and girls 
+CHI	boys  
+INV	yeah 
+INV	what are you 
+INV	what're you 
+INV	are you a boy 
+CHI	 
+INV	yes 
+INV	stand up 
+CHI	 
+INV	stand up 
+INV	let's go find the doors 
+CHI	doors 
+INV	how do we open these 
+CHI	 
+INV	how do we open em 
+CHI	 
+CHI	doors 
+INV	what do we needta do 
+CHI	push the door 
+INV	push the door 
+CHI	 
+INV	down here 
+INV	down here 
+CHI	 
+INV	be careful 
+INV	be careful 
+INV	it's bumpy 
+CHI	 bump 
+INV	bumpy 
+INV	oh 
+INV	should we put em in the basket 
+INV	put em [] 
+CHI	 [] 
+INV	put em 
+CHI	 
+INV	where should I put it 
+CHI	 
+INV	put it 
+INV	in the basket 
+CHI	in a  basket 
+INV	in the basket 
+INV	  
+INV	I have another one 
+CHI	 
+INV	where you gonna put it 
+INV	where you gonna put it 
+INV	in the basket 
+CHI	 
+INV	in the basket 
+CHI	 
+INV	 
+INV	I have some more 
+CHI	 
+INV	you want em 
+CHI	 
+INV	yes 
+INV	put it 
+CHI	 
+INV	how many do I have 
+INV	one 
+CHI	  
+INV	two [] 
+INV	do you want it 
+CHI	 
+INV	yes 
+CHI	 
+INV	you want the block 
+CHI	 
+INV	yes 
+CHI	 
+INV	yes 
+INV	put it  in 
+CHI	 
+INV	last one 
+INV	where should we put it 
+INV	 
+INV	where should we put it 
+CHI	 
+INV	in the 
+CHI	in a  basket 
+INV	in the basket 
+INV	here 
+INV	you put it in 
+CHI	 
+INV	are they in there 
+INV	 
+CHI	 
+INV	shake em up 
+INV	how do we get em out 
+CHI	 
+INV	we hafta reach in there 
+INV	  
+INV	reach in 
+INV	there's 
+CHI	  
+INV	reach in the basket 
+INV	pull one out 
+CHI	  
+INV	let's put it right here 
+INV	you put it in 
+CHI	 
+INV	 you put it in 
+CHI	 
+INV	you put it in 
+CHI	 
+CHI	 
+INV	there's some more blocks 
+INV	there's some more 
+INV	should we put em in 
+INV	should we put em in 
+CHI	 
+INV	put it in 
+INV	put it in the basket 
+INV	put it [] in 
+CHI	 [] 
+INV	do you wanna do it again 
+CHI	  
+INV	do you wanna do it again 
+CHI	  
+INV	do it again 
+INV	here's another one 
+INV	put it [] in 
+CHI	 [] 
+CHI	 
+INV	more 
+CHI	more 
+INV	more blocks 
+INV	here's more 
+CHI	 
+CHI	 
+INV	more 
+INV	here's more 
+CHI	 
+CHI	 
+CHI	more 
+INV	more 
+CHI	 
+INV	here's one more 
+INV	 
+CHI	 
+INV	here's one more 
+CHI	block 
+INV	put it in 
+CHI	 
+INV	 
+CHI	 
+CHI	more 
+INV	more 
+INV	okay 
+INV	one more 
+CHI	 
+CHI	  
+INV	more 
+INV	okay 
+CHI	 
+INV	I have more blocks to put in the basket 
+CHI	  
+INV	 
+INV	I have a blue block 
+CHI	 
+INV	wanna do it again 
+CHI	  
+INV	do it again 
+CHI	more 
+INV	more 
+INV	okay 
+INV	here's one more 
+CHI	 
+CHI	I  more 
+INV	you want more 
+INV	here's more 
+CHI	 
+INV	big one 
+INV	I have a green one 
+INV	green block 
+CHI	I want more 
+INV	you want more 
+INV	yes you can have more 
+INV	two more 
+CHI	more 
+INV	more 
+INV	here's one more 
+CHI	is there more 
+INV	there's more 
+INV	here's one more 
+CHI	 
+INV	I don't have any more 
+CHI	 
+INV	are they all in there 
+INV	shake em up 
+INV	shake em up 
+INV	I put em up 
+INV	and down 
+INV	up 
+INV	 
+INV	down 
+CHI	 
+INV	did you find more blocks 
+CHI	 
+INV	did you find more 
+CHI	 
+INV	  
+CHI	  
+INV	 what do I needta do 
+CHI	 
+INV	say move [] please 
+CHI	move 
+INV	 
+INV	they moved 
+INV	  
+CHI	  
+INV	I've got it covered 
+CHI	 
+INV	should I  move my hands 
+CHI	move my hands 
+INV	 
+INV	I moved my hands 
+CHI	 
+INV	  
+CHI	move 
+INV	move my hands 
+INV	  
+CHI	 
+INV	move my hands 
+INV	are we finished with the blocks 
+INV	yes or no 
+CHI	no [] 
+INV	are [] we finished 
+INV	all done with the blocks 
+INV	are we finished 
+INV	should we do the slide now 
+CHI	 
+INV	you wanna do the slide or the blocks 
+CHI	 
+INV	you wanna do the slide or the blocks 
+INV	the slide 
+CHI	 
+INV	yes 
+INV	okay we'll do the slide 
+CHI	 
+CHI	 
+INV	you wanna do it again 
+INV	 
+INV	you wanna do it again 
+INV	you wanna do it again 
+INV	you wanna slide again 
+CHI	 
+INV	climb up 
+CHI	 

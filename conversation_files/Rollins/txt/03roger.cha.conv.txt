@@ -1,0 +1,392 @@
+participant	content
+INV	let's do the school bus puzzle 
+INV	where's the school bus 
+INV	there it is 
+CHI	  
+INV	it's right there 
+CHI	  
+INV	oh 
+CHI	  
+INV	it's right there 
+CHI	  
+INV	let's do the puzzle 
+INV	let's do the puzzle 
+INV	I'll get it down 
+CHI	  
+INV	oh 
+CHI	 
+INV	I got it 
+CHI	 
+INV	there's the puzzle 
+INV	let's dump it out 
+INV	let's dump it out 
+CHI	  
+INV	dump it out 
+CHI	  
+CHI	  
+INV	it's Chi's turn 
+INV	where does that piece go 
+CHI	 
+INV	how about this piece 
+CHI	 
+INV	put it in 
+INV	in the puzzle 
+CHI	 
+INV	what's wrong with your finger 
+INV	my turn 
+INV	Exp's turn 
+INV	I put a piece in 
+INV	Chi's turn 
+CHI	 
+INV	Chi's turn 
+CHI	 
+INV	very good 
+CHI	 
+INV	Exp's turn 
+INV	I'll put it in 
+INV	Chi's turn 
+CHI	 
+INV	put it in 
+INV	there you go 
+INV	there you go 
+INV	Exp's turn 
+INV	Chi's turn 
+CHI	 
+INV	put it in 
+INV	whose turn is it 
+CHI	 
+INV	oh 
+INV	it's Chi's turn 
+CHI	 
+INV	Exp's turn 
+INV	it's Exp's turn 
+INV	I'll put it in 
+INV	it's Chi's turn 
+INV	here's a piece 
+CHI	  
+INV	here's a piece 
+INV	you want a piece in my hand 
+CHI	  
+CHI	  
+CHI	  
+INV	this piece 
+CHI	 
+INV	okay 
+CHI	 
+INV	put it in 
+INV	put it in 
+CHI	  
+INV	what about that piece 
+CHI	 
+INV	put it in 
+INV	I'll help 
+INV	push it in 
+INV	there it goes 
+CHI	  
+INV	it's my turn 
+INV	I'll put it in 
+CHI	 
+INV	now it's Chi's turn 
+CHI	 
+INV	put it in 
+CHI	  
+INV	whose turn is it 
+CHI	  
+INV	it's my turn 
+INV	it's my turn 
+INV	I'll put it in 
+INV	it's Chi's turn 
+CHI	 
+INV	put it in 
+INV	yay 
+INV	we finished the puzzle 
+CHI	  
+INV	no more pieces 
+CHI	  
+INV	let's dump it out 
+CHI	car car 
+INV	car 
+INV	car 
+CHI	car 
+INV	car 
+CHI	  
+INV	bus [] 
+INV	bus 
+INV	there's the bus 
+INV	let's dump it out 
+INV	let's dump it out 
+CHI	 
+INV	no more puzzle 
+CHI	 
+INV	I'll put it up 
+CHI	 
+INV	let's put it up 
+CHI	 
+INV	pull 
+INV	I see Chi 
+CHI	 
+INV	pull 
+INV	there's Chi 
+CHI	 
+INV	where's Chi 
+INV	where's Chi 
+CHI	  
+INV	in there 
+INV	 
+INV	there he is 
+CHI	 
+INV	close it 
+INV	where's Chi 
+INV	where's Chi 
+CHI	  
+INV	in there 
+INV	 
+INV	there he is 
+CHI	 
+INV	close it up 
+INV	where's Chi 
+CHI	  
+INV	knock knock knock 
+INV	knock knock knock 
+INV	where's Chi 
+INV	 
+INV	  
+INV	there he is 
+INV	I see him 
+CHI	 
+INV	close it up 
+CHI	  
+INV	where's Chi 
+INV	knock knock 
+INV	where's Chi 
+CHI	 
+INV	 
+INV	  
+INV	there he is 
+INV	close it up 
+CHI	 
+CHI	  
+INV	knock knock knock 
+CHI	 
+INV	there's Chi 
+INV	close it up 
+CHI	  
+INV	knock knock knock 
+INV	where's Chi 
+CHI	 
+INV	let's go for a walk 
+CHI	 
+INV	Chi you wanna go for a walk 
+CHI	 
+INV	horse 
+INV	horsie 
+INV	neigh 
+INV	neigh 
+CHI	 
+INV	there's the horse 
+CHI	 
+INV	neigh 
+INV	neigh 
+CHI	 
+INV	horse 
+INV	horse 
+INV	neigh 
+CHI	 
+INV	put it in 
+INV	pull it out 
+CHI	 
+INV	put it in 
+CHI	 
+INV	put it in 
+INV	pull it out 
+CHI	 
+INV	neigh 
+INV	horse 
+CHI	 
+INV	 
+INV	on the head 
+INV	on his head 
+CHI	 
+INV	out the door 
+INV	let's go out the door 
+INV	open the door 
+CHI	 
+INV	open the door 
+CHI	  
+INV	open the door 
+CHI	a  door 
+INV	push the button 
+CHI	door 
+INV	open the door 
+CHI	  
+INV	open the door 
+CHI	door 
+CHI	 
+INV	let's go for a walk 
+INV	let's go for a walk 
+INV	let's go out this door Chi 
+INV	let's go out this door 
+CHI	 
+INV	this door 
+INV	open the door 
+INV	open the door 
+CHI	 
+INV	push the door 
+CHI	 
+INV	push the door 
+CHI	 
+INV	let's go for a walk 
+CHI	 
+INV	another door 
+CHI	 
+INV	let's go out this door 
+INV	Chi 
+INV	Chi 
+CHI	  
+INV	that door 
+CHI	  
+INV	knock knock knock 
+INV	knock knock knock 
+CHI	 
+INV	open the door 
+INV	open the door 
+CHI	 
+CHI	  
+INV	what's in there 
+CHI	 
+INV	open the door 
+CHI	 
+INV	 
+CHI	 
+INV	knock knock knock 
+INV	knock knock knock 
+CHI	 
+CHI	  
+INV	 
+CHI	 
+INV	knock knock knock 
+INV	let's go out that door 
+INV	let's go out that door 
+CHI	 
+INV	Chi 
+INV	knock knock knock 
+INV	knock knock knock 
+CHI	 
+INV	knock knock knock 
+INV	 
+INV	let's go out this door 
+INV	knock knock knock 
+INV	Chi 
+CHI	  
+INV	what's in there 
+INV	what's in there 
+INV	 
+CHI	  
+INV	knock knock knock 
+CHI	  
+INV	open the door 
+CHI	 
+INV	open the door 
+INV	open the door 
+CHI	  
+INV	knock knock knock 
+INV	knock knock knock 
+INV	knock knock knock 
+CHI	  
+INV	open the door 
+INV	let's push the door 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	horse 
+CHI	 
+INV	horse 
+CHI	 
+INV	neigh 
+INV	neigh 
+CHI	 
+INV	neigh 
+INV	what's that 
+CHI	 
+INV	good horse 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+CHI	 
+INV	 
+INV	 
+CHI	 
+INV	can you get on the horse 
+CHI	 
+INV	get on the horse 
+INV	get on the 
+INV	oh you're standing on the horse 
+INV	oh 
+CHI	 
+INV	on the horse 
+CHI	 
+INV	shaky 
+INV	that horse is shaky 
+CHI	 
+CHI	 
+INV	Chi's on the horse 
+INV	on the horse 
+CHI	 
+INV	here's mine 
+CHI	  
+CHI	 
+INV	on the horse 
+CHI	 
+INV	 oh 
+CHI	 
+INV	 oh 
+CHI	 
+INV	on the horse 
+CHI	 
+INV	on the horse 
+INV	almost 
+CHI	 
+INV	Chi's on the horse 
+CHI	 
+INV	Chi's on the horse 
+CHI	 
+INV	off the horse 
+CHI	 
+INV	off the horse 
+CHI	 
+INV	go 
+INV	go 
+INV	yeah 
+CHI	  
+INV	whoa 
+INV	bless you 
+CHI	  
+INV	bless you 
+CHI	  
+INV	bless you 
+CHI	 
+INV	go 
+INV	stop 
+CHI	 
+INV	go 
+CHI	  
+INV	go 
+CHI	 
+INV	go 
+INV	stop 
+INV	go 
+CHI	  
+INV	go 
+INV	go 
+INV	stop 
+CHI	 
+INV	stop 
+CHI	 
+INV	let's go out the door 
+INV	let's go out the door 
+CHI	 
+INV	off the horse 
+CHI	 
+INV	let's go out the door 

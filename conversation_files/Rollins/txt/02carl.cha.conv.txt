@@ -1,0 +1,903 @@
+participant	content
+CHI	 
+INV	buckets 
+CHI	 
+INV	uhoh  Carson 
+INV	sorry  Andrew 
+CHI	 
+INV	is this your bucket 
+CHI	my bucket 
+INV	is that Carson's bucket 
+CHI	 
+CHI	 
+CHI	 
+CHI	a barn 
+INV	a barn 
+INV	that's right 
+CHI	a barn 
+INV	a barn 
+CHI	a barn 
+CHI	a barn 
+INV	 
+CHI	bus 
+INV	you need the bus  too 
+CHI	 
+CHI	 
+INV	the bus 
+CHI	a bus 
+INV	watch your head 
+CHI	  
+INV	the bus 
+CHI	a bus 
+INV	you want me to get the bus 
+CHI	  
+INV	Carson 
+CHI	a bus 
+INV	you got the bus 
+INV	good job 
+CHI	a  a bus 
+INV	that's right 
+INV	a bus 
+CHI	a bus 
+CHI	 
+INV	 
+INV	what goes in the bus 
+CHI	  
+INV	who goes in the bus 
+CHI	 
+CHI	open 
+INV	open 
+CHI	 
+INV	who goes in the bus 
+CHI	 
+INV	Carson 
+INV	the kids on the bus go 
+CHI	 
+INV	up 
+CHI	up and down 
+INV	and down 
+CHI	 
+INV	up 
+INV	and down 
+INV	up and down 
+CHI	 
+INV	the kids on the bus go 
+CHI	up 
+INV	up and 
+CHI	down 
+INV	down 
+INV	early in the morning 
+CHI	yay 
+INV	yay 
+INV	where are the kids 
+INV	the people 
+CHI	people 
+INV	where are they 
+CHI	ah people 
+INV	there are the people 
+CHI	ah 
+CHI	the people 
+INV	ah 
+INV	where's the boy 
+CHI	 
+INV	where's the boy 
+INV	you have the farmer 
+CHI	 
+CHI	a dog 
+INV	 huh 
+INV	a dog 
+CHI	woof 
+INV	woof 
+INV	 
+CHI	 
+INV	 
+CHI	 
+INV	 
+INV	where's the boy 
+CHI	 
+INV	here's the girl 
+INV	here's the farmer 
+CHI	dog 
+INV	the dog 
+INV	here's the other farmer 
+INV	where's the boy 
+CHI	 
+INV	 
+INV	is that the boy 
+CHI	the boy 
+INV	the boy 
+INV	the boy wants to ride the horse 
+CHI	 
+INV	he wants to ride the horse 
+CHI	a horse 
+INV	a horse 
+CHI	the horse 
+CHI	 
+INV	yeah 
+INV	dum_dee_dum 
+INV	he rode the horsie 
+CHI	 
+INV	what are you doing 
+CHI	a horse 
+INV	a horse 
+CHI	 
+CHI	a dog 
+INV	it's time for the kids to go to school 
+CHI	a school bus 
+INV	gonna go on the school bus 
+CHI	school bus 
+INV	we needta get on the school bus 
+CHI	 bus 
+CHI	 
+INV	there's only one kid on the bus 
+CHI	on the bus  
+CHI	a bus 
+CHI	 
+INV	who else needs to go on the bus  Chi 
+CHI	a bus 
+INV	who else needs to go 
+CHI	 
+INV	the farmer did 
+CHI	  
+INV	what about the girl 
+CHI	 
+CHI	 
+CHI	 
+INV	where's the girl 
+CHI	 
+CHI	 
+INV	where's the girl 
+CHI	 
+INV	 
+CHI	 
+INV	there's the girl 
+CHI	a girl 
+INV	the girl 
+CHI	 
+INV	she's on the bus 
+INV	who else needs to go on the bus 
+CHI	 
+INV	one more person 
+CHI	open 
+INV	one more needs to go on the bus 
+CHI	a bus 
+INV	Chi 
+INV	Chi 
+CHI	 
+INV	one more 
+CHI	 
+CHI	open 
+INV	 
+INV	he needs to go on the bus 
+CHI	 bus 
+CHI	bus 
+INV	they're off to school 
+CHI	on a school bus 
+INV	going to school 
+CHI	on a school bus 
+INV	school bus 
+CHI	on a school bus 
+INV	do you wanna sing 
+CHI	go 
+INV	ready 
+CHI	go 
+INV	the wheels on the bus go 
+CHI	 
+INV	round 
+INV	round 
+INV	round 
+INV	the wheels on the bus go round 
+CHI	 
+INV	early in the morning 
+CHI	yay 
+INV	yay 
+INV	what else 
+CHI	 
+INV	you wanna sing about the kids 
+CHI	the kids 
+INV	the kids 
+CHI	  
+INV	no 
+CHI	no 
+INV	no 
+CHI	go 
+INV	yes 
+CHI	yes 
+INV	okay 
+INV	the kids on the bus go 
+CHI	 
+INV	up 
+INV	and down 
+CHI	 
+INV	up and down 
+INV	up and down 
+INV	the kids on the bus go 
+CHI	up 
+INV	up and 
+CHI	down 
+INV	down 
+INV	early in the morning 
+INV	  
+CHI	yay 
+INV	yay 
+CHI	the sheep 
+INV	yep 
+INV	there's the sheep 
+CHI	baa 
+INV	baa 
+INV	baa 
+INV	the sheep is hungry 
+INV	can you feed him 
+CHI	 
+INV	  
+CHI	 
+INV	  
+CHI	 
+INV	 yummy 
+INV	thank you says the sheep 
+INV	 
+CHI	 
+INV	the horsie is hungry too 
+CHI	 
+INV	  
+CHI	 
+INV	  
+CHI	 
+INV	  
+INV	 
+INV	yummy says the horsie 
+CHI	 
+INV	yummy 
+INV	thank you 
+CHI	 
+INV	that horse is hungry too 
+INV	  
+CHI	 
+INV	  
+CHI	 
+INV	 
+INV	 
+INV	yummy 
+INV	yummy 
+INV	we both have glitter on our faces 
+INV	glitter 
+CHI	  
+INV	see it 
+CHI	 green 
+INV	green 
+INV	yeah 
+INV	on your hand too 
+CHI	  
+CHI	on hand 
+INV	on your hand 
+CHI	 
+INV	want it off 
+INV	get it off 
+INV	get it off 
+INV	it's still there 
+CHI	 green 
+INV	green 
+INV	okay 
+INV	can you put the chicken in the wagon for me 
+CHI	 
+INV	the chicken 
+CHI	 
+INV	thank you 
+CHI	 
+INV	in the 
+INV	oh 
+INV	he's hungry 
+INV	  
+INV	  
+CHI	 
+INV	yummy 
+INV	thank you 
+INV	now can you put him in the wagon 
+CHI	 
+INV	it's time to go for a ride 
+CHI	 
+INV	take him for a ride 
+INV	in the barn 
+CHI	a barn 
+INV	a barn 
+CHI	a barn 
+CHI	a barn 
+CHI	a barn 
+INV	bye bye  chicken 
+CHI	 
+CHI	 chicken 
+INV	bye bye  chicken 
+CHI	bye  chicken  
+INV	you needta move that 
+CHI	 
+INV	there 
+INV	 
+INV	where's the chicken 
+CHI	 
+INV	oh 
+INV	there he is 
+CHI	a chicken 
+INV	chicken 
+CHI	a chicken 
+INV	 hm 
+INV	who else is hungry 
+CHI	 
+INV	did the dog eat his breakfast 
+CHI	 
+INV	did the dog eat his breakfast stuff 
+INV	there's James 
+CHI	 
+INV	James 
+INV	you have the dog  Chi 
+CHI	dog 
+INV	I'm hungry 
+CHI	 
+INV	  
+CHI	 
+INV	make him eat 
+CHI	 
+INV	  
+CHI	 
+INV	 
+INV	  
+CHI	 
+INV	 
+INV	okay 
+INV	he's full 
+CHI	 
+INV	thank you he says 
+INV	 
+CHI	 
+INV	give him a kiss 
+CHI	 
+INV	that was nice 
+CHI	 
+CHI	 
+INV	you're silly 
+CHI	 
+INV	  
+CHI	 
+INV	 
+INV	he's still hungry 
+CHI	  
+CHI	  
+CHI	 
+CHI	 
+CHI	a bus 
+INV	are the kids at school still 
+CHI	  
+CHI	bus 
+CHI	  
+CHI	bus 
+CHI	  
+INV	 hm 
+INV	what did you say 
+CHI	a pig 
+INV	yeah 
+INV	where's our pig 
+INV	where's the other pig 
+CHI	a pig 
+INV	there's the pig 
+INV	he goes 
+CHI	 
+INV	the pig says 
+CHI	a  oink 
+INV	 
+CHI	oink 
+INV	oink 
+INV	oink 
+CHI	 
+INV	that's right 
+INV	he goes 
+INV	 
+INV	 
+INV	 
+CHI	 
+INV	 
+INV	that's right 
+CHI	open 
+INV	was he hungry 
+CHI	a door 
+CHI	a dog 
+INV	 hm 
+INV	a dog 
+CHI	dog 
+INV	the farmer wants to ride his horse 
+CHI	horse 
+INV	he wants to ride his horse 
+CHI	horse 
+INV	dum_dee_dum_dee 
+INV	dum_dee_dum_dee 
+INV	he needs a drink 
+INV	he's thirsty 
+CHI	horse 
+INV	he's thirsty 
+INV	  
+INV	 
+INV	thank you says the horse 
+INV	dum_dee_dum 
+CHI	  
+INV	da_da_da 
+CHI	 
+INV	 
+CHI	 
+INV	a kiss 
+CHI	a sheep 
+INV	sheep 
+CHI	a sheep 
+INV	 hm 
+INV	sheep 
+CHI	baaaa 
+INV	baa 
+INV	baa 
+CHI	 
+CHI	 
+INV	what are you doing 
+CHI	 sheep 
+INV	I'm gonna put the farmer in your pocket 
+CHI	pocket 
+INV	in your pocket 
+CHI	pocket 
+CHI	a dog 
+INV	 hm 
+CHI	 
+CHI	 
+INV	what do you hear 
+INV	somebody outside 
+CHI	outside 
+INV	yay 
+INV	that's right 
+CHI	outside 
+CHI	 close 
+INV	close 
+CHI	close 
+CHI	 
+INV	put the farmer in your pocket 
+CHI	 
+INV	that's not your pocket 
+INV	there's your pocket 
+CHI	 
+CHI	oh 
+INV	he's in your pocket 
+CHI	 
+CHI	 
+INV	  
+CHI	 
+INV	oops 
+CHI	 
+INV	do you wanna sing another song 
+CHI	no 
+INV	sing 
+CHI	sing 
+INV	sing 
+CHI	go 
+INV	how about the happy song 
+CHI	happy 
+INV	the happy song 
+CHI	go 
+INV	sit down 
+CHI	 
+INV	ready 
+CHI	go 
+INV	if you're happy and you know it clap your hands 
+CHI	 
+INV	if you're happy and you know it clap your hands 
+CHI	 
+INV	 
+INV	if you're happy and you know it then your 
+CHI	 
+INV	face will surely show it 
+CHI	 
+INV	if you're happy and you know it 
+CHI	rooster 
+INV	what 
+CHI	rooster 
+INV	rooster 
+INV	that's right 
+INV	rooster 
+CHI	cock a doodle doo 
+INV	cock a doodle doo 
+CHI	chicken 
+INV	no more singing 
+CHI	chicken 
+INV	chicken 
+CHI	bac bac bac bac bac bac bac 
+INV	bac bac bac 
+CHI	 
+INV	  
+CHI	 
+INV	  
+CHI	 
+INV	he's eating his breakfast 
+CHI	  
+INV	did the dog eat his breakfast 
+CHI	 
+INV	  
+INV	  
+CHI	 
+INV	oh  thank you he says 
+INV	are you ready to put the farm away 
+CHI	away 
+INV	the barn 
+CHI	barn 
+INV	put it away 
+CHI	away 
+CHI	 
+INV	put all the animals in 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+CHI	a horse 
+CHI	a horse 
+CHI	a sheep 
+CHI	a chicken 
+CHI	 
+INV	bye bye 
+CHI	bye bye 
+INV	bye bye  everybody 
+CHI	bye body 
+INV	is that all 
+CHI	a  close 
+INV	close 
+CHI	 
+INV	where does it go 
+CHI	all closed 
+INV	all closed 
+INV	where does it go 
+CHI	up 
+INV	up 
+INV	yeah 
+INV	first it goes 
+CHI	up 
+INV	 
+CHI	open 
+INV	in your bucket 
+CHI	 
+INV	 
+CHI	 
+INV	now where 
+CHI	a bus 
+INV	yep 
+INV	a bus 
+CHI	a bus 
+INV	where does your bucket go 
+CHI	up  
+CHI	up 
+INV	up 
+INV	 hm 
+INV	on the shelf 
+CHI	shelf 
+INV	can you put it up there 
+CHI	 
+INV	 
+CHI	up 
+INV	up 
+INV	can you reach it 
+CHI	 
+INV	do you need help 
+CHI	 
+CHI	 
+INV	I'll help you 
+CHI	 
+INV	do you need help 
+INV	I'll help you 
+INV	  
+CHI	cycle 
+INV	a bicycle 
+CHI	oh a cycle 
+CHI	cycle 
+CHI	bicycle 
+CHI	 
+INV	and 
+CHI	a ted bear 
+INV	a teddy bear 
+INV	and what else 
+INV	and 
+CHI	a house 
+INV	house 
+CHI	bicycle 
+INV	bicycle 
+CHI	bicycle 
+INV	let's take em all out 
+CHI	 
+INV	take em all out 
+CHI	take out 
+INV	take that apple out 
+CHI	 
+CHI	  
+INV	 
+CHI	  
+CHI	a house 
+CHI	a house 
+INV	a house 
+INV	is that your house 
+CHI	a house 
+INV	is that Chi's house 
+CHI	a house 
+CHI	 
+INV	and Chi's teddy bear 
+CHI	teddy bear 
+CHI	 
+INV	put the apple in 
+INV	will it fit 
+INV	push it 
+CHI	 
+INV	there you go 
+CHI	 
+INV	and the 
+CHI	icycle 
+INV	bicycle 
+CHI	bicycle 
+CHI	 
+INV	will it go 
+CHI	  
+INV	okay 
+CHI	done 
+INV	let's put em away 
+INV	all done 
+INV	that's right 
+CHI	 
+INV	done 
+CHI	done 
+INV	let's put em away 
+CHI	away 
+CHI	bi 
+INV	on the shelf 
+CHI	bicycle  
+INV	want me to put it up 
+CHI	 
+CHI	  
+INV	I'll do it 
+CHI	  
+INV	now we needta put your bucket on the shelf 
+CHI	the shelf  
+INV	pick it up here 
+CHI	up 
+INV	up [] 
+CHI	up [] 
+INV	okay 
+INV	I'll do it 
+CHI	 
+INV	let's go to the gym Chi 
+CHI	 
+INV	gym 
+CHI	  
+CHI	 
+INV	show me the gym 
+INV	show me where the gym is 
+CHI	 
+INV	that's right 
+INV	what's this 
+CHI	  
+INV	a  
+CHI	tree 
+INV	not a tree 
+INV	that's the trash 
+CHI	trash 
+INV	trash 
+INV	here's 
+CHI	a table 
+INV	yeah tables and 
+CHI	and 
+INV	that's outside 
+CHI	outside 
+INV	but we're going to the 
+CHI	gym 
+INV	gym 
+CHI	 
+INV	can you open it 
+INV	need help 
+CHI	help  
+INV	help 
+INV	okay 
+CHI	 
+INV	 
+INV	we're going to the gym 
+CHI	gym 
+INV	can you push the five 
+CHI	 
+INV	nope that's the four 
+CHI	 
+INV	let's start over 
+INV	push the five 
+CHI	 
+CHI	 
+INV	thank you 
+CHI	 
+INV	here I come 
+INV	 
+INV	here I come 
+CHI	 
+INV	Chi 
+INV	 
+CHI	 
+INV	 hi 
+INV	here we are 
+CHI	 
+INV	here we are 
+CHI	  
+INV	let's go down the slide 
+CHI	slide 
+INV	slide 
+INV	whoops 
+CHI	ups 
+INV	op 
+INV	puzzle first 
+CHI	 
+INV	puzzles are in there 
+INV	where's your puzzle 
+INV	did you find it 
+CHI	  
+INV	you found it 
+CHI	a puzzle 
+INV	a puzzle 
+CHI	 
+INV	  
+INV	I have the  
+CHI	airplane 
+INV	I have the airplane 
+CHI	airplane 
+INV	airplane 
+CHI	varoom 
+INV	varoom 
+INV	flying 
+CHI	 
+INV	let's play with the 
+CHI	 
+INV	let's play with the choo choo train 
+CHI	choo choo train 
+INV	choo choo train 
+CHI	choo choo choo [] 
+INV	ch_ch_ch_cch_ch [] ch_ch_ch 
+CHI	 
+CHI	air 
+INV	what's this 
+CHI	a bus 
+INV	a bus 
+CHI	a bus 
+INV	bus 
+INV	is it a school bus 
+CHI	school bus 
+INV	school bus 
+CHI	airplane 
+INV	airplane 
+CHI	airplane 
+INV	is it flying 
+CHI	varoom varoom 
+INV	varoom 
+CHI	 
+INV	and what's this 
+CHI	a boat 
+INV	a boat 
+INV	it goes  toot toot 
+INV	he's on the water 
+CHI	 
+CHI	  
+CHI	 
+CHI	a airplane 
+INV	yep it's an airplane 
+CHI	airplane 
+INV	there's one more we haven't played with 
+CHI	a truck 
+INV	a truck 
+CHI	a truck 
+INV	what color is the truck 
+CHI	green 
+INV	green 
+INV	a green truck 
+CHI	 
+INV	I think you like the airplane th best 
+CHI	varoom 
+CHI	 
+INV	Chi 
+INV	we needta put the puzzle away first 
+CHI	  
+INV	then we'll play on the slide 
+CHI	  
+INV	okay 
+CHI	kay 
+INV	let's put it away 
+CHI	away 
+INV	in the sh  in the closet 
+INV	 
+CHI	 
+INV	bye bye puzzle 
+CHI	bye puzzle 
+INV	bye bye puzzle 
+CHI	  
+INV	you want another puzzle 
+CHI	  
+INV	or a book 
+CHI	book 
+INV	nope those are the puzzles 
+CHI	 
+CHI	 
+INV	there's the book 
+INV	books 
+CHI	a book 
+INV	which book is that 
+INV	rooster 
+CHI	rooster 
+INV	rooster 
+CHI	roos [] 
+INV	he says [] 
+CHI	cockle 
+INV	cock a doodle do 
+CHI	cock a doodle do 
+INV	what's this book 
+CHI	a book 
+INV	oh 
+INV	he's on a 
+CHI	  bicycle 
+INV	a bicycle 
+CHI	bicycle 
+INV	yeah 
+INV	here it is 
+CHI	bicycle 
+INV	you wanna read this book 
+CHI	 
+INV	let's read this book 
+CHI	bicycle 
+INV	Ralph Troll 
+CHI	troll 
+INV	was very proud of his first bicycle 
+CHI	bicycle 
+INV	you don't wanna read the book 
+CHI	book 
+INV	oh bye bye book 
+CHI	bye book 
+CHI	 
+INV	which book do you want 
+CHI	 
+CHI	a book 
+INV	the toad hunt 
+CHI	hunt 
+INV	the toad hunt 
+CHI	to 
+CHI	 
+INV	I bet you want the tiny dinos 
+CHI	dinos 
+INV	where are the tiny dinos 
+CHI	 dino 
+INV	the tiny dinos 
+CHI	 
+INV	where are they 
+CHI	 
+INV	I don't see them 
+CHI	 
+CHI	  
+CHI	  
+CHI	 
+INV	no book 
+CHI	  
+INV	we needta close the cabinet 
+INV	close it 
+CHI	 close  
+CHI	 
+INV	maybe the tiny dinos are up here 
+INV	let's look 
+INV	up here 
+CHI	up 
+INV	 
+CHI	 
+INV	where are the tiny dinos 
+CHI	 
+INV	nope 
+INV	that's lunchboxes 
+INV	where are they 
+INV	no 
+CHI	 
+CHI	 
+INV	up there 
+INV	I can't reach up there 
+INV	whoops 
+INV	can you see the tiny dinos 
+CHI	tiny dinos 
+INV	guess they're gone 
+CHI	all_gone 
+INV	all_gone 
+CHI	all_gone 
+INV	 
+CHI	 
+INV	sorry 

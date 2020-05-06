@@ -1,0 +1,464 @@
+participant	content
+CHI	  
+INV	Chi 
+INV	you want a picture of Chi 
+CHI	 
+CHI	 
+INV	  
+INV	nose 
+INV	Chi's nose 
+CHI	  
+INV	eye 
+CHI	  
+INV	another eye 
+CHI	 
+CHI	  
+INV	draw hair 
+CHI	  
+INV	draw legs 
+CHI	  
+INV	legs 
+CHI	 
+INV	what is that 
+CHI	  
+CHI	  
+INV	you want me to draw the sun 
+INV	draw the sun 
+INV	sun 
+CHI	  
+INV	what do you want me to draw 
+CHI	  
+INV	a tree 
+CHI	  
+INV	a tree 
+INV	a tree 
+INV	a tree 
+CHI	 
+CHI	  
+INV	what 
+CHI	  
+INV	a hat for Chi 
+INV	hat for Chi 
+CHI	  
+INV	a bird in the tree 
+INV	bird 
+CHI	  
+INV	want me to put an eye 
+CHI	 
+CHI	  
+CHI	  
+CHI	  
+INV	a house 
+INV	you want a house here 
+INV	a house 
+INV	a door 
+CHI	  
+CHI	  
+CHI	  
+INV	what do you want 
+CHI	  
+INV	some arms for Chi 
+INV	hands 
+CHI	 
+INV	one arm 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+INV	let's draw some more pictures 
+INV	turn around 
+CHI	 
+INV	what are you looking at 
+CHI	  
+INV	a mouth 
+INV	 
+CHI	  
+INV	chimney 
+INV	fireplace 
+INV	with smoke 
+INV	 
+CHI	  
+CHI	 
+INV	can you make a window 
+CHI	 
+CHI	  
+CHI	  
+CHI	  
+INV	a shirt for Chi 
+INV	make a shirt and another arm 
+INV	 
+CHI	 
+CHI	  
+INV	arm 
+INV	pants for Chi 
+INV	he has pants 
+INV	pants and shoes 
+CHI	 
+CHI	 
+INV	are you looking at Christie 
+CHI	 
+CHI	  
+INV	that's Christie 
+CAM	hey 
+INV	hi Christie 
+CHI	  
+INV	hi Christie 
+CHI	  
+INV	hi 
+CAM	hi 
+CHI	  
+CAM	give it to Diane 
+CHI	 
+INV	you want me to draw 
+CHI	  
+INV	draw what 
+CHI	  
+INV	ears 
+INV	ears for Chi 
+CHI	 
+INV	is he wearing glasses 
+CHI	 
+CHI	  
+INV	 
+CHI	  
+INV	window 
+CHI	 
+INV	 
+INV	wanna erase 
+CHI	  
+INV	no 
+CHI	  
+INV	okay 
+INV	make a window 
+CHI	  
+CHI	  
+INV	the sun 
+CHI	  
+CHI	  
+INV	hair 
+INV	you want me to make some curly hair 
+INV	it's not like Chi's hair is it 
+CHI	 
+CHI	 
+CHI	  
+CHI	  
+INV	oh 
+INV	knock on the door 
+INV	good for you 
+INV	knock on the door 
+CHI	 
+CHI	  
+INV	tree 
+CHI	  
+CHI	  
+CHI	  
+INV	do you wanna erase that 
+CHI	 
+INV	can you erase that 
+CHI	 
+INV	you hafta turn it around 
+INV	 
+CHI	 
+INV	erase 
+CHI	 
+INV	they're playing with the hats 
+INV	do you wanna play with the hats 
+CHI	  
+INV	no 
+CHI	  
+INV	erase 
+CHI	 
+INV	let's draw a flower 
+CHI	  
+INV	the stem 
+CHI	 
+INV	a leaf 
+CHI	 
+CHI	 
+INV	 
+INV	 
+CHI	  
+INV	what 
+CHI	  
+INV	want stripes on his shirt 
+INV	stripes on his shirt 
+CHI	 
+INV	stripes 
+INV	stripes 
+CHI	 
+INV	do you want a kleenex 
+INV	let's go get you a kleenex 
+INV	wipe your nose 
+INV	can you blow 
+CHI	 
+INV	good job 
+INV	good job 
+INV	let's draw some more okay 
+INV	what do you wanna draw 
+CHI	  
+CHI	  
+INV	draw what 
+INV	draw another chimney 
+INV	two chimneys on this house 
+INV	two fireplaces 
+CHI	  
+INV	what 
+INV	a birdie 
+CHI	  
+INV	this is the sun 
+CHI	 
+INV	the sun 
+CHI	 
+INV	drawing a circle 
+INV	let's go down here where there's some space 
+CHI	 
+INV	can you draw me a circle 
+INV	draw a big circle 
+CHI	 
+INV	is that  
+INV	 
+CHI	 
+INV	who's here 
+INV	who is this 
+INV	say hi William 
+CHI	 
+INV	grass 
+INV	lots_of grass 
+CHI	 
+CHI	  
+INV	is this a stop sign 
+INV	somebody was making a stop sign 
+INV	let's write stop 
+INV	stop 
+INV	where is the house 
+CHI	 
+INV	it must be gone 
+INV	I think the house is gone 
+INV	someone else is playing with it 
+INV	you want the farm 
+CHI	 
+INV	let's play with the farm 
+CHI	  
+INV	no 
+CHI	 
+INV	what 
+CHI	  
+INV	gas pump 
+CHI	  
+INV	 
+INV	let's move out_of the way of the closet 
+INV	let's move over here 
+INV	move over here 
+CHI	 
+INV	the gas can 
+INV	see look at the numbers 
+INV	there you go 
+INV	look at that 
+INV	look at those numbers roll 
+INV	pretty expensive gas isn't it 
+INV	 
+INV	 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	the numbers are rolling aren't they 
+INV	 
+INV	this is the  
+INV	 what else is here 
+CHI	 
+INV	here are some tools 
+CHI	 
+INV	screwdriver 
+CHI	 
+INV	and the pressure gauge 
+CHI	 
+CHI	 
+CHI	 
+INV	a drum 
+CHI	 
+CHI	 
+INV	  
+INV	there they go 
+CHI	 
+CHI	 
+CHI	 
+INV	around 
+INV	going around 
+INV	 
+CHI	  
+INV	that's okay 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	 
+INV	 
+INV	what's in there 
+CHI	 
+CHI	 
+CHI	 
+INV	what's in there 
+CHI	 
+INV	 
+INV	the horse 
+INV	the horse is in there 
+CHI	 
+INV	two horses 
+INV	one horse 
+INV	two horse 
+INV	what else do we have 
+INV	the cow 
+INV	he makes this sound 
+INV	listen 
+INV	the cow says moo 
+INV	the pig and the sheep are in the trough 
+CHI	 
+INV	you took the pig out 
+CHI	 
+INV	you took the sheep out 
+CHI	 
+INV	cow's too big 
+INV	she's too big isn't she 
+CHI	  
+INV	oh oh 
+INV	the cow is out 
+INV	  
+CHI	  
+INV	the sheep is in 
+INV	let's put the puppy dog in with the sheep 
+INV	they're in the trough 
+CHI	 
+INV	nobody's in there 
+INV	who's in the barn 
+CHI	no  
+INV	what are you looking at 
+INV	do you want this 
+INV	the box 
+INV	the box 
+INV	what's in there 
+CHI	 
+INV	hi Steven 
+CHI	 
+INV	Steven came to see you 
+INV	 
+INV	Chi 
+INV	who's in here 
+INV	who's in the silo 
+CHI	 
+CHI	 
+INV	who's in there 
+CHI	  
+INV	 
+INV	it's the pig 
+INV	you're right 
+INV	the black pig right 
+INV	is there another pig 
+INV	or just one 
+INV	just one 
+INV	and two horses 
+INV	let's make a pen for the horses 
+INV	do you like the farm 
+CHI	 
+INV	look here 
+INV	oh that's too little 
+INV	I put the puppy in 
+CHI	 
+INV	here's the black pig 
+INV	here's the black pig 
+CHI	 
+INV	can he go in there too 
+CHI	  
+CHI	 
+INV	yeah you can get him in 
+CHI	 
+CHI	 
+INV	like that 
+INV	oops 
+INV	it's down 
+INV	put the pig in there 
+CHI	 
+INV	 
+CHI	 
+INV	who's in here 
+CHI	 
+INV	who's in the silo 
+CHI	 
+CHI	 
+CHI	  
+INV	  
+INV	it's a white sheep 
+INV	the white sheep is in the silo 
+INV	 
+INV	who's in there now 
+INV	no one 
+CHI	 
+INV	 nobody 
+INV	you put someone in there 
+CHI	 
+INV	Chi 
+INV	let's put this toy away 
+INV	let's put it away 
+CHI	 
+INV	 Chi 
+INV	what's the cow doing over here 
+INV	what's the cow doing over here 
+CHI	 
+INV	the cow's in the gas station 
+INV	the numbers are going around 
+CHI	 
+INV	is somebody in here 
+INV	it stopped 
+INV	wind it up 
+INV	Chi 
+INV	wind it up 
+CHI	 
+INV	more 
+INV	wind it up more 
+CHI	 
+INV	more 
+INV	wind it up 
+CHI	 
+INV	 
+CHI	  
+INV	 oh 
+INV	look 
+INV	who's in there 
+CHI	 
+INV	who's in there 
+CHI	  
+INV	  
+INV	puppy dog 
+INV	puppy dog 
+INV	is he crawling 
+CHI	 
+INV	 
+CHI	 
+CHI	  
+INV	 
+INV	it's a pig 
+CHI	 
+INV	a pig 
+CHI	 
+INV	the pig's in there 
+INV	the other pig's in there 
+INV	two of them now 
+INV	here Steven 
+CHI	  
+INV	hi Steven 
+INV	wind it up 
+INV	wind it up 
+INV	can you pull up the pump 
+INV	what's happening 
+CHI	  
+INV	 
+INV	there you go 
+INV	look 
+INV	watch it spin 
+INV	around and around 
+INV	around and around 

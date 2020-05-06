@@ -1,0 +1,357 @@
+participant	content
+INV	here's the hole 
+CHI	 
+INV	here's the hole 
+CHI	  
+INV	here's the hole 
+CHI	  
+INV	op 
+INV	 
+CHI	 
+INV	 
+CHI	  
+INV	 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	 
+INV	there's the kangaroo 
+CHI	 
+INV	the kangaroo goes hop hop hop 
+CHI	 
+INV	hop hop hop 
+CHI	 
+INV	 oh 
+INV	be careful 
+INV	be careful 
+CHI	 
+CHI	 
+INV	 
+INV	let's go downstairs 
+CHI	  
+INV	sit down 
+CHI	  
+INV	let's go downstairs Chi 
+CHI	 
+INV	 
+CHI	 
+INV	 
+CHI	  
+CHI	  
+INV	 
+CHI	  
+CHI	 
+INV	 
+CHI	 
+INV	let's go downstairs 
+CHI	 
+INV	we can't go in there 
+CHI	 
+CHI	  
+INV	let's go downstairs 
+CHI	 
+INV	 
+INV	it's gonna fall 
+CHI	 
+CHI	 
+INV	down stairs 
+CHI	 
+INV	there's the elephant 
+CHI	 
+INV	there's the elephant 
+CHI	 
+INV	let's go downstairs 
+CHI	  
+CHI	 
+INV	 
+INV	hole 
+INV	  
+INV	poke the hole 
+CHI	  
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	water 
+CHI	  
+INV	turn it on 
+INV	turn it on 
+CHI	   
+CHI	 
+INV	let's pull up your sleeves 
+INV	let's pull up your sleeves 
+CHI	 
+INV	it's cold 
+INV	turn it off 
+CHI	 
+INV	  
+INV	more water 
+CHI	 
+INV	turn it on 
+CHI	 
+CHI	 
+INV	turn it off 
+CHI	 
+CHI	 
+CHI	  
+INV	more 
+INV	turn it on 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	turn it off 
+CHI	  
+CHI	 
+CHI	 
+INV	do you want more water 
+CHI	 
+CHI	  
+INV	Chi 
+CHI	  
+INV	 
+CHI	  
+INV	Chi 
+INV	more water 
+CHI	 
+CHI	  
+INV	 
+CHI	 
+INV	more water 
+CHI	 
+INV	turn it off 
+CHI	 
+INV	 
+INV	you made a mess 
+CHI	 
+INV	  
+INV	it's all over 
+CHI	 
+CHI	 
+INV	more water 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	 
+CHI	  
+INV	more water 
+CHI	 
+INV	 
+INV	 
+INV	 
+CHI	 
+CHI	 
+INV	turn it off 
+CHI	  
+CHI	 
+CHI	 
+INV	okay 
+INV	more water 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	turn in off 
+CHI	 
+CHI	 
+INV	it's all wet 
+CHI	 
+INV	more water 
+CHI	  
+INV	you_all done 
+CHI	 
+INV	 
+INV	 
+INV	let's dry our hands 
+CHI	  
+INV	 
+INV	open the door 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	juice 
+INV	you want some juice 
+CHI	 
+CHI	 
+INV	you needta open it up 
+CHI	 
+INV	 
+CHI	 
+CHI	   
+CHI	 
+CHI	 
+INV	you need more juice 
+CHI	 
+INV	you want more juice 
+CHI	 
+CHI	 
+INV	 open it 
+CHI	 
+INV	 
+INV	open it up 
+CHI	 
+CHI	 
+CHI	  
+CHI	 
+INV	do you wanna go outside 
+CHI	 
+INV	do you wanna go outside 
+INV	you need your coat 
+CHI	 
+INV	 
+INV	here's your coat 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+CHI	 
+INV	he's  gonna read the book 
+CHI	 
+INV	 
+INV	the pokey little puppy 
+CHI	 
+INV	there's the puppies 
+CHI	 
+INV	there's all the puppies 
+CHI	 
+CHI	 
+INV	all done 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+CHI	 
+INV	there's the puppy 
+CHI	 
+INV	 sit down 
+INV	 
+CHI	 
+INV	are you gonna sit down 
+CHI	 
+CHI	 
+CHI	 
+INV	 
+CHI	 
+INV	there's Cam 
+CHI	 
+INV	it's time for snack 
+CHI	 
+INV	let's go to snack 
+INV	 
+INV	 
+INV	let's go 
+CHI	 
+INV	 
+INV	it's time for snack 
+CHI	  
+CHI	 
+INV	bye 
+CHI	 
+INV	open the door 
+CHI	 
+INV	bye 
+CHI	 
+INV	 
+CHI	 
+CHI	 
+INV	bye 
+CAM	bye Chi 
+CHI	 
+CHI	 
+INV	open the door 
+CHI	 
+INV	there's Cam 
+CHI	 
+INV	there's Cam 
+CHI	  
+INV	bye 
+CAM	bye bye 
+INV	bye Cam 
+CHI	 
+INV	open the door 
+CHI	 
+INV	 
+INV	there's Cam 
+INV	bye 
+CHI	 
+INV	there she is 
+INV	open the door 
+CHI	  
+INV	 hi Cam [] 
+CAM	hi [] 
+CHI	 
+CHI	 
+INV	close the door 
+CHI	 
+INV	bye bye 
+CHI	 
+CHI	 
+INV	  
+INV	there's Cam 
+INV	open the door 
+CHI	 
+INV	hi Cam 
+CAM	hi 
+INV	hi 
+CHI	  
+CHI	  
+INV	bye Cam 
+CAM	bye bye 
+INV	bye Cam 
+INV	close the door 
+CHI	 
+CHI	 
+CHI	 
+INV	do you need help [] 
+CHI	 [] 
+INV	do you need help 
+CHI	 
+INV	 
+INV	a hole 
+CHI	 
+INV	push 
+CHI	 
+CHI	 
+CAM	 
+INV	hi Kristi 
+CHI	 
+INV	close the door 
+CHI	 
+CHI	 
+INV	 
+INV	there's Cam 
+INV	open the door 
+CHI	 
+INV	hi Cam 
+INV	hi Cam 
+INV	  
+INV	bye bye 
+CAM	bye 
+CHI	 
+INV	close the door 
+CHI	  
+CHI	 
+INV	 oh 
+INV	you fell down 
+CHI	 
+INV	 
+INV	there's Cam 
+CHI	 
+INV	look Chi 
+INV	there's Cam 
+CHI	 
+INV	let's open the door 
+INV	hi Cam 
+CAM	hi 
+INV	there's Kristi 
+CHI	 
+INV	 
+INV	you like your juice 

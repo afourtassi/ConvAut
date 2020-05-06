@@ -1,0 +1,577 @@
+participant	content
+CHI	  
+INV	you want the toy 
+CHI	  
+INV	no toy 
+CHI	  
+INV	you want the puzzle 
+CHI	  
+INV	no puzzle 
+CHI	  
+INV	you want this puzzle 
+CHI	  
+INV	no puzzle 
+CHI	  
+INV	  
+INV	you want the book 
+CHI	  
+INV	oh there's the book for Chi 
+CHI	  
+INV	the book Chi 
+INV	that's right 
+INV	okay 
+INV	let's sit down 
+CHI	  
+INV	you've got the book 
+CHI	  
+INV	there's the cookie 
+CHI	  
+CHI	 
+INV	Chi there's the cookie monster 
+INV	there's the cookie  
+CHI	 
+INV	here's your ball Chi 
+INV	here's your ball 
+CHI	  
+INV	you want the book 
+CHI	  
+INV	you want me to stand up 
+INV	okay I'll stand up 
+CHI	 
+CHI	  
+INV	slide it open 
+INV	 there's Chi 
+INV	let's close it 
+INV	close it 
+CHI	 
+INV	roll the ball 
+INV	  
+INV	roll it to Chi 
+CHI	 
+INV	roll it 
+INV	  oh 
+INV	it fell 
+CHI	 
+INV	oop 
+INV	 oh 
+INV	 oh 
+CHI	 
+INV	 oh 
+INV	 oh 
+INV	you hit your head Chi 
+INV	it's okay 
+CHI	 
+INV	roll it 
+INV	okay Chi 
+INV	let's get your ball 
+CHI	 
+INV	I'm putting it away Chi 
+INV	I'm putting it away 
+INV	it's gone 
+INV	it's gone 
+INV	I put it away Chi 
+CHI	 
+INV	here's your book 
+INV	here's your book 
+INV	here's your book 
+INV	there's Ernie 
+INV	 Chi 
+INV	the cookie monster 
+INV	there's the cookie monster 
+CHI	 
+INV	 there's big bird with a ball 
+CHI	 
+INV	there's big bird 
+INV	he has a ball 
+CHI	 
+INV	 there's the cookie monster Chi 
+INV	with a cookie 
+INV	he's eating 
+INV	he's eating the cookie 
+INV	turn the page 
+CHI	 
+CHI	 
+CHI	 
+INV	Chi 
+INV	look 
+INV	 
+INV	 there he is 
+INV	there's cookie monster with a cookie 
+INV	there he is 
+CHI	 
+INV	there's Ernie 
+CHI	  
+INV	Ernie 
+CHI	  
+INV	there's Ernie 
+CHI	  
+INV	he's taking a bath 
+INV	Ernie's taking a bath 
+CHI	  
+INV	Ernie 
+INV	he's taking a bath 
+INV	there's the water 
+INV	there's the duck 
+CHI	 
+INV	  
+INV	the cookie monster 
+CHI	 
+CHI	  
+INV	there he is again 
+INV	the cookie monster 
+INV	with a cookie 
+CHI	 
+CHI	 
+INV	let's get another book Chi 
+INV	let's get another book 
+CHI	 
+INV	here's another one 
+INV	another book for Chi 
+CHI	 
+CHI	  
+INV	there's Ernie 
+INV	he's washing dishes 
+CHI	 
+INV	 
+CHI	 
+INV	 
+CHI	 
+INV	Ernie 
+CHI	 
+INV	and Bert 
+INV	he's drying the dishes 
+CHI	  
+INV	he's drying 
+INV	Ernie 
+CHI	 
+INV	pull it open 
+INV	we needta turn it over Chi 
+INV	pull it open 
+CHI	 
+CHI	  
+INV	Ernie 
+INV	washing the dishes 
+CHI	  
+INV	 oh 
+INV	no book 
+INV	no book 
+INV	let's put em back on the shelf 
+CHI	  
+INV	on the shelf 
+CHI	  
+INV	okay 
+INV	we'll put them back 
+INV	bye bye book 
+CHI	  
+INV	on the shelf 
+INV	let's play with the blocks Chi 
+CHI	  
+INV	here're the blocks 
+CHI	  
+CHI	  
+CHI	  
+CHI	  
+CHI	  
+CHI	  
+INV	you want me to stand up 
+CHI	  
+INV	stand up 
+CHI	  
+INV	okay Chi 
+INV	I'll stand up 
+INV	put the blocks away 
+CHI	 
+INV	Chi 
+CHI	 
+INV	you wanna put the blocks away 
+CHI	  
+INV	no blocks 
+INV	put em back on the shelf 
+CHI	 
+CHI	  
+INV	here's another book for Chi 
+CHI	  
+INV	here's another book 
+INV	  
+INV	there's 
+INV	Chi 
+CHI	  
+INV	no book 
+INV	no book 
+CHI	  
+CHI	  
+INV	ready to go 
+INV	let's go 
+INV	pull the door open 
+CHI	 
+CHI	 
+INV	 
+INV	 
+INV	stretch Chi 
+INV	stretch 
+INV	that's right 
+CHI	  
+INV	stretch 
+INV	ready 
+CHI	 
+INV	stretch the balloon 
+CHI	 
+INV	ready to blow 
+CHI	  
+INV	you want me to blow 
+INV	okay 
+INV	I'll blow it up 
+INV	 
+CHI	 
+INV	there it is 
+INV	smoosh 
+CHI	 
+INV	whoo 
+INV	all_gone 
+CHI	  
+INV	all_gone 
+CHI	 
+INV	blow it up 
+CHI	 
+INV	Chi 
+INV	Chi 
+INV	Barbara's upset Chi 
+INV	she's upset 
+INV	it's okay 
+CHI	 
+INV	Chi 
+INV	want me to blow up the balloon again 
+CHI	 
+CHI	  
+INV	oh no balloon 
+CHI	  
+INV	want me to stand up 
+CHI	  
+INV	let's stand up 
+CHI	  
+INV	let's walk 
+INV	let's walk Chi 
+CHI	  
+INV	Chi 
+INV	pick you up 
+INV	pick you up 
+CHI	  
+CHI	  
+INV	 
+CHI	 
+INV	  
+CHI	 
+INV	Chi 
+INV	let's get the doll 
+CHI	 
+INV	let's get the doll 
+INV	help me open the closet 
+INV	pull it open 
+INV	thank you Chi 
+INV	 
+CHI	 
+INV	there's the doll 
+INV	we needta get some food 
+CHI	 
+INV	you found her eyes 
+INV	here's the box with the food 
+CHI	 
+INV	we needta close the closet 
+INV	 
+INV	 
+CHI	 
+CHI	  
+INV	 the ice cream 
+INV	 
+INV	there's Jamie 
+INV	 
+CHI	  
+INV	open 
+CHI	  
+INV	need some help opening 
+CHI	  
+INV	open the box 
+INV	there 
+INV	it's open 
+CHI	 
+INV	a hamburger 
+CHI	 
+CHI	  
+INV	need some help 
+INV	push it down 
+INV	there 
+CHI	  
+CHI	  
+INV	you want it open 
+CHI	  
+INV	open 
+CHI	  
+INV	okay 
+INV	let's 
+CHI	  
+CHI	  
+INV	 
+CHI	  
+INV	open 
+CHI	 
+INV	there 
+INV	it's open 
+CHI	 
+INV	push it closed 
+CHI	 
+CHI	 
+INV	 
+INV	Chi here's the carrot 
+CHI	 
+INV	dump it out 
+INV	I'll help open it Chi 
+INV	take it out 
+CHI	 
+INV	take it out 
+CHI	 
+INV	there's the ice cream 
+INV	here's another one 
+CHI	 
+INV	take it out 
+INV	good Chi 
+INV	you took all the ice cream out 
+INV	Chi I'm going to feed the baby 
+CHI	 
+INV	 
+CHI	 
+INV	take it off 
+CHI	 
+INV	it's on your finger 
+CHI	 
+INV	it's on my finger Chi 
+INV	 it's on my finger 
+CHI	 
+CHI	 
+INV	do you wanna feed the baby 
+INV	 
+CHI	 
+INV	all done 
+CHI	 
+INV	all done Chi 
+CHI	  
+INV	ready to go 
+CHI	  
+INV	want me to stand up 
+CHI	 
+INV	okay 
+INV	I'll stand up 
+CHI	 
+INV	you wanna go 
+INV	push 
+INV	push the door open 
+CHI	 
+INV	there're the bubbles 
+INV	there's the bubbles Chi 
+CHI	 
+INV	 
+INV	 oh 
+INV	 oh 
+INV	okay Chi 
+CHI	 
+INV	let's go in here 
+CHI	 
+INV	there's no light 
+INV	there's no light Chi 
+CHI	  
+INV	need some help 
+INV	let's turn it on Chi 
+INV	okay 
+INV	pick you up 
+CHI	 
+INV	  
+INV	there's the light 
+INV	good 
+INV	Chi you turned it on 
+CHI	 
+INV	where's the chalk 
+INV	there 
+CHI	 
+INV	bang bang bang 
+INV	 
+INV	drawing on the board 
+CHI	 
+INV	 
+INV	color up high 
+CHI	 
+CHI	 
+INV	bang bang bang 
+INV	 
+CHI	 
+INV	 
+CHI	 
+INV	bang bang bang bang bang 
+CHI	 
+INV	 
+CHI	 
+INV	need the eraser 
+CHI	 
+INV	 
+CHI	 
+INV	up high 
+INV	down low 
+CHI	 
+INV	you found another piece 
+CHI	 
+INV	down low 
+CHI	 
+INV	you're coloring up high Chi 
+CHI	 
+INV	bang bang bang 
+INV	 
+CHI	 
+INV	 
+INV	here's another circle 
+CHI	 
+INV	bang bang bang 
+INV	Chi I'm going to go jump 
+INV	I'm all done 
+INV	put my chalk away 
+INV	put my chalk away 
+CHI	 
+INV	Chi 
+CHI	 
+INV	let's jump 
+CHI	 
+INV	let's jump Chi 
+CHI	 
+INV	Chi 
+CHI	 
+INV	you're still drawing 
+INV	ready to jump 
+CHI	 
+INV	Chi 
+CHI	 
+INV	I'm jumping Chi 
+CHI	 
+INV	jumping 
+CHI	 
+INV	bang bang bang 
+CHI	 
+INV	 
+INV	ready to go 
+INV	all done 
+CHI	 
+INV	 
+INV	 
+INV	let's go Chi 
+CHI	 
+INV	let's go 
+INV	all done 
+INV	put the eraser away 
+CHI	 
+INV	let's go 
+CHI	 
+INV	Chi 
+INV	let's go 
+CHI	 
+INV	bang bang bang bang bang 
+INV	  
+CHI	 
+INV	wanna slide 
+INV	wanna slide Chi 
+CHI	  
+INV	slide 
+INV	you need some help 
+CHI	 
+INV	you need some help Chi 
+INV	help you up 
+INV	up up 
+CHI	 
+INV	well stand 
+INV	up up 
+INV	okay 
+INV	sit Chi down 
+CHI	  
+INV	the water 
+INV	that's right 
+INV	you pointed 
+INV	the water 
+CHI	  
+INV	turn it on 
+CHI	  
+INV	ready for some water 
+CHI	  
+INV	 
+CHI	  
+INV	ready for some water 
+CHI	  
+INV	there's the water 
+CHI	 
+INV	 
+INV	feel the water 
+INV	  
+INV	it stopped 
+INV	it stopped 
+CHI	 
+CHI	 
+INV	jump jump jump 
+INV	jump jump jump 
+INV	jump jump jump 
+INV	jump jump jump jump 
+INV	 
+INV	jump 
+INV	  
+INV	stop 
+CHI	 
+INV	  
+INV	stop 
+INV	ready 
+INV	one 
+INV	two 
+INV	three 
+INV	jump jump jump 
+INV	jump jump jump jump 
+INV	jump jump jump 
+INV	jump jump jump 
+INV	jump jump 
+INV	  
+INV	I stopped 
+CHI	 
+INV	jump jump jump 
+INV	 
+CHI	 
+INV	jump jump jump jump jump jump 
+CHI	 
+INV	jump jump jump 
+CHI	 
+INV	jump jump 
+CHI	 
+INV	all done 
+CHI	 
+CHI	 
+INV	need some help 
+INV	help Chi 
+INV	on the board 
+CHI	 
+INV	over 
+INV	you went over the board Chi 
+INV	I'm stepping over 
+CHI	  
+INV	ready to go 
+CHI	 
+CHI	  
+INV	we needta turn the light off Chi 
+CHI	  
+INV	turn the light off 
+INV	okay 
+INV	pick you up 
+INV	flip it off 
+CHI	 
+INV	  
+INV	they went off 
+CHI	 
+INV	  
+INV	there they are 
+INV	the lights are on 
+CHI	 
+INV	  
+INV	now they're off 
+CHI	 
+INV	ready to go 
+INV	put Chi down 
+INV	open 
