@@ -25,7 +25,7 @@ library(HDInterval)
 ```
 
 
-
+old data
 ```{r}
 
 #Import ch_ad real
@@ -40,14 +40,78 @@ data <- data_real %>%
 
 ```
 
+New data May 12th
 
+```{r}
+
+#Nadig Data (with caregiver)
+
+data_real_Nadig <- read.csv("ALIGN_results/Nadig/process_select/turns_select_Nadig.csv") %>%
+  mutate(corpus = "real") 
+
+data_random_Nadig <- read.csv("ALIGN_results/Nadig/process_select/turns_select_random_Nadig.csv") %>%
+  mutate(corpus = "shuffled")
+
+data_Nadig <- data_real_Nadig %>%
+  bind_rows(data_random_Nadig)
+
+#Nadig Data (with caregiver)--process
+
+data_real_Nadig <- read.csv("ALIGN_results/Nadig/process/turns_Nadig.csv") %>%
+  mutate(corpus = "real") 
+
+data_random_Nadig <- read.csv("ALIGN_results/Nadig/process/turns_random_Nadig.csv") %>%
+  mutate(corpus = "shuffled")
+
+data_Nadig <- data_real_Nadig %>%
+  bind_rows(data_random_Nadig)
+
+#Eigsti Data (with experimenter) (NO SELECT PROCESS, and NOT WORKING )
+
+data_real_Eigsti <- read.csv("ALIGN_results/Eigsti/process_select/turns_select_eigsti.csv") %>%
+  mutate(corpus = "real") 
+
+data_random_Eigsti <- read.csv("ALIGN_results/Eigsti/process_select/turns_select_random_Eigsti.csv") %>%
+  mutate(corpus = "shuffled")
+
+data_Eigsti <- data_real_Eigsti %>%
+  bind_rows(data_random_Eigsti)
+
+# Flusberg data (NOT WORKING)
+data_real_Flusberg <- read.csv("ALIGN_results/Flusberg/process_select/turns_results_select.csv") %>%
+  mutate(corpus = "real") 
+
+data_random_Flusberg <- read.csv("ALIGN_results/Flusberg/process_select/turns_results_select_random.csv") %>%
+  mutate(corpus = "shuffled")
+
+data_Flusberg <- data_real_Flusberg %>%
+  bind_rows(data_random_Flusberg)
+
+# EisenbergGuo data
+
+data_real_EisenbergGuo <- read.csv("ALIGN_results/EisenbergGuo/process_select/turns_select_EisenbergGuo.csv") %>%
+  mutate(corpus = "real") 
+
+data_random_EisenbergGuo <- read.csv("ALIGN_results/EisenbergGuo/process_select/turns_select_random_EisenbergGuo.csv") %>%
+  mutate(corpus = "shuffled")
+
+data_EisenbergGuo <- data_real_EisenbergGuo %>%
+  bind_rows(data_random_EisenbergGuo)
+
+
+```
+
+data_Nadig
 ```{r echo = FALSE, message=FALSE, warning=FALSE}
 
-data_summary <- data %>%
+data_summary <- data_Nadig %>%
   #rename(condition = autistic.) %>%
   #filter(condition ==  'ASD' | condition == 'TYP') %>% 
   gather(measure, value, syntax_penn_tok1:cosine_semanticL) %>%
-  mutate(direction = if_else(str_detect(partner_direction, 'CHI:>'), 'adult', 'child')) %>%
+  mutate(direction = if_else(str_detect(partner_direction, 'CHI>'), 'adult',
+                             if_else(str_detect(partner_direction, '>CHI'), 'child', 
+                                     'adult-adult'))) %>%
+  filter(direction  != 'adult-adult') %>%
   group_by(corpus, condition, direction, measure) %>%
   summarise(mean = mean(value, na.rm = T),
                    sd = sd(value, na.rm = T),
@@ -57,8 +121,10 @@ data_summary <- data %>%
          upper = mean + qt(1 - (0.05 / 2), n - 1) * se) %>%
   select(-sd, -n, -se) 
 
+data_subset <- data_summary %>%
+  filter(measure %in% c('cosine_semanticL', 'lexical_lem2', 'syntax_penn_lem2'))
 
-ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
+ggplot(data_subset, aes(x = direction , y = mean, fill=condition)) +
   geom_bar(stat="identity", position=position_dodge())+
   geom_linerange(aes(ymin = lower, ymax = upper), 
                   position = position_dodge(width = .9), size = 0.6)+
@@ -68,9 +134,55 @@ ggplot(data_summary, aes(x = direction , y = mean, fill=condition)) +
         strip.text.x = element_text(size=10),
         strip.text.y = element_text(size=10),
         axis.title=element_text(size=16))+
-  facet_wrap(~ measure)
+  facet_grid(measure ~ corpus, scales = "free_y")
+
+```
 
 
+
+data_Eigsti
+```{r echo = FALSE, message=FALSE, warning=FALSE}
+
+data_summary <- data_Flusberg %>%
+  #rename(condition = autistic.) %>%
+  #filter(condition ==  'ASD' | condition == 'TYP') %>% 
+  gather(measure, value, syntax_penn_tok1:cosine_semanticL) %>%
+  mutate(direction = if_else(str_detect(partner_direction, 'CHI>'), 'adult', 'child')) %>%
+  group_by(corpus, condition, direction, measure) %>%
+  summarise(mean = mean(value, na.rm = T),
+                   sd = sd(value, na.rm = T),
+                   n = n()) %>%
+  mutate(se = sd / sqrt(n),
+         lower = mean - qt(1 - (0.05 / 2), n - 1) * se,
+         upper = mean + qt(1 - (0.05 / 2), n - 1) * se) %>%
+  select(-sd, -n, -se) 
+
+data_subset <- data_summary %>%
+  filter(measure %in% c('cosine_semanticL', 'lexical_lem2', 'syntax_penn_lem2'))
+
+ggplot(data_subset, aes(x = direction , y = mean, fill=condition)) +
+  geom_bar(stat="identity", position=position_dodge())+
+  geom_linerange(aes(ymin = lower, ymax = upper), 
+                  position = position_dodge(width = .9), size = 0.6)+
+  theme_few() +
+  theme(aspect.ratio = 0.7, 
+        axis.text=element_text(size=14, angle = 90),
+        strip.text.x = element_text(size=10),
+        strip.text.y = element_text(size=10),
+        axis.title=element_text(size=16))+
+  facet_grid(measure ~ corpus, scales = "free_y")
+
+```
+
+Here the model
+```{r}
+#Convert data back to wide
+
+cosine = coprus*condition*direction (1 | dyad)
+
+```
+
+```{r}
 
 data_summary_2 <- data_summary %>%
   select(-lower, -upper) %>%
@@ -87,6 +199,10 @@ ggplot(data_summary_2, aes(x = condition, y = child_adult)) +
         strip.text.y = element_text(size=5),
         axis.title=element_text(size=16))+
   facet_wrap(~ measure)
+
+```
+
+```{r}
 
 ```
 
